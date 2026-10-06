@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-06T02:23:25Z",
+  "generated_utc": "2026-10-06T09:28:37Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -89,6 +89,36 @@
       "dropped_dup_fixtures": 0,
       "results": 143,
       "fixtures": 1,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "National League North",
+      "folder": "data\\ENG_6_national-league-north",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 120,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-29"
+    },
+    {
+      "league": "National League South",
+      "folder": "data\\ENG_6_national-league-south",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 113,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-29"
+    },
+    {
+      "league": "Northern Premier League",
+      "folder": "data\\ENG_7_northern-premier-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 112,
+      "fixtures": 0,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -201,6 +231,76 @@
       "fixtures": 2,
       "errors": [],
       "latest": "2026-09-20"
+    },
+    {
+      "league": "Swiss Super League",
+      "folder": "data\\SUI_1_super-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 54,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Austrian Bundesliga",
+      "folder": "data\\AUT_1_bundesliga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 42,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Danish Superliga",
+      "folder": "data\\DEN_1_superliga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 54,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Allsvenskan",
+      "folder": "data\\SWE_1_allsvenskan",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 104,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Eliteserien",
+      "folder": "data\\NOR_1_eliteserien",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 109,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Liga I",
+      "folder": "data\\ROU_1_liga-1",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 79,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-21"
+    },
+    {
+      "league": "Russian Premier Liga",
+      "folder": "data\\RUS_1_premier-liga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 71,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-09-17"
     }
   ]
 }

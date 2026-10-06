@@ -19,7 +19,7 @@ data/<COUNTRY>_<TIER>_<league-slug>/
 
 Season code: `2627` (= 2026/27, football-data.co.uk convention).
 
-## The four sources, and WHY each exists
+## The five sources, and WHY each exists
 
 | Client | Source | Role in the pipeline |
 |---|---|---|
@@ -27,6 +27,7 @@ Season code: `2627` (= 2026/27, football-data.co.uk convention).
 | `openligadb_client.py` | api.openligadb.de `getmatchdata/<bl1|bl2|bl3>/2026` | **Authoritative for Germany 1–3**: real matchdays, FT + HT, goal minutes + scorers |
 | `espn_client.py` | site.api.espn.com `/sports/soccer/<slug>/scoreboard` | **Freshness edge**: current round only (see gotcha #1). Goal minutes via `/summary?event=` for top-5 leagues |
 | `fd_client.py` | football-data.co.uk `/mmz4281/2627/<DIV>.csv` | **Stats + HT backfill** (shots/targets/fouls/corners/cards); lags ~1–2 GW |
+| `soccerway_client.py` | soccerway.com `<country>/<league>/results/` | **Fill-in for leagues without ESPN/fd coverage**: results only (no stats, no goal minutes). Parses embedded JS data blob. Covers 7 leagues previously missing. |
 
 `leagues.py` is the registry — folder, display name, and which sources feed
 each league. **Add a league there** and `build.py` picks it up.
@@ -93,14 +94,21 @@ each league. **Add a league there** and `build.py` picks it up.
 
 ## Known data gaps right now (2026-10-06)
 
-- Switzerland, Austria, Denmark, Russia, Sweden, Norway, Romania: no free
-  2026/27 source (ESPN stale, fd 404/300) → commented out in `leagues.py`.
-- England 6–8 (National League N/S, Step 3–4): no source yet. Football Web
-  Pages is Cloudflare-protected → future Pydoll/curl_cffi scraper target.
-  (ESPN covers only the National League tier 5.)
+- England 6–8 (National League N/S, Northern Premier, Step 3–4): now covered
+  via Soccerway (england/national-league-north, england/national-league-south,
+  england/northern-premier-league). Results only — no stats, HT, or goal
+  minutes. Fixtures from these sources too (no fixturedownload spine available).
+- Fixturedownload.com does NOT have feeds for tiers 6–7 (tried many slug
+  variants — all 404). Only tiers 1–5 have fixturedl spines.
 - England tiers 6+ and Scotland 2–4 have no full-season fixture spine →
   `fixtures_2627.csv` may hold only the current ESPN round.
 - fd-covered leagues lag 1–2 GW on stats/HT; ESPN fills results/minutes live.
+- Soccerway provides results only (no stats, no HT, no goal minutes) for the
+  7 previously-missing leagues (SUI/AUT/DEN/RUS/SWE/NOR/ROU).
+- **New Fotmob client** (`fotmob_client.py`): extracts `__NEXT_DATA__` JSON
+  from Next.js pages — no Cloudflare bypass needed. Used for SUI/AUT/DEN/
+  SWE/NOR/ROU (6 of 7 leagues). Russia not on Fotmob (uses Soccerway).
+  Fotmob league IDs: SWE=67, SUI=69, AUT=38, DEN=46, NOR=59, ROU=189.
 
 ## How to run / automate
 

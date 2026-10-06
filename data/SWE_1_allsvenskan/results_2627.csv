@@ -1,0 +1,105 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-05-25,,Elfsborg,Hacken,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-25,,Goteborg,Mjallby,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-29,,Orgryte,Elfsborg,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-30,,AIK,Sirius,0,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-30,,GAIS,Kalmar,3,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-30,,Malmo FF,Halmstad,5,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-31,,Degerfors,Brommapojkarna,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-31,,Hacken,Hammarby,3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-31,,Vasteras SK,Goteborg,4,5,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-03,,Sirius,Mjallby,4,4,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-04,,Degerfors,Malmo FF,0,1,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-04,,Halmstad,Vasteras SK,1,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-05,,Elfsborg,Hammarby,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-05,,Goteborg,AIK,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-05,,Kalmar,Orgryte,3,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-06,,Brommapojkarna,GAIS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-06,,Hacken,Djurgarden,2,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-11,,Mjallby,AIK,1,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-11,,Orgryte,Hacken,4,3,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-12,,Brommapojkarna,Sirius,1,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-12,,GAIS,Elfsborg,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-12,,Hammarby,Kalmar,2,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-12,,Malmo FF,Goteborg,4,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-12,,Vasteras SK,Degerfors,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-13,,Djurgarden,Halmstad,3,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-17,,Goteborg,Brommapojkarna,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-17,,Mjallby,Vasteras SK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-18,,AIK,GAIS,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-19,,Elfsborg,Sirius,1,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-19,,Halmstad,Hacken,0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-19,,Hammarby,Degerfors,4,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-20,,Kalmar,Malmo FF,2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-20,,Orgryte,Djurgarden,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-24,,Vasteras SK,Orgryte,2,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-25,,Degerfors,Djurgarden,0,1,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-25,,Kalmar,Mjallby,2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-26,,Brommapojkarna,Hammarby,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-26,,GAIS,Halmstad,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-26,,Malmo FF,Elfsborg,1,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-26,,Sirius,Goteborg,4,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-27,,Hacken,AIK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-01,,Hacken,Kalmar,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-02,,AIK,Orgryte,0,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-02,,Brommapojkarna,Malmo FF,1,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-02,,Goteborg,Degerfors,2,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-03,,Djurgarden,Vasteras SK,6,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-03,,Halmstad,Sirius,0,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-08,,Mjallby,Elfsborg,0,1,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-08,,Orgryte,AIK,3,4,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-09,,Goteborg,Kalmar,3,2,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-09,,Halmstad,GAIS,0,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-09,,Hammarby,Hacken,3,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-09,,Malmo FF,Degerfors,1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-10,,Sirius,Brommapojkarna,2,2,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-10,,Vasteras SK,Djurgarden,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-14,,Elfsborg,Vasteras SK,3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-15,,Mjallby,Sirius,4,3,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-16,,Brommapojkarna,Orgryte,3,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-16,,Degerfors,Goteborg,3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-16,,Djurgarden,AIK,1,3,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-16,,GAIS,Malmo FF,0,1,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-16,,Kalmar,Hammarby,0,4,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-17,,Hacken,Halmstad,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-21,,Sirius,Hacken,0,3,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-22,,Orgryte,Halmstad,1,1,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-23,,Brommapojkarna,Degerfors,2,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-23,,Goteborg,Elfsborg,1,1,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-23,,Hammarby,GAIS,2,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-23,,Vasteras SK,Kalmar,0,0,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-24,,Malmo FF,Djurgarden,0,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-29,,Elfsborg,Degerfors,2,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-29,,Hacken,Vasteras SK,1,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-29,,Halmstad,Kalmar,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-30,,AIK,Hammarby,3,2,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-30,,Goteborg,Orgryte,1,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-31,,Djurgarden,Mjallby,4,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-31,,GAIS,Brommapojkarna,4,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-31,,Sirius,Malmo FF,0,1,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-03,,Mjallby,Djurgarden,0,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-05,,Degerfors,Halmstad,2,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-05,,GAIS,Hacken,0,0,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-05,,Vasteras SK,Sirius,0,1,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-06,,Brommapojkarna,Elfsborg,2,1,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-06,,Orgryte,Hammarby,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-07,,Kalmar,Djurgarden,0,1,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-07,,Malmo FF,AIK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-07,,Mjallby,Goteborg,1,4,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-11,,Hacken,Mjallby,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-12,,AIK,Vasteras SK,1,4,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-12,,Goteborg,Halmstad,2,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-13,,Elfsborg,Kalmar,1,0,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-13,,Hammarby,Brommapojkarna,3,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-13,,Malmo FF,Orgryte,4,1,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-14,,Djurgarden,GAIS,2,0,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-14,,Sirius,Degerfors,2,0,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-16,,AIK,Mjallby,1,1,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-19,,Brommapojkarna,Goteborg,0,1,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-19,,Orgryte,Sirius,1,2,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-19,,Vasteras SK,Malmo FF,2,0,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-20,,Degerfors,Hammarby,0,1,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-20,,Djurgarden,Elfsborg,1,2,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-20,,Halmstad,AIK,2,1,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-20,,Kalmar,Hacken,0,5,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-20,,Mjallby,GAIS,0,3,A,,,,,,,,,,,,,,,,,soccerway

@@ -21,6 +21,7 @@ class League:
     openligadb: str | None = None    # OpenLigaDB league shortcut, e.g. "bl3"
     fd_div: str | None = None        # football-data.co.uk division code, e.g. "E0"
     fixturedl: str | None = None     # fixturedownload.com slug, e.g. "epl-2026"
+    soccerway: str | None = None     # soccerway.com league slug, e.g. "allsvenskan" (country/league path)
     # fetch goal minutes via ESPN /summary (top-5 leagues only)
     goal_minutes: bool = False
 
@@ -41,6 +42,9 @@ OTHERS = [
     League("ENG_3_league-one",       "EFL League One",            "England", espn="eng.3", fd_div="E2", fixturedl="efl-league-one-2026"),
     League("ENG_4_league-two",       "EFL League Two",            "England", espn="eng.4", fd_div="E3", fixturedl="efl-league-two-2026"),
     League("ENG_5_national-league",  "National League",           "England", espn="eng.5", fd_div="EC"),
+    League("ENG_6_national-league-north",  "National League North",  "England", soccerway="england/national-league-north"),
+    League("ENG_6_national-league-south",  "National League South",  "England", soccerway="england/national-league-south"),
+    League("ENG_7_northern-premier-league", "Northern Premier League", "England", soccerway="england/northern-premier-league"),
     # Scotland
     League("SCO_1_premiership",      "Scottish Premiership",      "Scotland", espn="sco.1", fd_div="SC0", fixturedl="scottish-premiership-2026"),
     League("SCO_2_championship",     "Scottish Championship",     "Scotland", espn="sco.2", fd_div="SC1"),
@@ -55,15 +59,14 @@ OTHERS = [
     League("BEL_1_pro-league",       "Belgian Pro League",        "Belgium", espn="bel.1", fd_div="B1"),
     League("TUR_1_super-lig",        "Süper Lig",                 "Turkey", espn="tur.1", fd_div="T1", fixturedl="super-lig-2026"),
     League("GRE_1_super-league",     "Super League Greece",       "Greece", espn="gre.1", fd_div="G1"),
-    # Not yet available free for 2026/27 (ESPN board still on 2025 season,
-    # football-data.co.uk has no 2627 file). Re-enable when a source exists:
-    # League("SUI_1_super-league",  "Swiss Super League",   "Switzerland", espn="sui.1", fd_div="S1"),
-    # League("AUT_1_bundesliga",    "Austrian Bundesliga",  "Austria",     espn="aut.1", fd_div="A1"),
-    # League("DEN_1_superliga",     "Danish Superliga",     "Denmark",     espn="den.1", fd_div="DEN"),
-    # League("RUS_1_premier-liga",  "Russian Premier Liga", "Russia",      espn="rus.1", fd_div="RUS"),
-    # League("SWE_1_allsvenskan",   "Allsvenskan",          "Sweden",      espn="swe.1", fd_div="SWE"),
-    # League("NOR_1_eliteserien",   "Eliteserien",          "Norway",      espn="nor.1", fd_div="NOR"),
-    # League("ROU_1_liga-1",        "Liga I",               "Romania",     espn="rou.1", fd_div="ROU"),
+    # Previously unavailable for 2026/27 - now using Soccerway as source:
+    League("SUI_1_super-league",  "Swiss Super League",   "Switzerland", soccerway="switzerland/super-league"),
+    League("AUT_1_bundesliga",    "Austrian Bundesliga",  "Austria",     soccerway="austria/bundesliga"),
+    League("DEN_1_superliga",     "Danish Superliga",     "Denmark",     soccerway="denmark/superliga"),
+    League("SWE_1_allsvenskan",   "Allsvenskan",          "Sweden",      soccerway="sweden/allsvenskan"),
+    League("NOR_1_eliteserien",   "Eliteserien",          "Norway",      soccerway="norway/eliteserien"),
+    League("ROU_1_liga-1",        "Liga I",               "Romania",     soccerway="romania/superliga"),
+    League("RUS_1_premier-liga",  "Russian Premier Liga", "Russia",      soccerway="russia/premier-league"),
 ]
 
 ALL: list[League] = TOP5 + OTHERS

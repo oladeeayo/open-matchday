@@ -1,0 +1,80 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-17,,FC Voluntari,FC Botosani,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-17,,FCSB,FC Arges,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-18,,Otelul,CFR Cluj,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-18,,Univ. Craiova,UTA Arad,4,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-19,,Petrolul,Dinamo Bucuresti,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-19,,U. Cluj,Farul Constanta,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-20,,Corvinul,Csikszereda M. Ciuc,3,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-20,,FC Rapid Bucuresti,Sepsi Sf. Gheorghe,1,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-24,,FC Arges,Petrolul,1,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-24,,UTA Arad,Otelul,2,2,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-25,,Dinamo Bucuresti,Univ. Craiova,5,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-25,,Farul Constanta,Corvinul,2,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-26,,Csikszereda M. Ciuc,FCSB,0,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-26,,Sepsi Sf. Gheorghe,U. Cluj,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-27,,CFR Cluj,FC Voluntari,5,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-27,,FC Botosani,FC Rapid Bucuresti,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-31,,FC Arges,Csikszereda M. Ciuc,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-31,,Otelul,Dinamo Bucuresti,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-01,,FC Voluntari,UTA Arad,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-01,,Univ. Craiova,Petrolul,4,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-02,,Corvinul,Sepsi Sf. Gheorghe,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-02,,FC Rapid Bucuresti,CFR Cluj,3,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-03,,FCSB,Farul Constanta,2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-03,,U. Cluj,FC Botosani,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-07,,UTA Arad,FC Rapid Bucuresti,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-08,,Dinamo Bucuresti,FC Voluntari,4,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-08,,Farul Constanta,Csikszereda M. Ciuc,3,2,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-09,,Petrolul,Otelul,1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-09,,Univ. Craiova,FC Arges,0,1,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-10,,FC Botosani,Corvinul,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-10,,Sepsi Sf. Gheorghe,FCSB,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-14,,FC Arges,Farul Constanta,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-14,,FC Voluntari,Petrolul,1,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-15,,Csikszereda M. Ciuc,Sepsi Sf. Gheorghe,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-15,,FC Rapid Bucuresti,Dinamo Bucuresti,0,1,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-16,,Corvinul,CFR Cluj,3,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-16,,Otelul,Univ. Craiova,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-17,,FCSB,FC Botosani,3,2,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-17,,U. Cluj,UTA Arad,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-21,,Petrolul,FC Rapid Bucuresti,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-22,,Dinamo Bucuresti,U. Cluj,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-22,,UTA Arad,Corvinul,0,0,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-23,,CFR Cluj,FCSB,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-23,,Sepsi Sf. Gheorghe,Farul Constanta,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-23,,Univ. Craiova,FC Voluntari,3,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-24,,FC Botosani,Csikszereda M. Ciuc,1,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-24,,Otelul,FC Arges,1,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-28,,FC Voluntari,Otelul,2,2,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-28,,U. Cluj,Petrolul,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-29,,Corvinul,Dinamo Bucuresti,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-29,,Csikszereda M. Ciuc,CFR Cluj,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-29,,FC Arges,Sepsi Sf. Gheorghe,0,1,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-30,,FCSB,UTA Arad,1,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-30,,Farul Constanta,FC Botosani,0,0,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-31,,FC Rapid Bucuresti,Univ. Craiova,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-04,,CFR Cluj,Farul Constanta,0,0,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-05,,Dinamo Bucuresti,FCSB,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-05,,FC Botosani,Sepsi Sf. Gheorghe,5,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-05,,UTA Arad,Csikszereda M. Ciuc,5,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-06,,Otelul,FC Rapid Bucuresti,0,1,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-06,,Petrolul,Corvinul,2,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-07,,FC Voluntari,FC Arges,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-07,,Univ. Craiova,U. Cluj,4,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-11,,Csikszereda M. Ciuc,Dinamo Bucuresti,1,3,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-11,,Farul Constanta,UTA Arad,4,2,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-12,,FC Rapid Bucuresti,FC Voluntari,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-12,,Sepsi Sf. Gheorghe,CFR Cluj,3,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-13,,Corvinul,Univ. Craiova,0,1,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-13,,FC Arges,FC Botosani,1,1,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-14,,FCSB,Petrolul,2,2,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-14,,U. Cluj,Otelul,3,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-18,,FC Rapid Bucuresti,FC Arges,3,1,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-18,,UTA Arad,Sepsi Sf. Gheorghe,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-19,,CFR Cluj,FC Botosani,3,1,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-19,,Univ. Craiova,FCSB,5,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-20,,Dinamo Bucuresti,Farul Constanta,4,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-20,,FC Voluntari,U. Cluj,0,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-21,,Otelul,Corvinul,2,3,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-09-21,,Petrolul,Csikszereda M. Ciuc,2,0,H,,,,,,,,,,,,,,,,,soccerway

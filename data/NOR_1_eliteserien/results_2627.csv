@@ -1,0 +1,110 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-05-10,,KFUM Oslo,Viking,0,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-10,,Rosenborg,Lillestrom,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-10,,Sandefjord,Kristiansund,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-05-10,,Tromso,Molde,2,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Bodo/Glimt,Tromso,5,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Brann,KFUM Oslo,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Fredrikstad,HamKam,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Lillestrom,Sandefjord,3,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Molde,Kristiansund,1,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Rosenborg,Aalesund,2,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Valerenga,Sarpsborg 08,3,2,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-05-16,,Viking,Start,6,3,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-05-20,,Aalesund,Brann,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-05-20,,Lillestrom,Kristiansund,1,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-05-20,,Start,Bodo/Glimt,1,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-05-24,,Bodo/Glimt,Brann,3,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-05-24,,Kristiansund,Viking,1,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,HamKam,Lillestrom,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,KFUM Oslo,Rosenborg,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,Sandefjord,Fredrikstad,1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,Sarpsborg 08,Molde,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,Start,Valerenga,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-25,,Tromso,Aalesund,1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,Aalesund,HamKam,2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,Brann,Sarpsborg 08,1,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,Fredrikstad,Start,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,KFUM Oslo,Tromso,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,Rosenborg,Bodo/Glimt,2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-29,,Valerenga,Kristiansund,3,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-05-30,,Molde,Sandefjord,2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-11,,Aalesund,Molde,2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-11,,Fredrikstad,Lillestrom,0,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-11,,Tromso,Valerenga,4,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-12,,Brann,Start,2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-12,,KFUM Oslo,Bodo/Glimt,0,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-12,,Rosenborg,Kristiansund,3,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-12,,Sandefjord,HamKam,2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-07-12,,Sarpsborg 08,Viking,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-16,,Valerenga,Aalesund,6,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-17,,Bodo/Glimt,Fredrikstad,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,HamKam,Tromso,1,4,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,Kristiansund,Sarpsborg 08,0,0,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,Lillestrom,KFUM Oslo,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,Molde,Brann,1,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,Start,Rosenborg,0,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-07-18,,Viking,Sandefjord,2,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-22,,Bodo/Glimt,HamKam,3,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-22,,Lillestrom,Viking,1,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-25,,Kristiansund,Start,1,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-26,,Aalesund,Viking,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-26,,Brann,Valerenga,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-26,,KFUM Oslo,Molde,2,4,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-26,,Sandefjord,Bodo/Glimt,0,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-07-26,,Sarpsborg 08,HamKam,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-07-27,,Rosenborg,Fredrikstad,4,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-07-31,,Bodo/Glimt,Lillestrom,4,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-07-31,,Valerenga,HamKam,0,3,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-01,,Fredrikstad,Sandefjord,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-01,,Start,Viking,0,3,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-02,,Aalesund,Tromso,2,6,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-02,,Brann,Rosenborg,3,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-02,,KFUM Oslo,Kristiansund,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-02,,Molde,Sarpsborg 08,3,3,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-07,,Sandefjord,KFUM Oslo,0,1,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-08,,Start,Fredrikstad,0,1,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-08,,Valerenga,Bodo/Glimt,1,2,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-08,,Viking,Sarpsborg 08,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-09,,HamKam,Aalesund,1,1,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-09,,Kristiansund,Molde,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-08-09,,Lillestrom,Rosenborg,0,2,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-14,,Rosenborg,Viking,2,1,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-15,,KFUM Oslo,Lillestrom,1,1,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-16,,Aalesund,Valerenga,5,5,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-16,,Brann,HamKam,3,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-16,,Fredrikstad,Kristiansund,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-16,,Molde,Tromso,3,2,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-08-16,,Sarpsborg 08,Sandefjord,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Bodo/Glimt,Rosenborg,4,2,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,HamKam,Kristiansund,2,2,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Lillestrom,Fredrikstad,1,4,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Sandefjord,Brann,0,0,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Start,KFUM Oslo,4,1,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Tromso,Sarpsborg 08,0,0,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Valerenga,Molde,3,4,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-08-30,,Viking,Aalesund,2,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-04,,Aalesund,Start,2,0,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-04,,Fredrikstad,Bodo/Glimt,1,2,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-04,,Sandefjord,Viking,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-05,,Brann,Lillestrom,1,2,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-05,,Rosenborg,HamKam,4,0,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-06,,Kristiansund,Tromso,2,0,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-06,,Molde,KFUM Oslo,2,0,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-09-06,,Sarpsborg 08,Valerenga,2,2,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-12,,Lillestrom,Valerenga,2,0,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-12,,Rosenborg,Tromso,5,3,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-13,,Fredrikstad,Sarpsborg 08,1,1,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-13,,HamKam,Molde,1,5,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-13,,KFUM Oslo,Aalesund,2,1,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-13,,Start,Brann,2,0,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-09-13,,Viking,Kristiansund,8,1,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-14,,Bodo/Glimt,Sandefjord,3,2,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-18,,Sarpsborg 08,KFUM Oslo,1,3,A,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-19,,Kristiansund,Rosenborg,1,3,A,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-19,,Molde,Aalesund,1,2,A,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-20,,Brann,Bodo/Glimt,2,1,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-20,,Sandefjord,Start,3,0,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-20,,Tromso,HamKam,3,2,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-20,,Valerenga,Fredrikstad,1,1,D,,,,,,,,,,,,,,,,,soccerway
+14,2026-09-20,,Viking,Lillestrom,3,0,H,,,,,,,,,,,,,,,,,soccerway
