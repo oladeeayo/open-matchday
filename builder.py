@@ -24,6 +24,7 @@ import espn_client
 import openligadb_client
 import fd_client
 import fixturedl_client
+import soccerway_client
 from leagues import League
 
 CANON = ["gw", "date", "time", "home", "away",
@@ -401,6 +402,11 @@ def build_league(lg: League, season: str) -> dict:
             rows += fd_client.fetch_division(lg.fd_div, season)
         except Exception as e:  # noqa: BLE001
             errors.append(f"fd: {e}")
+    if lg.soccerway:
+        try:
+            rows += soccerway_client.fetch_league(lg.soccerway)
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"soccerway: {e}")
 
     rows = merge(rows)
     rows, dup_fx = dedupe_fixtures(rows)

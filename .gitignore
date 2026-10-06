@@ -4,3 +4,7 @@ probe/
 probe2/
 *.log
 .DS_Store
+
+web/
+.impeccable/
+.freebuff/
