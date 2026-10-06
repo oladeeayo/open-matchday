@@ -1,0 +1,262 @@
+gw,date,time,home,away
+6,2026-10-09,19:45,RC Lens,Olympique Lyonnais
+6,2026-10-10,16:15,LOSC Lille,Havre Athletic Club
+6,2026-10-10,19:45,AS Monaco,Toulouse FC
+6,2026-10-10,19:45,FC Lorient,Paris FC
+6,2026-10-10,19:45,Paris Saint-Germain,Le Mans FC
+6,2026-10-10,19:45,Stade Brestois 29,Angers SCO
+6,2026-10-11,14:00,OGC Nice,RC Strasbourg Alsace
+6,2026-10-11,16:15,Stade Rennais FC,AJ Auxerre
+6,2026-10-11,19:45,Estac Troyes,Olympique de Marseille
+7,2026-10-16,19:45,Le Mans FC,Toulouse FC
+7,2026-10-17,16:15,RC Strasbourg Alsace,Paris Saint-Germain
+7,2026-10-17,19:45,Estac Troyes,RC Lens
+7,2026-10-17,19:45,LOSC Lille,Stade Brestois 29
+7,2026-10-18,14:00,Angers SCO,Olympique de Marseille
+7,2026-10-18,16:15,FC Lorient,AS Monaco
+7,2026-10-18,16:15,Havre Athletic Club,AJ Auxerre
+7,2026-10-18,16:15,Paris FC,Stade Rennais FC
+7,2026-10-18,19:45,Olympique Lyonnais,OGC Nice
+8,2026-10-23,19:45,Stade Brestois 29,OGC Nice
+8,2026-10-24,16:15,Toulouse FC,Estac Troyes
+8,2026-10-24,19:45,RC Lens,Paris FC
+8,2026-10-25,15:00,AS Monaco,LOSC Lille
+8,2026-10-25,17:15,AJ Auxerre,Le Mans FC
+8,2026-10-25,17:15,Angers SCO,FC Lorient
+8,2026-10-25,17:15,Olympique de Marseille,Havre Athletic Club
+8,2026-10-25,17:15,Stade Rennais FC,RC Strasbourg Alsace
+8,2026-10-25,20:45,Paris Saint-Germain,Olympique Lyonnais
+9,2026-10-30,19:00,Havre Athletic Club,Paris Saint-Germain
+9,2026-10-30,21:05,LOSC Lille,RC Lens
+9,2026-10-31,17:15,OGC Nice,Stade Rennais FC
+9,2026-10-31,20:45,Estac Troyes,Le Mans FC
+9,2026-10-31,20:45,FC Lorient,Stade Brestois 29
+9,2026-10-31,20:45,Olympique Lyonnais,Angers SCO
+9,2026-11-01,15:00,RC Strasbourg Alsace,AJ Auxerre
+9,2026-11-01,17:15,Paris FC,AS Monaco
+9,2026-11-01,20:45,Olympique de Marseille,Toulouse FC
+10,2026-11-06,20:45,Toulouse FC,RC Strasbourg Alsace
+10,2026-11-07,17:15,AJ Auxerre,Paris FC
+10,2026-11-07,20:45,Paris Saint-Germain,Estac Troyes
+10,2026-11-08,15:00,Stade Rennais FC,LOSC Lille
+10,2026-11-08,17:15,Angers SCO,OGC Nice
+10,2026-11-08,17:15,Havre Athletic Club,FC Lorient
+10,2026-11-08,17:15,Le Mans FC,AS Monaco
+10,2026-11-08,17:15,Stade Brestois 29,Olympique Lyonnais
+10,2026-11-08,20:45,RC Lens,Olympique de Marseille
+11,2026-11-20,20:45,Estac Troyes,Havre Athletic Club
+11,2026-11-21,17:15,OGC Nice,Paris Saint-Germain
+11,2026-11-21,20:45,AS Monaco,AJ Auxerre
+11,2026-11-21,20:45,LOSC Lille,Olympique Lyonnais
+11,2026-11-21,20:45,RC Lens,Toulouse FC
+11,2026-11-21,20:45,RC Strasbourg Alsace,Stade Brestois 29
+11,2026-11-22,15:00,Paris FC,Angers SCO
+11,2026-11-22,17:15,FC Lorient,Stade Rennais FC
+11,2026-11-22,20:45,Olympique de Marseille,Le Mans FC
+12,2026-11-27,20:45,Stade Brestois 29,Paris FC
+12,2026-11-28,17:15,Angers SCO,RC Lens
+12,2026-11-28,20:45,Havre Athletic Club,RC Strasbourg Alsace
+12,2026-11-28,20:45,Le Mans FC,LOSC Lille
+12,2026-11-28,20:45,OGC Nice,Estac Troyes
+12,2026-11-28,20:45,Paris Saint-Germain,FC Lorient
+12,2026-11-29,15:00,AJ Auxerre,Olympique de Marseille
+12,2026-11-29,17:15,Toulouse FC,Stade Rennais FC
+12,2026-11-29,20:45,Olympique Lyonnais,AS Monaco
+13,2026-12-04,00:00,AS Monaco,Angers SCO
+13,2026-12-04,00:00,Estac Troyes,Olympique Lyonnais
+13,2026-12-04,00:00,LOSC Lille,AJ Auxerre
+13,2026-12-04,00:00,Olympique de Marseille,OGC Nice
+13,2026-12-04,00:00,Paris FC,Le Mans FC
+13,2026-12-04,00:00,RC Lens,Havre Athletic Club
+13,2026-12-04,00:00,RC Strasbourg Alsace,FC Lorient
+13,2026-12-04,00:00,Stade Rennais FC,Stade Brestois 29
+13,2026-12-04,00:00,Toulouse FC,Paris Saint-Germain
+14,2026-12-11,00:00,AJ Auxerre,Toulouse FC
+14,2026-12-11,00:00,Angers SCO,RC Strasbourg Alsace
+14,2026-12-11,00:00,FC Lorient,LOSC Lille
+14,2026-12-11,00:00,Havre Athletic Club,Le Mans FC
+14,2026-12-11,00:00,OGC Nice,RC Lens
+14,2026-12-11,00:00,Olympique Lyonnais,Olympique de Marseille
+14,2026-12-11,00:00,Paris Saint-Germain,Paris FC
+14,2026-12-11,00:00,Stade Brestois 29,Estac Troyes
+14,2026-12-11,00:00,Stade Rennais FC,AS Monaco
+15,2027-01-01,00:00,AS Monaco,OGC Nice
+15,2027-01-01,00:00,Estac Troyes,Stade Rennais FC
+15,2027-01-01,00:00,FC Lorient,AJ Auxerre
+15,2027-01-01,00:00,LOSC Lille,RC Strasbourg Alsace
+15,2027-01-01,00:00,Le Mans FC,Olympique Lyonnais
+15,2027-01-01,00:00,Paris FC,Havre Athletic Club
+15,2027-01-01,00:00,RC Lens,Paris Saint-Germain
+15,2027-01-01,00:00,Stade Brestois 29,Olympique de Marseille
+15,2027-01-01,00:00,Toulouse FC,Angers SCO
+16,2027-01-15,00:00,AJ Auxerre,Estac Troyes
+16,2027-01-15,00:00,AS Monaco,Stade Brestois 29
+16,2027-01-15,00:00,Angers SCO,Paris Saint-Germain
+16,2027-01-15,00:00,OGC Nice,Havre Athletic Club
+16,2027-01-15,00:00,Olympique Lyonnais,FC Lorient
+16,2027-01-15,00:00,Olympique de Marseille,LOSC Lille
+16,2027-01-15,00:00,Paris FC,Toulouse FC
+16,2027-01-15,00:00,RC Strasbourg Alsace,Le Mans FC
+16,2027-01-15,00:00,Stade Rennais FC,RC Lens
+17,2027-01-22,00:00,Estac Troyes,AS Monaco
+17,2027-01-22,00:00,FC Lorient,Olympique de Marseille
+17,2027-01-22,00:00,Havre Athletic Club,Stade Rennais FC
+17,2027-01-22,00:00,LOSC Lille,Paris FC
+17,2027-01-22,00:00,Le Mans FC,Angers SCO
+17,2027-01-22,00:00,Paris Saint-Germain,AJ Auxerre
+17,2027-01-22,00:00,RC Lens,Stade Brestois 29
+17,2027-01-22,00:00,RC Strasbourg Alsace,Olympique Lyonnais
+17,2027-01-22,00:00,Toulouse FC,OGC Nice
+18,2027-01-29,00:00,AS Monaco,Paris Saint-Germain
+18,2027-01-29,00:00,Angers SCO,Havre Athletic Club
+18,2027-01-29,00:00,Le Mans FC,OGC Nice
+18,2027-01-29,00:00,Olympique Lyonnais,LOSC Lille
+18,2027-01-29,00:00,Olympique de Marseille,Estac Troyes
+18,2027-01-29,00:00,Paris FC,AJ Auxerre
+18,2027-01-29,00:00,Stade Brestois 29,RC Strasbourg Alsace
+18,2027-01-29,00:00,Stade Rennais FC,FC Lorient
+18,2027-01-29,00:00,Toulouse FC,RC Lens
+19,2027-02-05,00:00,AJ Auxerre,AS Monaco
+19,2027-02-05,00:00,Estac Troyes,LOSC Lille
+19,2027-02-05,00:00,FC Lorient,Le Mans FC
+19,2027-02-05,00:00,Havre Athletic Club,Toulouse FC
+19,2027-02-05,00:00,OGC Nice,Stade Brestois 29
+19,2027-02-05,00:00,Paris Saint-Germain,Olympique de Marseille
+19,2027-02-05,00:00,RC Lens,Angers SCO
+19,2027-02-05,00:00,RC Strasbourg Alsace,Paris FC
+19,2027-02-05,00:00,Stade Rennais FC,Olympique Lyonnais
+20,2027-02-12,00:00,AJ Auxerre,RC Strasbourg Alsace
+20,2027-02-12,00:00,FC Lorient,Havre Athletic Club
+20,2027-02-12,00:00,LOSC Lille,OGC Nice
+20,2027-02-12,00:00,Le Mans FC,Paris Saint-Germain
+20,2027-02-12,00:00,Olympique Lyonnais,RC Lens
+20,2027-02-12,00:00,Olympique de Marseille,Angers SCO
+20,2027-02-12,00:00,Paris FC,Estac Troyes
+20,2027-02-12,00:00,Stade Brestois 29,Stade Rennais FC
+20,2027-02-12,00:00,Toulouse FC,AS Monaco
+21,2027-02-19,00:00,AS Monaco,Le Mans FC
+21,2027-02-19,00:00,Angers SCO,Paris FC
+21,2027-02-19,00:00,Havre Athletic Club,Olympique Lyonnais
+21,2027-02-19,00:00,LOSC Lille,FC Lorient
+21,2027-02-19,00:00,OGC Nice,AJ Auxerre
+21,2027-02-19,00:00,Paris Saint-Germain,Stade Brestois 29
+21,2027-02-19,00:00,RC Lens,Estac Troyes
+21,2027-02-19,00:00,RC Strasbourg Alsace,Olympique de Marseille
+21,2027-02-19,00:00,Stade Rennais FC,Toulouse FC
+22,2027-02-26,00:00,AJ Auxerre,LOSC Lille
+22,2027-02-26,00:00,Estac Troyes,OGC Nice
+22,2027-02-26,00:00,FC Lorient,Angers SCO
+22,2027-02-26,00:00,Le Mans FC,Paris FC
+22,2027-02-26,00:00,Olympique Lyonnais,Toulouse FC
+22,2027-02-26,00:00,Olympique de Marseille,Stade Rennais FC
+22,2027-02-26,00:00,Paris Saint-Germain,RC Lens
+22,2027-02-26,00:00,RC Strasbourg Alsace,Havre Athletic Club
+22,2027-02-26,00:00,Stade Brestois 29,AS Monaco
+23,2027-03-05,00:00,AS Monaco,Olympique Lyonnais
+23,2027-03-05,00:00,Angers SCO,AJ Auxerre
+23,2027-03-05,00:00,Estac Troyes,FC Lorient
+23,2027-03-05,00:00,Havre Athletic Club,OGC Nice
+23,2027-03-05,00:00,LOSC Lille,Olympique de Marseille
+23,2027-03-05,00:00,Paris FC,Stade Brestois 29
+23,2027-03-05,00:00,RC Lens,RC Strasbourg Alsace
+23,2027-03-05,00:00,Stade Rennais FC,Paris Saint-Germain
+23,2027-03-05,00:00,Toulouse FC,Le Mans FC
+24,2027-03-12,00:00,AJ Auxerre,Paris Saint-Germain
+24,2027-03-12,00:00,Havre Athletic Club,RC Lens
+24,2027-03-12,00:00,Le Mans FC,Stade Rennais FC
+24,2027-03-12,00:00,OGC Nice,Toulouse FC
+24,2027-03-12,00:00,Olympique Lyonnais,Estac Troyes
+24,2027-03-12,00:00,Olympique de Marseille,AS Monaco
+24,2027-03-12,00:00,Paris FC,FC Lorient
+24,2027-03-12,00:00,RC Strasbourg Alsace,Angers SCO
+24,2027-03-12,00:00,Stade Brestois 29,LOSC Lille
+25,2027-03-19,00:00,AS Monaco,Havre Athletic Club
+25,2027-03-19,00:00,Angers SCO,Le Mans FC
+25,2027-03-19,00:00,Estac Troyes,AJ Auxerre
+25,2027-03-19,00:00,FC Lorient,OGC Nice
+25,2027-03-19,00:00,Olympique de Marseille,Olympique Lyonnais
+25,2027-03-19,00:00,Paris Saint-Germain,RC Strasbourg Alsace
+25,2027-03-19,00:00,RC Lens,LOSC Lille
+25,2027-03-19,00:00,Stade Rennais FC,Paris FC
+25,2027-03-19,00:00,Toulouse FC,Stade Brestois 29
+26,2027-04-02,23:00,AJ Auxerre,RC Lens
+26,2027-04-02,23:00,Angers SCO,AS Monaco
+26,2027-04-02,23:00,Havre Athletic Club,Estac Troyes
+26,2027-04-02,23:00,LOSC Lille,Stade Rennais FC
+26,2027-04-02,23:00,Le Mans FC,Olympique de Marseille
+26,2027-04-02,23:00,OGC Nice,Olympique Lyonnais
+26,2027-04-02,23:00,Paris FC,Paris Saint-Germain
+26,2027-04-02,23:00,RC Strasbourg Alsace,Toulouse FC
+26,2027-04-02,23:00,Stade Brestois 29,FC Lorient
+27,2027-04-09,23:00,AS Monaco,Stade Rennais FC
+27,2027-04-09,23:00,Estac Troyes,Angers SCO
+27,2027-04-09,23:00,FC Lorient,RC Lens
+27,2027-04-09,23:00,LOSC Lille,Toulouse FC
+27,2027-04-09,23:00,Le Mans FC,AJ Auxerre
+27,2027-04-09,23:00,OGC Nice,Paris FC
+27,2027-04-09,23:00,Olympique Lyonnais,RC Strasbourg Alsace
+27,2027-04-09,23:00,Olympique de Marseille,Stade Brestois 29
+27,2027-04-09,23:00,Paris Saint-Germain,Havre Athletic Club
+28,2027-04-16,23:00,AJ Auxerre,FC Lorient
+28,2027-04-16,23:00,AS Monaco,RC Strasbourg Alsace
+28,2027-04-16,23:00,Angers SCO,Olympique Lyonnais
+28,2027-04-16,23:00,Havre Athletic Club,Olympique de Marseille
+28,2027-04-16,23:00,Paris Saint-Germain,LOSC Lille
+28,2027-04-16,23:00,RC Lens,OGC Nice
+28,2027-04-16,23:00,Stade Brestois 29,Le Mans FC
+28,2027-04-16,23:00,Stade Rennais FC,Estac Troyes
+28,2027-04-16,23:00,Toulouse FC,Paris FC
+29,2027-04-23,23:00,Estac Troyes,Toulouse FC
+29,2027-04-23,23:00,FC Lorient,Paris Saint-Germain
+29,2027-04-23,23:00,LOSC Lille,AS Monaco
+29,2027-04-23,23:00,Le Mans FC,Havre Athletic Club
+29,2027-04-23,23:00,OGC Nice,Angers SCO
+29,2027-04-23,23:00,Olympique Lyonnais,Stade Brestois 29
+29,2027-04-23,23:00,Olympique de Marseille,AJ Auxerre
+29,2027-04-23,23:00,Paris FC,RC Lens
+29,2027-04-23,23:00,RC Strasbourg Alsace,Stade Rennais FC
+30,2027-04-30,23:00,AJ Auxerre,Olympique Lyonnais
+30,2027-04-30,23:00,AS Monaco,FC Lorient
+30,2027-04-30,23:00,Estac Troyes,Stade Brestois 29
+30,2027-04-30,23:00,Havre Athletic Club,Paris FC
+30,2027-04-30,23:00,Paris Saint-Germain,Angers SCO
+30,2027-04-30,23:00,RC Lens,Le Mans FC
+30,2027-04-30,23:00,RC Strasbourg Alsace,LOSC Lille
+30,2027-04-30,23:00,Stade Rennais FC,OGC Nice
+30,2027-04-30,23:00,Toulouse FC,Olympique de Marseille
+31,2027-05-07,23:00,Angers SCO,Toulouse FC
+31,2027-05-07,23:00,FC Lorient,RC Strasbourg Alsace
+31,2027-05-07,23:00,Le Mans FC,Estac Troyes
+31,2027-05-07,23:00,OGC Nice,Olympique de Marseille
+31,2027-05-07,23:00,Olympique Lyonnais,Paris Saint-Germain
+31,2027-05-07,23:00,Paris FC,LOSC Lille
+31,2027-05-07,23:00,RC Lens,AS Monaco
+31,2027-05-07,23:00,Stade Brestois 29,AJ Auxerre
+31,2027-05-07,23:00,Stade Rennais FC,Havre Athletic Club
+32,2027-05-15,23:00,AJ Auxerre,Stade Rennais FC
+32,2027-05-15,23:00,AS Monaco,Paris FC
+32,2027-05-15,23:00,LOSC Lille,Angers SCO
+32,2027-05-15,23:00,Olympique Lyonnais,Le Mans FC
+32,2027-05-15,23:00,Olympique de Marseille,RC Lens
+32,2027-05-15,23:00,Paris Saint-Germain,OGC Nice
+32,2027-05-15,23:00,RC Strasbourg Alsace,Estac Troyes
+32,2027-05-15,23:00,Stade Brestois 29,Havre Athletic Club
+32,2027-05-15,23:00,Toulouse FC,FC Lorient
+33,2027-05-21,23:00,Angers SCO,Stade Brestois 29
+33,2027-05-21,23:00,Estac Troyes,Paris Saint-Germain
+33,2027-05-21,23:00,FC Lorient,Olympique Lyonnais
+33,2027-05-21,23:00,Havre Athletic Club,LOSC Lille
+33,2027-05-21,23:00,Le Mans FC,RC Strasbourg Alsace
+33,2027-05-21,23:00,OGC Nice,AS Monaco
+33,2027-05-21,23:00,Paris FC,Olympique de Marseille
+33,2027-05-21,23:00,RC Lens,Stade Rennais FC
+33,2027-05-21,23:00,Toulouse FC,AJ Auxerre
+34,2027-05-28,23:00,AJ Auxerre,Havre Athletic Club
+34,2027-05-28,23:00,AS Monaco,Estac Troyes
+34,2027-05-28,23:00,LOSC Lille,Le Mans FC
+34,2027-05-28,23:00,Olympique Lyonnais,Paris FC
+34,2027-05-28,23:00,Olympique de Marseille,FC Lorient
+34,2027-05-28,23:00,Paris Saint-Germain,Toulouse FC
+34,2027-05-28,23:00,RC Strasbourg Alsace,OGC Nice
+34,2027-05-28,23:00,Stade Brestois 29,RC Lens
+34,2027-05-28,23:00,Stade Rennais FC,Angers SCO

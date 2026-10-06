@@ -1,0 +1,253 @@
+gw,date,time,home,away
+7,2026-10-09,18:00,Galatasaray,Kasimpasa
+7,2026-10-10,11:30,Gençlerbirligi,Amedspor
+7,2026-10-10,14:00,Alanyaspor,Erzurumspor
+7,2026-10-10,14:00,Samsunspor,Trabzonspor
+7,2026-10-10,17:00,Çaykur Rizespor,Fenerbahçe
+7,2026-10-11,11:30,Konyaspor,Istanbul Basaksehir
+7,2026-10-11,14:00,Gaziantep,Çorum
+7,2026-10-11,17:00,Besiktas,Kocaelispor
+7,2026-10-12,18:00,Eyüpspor,Göztepe
+8,2026-10-16,18:00,Çorum,Çaykur Rizespor
+8,2026-10-17,11:30,Erzurumspor,Eyüpspor
+8,2026-10-17,14:00,Amedspor,Konyaspor
+8,2026-10-17,14:00,Gençlerbirligi,Galatasaray
+8,2026-10-17,17:00,Fenerbahçe,Alanyaspor
+8,2026-10-18,11:30,Kasimpasa,Samsunspor
+8,2026-10-18,14:00,Kocaelispor,Göztepe
+8,2026-10-18,17:00,Istanbul Basaksehir,Gaziantep
+8,2026-10-19,18:00,Trabzonspor,Besiktas
+9,2026-10-23,18:00,Alanyaspor,Kocaelispor
+9,2026-10-24,11:30,Eyüpspor,Kasimpasa
+9,2026-10-24,14:00,Gaziantep,Erzurumspor
+9,2026-10-24,17:00,Samsunspor,Amedspor
+9,2026-10-25,14:00,Konyaspor,Gençlerbirligi
+9,2026-10-25,17:00,Göztepe,Çorum
+9,2026-10-26,17:00,Besiktas,Istanbul Basaksehir
+9,2026-10-26,17:00,Çaykur Rizespor,Trabzonspor
+9,2026-10-26,19:30,Galatasaray,Fenerbahçe
+10,2026-10-30,18:00,Konyaspor,Galatasaray
+10,2026-10-31,11:30,Erzurumspor,Çorum
+10,2026-10-31,14:00,Kocaelispor,Çaykur Rizespor
+10,2026-10-31,17:00,Fenerbahçe,Göztepe
+10,2026-11-01,11:30,Amedspor,Eyüpspor
+10,2026-11-01,14:00,Istanbul Basaksehir,Samsunspor
+10,2026-11-01,14:00,Trabzonspor,Gaziantep
+10,2026-11-01,17:00,Kasimpasa,Besiktas
+10,2026-11-02,18:00,Gençlerbirligi,Alanyaspor
+11,2026-11-06,18:00,Gaziantep,Kasimpasa
+11,2026-11-07,11:30,Eyüpspor,Kocaelispor
+11,2026-11-07,14:00,Samsunspor,Konyaspor
+11,2026-11-07,17:00,Galatasaray,Amedspor
+11,2026-11-07,17:00,Göztepe,Istanbul Basaksehir
+11,2026-11-08,11:30,Çaykur Rizespor,Erzurumspor
+11,2026-11-08,14:00,Çorum,Fenerbahçe
+11,2026-11-08,16:30,Alanyaspor,Trabzonspor
+11,2026-11-08,19:00,Besiktas,Gençlerbirligi
+12,2026-11-21,11:30,Gençlerbirligi,Gaziantep
+12,2026-11-21,14:00,Amedspor,Çaykur Rizespor
+12,2026-11-21,14:00,Galatasaray,Samsunspor
+12,2026-11-21,17:00,Kocaelispor,Fenerbahçe
+12,2026-11-22,11:30,Erzurumspor,Göztepe
+12,2026-11-22,14:00,Kasimpasa,Alanyaspor
+12,2026-11-22,14:00,Konyaspor,Besiktas
+12,2026-11-22,17:00,Trabzonspor,Eyüpspor
+12,2026-11-23,18:00,Istanbul Basaksehir,Çorum
+13,2026-11-27,18:00,Alanyaspor,Konyaspor
+13,2026-11-27,18:00,Çaykur Rizespor,Kasimpasa
+13,2026-11-28,14:00,Samsunspor,Gençlerbirligi
+13,2026-11-28,17:00,Gaziantep,Amedspor
+13,2026-11-29,11:30,Çorum,Kocaelispor
+13,2026-11-29,14:00,Eyüpspor,Istanbul Basaksehir
+13,2026-11-29,17:00,Fenerbahçe,Erzurumspor
+13,2026-11-30,17:00,Göztepe,Trabzonspor
+13,2026-11-30,19:00,Besiktas,Galatasaray
+14,2026-12-04,18:00,Galatasaray,Çaykur Rizespor
+14,2026-12-05,11:30,Konyaspor,Gaziantep
+14,2026-12-05,14:00,Amedspor,Alanyaspor
+14,2026-12-05,17:00,Istanbul Basaksehir,Fenerbahçe
+14,2026-12-06,11:30,Erzurumspor,Kocaelispor
+14,2026-12-06,14:00,Besiktas,Samsunspor
+14,2026-12-06,14:00,Gençlerbirligi,Eyüpspor
+14,2026-12-06,17:00,Trabzonspor,Çorum
+14,2026-12-07,18:00,Kasimpasa,Göztepe
+15,2026-12-11,18:00,Çorum,Amedspor
+15,2026-12-12,11:30,Erzurumspor,Kasimpasa
+15,2026-12-12,14:00,Alanyaspor,Samsunspor
+15,2026-12-12,17:00,Eyüpspor,Galatasaray
+15,2026-12-13,11:30,Kocaelispor,Gençlerbirligi
+15,2026-12-13,14:00,Göztepe,Konyaspor
+15,2026-12-13,14:00,Çaykur Rizespor,Istanbul Basaksehir
+15,2026-12-13,17:00,Fenerbahçe,Trabzonspor
+15,2026-12-14,18:00,Gaziantep,Besiktas
+16,2026-12-18,18:00,Amedspor,Göztepe
+16,2026-12-18,18:00,Kasimpasa,Fenerbahçe
+16,2026-12-19,11:30,Konyaspor,Eyüpspor
+16,2026-12-19,14:00,Istanbul Basaksehir,Erzurumspor
+16,2026-12-19,17:00,Galatasaray,Alanyaspor
+16,2026-12-20,11:30,Gençlerbirligi,Çorum
+16,2026-12-20,14:00,Samsunspor,Gaziantep
+16,2026-12-20,17:00,Besiktas,Çaykur Rizespor
+16,2026-12-21,18:00,Trabzonspor,Kocaelispor
+17,2027-01-16,22:00,Alanyaspor,Istanbul Basaksehir
+17,2027-01-16,22:00,Erzurumspor,Trabzonspor
+17,2027-01-16,22:00,Eyüpspor,Samsunspor
+17,2027-01-16,22:00,Fenerbahçe,Amedspor
+17,2027-01-16,22:00,Gaziantep,Galatasaray
+17,2027-01-16,22:00,Göztepe,Besiktas
+17,2027-01-16,22:00,Kocaelispor,Kasimpasa
+17,2027-01-16,22:00,Çaykur Rizespor,Gençlerbirligi
+17,2027-01-16,22:00,Çorum,Konyaspor
+18,2027-01-23,22:00,Alanyaspor,Gaziantep
+18,2027-01-23,22:00,Erzurumspor,Amedspor
+18,2027-01-23,22:00,Eyüpspor,Besiktas
+18,2027-01-23,22:00,Fenerbahçe,Gençlerbirligi
+18,2027-01-23,22:00,Göztepe,Samsunspor
+18,2027-01-23,22:00,Kocaelispor,Istanbul Basaksehir
+18,2027-01-23,22:00,Trabzonspor,Kasimpasa
+18,2027-01-23,22:00,Çaykur Rizespor,Konyaspor
+18,2027-01-23,22:00,Çorum,Galatasaray
+19,2027-01-30,22:00,Amedspor,Kocaelispor
+19,2027-01-30,22:00,Besiktas,Alanyaspor
+19,2027-01-30,22:00,Galatasaray,Erzurumspor
+19,2027-01-30,22:00,Gaziantep,Eyüpspor
+19,2027-01-30,22:00,Gençlerbirligi,Göztepe
+19,2027-01-30,22:00,Istanbul Basaksehir,Trabzonspor
+19,2027-01-30,22:00,Kasimpasa,Çorum
+19,2027-01-30,22:00,Konyaspor,Fenerbahçe
+19,2027-01-30,22:00,Samsunspor,Çaykur Rizespor
+20,2027-02-06,22:00,Alanyaspor,Eyüpspor
+20,2027-02-06,22:00,Erzurumspor,Gençlerbirligi
+20,2027-02-06,22:00,Fenerbahçe,Samsunspor
+20,2027-02-06,22:00,Göztepe,Galatasaray
+20,2027-02-06,22:00,Kasimpasa,Istanbul Basaksehir
+20,2027-02-06,22:00,Kocaelispor,Konyaspor
+20,2027-02-06,22:00,Trabzonspor,Amedspor
+20,2027-02-06,22:00,Çaykur Rizespor,Gaziantep
+20,2027-02-06,22:00,Çorum,Besiktas
+21,2027-02-13,22:00,Alanyaspor,Çaykur Rizespor
+21,2027-02-13,22:00,Amedspor,Kasimpasa
+21,2027-02-13,22:00,Besiktas,Fenerbahçe
+21,2027-02-13,22:00,Eyüpspor,Çorum
+21,2027-02-13,22:00,Galatasaray,Istanbul Basaksehir
+21,2027-02-13,22:00,Gaziantep,Göztepe
+21,2027-02-13,22:00,Gençlerbirligi,Trabzonspor
+21,2027-02-13,22:00,Konyaspor,Erzurumspor
+21,2027-02-13,22:00,Samsunspor,Kocaelispor
+22,2027-02-20,22:00,Erzurumspor,Besiktas
+22,2027-02-20,22:00,Fenerbahçe,Gaziantep
+22,2027-02-20,22:00,Göztepe,Alanyaspor
+22,2027-02-20,22:00,Istanbul Basaksehir,Amedspor
+22,2027-02-20,22:00,Kasimpasa,Gençlerbirligi
+22,2027-02-20,22:00,Kocaelispor,Galatasaray
+22,2027-02-20,22:00,Trabzonspor,Konyaspor
+22,2027-02-20,22:00,Çaykur Rizespor,Eyüpspor
+22,2027-02-20,22:00,Çorum,Samsunspor
+23,2027-02-27,22:00,Alanyaspor,Çorum
+23,2027-02-27,22:00,Besiktas,Amedspor
+23,2027-02-27,22:00,Eyüpspor,Fenerbahçe
+23,2027-02-27,22:00,Galatasaray,Trabzonspor
+23,2027-02-27,22:00,Gaziantep,Kocaelispor
+23,2027-02-27,22:00,Gençlerbirligi,Istanbul Basaksehir
+23,2027-02-27,22:00,Konyaspor,Kasimpasa
+23,2027-02-27,22:00,Samsunspor,Erzurumspor
+23,2027-02-27,22:00,Çaykur Rizespor,Göztepe
+24,2027-03-06,22:00,Amedspor,Gençlerbirligi
+24,2027-03-06,22:00,Erzurumspor,Alanyaspor
+24,2027-03-06,22:00,Fenerbahçe,Çaykur Rizespor
+24,2027-03-06,22:00,Göztepe,Eyüpspor
+24,2027-03-06,22:00,Istanbul Basaksehir,Konyaspor
+24,2027-03-06,22:00,Kasimpasa,Galatasaray
+24,2027-03-06,22:00,Kocaelispor,Besiktas
+24,2027-03-06,22:00,Trabzonspor,Samsunspor
+24,2027-03-06,22:00,Çorum,Gaziantep
+25,2027-03-13,22:00,Alanyaspor,Fenerbahçe
+25,2027-03-13,22:00,Besiktas,Trabzonspor
+25,2027-03-13,22:00,Eyüpspor,Erzurumspor
+25,2027-03-13,22:00,Galatasaray,Gençlerbirligi
+25,2027-03-13,22:00,Gaziantep,Istanbul Basaksehir
+25,2027-03-13,22:00,Göztepe,Kocaelispor
+25,2027-03-13,22:00,Konyaspor,Amedspor
+25,2027-03-13,22:00,Samsunspor,Kasimpasa
+25,2027-03-13,22:00,Çaykur Rizespor,Çorum
+26,2027-03-20,22:00,Amedspor,Samsunspor
+26,2027-03-20,22:00,Erzurumspor,Gaziantep
+26,2027-03-20,22:00,Fenerbahçe,Galatasaray
+26,2027-03-20,22:00,Gençlerbirligi,Konyaspor
+26,2027-03-20,22:00,Istanbul Basaksehir,Besiktas
+26,2027-03-20,22:00,Kasimpasa,Eyüpspor
+26,2027-03-20,22:00,Kocaelispor,Alanyaspor
+26,2027-03-20,22:00,Trabzonspor,Çaykur Rizespor
+26,2027-03-20,22:00,Çorum,Göztepe
+27,2027-04-03,22:00,Alanyaspor,Gençlerbirligi
+27,2027-04-03,22:00,Besiktas,Kasimpasa
+27,2027-04-03,22:00,Eyüpspor,Amedspor
+27,2027-04-03,22:00,Galatasaray,Konyaspor
+27,2027-04-03,22:00,Gaziantep,Trabzonspor
+27,2027-04-03,22:00,Göztepe,Fenerbahçe
+27,2027-04-03,22:00,Samsunspor,Istanbul Basaksehir
+27,2027-04-03,22:00,Çaykur Rizespor,Kocaelispor
+27,2027-04-03,22:00,Çorum,Erzurumspor
+28,2027-04-10,22:00,Amedspor,Galatasaray
+28,2027-04-10,22:00,Erzurumspor,Çaykur Rizespor
+28,2027-04-10,22:00,Fenerbahçe,Çorum
+28,2027-04-10,22:00,Gençlerbirligi,Besiktas
+28,2027-04-10,22:00,Istanbul Basaksehir,Göztepe
+28,2027-04-10,22:00,Kasimpasa,Gaziantep
+28,2027-04-10,22:00,Kocaelispor,Eyüpspor
+28,2027-04-10,22:00,Konyaspor,Samsunspor
+28,2027-04-10,22:00,Trabzonspor,Alanyaspor
+29,2027-04-17,22:00,Alanyaspor,Kasimpasa
+29,2027-04-17,22:00,Besiktas,Konyaspor
+29,2027-04-17,22:00,Eyüpspor,Trabzonspor
+29,2027-04-17,22:00,Fenerbahçe,Kocaelispor
+29,2027-04-17,22:00,Gaziantep,Gençlerbirligi
+29,2027-04-17,22:00,Göztepe,Erzurumspor
+29,2027-04-17,22:00,Samsunspor,Galatasaray
+29,2027-04-17,22:00,Çaykur Rizespor,Amedspor
+29,2027-04-17,22:00,Çorum,Istanbul Basaksehir
+30,2027-04-24,22:00,Amedspor,Gaziantep
+30,2027-04-24,22:00,Erzurumspor,Fenerbahçe
+30,2027-04-24,22:00,Galatasaray,Besiktas
+30,2027-04-24,22:00,Gençlerbirligi,Samsunspor
+30,2027-04-24,22:00,Istanbul Basaksehir,Eyüpspor
+30,2027-04-24,22:00,Kasimpasa,Çaykur Rizespor
+30,2027-04-24,22:00,Kocaelispor,Çorum
+30,2027-04-24,22:00,Konyaspor,Alanyaspor
+30,2027-04-24,22:00,Trabzonspor,Göztepe
+31,2027-05-01,22:00,Alanyaspor,Amedspor
+31,2027-05-01,22:00,Eyüpspor,Gençlerbirligi
+31,2027-05-01,22:00,Fenerbahçe,Istanbul Basaksehir
+31,2027-05-01,22:00,Gaziantep,Konyaspor
+31,2027-05-01,22:00,Göztepe,Kasimpasa
+31,2027-05-01,22:00,Kocaelispor,Erzurumspor
+31,2027-05-01,22:00,Samsunspor,Besiktas
+31,2027-05-01,22:00,Çaykur Rizespor,Galatasaray
+31,2027-05-01,22:00,Çorum,Trabzonspor
+32,2027-05-08,22:00,Amedspor,Çorum
+32,2027-05-08,22:00,Besiktas,Gaziantep
+32,2027-05-08,22:00,Galatasaray,Eyüpspor
+32,2027-05-08,22:00,Gençlerbirligi,Kocaelispor
+32,2027-05-08,22:00,Istanbul Basaksehir,Çaykur Rizespor
+32,2027-05-08,22:00,Kasimpasa,Erzurumspor
+32,2027-05-08,22:00,Konyaspor,Göztepe
+32,2027-05-08,22:00,Samsunspor,Alanyaspor
+32,2027-05-08,22:00,Trabzonspor,Fenerbahçe
+33,2027-05-15,22:00,Alanyaspor,Galatasaray
+33,2027-05-15,22:00,Erzurumspor,Istanbul Basaksehir
+33,2027-05-15,22:00,Eyüpspor,Konyaspor
+33,2027-05-15,22:00,Fenerbahçe,Kasimpasa
+33,2027-05-15,22:00,Gaziantep,Samsunspor
+33,2027-05-15,22:00,Göztepe,Amedspor
+33,2027-05-15,22:00,Kocaelispor,Trabzonspor
+33,2027-05-15,22:00,Çaykur Rizespor,Besiktas
+33,2027-05-15,22:00,Çorum,Gençlerbirligi
+34,2027-05-22,22:00,Amedspor,Fenerbahçe
+34,2027-05-22,22:00,Besiktas,Göztepe
+34,2027-05-22,22:00,Galatasaray,Gaziantep
+34,2027-05-22,22:00,Gençlerbirligi,Çaykur Rizespor
+34,2027-05-22,22:00,Istanbul Basaksehir,Alanyaspor
+34,2027-05-22,22:00,Kasimpasa,Kocaelispor
+34,2027-05-22,22:00,Konyaspor,Çorum
+34,2027-05-22,22:00,Samsunspor,Eyüpspor
+34,2027-05-22,22:00,Trabzonspor,Erzurumspor

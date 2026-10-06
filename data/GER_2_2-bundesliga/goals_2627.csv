@@ -1,0 +1,180 @@
+gw,date,home,away,minute,score_home,score_away,scorer
+1,2026-08-07,VfL Bochum,Hertha BSC,39,0,1,Sebastian Grönning
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,10,1,0,B. Zivzivadze
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,23,1,1,N. Wiemann
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,29,2,1,M. Costly
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,34,2,2,D. Kopacz
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,47,3,2,J. Schöppner
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,89,4,2,M. Pieringer
+1,2026-08-08,1. FC Heidenheim 1846,VfL Osnabrück,92,4,3,R. Meißner
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,15,0,1,A. Opoku
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,21,0,2,J. Urbich
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,26,0,3,J. Urbich
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,44,0,4,Mehmet Can Aydin
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,49,1,4,M. Zukowski
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,50,1,5,Samuele Di Benedetto
+1,2026-08-08,1. FC Magdeburg,Eintracht Braunschweig,61,1,6,F. Flick
+1,2026-08-08,Karlsruher SC,DSC Arminia Bielefeld,35,1,0,M. Broschinski
+1,2026-08-08,Karlsruher SC,DSC Arminia Bielefeld,78,2,0,M. Broschinski
+1,2026-08-08,Karlsruher SC,DSC Arminia Bielefeld,80,2,1,M. Mehlem
+1,2026-08-08,SV Darmstadt 98,Holstein Kiel,8,0,1,G. Balzi
+1,2026-08-08,SV Darmstadt 98,Holstein Kiel,42,0,2,Phil Harres
+1,2026-08-08,SV Darmstadt 98,Holstein Kiel,76,1,2,Ho-jae Lee
+1,2026-08-08,SV Darmstadt 98,Holstein Kiel,86,2,2,A. Vukotic
+1,2026-08-09,1. FC Nürnberg,Dynamo Dresden,9,1,0,Mohamed Alì Zoma
+1,2026-08-09,1. FC Nürnberg,Dynamo Dresden,48,2,0,Mohamed Alì Zoma
+1,2026-08-09,1. FC Nürnberg,Dynamo Dresden,75,3,0,Mohamed Alì Zoma
+1,2026-08-09,Energie Cottbus,Hannover 96,14,1,0,Tolcay Cigerci
+1,2026-08-09,Energie Cottbus,Hannover 96,28,1,1,M. Neubauer
+1,2026-08-09,Energie Cottbus,Hannover 96,71,2,1,Tolcay Cigerci
+1,2026-08-09,Energie Cottbus,Hannover 96,76,3,1,J. Butler
+1,2026-08-09,FC St. Pauli,SpVgg Greuther Fürth,46,1,0,M. Mathisen
+1,2026-08-09,FC St. Pauli,SpVgg Greuther Fürth,52,1,1,F. Klaus
+2,2026-08-14,Eintracht Braunschweig,VfL Bochum,18,0,1,P. Hoffmann
+2,2026-08-14,Holstein Kiel,FC St. Pauli,32,0,1,M. Kaars
+2,2026-08-14,Holstein Kiel,FC St. Pauli,48,0,2,T. Hara
+2,2026-08-14,Holstein Kiel,FC St. Pauli,56,1,2,P. Harres
+2,2026-08-14,Holstein Kiel,FC St. Pauli,88,2,2,J. Therkelsen
+2,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,2,1,0,S. Grønning
+2,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,26,2,0,M. Winkler
+2,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,35,3,0,D. Zeefuik
+2,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,49,3,1,J. Schöppner
+2,2026-08-15,Hertha BSC,1. FC Heidenheim 1846,90,4,1,Oluwaseun Victor Adewumi
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,22,1,0,F. Klaus
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,26,1,1,P. Scobel
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,41,2,1,F. Klaus
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,48,2,2,J. Justvan
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,54,2,3,J. Justvan
+2,2026-08-15,SpVgg Greuther Fürth,1. FC Nürnberg,74,2,4,P. Scobel
+2,2026-08-15,VfL Osnabrück,1. FC Magdeburg,24,0,1,A. Nollenberg
+2,2026-08-15,VfL Osnabrück,1. FC Magdeburg,35,0,2,A. Nollenberg
+2,2026-08-15,VfL Osnabrück,1. FC Magdeburg,69,0,3,E. Iyoha
+2,2026-08-16,DSC Arminia Bielefeld,Energie Cottbus,26,1,0,Joel Grodowski
+2,2026-08-16,DSC Arminia Bielefeld,Energie Cottbus,37,2,0,Joel Grodowski
+2,2026-08-16,DSC Arminia Bielefeld,Energie Cottbus,76,3,0,Joel Grodowski
+2,2026-08-16,Dynamo Dresden,SV Darmstadt 98,12,1,0,J. Sterner
+2,2026-08-16,Hannover 96,VfL Wolfsburg,87,0,1,F. Reese
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,9,1,0,Y. Sturm
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,33,2,0,K. Ehlers
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,44,2,1,Jón Dagur Thorsteinsson
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,49,2,2,J. Brekalo
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,53,2,3,K. Ehlers
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,69,2,4,J. Brekalo
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,87,2,5,Oluwaseun Victor Adewumi
+3,2026-08-28,Eintracht Braunschweig,Hertha BSC,88,3,5,J. Urbich
+3,2026-08-28,VfL Bochum,VfL Osnabrück,4,0,1,I. Badjie
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,30,0,1,V. Vermeij
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,67,1,1,J. Schöppner
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,73,1,2,R. Wagner
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,77,2,2,Friedrich Müller
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,87,3,2,O. Mhamdi
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,89,4,2,J. Niehues
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,91,5,2,M. Breunig
+3,2026-08-29,1. FC Heidenheim 1846,Dynamo Dresden,97,5,3,J. Sterner
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,6,1,0,Lucas Copado
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,46,1,2,Fousseny Doumbia
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,48,1,1,F. Klaus
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,70,2,2,Tolcay Cigerci
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,72,2,3,O. Pohlmann
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,80,2,4,F. Klaus
+3,2026-08-29,Energie Cottbus,SpVgg Greuther Fürth,94,3,4,Dmytro Bogdanov
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,7,1,0,Shio Fukuda
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,10,1,1,A. Bernhardsson
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,12,2,1,M. Wanitzek
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,28,2,2,F. Reese
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,47,2,3,Vinicius Souza
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,88,2,4,H. Wahl
+3,2026-08-29,Karlsruher SC,VfL Wolfsburg,95,2,5,F. Reese
+3,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,11,1,0,Mohamed Alì Zoma
+3,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,22,2,0,Tim Janisch
+3,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,38,3,0,Adam Markhiyev
+3,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,67,4,0,Adam Markhiyev
+3,2026-08-29,1. FC Nürnberg,DSC Arminia Bielefeld,76,4,1,M. Wörl
+3,2026-08-30,1. FC Magdeburg,Holstein Kiel,72,1,0,M. Zukowski
+3,2026-08-30,1. FC Magdeburg,Holstein Kiel,81,2,0,Luka Hyryläinen
+3,2026-08-30,FC St. Pauli,1. FC Kaiserslautern,29,0,1,Erencan Yardimci
+3,2026-08-30,FC St. Pauli,1. FC Kaiserslautern,46,0,2,Thierry Tazemeta
+3,2026-08-30,FC St. Pauli,1. FC Kaiserslautern,56,1,2,A. Ceesay
+3,2026-08-30,SV Darmstadt 98,Hannover 96,57,0,1,L. Gindorf
+4,2026-09-04,DSC Arminia Bielefeld,FC St. Pauli,13,1,0,Jannik Rochelt
+4,2026-09-04,DSC Arminia Bielefeld,FC St. Pauli,20,1,1,Taichi Hara
+4,2026-09-04,DSC Arminia Bielefeld,FC St. Pauli,51,2,1,Joel Grodowski
+4,2026-09-04,DSC Arminia Bielefeld,FC St. Pauli,65,2,2,A. Ceesay
+4,2026-09-04,Hannover 96,Karlsruher SC,26,1,0,L. Gindorf
+4,2026-09-04,Hannover 96,Karlsruher SC,29,1,1,Shio Fukuda
+4,2026-09-04,Hannover 96,Karlsruher SC,38,2,1,Marcel Hartel
+4,2026-09-04,Hannover 96,Karlsruher SC,86,2,2,R. Pedrosa
+4,2026-09-05,1. FC Kaiserslautern,SV Darmstadt 98,43,1,0,Mário Sauer
+4,2026-09-05,1. FC Kaiserslautern,SV Darmstadt 98,64,2,0,Thierry Tazemeta
+4,2026-09-05,1. FC Kaiserslautern,SV Darmstadt 98,95,3,0,M. Berisha
+4,2026-09-05,Holstein Kiel,1. FC Nürnberg,41,0,1,Adam Markhiyev
+4,2026-09-05,Holstein Kiel,1. FC Nürnberg,46,1,1,Phil Harres
+4,2026-09-05,Holstein Kiel,1. FC Nürnberg,50,2,1,Adrián Kaprálik
+4,2026-09-05,Holstein Kiel,1. FC Nürnberg,56,2,2,P. Scobel
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
+4,2026-09-05,Dynamo Dresden,VfL Bochum,4,0,1,Koji Miyoshi
+4,2026-09-05,Dynamo Dresden,VfL Bochum,25,0,2,Koji Miyoshi
+4,2026-09-05,Dynamo Dresden,VfL Bochum,41,1,2,Ben Bobzien
+4,2026-09-06,Hertha BSC,1. FC Magdeburg,10,1,0,J. Brekalo
+4,2026-09-06,Hertha BSC,1. FC Magdeburg,31,1,1,F. Michel
+4,2026-09-06,Hertha BSC,1. FC Magdeburg,47,2,1,Oluwaseun Victor Adewumi
+4,2026-09-06,SpVgg Greuther Fürth,1. FC Heidenheim 1846,12,0,1,B. Zivzivadze
+4,2026-09-06,VfL Osnabrück,Eintracht Braunschweig,52,1,0,D. Kyereh
+4,2026-09-06,VfL Osnabrück,Eintracht Braunschweig,76,2,0,B. Jacobsen
+4,2026-09-06,VfL Osnabrück,Eintracht Braunschweig,80,3,0,R. Meißner
+4,2026-09-06,VfL Osnabrück,Eintracht Braunschweig,88,3,1,Y. Sturm
+5,2026-09-11,1. FC Nürnberg,Hannover 96,5,1,0,J. Justvan
+5,2026-09-11,1. FC Nürnberg,Hannover 96,8,1,1,L. Gindorf
+5,2026-09-11,1. FC Nürnberg,Hannover 96,65,2,1,Mohamed Alì Zoma
+5,2026-09-11,SV Darmstadt 98,DSC Arminia Bielefeld,3,1,0,Ho-jae Lee
+5,2026-09-11,SV Darmstadt 98,DSC Arminia Bielefeld,59,1,1,M. Wörl
+5,2026-09-11,SV Darmstadt 98,DSC Arminia Bielefeld,86,2,1,Milan Smit
+5,2026-09-12,1. FC Magdeburg,1. FC Kaiserslautern,12,1,0,E. Iyoha
+5,2026-09-12,1. FC Magdeburg,1. FC Kaiserslautern,16,2,0,Alexander Nollenberger
+5,2026-09-12,1. FC Magdeburg,1. FC Kaiserslautern,53,3,0,E. Iyoha
+5,2026-09-12,Eintracht Braunschweig,Dynamo Dresden,3,0,1,N. Rapp
+5,2026-09-12,Eintracht Braunschweig,Dynamo Dresden,5,1,1,Maximilian Entrup
+5,2026-09-12,Eintracht Braunschweig,Dynamo Dresden,68,2,1,Mehmet Can Aydin
+5,2026-09-12,Eintracht Braunschweig,Dynamo Dresden,72,2,2,Thomas Keller
+5,2026-09-12,VfL Bochum,SpVgg Greuther Fürth,17,1,0,P. Hofmann
+5,2026-09-12,VfL Bochum,SpVgg Greuther Fürth,71,1,1,Omar Sillah
+5,2026-09-12,FC St. Pauli,VfL Wolfsburg,88,1,0,J. Chima Fujita
+5,2026-09-13,1. FC Heidenheim 1846,Holstein Kiel,84,1,0,J. Föhrenbach
+5,2026-09-13,Karlsruher SC,Energie Cottbus,47,0,1,Lukas Michelbrink
+5,2026-09-13,Karlsruher SC,Energie Cottbus,55,0,2,Dominik Pelivan
+5,2026-09-13,Karlsruher SC,Energie Cottbus,62,0,3,J. Butler
+5,2026-09-13,VfL Osnabrück,Hertha BSC,50,0,1,J. Brekalo
+5,2026-09-13,VfL Osnabrück,Hertha BSC,70,0,2,K. Sessa
+5,2026-09-13,VfL Osnabrück,Hertha BSC,82,1,2,J. Gómez
+5,2026-09-13,VfL Osnabrück,Hertha BSC,92,1,3,Ruprecht
+6,2026-09-18,SpVgg Greuther Fürth,1. FC Magdeburg,5,0,1,E. Iyoha
+6,2026-09-18,SpVgg Greuther Fürth,1. FC Magdeburg,20,1,1,Omar Sillah
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,14,1,0,A. Bernhardsson
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,29,1,1,Milan Smit
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,40,2,1,R. Glatzel
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,61,3,1,A. Bernhardsson
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,67,4,1,M. Damar
+6,2026-09-18,VfL Wolfsburg,SV Darmstadt 98,79,5,1,R. Glatzel
+6,2026-09-19,1. FC Kaiserslautern,Eintracht Braunschweig,73,1,0,Erencan Yardimci
+6,2026-09-19,Holstein Kiel,VfL Osnabrück,45,1,0,Phil Harres
+6,2026-09-19,Holstein Kiel,VfL Osnabrück,72,1,1,Hiroki Sekine
+6,2026-09-19,Karlsruher SC,1. FC Nürnberg,30,0,1,Mohamed Alì Zoma
+6,2026-09-19,Dynamo Dresden,Hertha BSC,10,1,0,Patrice Covic
+6,2026-09-19,Dynamo Dresden,Hertha BSC,29,1,1,Jón Dagur Thorsteinsson
+6,2026-09-19,Dynamo Dresden,Hertha BSC,80,1,2,Jón Dagur Thorsteinsson
+6,2026-09-20,DSC Arminia Bielefeld,1. FC Heidenheim 1846,13,1,0,Joel Grodowski
+6,2026-09-20,DSC Arminia Bielefeld,1. FC Heidenheim 1846,30,1,1,B. Zivzivadze
+6,2026-09-20,DSC Arminia Bielefeld,1. FC Heidenheim 1846,48,1,2,P. Hennrich
+6,2026-09-20,DSC Arminia Bielefeld,1. FC Heidenheim 1846,55,2,2,Felix Hagmann
+6,2026-09-20,Energie Cottbus,FC St. Pauli,37,1,0,J. Butler
+6,2026-09-20,Energie Cottbus,FC St. Pauli,80,1,1,M. Kaars
+6,2026-09-20,Hannover 96,VfL Bochum,24,1,0,S. Teitur Thórdarson
+6,2026-09-20,Hannover 96,VfL Bochum,43,2,0,M. Hartel
+6,2026-09-20,Hannover 96,VfL Bochum,77,2,1,  T. Meyer

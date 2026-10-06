@@ -1,0 +1,45 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-01,15:00,Alloa,East Fife,0,0,D,0,0,D,7,5,4,0,7,8,12,3,1,1,0,0,,fd.co.uk
+1,2026-08-01,15:00,Cove Rangers,Airdrie Utd,0,0,D,0,0,D,10,8,6,3,18,13,4,5,2,3,0,0,,fd.co.uk
+1,2026-08-01,15:00,East Kilbride,Queen of Sth,5,1,H,3,1,H,15,4,7,4,8,19,4,1,1,6,0,0,,fd.co.uk
+1,2026-08-01,15:00,Montrose,Hamilton,0,5,A,0,2,A,3,8,1,7,12,11,4,9,0,0,0,0,,fd.co.uk
+1,2026-08-01,15:00,Peterhead,Ross County,0,1,A,0,0,D,8,13,3,5,16,14,3,6,2,4,0,0,,fd.co.uk
+2,2026-08-08,15:00,Airdrie Utd,East Kilbride,1,1,D,0,0,D,8,10,4,4,14,17,3,7,3,4,0,0,,fd.co.uk
+2,2026-08-08,15:00,East Fife,Cove Rangers,2,0,H,0,0,D,17,7,9,4,12,12,2,3,1,0,0,0,,fd.co.uk
+2,2026-08-08,15:00,Hamilton,Alloa,1,0,H,1,0,H,9,5,3,1,19,11,7,3,4,2,0,0,,fd.co.uk
+2,2026-08-08,15:00,Queen of Sth,Peterhead,0,1,A,0,1,A,7,14,0,5,8,17,9,2,0,1,0,0,,fd.co.uk
+2,2026-08-08,15:00,Ross County,Montrose,2,1,H,1,1,D,22,7,11,4,12,15,10,4,4,3,0,0,,fd.co.uk
+3,2026-08-15,15:00,Alloa,Montrose,3,0,H,2,0,H,18,4,9,1,11,22,7,5,2,2,0,0,,fd.co.uk
+3,2026-08-15,15:00,East Kilbride,Cove Rangers,3,0,H,0,0,D,10,4,6,3,14,14,7,2,1,2,0,1,,fd.co.uk
+3,2026-08-15,15:00,Hamilton,Airdrie Utd,4,0,H,1,0,H,10,6,5,2,17,13,7,8,2,3,0,0,,fd.co.uk
+3,2026-08-15,15:00,Peterhead,East Fife,2,1,H,0,0,D,7,3,5,2,0,6,2,1,1,4,0,0,,fd.co.uk
+4,2026-08-22,15:00,Airdrie Utd,Ross County,1,3,A,0,2,A,7,15,2,5,14,15,4,7,3,1,0,0,,fd.co.uk
+4,2026-08-22,15:00,Cove Rangers,Peterhead,3,0,H,0,0,D,12,11,6,4,14,12,3,4,2,2,0,0,,fd.co.uk
+4,2026-08-22,15:00,East Fife,Hamilton,0,0,D,0,0,D,6,10,2,5,13,7,5,9,1,1,0,0,,fd.co.uk
+4,2026-08-22,15:00,Montrose,East Kilbride,3,0,H,2,0,H,9,7,4,5,19,13,1,4,3,2,0,0,,fd.co.uk
+4,2026-08-22,15:00,Queen of Sth,Alloa,0,2,A,0,0,D,9,14,3,8,15,10,4,5,2,1,0,0,,fd.co.uk
+5,2026-08-29,15:00,Airdrie Utd,East Fife,0,0,D,0,0,D,6,3,2,0,14,15,5,3,5,5,0,0,,fd.co.uk
+5,2026-08-29,15:00,Alloa,Peterhead,1,1,D,1,0,H,9,6,3,2,14,10,3,4,3,2,0,0,,fd.co.uk
+5,2026-08-29,15:00,Hamilton,Cove Rangers,1,0,H,1,0,H,15,11,7,2,12,13,3,3,2,1,0,0,,fd.co.uk
+5,2026-08-29,15:00,Montrose,Queen of Sth,2,1,H,1,0,H,10,11,6,5,14,13,4,3,2,5,0,0,,fd.co.uk
+5,2026-08-29,17:30,Ross County,East Kilbride,4,0,H,1,0,H,8,4,6,1,16,16,7,3,3,2,0,0,,fd.co.uk
+6,2026-09-05,15:00,Cove Rangers,Alloa,1,1,D,1,0,H,11,10,5,4,15,6,4,7,3,2,1,0,,fd.co.uk
+6,2026-09-05,15:00,East Fife,Ross County,2,2,D,0,0,D,5,17,3,7,10,8,1,8,5,1,0,0,,fd.co.uk
+6,2026-09-05,15:00,East Kilbride,Hamilton,0,1,A,0,1,A,11,9,3,5,14,15,11,5,4,2,0,0,,fd.co.uk
+6,2026-09-05,15:00,Peterhead,Montrose,0,3,A,0,2,A,6,4,0,3,10,29,1,0,1,4,0,0,,fd.co.uk
+6,2026-09-05,15:00,Queen of Sth,Airdrie Utd,2,1,H,0,1,A,15,10,5,4,12,11,6,3,4,4,0,0,,fd.co.uk
+7,2026-09-12,15:00,Airdrie Utd,Alloa,1,0,H,1,0,H,13,9,6,4,25,10,4,7,2,2,0,0,,fd.co.uk
+7,2026-09-12,15:00,East Kilbride,Peterhead,3,1,H,1,0,H,14,4,7,2,23,12,4,2,2,3,0,0,,fd.co.uk
+7,2026-09-12,15:00,Montrose,Cove Rangers,2,1,H,1,0,H,13,11,6,5,13,9,7,4,0,0,0,0,,fd.co.uk
+7,2026-09-12,15:00,Queen of Sth,East Fife,1,1,D,0,0,D,14,12,6,7,7,19,4,6,1,6,0,0,,fd.co.uk
+8,2026-09-15,19:45,Ross County,Queen of Sth,8,0,H,2,0,H,15,3,11,1,12,7,7,2,3,1,0,0,,fd.co.uk
+8,2026-09-19,15:00,Alloa,East Kilbride,1,2,A,0,1,A,3,4,2,3,10,23,2,7,1,4,0,0,,fd.co.uk
+8,2026-09-19,15:00,Cove Rangers,Ross County,0,2,A,0,1,A,5,6,1,3,15,10,4,3,2,2,0,0,,fd.co.uk
+8,2026-09-19,15:00,East Fife,Montrose,1,2,A,0,1,A,9,8,6,4,18,14,3,1,1,3,0,0,,fd.co.uk
+8,2026-09-19,15:00,Hamilton,Queen of Sth,4,1,H,3,1,H,18,5,10,3,7,7,9,0,1,1,0,0,,fd.co.uk
+8,2026-09-19,15:00,Peterhead,Airdrie Utd,1,2,A,0,1,A,7,6,3,4,11,18,9,4,2,5,0,0,,fd.co.uk
+9,2026-10-03,15:00,Airdrie Utd,Montrose,1,0,H,0,0,D,7,3,7,0,16,19,1,2,4,3,0,0,,fd.co.uk
+9,2026-10-03,15:00,East Fife,East Kilbride,0,3,A,0,1,A,8,9,4,5,8,10,2,4,3,2,0,0,,fd.co.uk
+9,2026-10-03,15:00,Queen of Sth,Cove Rangers,4,3,H,2,0,H,6,10,5,3,11,8,6,7,3,3,0,0,,fd.co.uk
+9,2026-10-03,15:00,Ross County,Alloa,4,1,H,1,0,H,13,3,8,2,22,13,7,3,1,4,0,0,,fd.co.uk
+9,2026-10-03,17:30,Hamilton,Peterhead,2,1,H,0,0,D,10,5,3,3,19,13,7,2,2,0,0,0,,fd.co.uk

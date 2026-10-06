@@ -1,0 +1,64 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-07,19:00,SC Cambuur,Excelsior Rotterdam,0,4,A,0,3,A,11,18,2,9,6,11,5,8,0,0,0,0,,fixturedl
+1,2026-08-08,15:30,N.E.C. Nijmegen,Telstar,1,2,A,0,2,A,27,8,4,3,12,14,13,3,2,2,0,0,,fixturedl
+1,2026-08-08,17:45,Go Ahead Eagles,Willem II,4,1,H,1,1,D,20,13,10,1,6,14,6,2,2,1,0,0,,fixturedl
+1,2026-08-08,19:00,PSV,Fortuna Sittard,2,2,D,0,1,A,21,8,6,6,9,6,9,0,1,1,0,0,,fixturedl
+1,2026-08-08,20:00,AZ,ADO Den Haag,2,0,H,0,0,D,12,10,4,0,9,14,9,7,0,1,0,0,,fixturedl
+1,2026-08-09,11:15,Sparta Rotterdam,Feyenoord,0,1,A,0,1,A,10,22,0,6,11,8,5,10,3,1,0,0,,fixturedl
+1,2026-08-09,13:30,FC Groningen,FC Utrecht,2,1,H,1,0,H,16,14,5,7,12,17,5,1,0,2,0,0,,fixturedl
+1,2026-08-09,13:30,PEC Zwolle,Ajax,0,2,A,0,0,D,7,26,2,6,12,10,2,10,2,2,1,0,,fixturedl
+1,2026-08-09,15:45,sc Heerenveen,FC Twente,1,0,H,0,0,D,7,18,4,3,7,7,4,8,2,1,0,0,,fixturedl
+2,2026-08-14,19:00,Telstar,Sparta Rotterdam,1,3,A,0,1,A,7,16,1,9,13,17,7,5,1,1,0,0,,fixturedl
+2,2026-08-15,15:30,Willem II,N.E.C. Nijmegen,1,4,A,0,1,A,9,21,2,10,10,14,1,2,1,0,0,0,,fixturedl
+2,2026-08-15,17:45,FC Utrecht,AZ,1,4,A,0,1,A,8,24,2,9,23,14,3,9,4,2,0,0,,fixturedl
+2,2026-08-15,19:00,Excelsior Rotterdam,PSV,1,2,A,0,1,A,5,20,2,8,9,3,1,7,1,0,0,0,,fixturedl
+2,2026-08-15,20:00,Fortuna Sittard,SC Cambuur,3,1,H,2,1,H,17,19,7,7,10,9,6,7,0,2,0,0,,fixturedl
+2,2026-08-16,11:15,ADO Den Haag,FC Groningen,1,4,A,0,3,A,10,17,4,14,11,11,5,2,0,1,0,0,,fixturedl
+2,2026-08-16,13:30,FC Twente,PEC Zwolle,3,1,H,1,1,D,27,8,10,3,11,6,6,3,0,0,0,0,,fixturedl
+2,2026-08-16,13:30,Feyenoord,Go Ahead Eagles,2,2,D,2,0,H,27,14,6,6,3,8,6,6,0,0,0,0,,fixturedl
+2,2026-08-16,15:45,Ajax,sc Heerenveen,2,2,D,2,1,H,23,14,4,8,8,10,7,2,3,1,0,0,,fixturedl
+3,2026-08-22,15:30,Fortuna Sittard,AZ,0,2,A,0,0,D,4,26,2,11,9,11,1,15,0,1,1,0,,fixturedl
+3,2026-08-22,17:45,Sparta Rotterdam,FC Utrecht,3,3,D,1,1,D,14,16,5,4,10,13,5,7,0,0,0,0,,fixturedl
+3,2026-08-22,20:00,sc Heerenveen,PEC Zwolle,0,2,A,0,0,D,18,20,5,7,6,13,5,3,1,2,0,0,,fixturedl
+3,2026-08-23,11:15,Go Ahead Eagles,ADO Den Haag,3,1,H,1,0,H,11,16,5,3,10,13,5,3,1,2,0,0,,fixturedl
+3,2026-08-23,13:30,PSV,FC Groningen,5,1,H,3,1,H,24,7,12,4,10,4,9,4,1,1,0,0,,fixturedl
+3,2026-08-23,15:45,SC Cambuur,Feyenoord,2,5,A,0,4,A,11,14,4,7,14,13,3,3,0,1,0,0,,fixturedl
+4,2026-08-28,19:00,FC Groningen,Fortuna Sittard,2,3,A,1,2,A,22,9,2,5,8,8,7,2,3,4,0,0,,fixturedl
+4,2026-08-29,15:30,Excelsior Rotterdam,Sparta Rotterdam,2,1,H,1,0,H,15,10,5,2,13,7,6,4,2,1,0,0,,fixturedl
+4,2026-08-29,17:45,AZ,Go Ahead Eagles,5,2,H,2,1,H,20,10,8,4,9,6,8,4,0,0,0,0,,fixturedl
+4,2026-08-29,20:00,PEC Zwolle,N.E.C. Nijmegen,1,3,A,1,2,A,9,8,2,4,17,12,6,7,1,3,0,0,,fixturedl
+4,2026-08-30,11:15,FC Utrecht,PSV,1,6,A,1,2,A,1,30,1,14,21,8,0,13,5,1,0,0,,fixturedl
+4,2026-08-30,13:30,Feyenoord,ADO Den Haag,2,2,D,0,1,A,33,8,12,3,5,9,11,3,0,3,0,0,,fixturedl
+4,2026-08-30,13:30,Willem II,sc Heerenveen,2,2,D,0,0,D,12,13,5,5,9,5,9,7,0,0,0,0,,fixturedl
+4,2026-08-30,15:45,Telstar,Ajax,0,4,A,0,1,A,11,12,4,9,11,13,5,4,0,0,0,0,,fixturedl
+4,2026-08-30,19:00,SC Cambuur,FC Twente,1,4,A,0,2,A,10,23,3,10,6,14,2,9,1,1,0,0,,fixturedl
+5,2026-09-04,19:00,Sparta Rotterdam,PEC Zwolle,2,2,D,1,1,D,21,15,8,6,12,11,15,4,0,2,0,0,,fixturedl
+5,2026-09-05,15:30,N.E.C. Nijmegen,Feyenoord,1,3,A,0,0,D,12,11,2,5,9,15,1,1,1,2,0,0,,fixturedl
+5,2026-09-05,19:00,Ajax,PSV,1,3,A,1,2,A,19,13,6,5,6,13,1,1,2,4,0,0,,fixturedl
+5,2026-09-05,20:00,Willem II,Excelsior Rotterdam,0,3,A,0,2,A,16,13,2,6,10,14,7,6,2,1,0,0,,fixturedl
+5,2026-09-06,11:15,FC Groningen,FC Twente,2,2,D,2,2,D,21,16,4,5,6,9,8,2,1,1,0,0,,fixturedl
+5,2026-09-06,13:30,Telstar,SC Cambuur,2,2,D,0,0,D,11,8,2,3,7,20,4,2,3,4,1,0,,fixturedl
+5,2026-09-06,13:30,sc Heerenveen,AZ,2,3,A,2,1,H,14,15,5,8,9,12,4,3,1,2,0,0,,fixturedl
+5,2026-09-06,15:45,ADO Den Haag,Fortuna Sittard,2,3,A,0,2,A,11,8,3,5,17,16,2,0,0,4,0,0,,fixturedl
+5,2026-09-08,13:00,FC Utrecht,Go Ahead Eagles,3,3,D,0,1,A,19,13,6,7,16,8,7,5,2,1,0,0,,fixturedl
+3,2026-09-08,17:45,N.E.C. Nijmegen,Excelsior Rotterdam,2,2,D,1,1,D,11,14,3,5,5,16,2,4,1,3,0,0,,fixturedl
+3,2026-09-09,17:45,FC Twente,Telstar,1,0,H,0,0,D,22,3,8,2,10,11,9,2,1,3,0,0,,fixturedl
+6,2026-09-11,19:00,AZ,Willem II,1,1,D,1,0,H,22,8,5,2,7,8,11,2,0,1,0,0,,fixturedl
+6,2026-09-12,15:30,FC Twente,ADO Den Haag,2,0,H,0,0,D,24,10,12,5,10,11,12,2,1,3,0,0,,fixturedl
+6,2026-09-12,17:45,Go Ahead Eagles,FC Groningen,1,1,D,0,1,A,24,4,6,2,8,10,9,0,1,0,0,0,,fixturedl
+6,2026-09-12,19:00,Fortuna Sittard,Ajax,1,5,A,0,1,A,8,27,4,11,5,12,3,11,1,5,0,0,,fixturedl
+6,2026-09-12,20:00,SC Cambuur,N.E.C. Nijmegen,3,0,H,1,0,H,16,10,7,1,16,18,4,5,2,4,0,0,,fixturedl
+6,2026-09-13,11:15,Excelsior Rotterdam,FC Utrecht,1,2,A,0,1,A,10,12,4,6,9,8,5,2,2,0,0,0,,fixturedl
+6,2026-09-13,13:30,sc Heerenveen,Telstar,0,0,D,0,0,D,23,12,6,2,13,8,8,6,2,0,0,0,,fixturedl
+6,2026-09-13,15:45,PEC Zwolle,Feyenoord,0,7,A,0,3,A,6,26,3,12,9,8,5,6,0,0,0,0,,fixturedl
+6,2026-09-13,19:00,PSV,Sparta Rotterdam,4,1,H,2,1,H,28,10,10,6,6,3,9,5,1,1,0,0,,fixturedl
+3,2026-09-15,19:00,Ajax,Willem II,5,1,H,2,0,H,33,10,12,4,6,3,14,2,0,0,0,0,,fixturedl
+7,2026-09-18,19:00,FC Groningen,PEC Zwolle,3,0,H,2,0,H,17,9,7,1,7,11,5,6,0,2,0,0,,fixturedl
+7,2026-09-19,15:30,ADO Den Haag,SC Cambuur,1,1,D,0,1,A,18,8,6,3,22,14,6,3,3,2,0,0,,fixturedl
+7,2026-09-19,17:45,Sparta Rotterdam,sc Heerenveen,0,4,A,0,2,A,11,23,0,9,11,9,3,6,2,0,0,0,,fixturedl
+7,2026-09-19,19:00,Ajax,Excelsior Rotterdam,2,2,D,1,1,D,33,4,8,2,6,12,9,0,1,2,0,0,,fixturedl
+7,2026-09-19,20:00,Willem II,Fortuna Sittard,0,1,A,0,0,D,15,17,3,3,9,10,5,3,3,1,0,0,,fixturedl
+7,2026-09-20,11:15,Feyenoord,FC Utrecht,5,0,H,3,0,H,23,5,12,2,11,23,6,3,2,2,0,0,,fixturedl
+7,2026-09-20,13:30,AZ,Telstar,1,0,H,1,0,H,17,3,8,1,15,12,5,2,1,1,0,0,,fixturedl
+7,2026-09-20,13:30,FC Twente,PSV,3,2,H,1,2,A,21,11,5,4,10,12,6,5,1,3,0,0,,fixturedl
+7,2026-09-20,15:45,N.E.C. Nijmegen,Go Ahead Eagles,1,1,D,1,1,D,17,14,5,6,8,6,5,7,0,2,0,0,,fixturedl

@@ -1,0 +1,46 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-01,15:00,Annan Athletic,Spartans,2,4,A,1,0,H,11,11,5,8,20,9,7,3,5,2,0,0,,fd.co.uk
+1,2026-08-01,15:00,Clyde,Stranraer,3,1,H,3,1,H,16,7,6,5,9,8,7,7,1,2,0,0,,fd.co.uk
+1,2026-08-01,15:00,Edinburgh City,Elgin,0,5,A,0,3,A,7,10,4,5,17,13,3,5,3,1,0,0,,fd.co.uk
+1,2026-08-01,15:00,Forfar,Kelty Hearts,1,0,H,1,0,H,6,13,3,6,13,10,4,5,1,1,0,0,,fd.co.uk
+1,2026-08-01,15:00,Stirling,Dumbarton,2,0,H,1,0,H,7,10,5,4,12,18,7,8,2,4,0,0,,fd.co.uk
+2,2026-08-08,15:00,Dumbarton,Clyde,1,0,H,0,0,D,10,13,5,1,7,17,4,7,2,3,0,0,,fd.co.uk
+2,2026-08-08,15:00,Elgin,Forfar,1,1,D,1,1,D,13,5,4,5,14,7,3,5,1,4,0,0,,fd.co.uk
+2,2026-08-08,15:00,Kelty Hearts,Stirling,3,2,H,2,0,H,11,8,7,7,13,16,2,3,5,4,0,0,,fd.co.uk
+2,2026-08-08,15:00,Spartans,Edinburgh City,2,2,D,0,1,A,5,12,2,3,11,17,2,4,6,5,0,0,,fd.co.uk
+2,2026-08-08,15:00,Stranraer,Annan Athletic,0,1,A,0,0,D,8,11,0,3,10,12,5,6,3,1,0,0,,fd.co.uk
+3,2026-08-15,15:00,Annan Athletic,Clyde,1,2,A,1,1,D,11,13,5,6,12,14,3,4,3,1,0,0,,fd.co.uk
+3,2026-08-15,15:00,Dumbarton,Edinburgh City,0,3,A,0,2,A,4,16,1,7,18,16,8,2,1,2,0,0,,fd.co.uk
+3,2026-08-15,15:00,Elgin,Kelty Hearts,4,1,H,1,0,H,17,6,10,2,10,5,4,4,2,1,0,0,,fd.co.uk
+3,2026-08-15,15:00,Forfar,Stirling,3,0,H,2,0,H,10,11,6,3,11,10,8,5,1,2,0,0,,fd.co.uk
+3,2026-08-15,15:00,Stranraer,Spartans,1,0,H,0,0,D,11,10,4,2,12,13,10,7,3,2,0,0,,fd.co.uk
+4,2026-08-22,15:00,Clyde,Forfar,3,0,H,2,0,H,18,8,5,5,8,11,4,4,0,2,0,0,,fd.co.uk
+4,2026-08-22,15:00,Edinburgh City,Annan Athletic,1,0,H,0,0,D,10,6,7,3,16,16,3,4,3,4,0,0,,fd.co.uk
+4,2026-08-22,15:00,Kelty Hearts,Dumbarton,3,1,H,2,1,H,17,12,8,4,14,8,6,4,3,1,0,0,,fd.co.uk
+4,2026-08-22,15:00,Spartans,Elgin,3,3,D,1,2,A,10,11,7,7,12,20,2,3,1,4,0,0,,fd.co.uk
+4,2026-08-22,15:00,Stirling,Stranraer,2,2,D,0,2,A,13,9,8,6,13,12,9,8,3,1,0,0,,fd.co.uk
+5,2026-08-28,19:45,Edinburgh City,Forfar,1,1,D,0,0,D,20,7,6,4,15,16,10,8,4,2,0,0,,fd.co.uk
+5,2026-08-29,15:00,Annan Athletic,Dumbarton,2,0,H,0,0,D,11,3,5,1,10,14,5,0,1,2,0,0,,fd.co.uk
+5,2026-08-29,15:00,Elgin,Stirling,4,0,H,2,0,H,13,12,6,3,14,10,3,9,1,1,0,0,,fd.co.uk
+5,2026-08-29,15:00,Spartans,Clyde,3,3,D,0,1,A,21,14,10,7,12,12,10,4,0,4,0,1,,fd.co.uk
+5,2026-08-29,15:00,Stranraer,Kelty Hearts,2,0,H,2,0,H,11,13,4,4,9,19,6,7,0,5,0,0,,fd.co.uk
+6,2026-09-05,15:00,Clyde,Edinburgh City,3,2,H,0,1,A,16,7,8,5,12,27,5,6,4,2,0,0,,fd.co.uk
+6,2026-09-05,15:00,Dumbarton,Elgin,2,1,H,1,0,H,8,12,6,4,12,13,5,2,1,3,0,0,,fd.co.uk
+6,2026-09-05,15:00,Forfar,Stranraer,0,3,A,0,1,A,9,13,2,5,14,12,6,8,2,0,0,0,,fd.co.uk
+6,2026-09-05,15:00,Kelty Hearts,Annan Athletic,2,1,H,1,0,H,9,12,5,2,16,9,1,6,2,1,0,0,,fd.co.uk
+6,2026-09-05,15:00,Stirling,Spartans,0,2,A,0,1,A,6,7,4,3,14,11,4,2,2,2,0,0,,fd.co.uk
+7,2026-09-12,15:00,Annan Athletic,Elgin,2,0,H,1,0,H,5,8,2,1,9,6,1,12,0,0,0,0,,fd.co.uk
+7,2026-09-12,15:00,Clyde,Kelty Hearts,4,1,H,1,0,H,17,9,6,4,11,7,8,6,2,2,0,0,,fd.co.uk
+7,2026-09-12,15:00,Edinburgh City,Stirling,7,3,H,5,0,H,20,12,15,7,18,12,5,5,0,0,0,0,,fd.co.uk
+7,2026-09-12,15:00,Spartans,Forfar,5,1,H,3,0,H,15,9,8,2,12,15,5,2,3,0,0,0,,fd.co.uk
+7,2026-09-12,15:00,Stranraer,Dumbarton,3,1,H,0,1,A,18,14,8,5,16,10,9,3,2,1,0,0,,fd.co.uk
+8,2026-09-19,15:00,Dumbarton,Spartans,3,0,H,1,0,H,6,9,2,3,6,6,5,3,2,2,0,0,,fd.co.uk
+8,2026-09-19,15:00,Elgin,Stranraer,1,5,A,1,3,A,10,12,5,6,16,12,3,6,1,2,0,0,,fd.co.uk
+8,2026-09-19,15:00,Forfar,Annan Athletic,1,0,H,1,0,H,12,9,4,4,21,7,3,5,1,0,0,0,,fd.co.uk
+8,2026-09-19,15:00,Kelty Hearts,Edinburgh City,1,3,A,0,3,A,5,9,2,6,22,18,1,2,4,2,0,0,,fd.co.uk
+8,2026-09-19,15:00,Stirling,Clyde,1,1,D,1,1,D,5,14,2,7,9,6,3,9,4,1,1,0,,fd.co.uk
+9,2026-10-03,15:00,Annan Athletic,Stirling,0,1,A,0,0,D,7,9,2,5,12,15,5,7,5,3,0,0,,fd.co.uk
+9,2026-10-03,15:00,Dumbarton,Forfar,2,1,H,0,1,A,10,11,6,7,11,12,7,3,1,2,0,0,,fd.co.uk
+9,2026-10-03,15:00,Elgin,Clyde,6,2,H,0,1,A,10,13,10,4,9,8,4,2,0,1,0,0,,fd.co.uk
+9,2026-10-03,15:00,Spartans,Kelty Hearts,0,2,A,0,1,A,9,7,5,4,6,10,6,9,2,1,0,0,,fd.co.uk
+9,2026-10-03,15:00,Stranraer,Edinburgh City,0,0,D,0,0,D,9,3,0,1,14,21,3,0,2,6,0,0,,fd.co.uk

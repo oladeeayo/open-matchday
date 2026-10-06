@@ -1,0 +1,105 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-15,12:30,Notts County,Leicester City,1,1,D,0,0,D,16,11,2,2,15,11,3,5,2,1,0,0,,fixturedl
+1,2026-08-15,12:30,Oxford,Milton Keynes Dons,2,2,D,1,2,A,17,24,4,6,14,14,8,9,2,3,0,0,,fd.co.uk
+1,2026-08-15,12:30,Oxford United,MK Dons,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-15,12:30,Reading,Luton Town,3,4,A,3,1,H,17,12,5,5,12,11,5,2,1,2,0,0,,fixturedl
+1,2026-08-15,15:00,Barnsley,Bromley,0,1,A,0,0,D,22,12,8,3,12,11,12,2,3,2,0,0,,fixturedl
+1,2026-08-15,15:00,Blackpool,Wycombe Wanderers,1,1,D,0,1,A,20,11,7,4,11,15,5,4,2,3,0,0,,fixturedl
+1,2026-08-15,15:00,Bradford City,Peterborough United,2,0,H,0,0,D,17,7,5,2,16,13,7,3,2,3,0,1,,fixturedl
+1,2026-08-15,15:00,Burton Albion,Stevenage,1,1,D,0,0,D,10,5,2,3,14,17,2,0,0,1,0,0,,fixturedl
+1,2026-08-15,15:00,Cambridge United,Wigan Athletic,3,2,H,2,0,H,17,18,6,4,9,8,8,5,1,0,0,0,,fixturedl
+1,2026-08-15,15:00,Huddersfield Town,AFC Wimbledon,3,0,H,2,0,H,10,10,3,1,9,7,4,5,1,2,1,0,,fixturedl
+1,2026-08-15,15:00,Leyton Orient,Sheffield Wednesday,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-15,15:00,Leyton Orient,Sheffield Weds,1,2,A,1,1,D,10,15,3,5,15,19,5,7,2,2,0,0,,fd.co.uk
+1,2026-08-15,15:00,Mansfield Town,Doncaster Rovers,2,1,H,1,0,H,18,9,4,4,9,10,7,1,2,1,0,0,,fixturedl
+1,2026-08-15,15:00,Plymouth Argyle,Stockport County,1,3,A,0,2,A,15,9,4,4,13,10,5,3,2,0,0,0,,fixturedl
+2,2026-08-20,20:00,Sheffield Wednesday,Bradford City,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-20,20:00,Sheffield Weds,Bradford,0,1,A,0,0,D,13,10,3,4,13,10,8,9,1,1,0,0,,fd.co.uk
+2,2026-08-22,12:30,Doncaster Rovers,Barnsley,0,0,D,0,0,D,12,13,3,1,13,11,4,4,1,1,0,0,,fixturedl
+2,2026-08-22,12:30,Luton Town,Notts County,2,2,D,1,1,D,14,6,4,4,15,18,8,3,5,3,0,0,,fixturedl
+2,2026-08-22,15:00,AFC Wimbledon,Reading,0,0,D,0,0,D,4,12,2,3,15,13,7,7,2,3,0,0,,fixturedl
+2,2026-08-22,15:00,Bromley,Cambridge United,1,1,D,0,0,D,8,11,3,6,15,5,2,5,1,2,0,0,,fixturedl
+2,2026-08-22,15:00,Leicester City,Burton Albion,1,2,A,1,2,A,13,13,3,6,13,19,5,3,1,3,1,0,,fixturedl
+2,2026-08-22,15:00,MK Dons,Huddersfield Town,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-22,15:00,Milton Keynes Dons,Huddersfield,1,1,D,0,1,A,15,18,3,8,6,14,3,4,1,2,0,0,,fd.co.uk
+2,2026-08-22,15:00,Peterborough United,Mansfield Town,2,1,H,0,0,D,15,10,5,4,9,18,6,3,2,2,0,0,,fixturedl
+2,2026-08-22,15:00,Stevenage,Oxford United,1,2,A,0,0,D,14,12,3,5,22,22,6,6,1,4,0,0,,fixturedl
+2,2026-08-22,15:00,Stockport County,Blackpool,1,2,A,0,2,A,28,10,9,3,8,7,14,2,2,1,0,0,,fixturedl
+2,2026-08-22,15:00,Wigan Athletic,Leyton Orient,0,2,A,0,1,A,16,9,2,3,11,17,4,3,1,3,0,0,,fixturedl
+2,2026-08-22,15:00,Wycombe Wanderers,Plymouth Argyle,1,1,D,0,1,A,14,12,5,3,10,15,5,5,1,3,0,0,,fixturedl
+3,2026-08-29,12:30,Blackpool,Peterborough United,4,0,H,2,0,H,17,15,11,6,12,9,3,5,0,0,0,0,,fixturedl
+3,2026-08-29,12:30,MK Dons,Leicester City,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-29,12:30,Milton Keynes Dons,Leicester,0,0,D,0,0,D,7,24,1,7,9,6,4,9,0,3,0,0,,fd.co.uk
+3,2026-08-29,15:00,Cambridge United,Huddersfield Town,1,2,A,0,0,D,11,6,4,4,14,13,4,3,2,0,0,0,,fixturedl
+3,2026-08-29,15:00,Leyton Orient,Barnsley,1,3,A,0,1,A,7,16,3,7,12,14,4,9,4,4,0,0,,fixturedl
+3,2026-08-29,15:00,Notts County,Burton Albion,2,1,H,0,1,A,20,2,8,1,13,22,7,1,1,4,0,1,,fixturedl
+3,2026-08-29,15:00,Plymouth Argyle,Bradford City,2,0,H,1,0,H,14,4,3,0,14,15,8,6,1,2,0,0,,fixturedl
+3,2026-08-29,15:00,Sheffield Wednesday,Bromley,7,2,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-29,15:00,Sheffield Weds,Bromley,7,2,H,3,0,H,29,7,15,2,10,18,5,3,1,2,0,0,,fd.co.uk
+3,2026-08-29,15:00,Stevenage,Doncaster Rovers,2,2,D,0,0,D,9,12,5,4,9,16,9,9,0,3,0,0,,fixturedl
+3,2026-08-29,15:00,Stockport County,Wycombe Wanderers,5,1,H,2,1,H,17,7,7,5,6,8,6,5,0,0,0,0,,fixturedl
+3,2026-08-30,14:00,AFC Wimbledon,Wigan Athletic,1,0,H,0,0,D,13,16,2,5,14,11,5,9,4,4,0,0,,fixturedl
+3,2026-08-30,15:00,Mansfield Town,Luton Town,5,2,H,3,0,H,21,12,6,4,13,13,4,7,4,2,0,0,,fixturedl
+4,2026-09-01,19:45,Bradford City,Cambridge United,1,2,A,0,0,D,20,6,5,2,10,8,12,3,1,0,0,0,,fixturedl
+4,2026-09-01,19:45,Bromley,Leyton Orient,0,5,A,0,1,A,8,19,2,11,16,13,2,4,3,2,0,0,,fixturedl
+4,2026-09-01,19:45,Doncaster Rovers,Notts County,1,1,D,1,0,H,14,14,2,3,11,11,4,6,2,3,0,0,,fixturedl
+4,2026-09-01,19:45,Huddersfield Town,Oxford United,3,1,H,0,0,D,24,5,11,2,13,13,5,0,2,2,0,0,,fixturedl
+4,2026-09-01,19:45,Leicester City,Plymouth Argyle,2,0,H,2,0,H,18,13,5,4,5,16,5,9,3,1,0,0,,fixturedl
+4,2026-09-01,19:45,Peterborough United,Stevenage,0,0,D,0,0,D,9,11,0,4,8,10,3,3,1,1,0,0,,fixturedl
+4,2026-09-01,19:45,Wycombe,Sheffield Weds,1,2,A,1,2,A,14,16,6,7,9,16,6,6,1,2,0,0,,fd.co.uk
+4,2026-09-01,19:45,Wycombe Wanderers,Sheffield Wednesday,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-09-02,19:45,Barnsley,Blackpool,2,1,H,0,0,D,24,18,6,4,9,7,13,4,3,4,0,0,,fixturedl
+4,2026-09-02,19:45,Burton Albion,AFC Wimbledon,4,1,H,2,1,H,10,19,5,4,8,14,4,7,1,1,0,0,,fixturedl
+4,2026-09-02,19:45,Luton Town,Stockport County,2,0,H,0,0,D,7,11,5,2,7,13,2,8,1,1,0,0,,fixturedl
+4,2026-09-02,19:45,Wigan,Milton Keynes Dons,3,1,H,1,0,H,19,18,6,4,11,11,5,5,2,2,0,0,,fd.co.uk
+4,2026-09-02,19:45,Wigan Athletic,MK Dons,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-09-02,20:00,Reading,Mansfield Town,5,0,H,3,0,H,20,11,7,5,9,16,5,2,1,0,0,0,,fixturedl
+4,2026-09-05,12:30,Peterboro,Sheffield Weds,1,2,A,0,1,A,20,13,3,5,9,10,4,9,2,3,0,0,,fd.co.uk
+5,2026-09-05,12:30,Peterborough United,Sheffield Wednesday,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,12:30,Wigan Athletic,Stockport County,0,4,A,0,3,A,9,16,1,8,10,10,6,5,2,1,0,0,,fixturedl
+5,2026-09-05,15:00,Barnsley,Stevenage,1,5,A,1,1,D,17,10,4,5,18,9,7,3,1,2,0,0,,fixturedl
+5,2026-09-05,15:00,Bradford City,Mansfield Town,1,0,H,1,0,H,9,8,7,2,19,18,4,3,2,2,0,0,,fixturedl
+5,2026-09-05,15:00,Burton Albion,Cambridge United,2,2,D,1,1,D,13,10,3,3,12,18,2,7,1,2,0,0,,fixturedl
+5,2026-09-05,15:00,Doncaster Rovers,Plymouth Argyle,2,3,A,0,1,A,17,17,3,9,13,11,7,3,3,0,0,0,,fixturedl
+5,2026-09-05,15:00,Huddersfield Town,Notts County,1,1,D,1,1,D,18,9,7,3,9,15,9,6,1,2,0,0,,fixturedl
+5,2026-09-05,15:00,Leicester City,Oxford United,0,4,A,0,1,A,14,12,5,6,11,16,10,5,1,1,0,0,,fixturedl
+5,2026-09-05,15:00,Luton Town,Leyton Orient,1,1,D,1,1,D,23,7,7,3,9,12,7,2,2,4,0,0,,fixturedl
+5,2026-09-05,15:00,Reading,Blackpool,3,1,H,1,0,H,19,8,6,1,12,11,6,3,0,1,0,0,,fixturedl
+4,2026-09-05,15:00,Wycombe,Milton Keynes Dons,3,3,D,2,0,H,9,12,7,5,9,18,5,5,0,3,0,0,,fd.co.uk
+5,2026-09-05,15:00,Wycombe Wanderers,MK Dons,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-07,20:00,Bromley,AFC Wimbledon,0,2,A,0,1,A,9,9,2,4,16,17,4,4,1,1,0,0,,fixturedl
+6,2026-09-10,20:00,Stevenage,Luton Town,2,1,H,1,0,H,9,10,3,2,15,10,2,4,5,2,0,0,,fixturedl
+6,2026-09-12,12:30,Leyton Orient,Wycombe Wanderers,2,3,A,1,2,A,14,14,4,7,8,12,6,9,0,3,0,0,,fixturedl
+6,2026-09-12,12:30,Notts County,Bradford City,0,1,A,0,0,D,9,8,1,3,12,19,5,4,4,4,0,0,,fixturedl
+6,2026-09-12,15:00,AFC Wimbledon,Doncaster Rovers,1,0,H,1,0,H,11,22,3,9,15,6,6,6,2,3,0,0,,fixturedl
+6,2026-09-12,15:00,Blackpool,Bromley,2,2,D,2,1,H,18,15,4,8,13,14,12,6,0,1,0,0,,fixturedl
+6,2026-09-12,15:00,Cambridge United,Reading,2,1,H,0,1,A,11,19,5,4,8,11,7,3,2,1,0,0,,fixturedl
+6,2026-09-12,15:00,MK Dons,Peterborough United,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,15:00,Mansfield Town,Huddersfield Town,0,0,D,0,0,D,9,19,1,2,10,14,2,6,1,0,1,0,,fixturedl
+5,2026-09-12,15:00,Milton Keynes Dons,Peterboro,1,1,D,1,0,H,14,17,2,3,11,7,6,9,2,0,0,0,,fd.co.uk
+6,2026-09-12,15:00,Oxford United,Burton Albion,3,0,H,0,0,D,11,9,5,2,14,16,2,5,1,1,0,0,,fixturedl
+6,2026-09-12,15:00,Plymouth Argyle,Barnsley,3,0,H,2,0,H,7,15,4,0,13,12,4,8,2,2,0,0,,fixturedl
+6,2026-09-12,15:00,Sheffield Wednesday,Wigan Athletic,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-12,15:00,Sheffield Weds,Wigan,0,0,D,0,0,D,12,13,3,2,7,8,8,7,2,3,0,0,,fd.co.uk
+6,2026-09-12,15:00,Stockport County,Leicester City,3,4,A,1,2,A,18,9,5,5,7,10,8,1,2,1,0,0,,fixturedl
+7,2026-09-17,20:00,AFC Wimbledon,MK Dons,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-17,20:00,AFC Wimbledon,Milton Keynes Dons,0,0,D,0,0,D,11,11,2,2,6,18,5,6,0,0,0,0,,fd.co.uk
+7,2026-09-19,12:30,Barnsley,Leicester City,1,1,D,0,1,A,12,20,5,8,19,12,5,12,4,4,1,0,,fixturedl
+7,2026-09-19,12:30,Burton Albion,Mansfield Town,2,2,D,2,1,H,10,12,3,5,12,14,4,5,1,5,0,0,,fixturedl
+7,2026-09-19,15:00,Blackpool,Plymouth Argyle,2,4,A,1,1,D,10,24,4,9,15,7,3,8,3,0,0,0,,fixturedl
+7,2026-09-19,15:00,Bromley,Huddersfield Town,2,1,H,1,1,D,5,18,3,8,17,13,4,9,2,2,0,0,,fixturedl
+7,2026-09-19,15:00,Leyton Orient,Stevenage,1,0,H,0,0,D,7,16,1,4,10,16,3,6,0,4,0,0,,fixturedl
+7,2026-09-19,15:00,Luton Town,Bradford City,0,1,A,0,1,A,15,5,3,3,17,15,14,3,1,4,1,0,,fixturedl
+7,2026-09-19,15:00,Oxford United,Cambridge United,1,1,D,1,0,H,10,15,5,2,11,14,5,8,1,5,0,0,,fixturedl
+7,2026-09-19,15:00,Peterborough United,Doncaster Rovers,0,2,A,0,1,A,14,9,0,4,12,17,8,3,2,1,0,0,,fixturedl
+7,2026-09-19,15:00,Reading,Notts County,2,0,H,0,0,D,17,12,7,2,13,12,4,1,2,1,0,0,,fixturedl
+7,2026-09-19,15:00,Sheffield Wednesday,Stockport County,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-19,15:00,Sheffield Weds,Stockport,0,0,D,0,0,D,6,18,2,2,15,9,4,5,3,1,0,0,,fd.co.uk
+7,2026-09-19,15:00,Wigan Athletic,Wycombe Wanderers,0,1,A,0,0,D,12,11,2,1,17,8,4,5,6,1,0,0,,fixturedl
+8,2026-09-26,15:00,Cambridge United,AFC Wimbledon,1,1,D,0,1,A,18,7,5,3,8,11,8,1,2,2,0,0,,fixturedl
+8,2026-09-26,15:00,Plymouth Argyle,Burton Albion,0,1,A,0,0,D,13,10,3,3,11,4,3,4,3,3,0,0,,fixturedl
+8,2026-09-26,15:00,Stockport County,Peterborough United,1,0,H,0,0,D,14,10,5,4,8,8,6,4,1,3,0,0,,fixturedl
+8,2026-09-26,15:00,Wycombe Wanderers,Reading,2,2,D,0,0,D,17,21,5,7,9,17,5,7,2,3,0,0,,fixturedl
+9,2026-10-03,15:00,Burton Albion,Huddersfield Town,1,3,A,1,2,A,4,13,2,8,7,12,1,15,1,1,0,0,,fixturedl
+9,2026-10-03,15:00,Leyton Orient,Plymouth Argyle,0,2,A,0,0,D,11,20,4,7,12,16,4,6,2,2,0,0,,fixturedl
+9,2026-10-03,15:00,Reading,Bradford City,1,1,D,0,1,A,11,13,3,2,10,21,9,5,2,3,0,0,,fixturedl

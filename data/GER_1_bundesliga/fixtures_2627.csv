@@ -1,0 +1,271 @@
+gw,date,time,home,away
+5,2026-10-09,19:30,Borussia Dortmund,SV Werder Bremen
+5,2026-10-10,14:30,1. FC Union Berlin,SV 07 Elversberg
+5,2026-10-10,14:30,1. FSV Mainz 05,Bayer 04 Leverkusen
+5,2026-10-10,14:30,FC Augsburg,FC Bayern München
+5,2026-10-10,14:30,SC Paderborn 07,VfB Stuttgart
+5,2026-10-10,14:30,TSG Hoffenheim,Hamburger SV
+5,2026-10-10,17:30,RB Leipzig,Eintracht Frankfurt
+5,2026-10-11,14:30,1. FC Köln,Borussia Mönchengladbach
+5,2026-10-11,16:30,SC Freiburg,FC Schalke 04
+6,2026-10-16,19:30,Eintracht Frankfurt,1. FC Köln
+6,2026-10-17,14:30,1. FC Union Berlin,Borussia Dortmund
+6,2026-10-17,14:30,FC Schalke 04,1. FSV Mainz 05
+6,2026-10-17,14:30,Hamburger SV,VfB Stuttgart
+6,2026-10-17,14:30,SV 07 Elversberg,FC Augsburg
+6,2026-10-17,14:30,SV Werder Bremen,SC Paderborn 07
+6,2026-10-17,17:30,FC Bayern München,RB Leipzig
+6,2026-10-18,14:30,Bayer 04 Leverkusen,SC Freiburg
+6,2026-10-18,16:30,Borussia Mönchengladbach,TSG Hoffenheim
+7,2026-10-23,19:30,VfB Stuttgart,Borussia Mönchengladbach
+7,2026-10-24,14:30,1. FC Köln,FC Schalke 04
+7,2026-10-24,14:30,1. FSV Mainz 05,SV Werder Bremen
+7,2026-10-24,14:30,FC Augsburg,1. FC Union Berlin
+7,2026-10-24,14:30,RB Leipzig,SV 07 Elversberg
+7,2026-10-24,14:30,SC Paderborn 07,Hamburger SV
+7,2026-10-24,17:30,Borussia Dortmund,Eintracht Frankfurt
+7,2026-10-25,15:30,TSG Hoffenheim,Bayer 04 Leverkusen
+7,2026-10-25,17:30,SC Freiburg,FC Bayern München
+8,2026-10-30,20:30,SV 07 Elversberg,1. FSV Mainz 05
+8,2026-10-31,15:30,Bayer 04 Leverkusen,VfB Stuttgart
+8,2026-10-31,15:30,Borussia Mönchengladbach,SC Paderborn 07
+8,2026-10-31,15:30,FC Augsburg,SC Freiburg
+8,2026-10-31,15:30,FC Schalke 04,RB Leipzig
+8,2026-10-31,15:30,SV Werder Bremen,TSG Hoffenheim
+8,2026-10-31,18:30,FC Bayern München,Borussia Dortmund
+8,2026-11-01,15:30,1. FC Union Berlin,1. FC Köln
+8,2026-11-01,17:30,Eintracht Frankfurt,Hamburger SV
+9,2026-11-06,20:30,Hamburger SV,Borussia Mönchengladbach
+9,2026-11-07,15:30,1. FSV Mainz 05,FC Bayern München
+9,2026-11-07,15:30,Borussia Dortmund,SV 07 Elversberg
+9,2026-11-07,15:30,RB Leipzig,FC Augsburg
+9,2026-11-07,15:30,SC Paderborn 07,Eintracht Frankfurt
+9,2026-11-07,18:30,VfB Stuttgart,SV Werder Bremen
+9,2026-11-08,15:30,1. FC Köln,Bayer 04 Leverkusen
+9,2026-11-08,17:30,SC Freiburg,1. FC Union Berlin
+9,2026-11-08,19:30,TSG Hoffenheim,FC Schalke 04
+10,2026-11-20,20:30,FC Bayern München,1. FC Köln
+10,2026-11-21,15:30,1. FC Union Berlin,RB Leipzig
+10,2026-11-21,15:30,Bayer 04 Leverkusen,SC Paderborn 07
+10,2026-11-21,15:30,Borussia Mönchengladbach,Borussia Dortmund
+10,2026-11-21,15:30,Eintracht Frankfurt,TSG Hoffenheim
+10,2026-11-21,15:30,SV 07 Elversberg,SC Freiburg
+10,2026-11-21,18:30,FC Schalke 04,VfB Stuttgart
+10,2026-11-22,15:30,FC Augsburg,1. FSV Mainz 05
+10,2026-11-22,17:30,SV Werder Bremen,Hamburger SV
+11,2026-11-27,20:30,SV Werder Bremen,Borussia Mönchengladbach
+11,2026-11-28,15:30,1. FC Köln,SV 07 Elversberg
+11,2026-11-28,15:30,1. FSV Mainz 05,1. FC Union Berlin
+11,2026-11-28,15:30,Hamburger SV,FC Bayern München
+11,2026-11-28,15:30,SC Paderborn 07,FC Schalke 04
+11,2026-11-28,18:30,VfB Stuttgart,Eintracht Frankfurt
+11,2026-11-29,15:30,SC Freiburg,RB Leipzig
+11,2026-11-29,17:30,TSG Hoffenheim,FC Augsburg
+11,2026-11-29,19:30,Borussia Dortmund,Bayer 04 Leverkusen
+12,2026-12-05,15:30,1. FC Union Berlin,Hamburger SV
+12,2026-12-05,15:30,Bayer 04 Leverkusen,Borussia Mönchengladbach
+12,2026-12-05,15:30,Eintracht Frankfurt,SV Werder Bremen
+12,2026-12-05,15:30,FC Augsburg,1. FC Köln
+12,2026-12-05,15:30,FC Bayern München,SC Paderborn 07
+12,2026-12-05,15:30,FC Schalke 04,Borussia Dortmund
+12,2026-12-05,15:30,RB Leipzig,1. FSV Mainz 05
+12,2026-12-05,15:30,SC Freiburg,TSG Hoffenheim
+12,2026-12-05,15:30,SV 07 Elversberg,VfB Stuttgart
+13,2026-12-12,15:30,1. FC Köln,RB Leipzig
+13,2026-12-12,15:30,1. FSV Mainz 05,SC Freiburg
+13,2026-12-12,15:30,Borussia Dortmund,FC Augsburg
+13,2026-12-12,15:30,Borussia Mönchengladbach,Eintracht Frankfurt
+13,2026-12-12,15:30,Hamburger SV,FC Schalke 04
+13,2026-12-12,15:30,SC Paderborn 07,SV 07 Elversberg
+13,2026-12-12,15:30,SV Werder Bremen,Bayer 04 Leverkusen
+13,2026-12-12,15:30,TSG Hoffenheim,FC Bayern München
+13,2026-12-12,15:30,VfB Stuttgart,1. FC Union Berlin
+14,2026-12-19,15:30,1. FC Union Berlin,TSG Hoffenheim
+14,2026-12-19,15:30,1. FSV Mainz 05,1. FC Köln
+14,2026-12-19,15:30,Bayer 04 Leverkusen,Eintracht Frankfurt
+14,2026-12-19,15:30,FC Augsburg,SC Paderborn 07
+14,2026-12-19,15:30,FC Bayern München,SV Werder Bremen
+14,2026-12-19,15:30,FC Schalke 04,Borussia Mönchengladbach
+14,2026-12-19,15:30,RB Leipzig,Borussia Dortmund
+14,2026-12-19,15:30,SC Freiburg,VfB Stuttgart
+14,2026-12-19,15:30,SV 07 Elversberg,Hamburger SV
+15,2027-01-09,15:30,1. FC Köln,SC Freiburg
+15,2027-01-09,15:30,Borussia Dortmund,1. FSV Mainz 05
+15,2027-01-09,15:30,Borussia Mönchengladbach,FC Bayern München
+15,2027-01-09,15:30,Eintracht Frankfurt,FC Schalke 04
+15,2027-01-09,15:30,Hamburger SV,Bayer 04 Leverkusen
+15,2027-01-09,15:30,SC Paderborn 07,RB Leipzig
+15,2027-01-09,15:30,SV Werder Bremen,1. FC Union Berlin
+15,2027-01-09,15:30,TSG Hoffenheim,SV 07 Elversberg
+15,2027-01-09,15:30,VfB Stuttgart,FC Augsburg
+16,2027-01-12,20:30,1. FC Köln,Borussia Dortmund
+16,2027-01-12,20:30,1. FC Union Berlin,SC Paderborn 07
+16,2027-01-12,20:30,1. FSV Mainz 05,TSG Hoffenheim
+16,2027-01-12,20:30,FC Augsburg,Borussia Mönchengladbach
+16,2027-01-12,20:30,FC Bayern München,Bayer 04 Leverkusen
+16,2027-01-12,20:30,FC Schalke 04,SV Werder Bremen
+16,2027-01-12,20:30,RB Leipzig,VfB Stuttgart
+16,2027-01-12,20:30,SC Freiburg,Hamburger SV
+16,2027-01-12,20:30,SV 07 Elversberg,Eintracht Frankfurt
+17,2027-01-16,15:30,Bayer 04 Leverkusen,FC Schalke 04
+17,2027-01-16,15:30,Borussia Dortmund,SC Freiburg
+17,2027-01-16,15:30,Borussia Mönchengladbach,1. FC Union Berlin
+17,2027-01-16,15:30,Eintracht Frankfurt,FC Bayern München
+17,2027-01-16,15:30,Hamburger SV,FC Augsburg
+17,2027-01-16,15:30,SC Paderborn 07,1. FC Köln
+17,2027-01-16,15:30,SV Werder Bremen,SV 07 Elversberg
+17,2027-01-16,15:30,TSG Hoffenheim,RB Leipzig
+17,2027-01-16,15:30,VfB Stuttgart,1. FSV Mainz 05
+18,2027-01-23,15:30,Bayer 04 Leverkusen,SV 07 Elversberg
+18,2027-01-23,15:30,Borussia Mönchengladbach,RB Leipzig
+18,2027-01-23,15:30,Eintracht Frankfurt,1. FC Union Berlin
+18,2027-01-23,15:30,FC Schalke 04,FC Augsburg
+18,2027-01-23,15:30,Hamburger SV,Borussia Dortmund
+18,2027-01-23,15:30,SC Paderborn 07,1. FSV Mainz 05
+18,2027-01-23,15:30,SV Werder Bremen,SC Freiburg
+18,2027-01-23,15:30,TSG Hoffenheim,1. FC Köln
+18,2027-01-23,15:30,VfB Stuttgart,FC Bayern München
+19,2027-01-30,15:30,1. FC Köln,VfB Stuttgart
+19,2027-01-30,15:30,1. FC Union Berlin,Bayer 04 Leverkusen
+19,2027-01-30,15:30,1. FSV Mainz 05,Hamburger SV
+19,2027-01-30,15:30,Borussia Dortmund,TSG Hoffenheim
+19,2027-01-30,15:30,FC Augsburg,Eintracht Frankfurt
+19,2027-01-30,15:30,FC Bayern München,FC Schalke 04
+19,2027-01-30,15:30,RB Leipzig,SV Werder Bremen
+19,2027-01-30,15:30,SC Freiburg,SC Paderborn 07
+19,2027-01-30,15:30,SV 07 Elversberg,Borussia Mönchengladbach
+20,2027-02-06,15:30,Bayer 04 Leverkusen,FC Augsburg
+20,2027-02-06,15:30,Borussia Mönchengladbach,SC Freiburg
+20,2027-02-06,15:30,Eintracht Frankfurt,1. FSV Mainz 05
+20,2027-02-06,15:30,FC Bayern München,SV 07 Elversberg
+20,2027-02-06,15:30,FC Schalke 04,1. FC Union Berlin
+20,2027-02-06,15:30,Hamburger SV,RB Leipzig
+20,2027-02-06,15:30,SC Paderborn 07,Borussia Dortmund
+20,2027-02-06,15:30,SV Werder Bremen,1. FC Köln
+20,2027-02-06,15:30,VfB Stuttgart,TSG Hoffenheim
+21,2027-02-13,15:30,1. FC Köln,Hamburger SV
+21,2027-02-13,15:30,1. FC Union Berlin,FC Bayern München
+21,2027-02-13,15:30,1. FSV Mainz 05,Borussia Mönchengladbach
+21,2027-02-13,15:30,Borussia Dortmund,VfB Stuttgart
+21,2027-02-13,15:30,FC Augsburg,SV Werder Bremen
+21,2027-02-13,15:30,RB Leipzig,Bayer 04 Leverkusen
+21,2027-02-13,15:30,SC Freiburg,Eintracht Frankfurt
+21,2027-02-13,15:30,SV 07 Elversberg,FC Schalke 04
+21,2027-02-13,15:30,TSG Hoffenheim,SC Paderborn 07
+22,2027-02-20,15:30,Bayer 04 Leverkusen,1. FSV Mainz 05
+22,2027-02-20,15:30,Borussia Mönchengladbach,1. FC Köln
+22,2027-02-20,15:30,Eintracht Frankfurt,RB Leipzig
+22,2027-02-20,15:30,FC Bayern München,FC Augsburg
+22,2027-02-20,15:30,FC Schalke 04,SC Freiburg
+22,2027-02-20,15:30,Hamburger SV,TSG Hoffenheim
+22,2027-02-20,15:30,SV 07 Elversberg,1. FC Union Berlin
+22,2027-02-20,15:30,SV Werder Bremen,Borussia Dortmund
+22,2027-02-20,15:30,VfB Stuttgart,SC Paderborn 07
+23,2027-02-27,15:30,1. FC Köln,Eintracht Frankfurt
+23,2027-02-27,15:30,1. FSV Mainz 05,FC Schalke 04
+23,2027-02-27,15:30,Borussia Dortmund,1. FC Union Berlin
+23,2027-02-27,15:30,FC Augsburg,SV 07 Elversberg
+23,2027-02-27,15:30,RB Leipzig,FC Bayern München
+23,2027-02-27,15:30,SC Freiburg,Bayer 04 Leverkusen
+23,2027-02-27,15:30,SC Paderborn 07,SV Werder Bremen
+23,2027-02-27,15:30,TSG Hoffenheim,Borussia Mönchengladbach
+23,2027-02-27,15:30,VfB Stuttgart,Hamburger SV
+24,2027-03-02,20:30,1. FC Union Berlin,FC Augsburg
+24,2027-03-02,20:30,Bayer 04 Leverkusen,TSG Hoffenheim
+24,2027-03-02,20:30,Borussia Mönchengladbach,VfB Stuttgart
+24,2027-03-02,20:30,Eintracht Frankfurt,Borussia Dortmund
+24,2027-03-02,20:30,FC Bayern München,SC Freiburg
+24,2027-03-02,20:30,FC Schalke 04,1. FC Köln
+24,2027-03-02,20:30,Hamburger SV,SC Paderborn 07
+24,2027-03-02,20:30,SV 07 Elversberg,RB Leipzig
+24,2027-03-02,20:30,SV Werder Bremen,1. FSV Mainz 05
+25,2027-03-06,15:30,1. FC Köln,1. FC Union Berlin
+25,2027-03-06,15:30,1. FSV Mainz 05,SV 07 Elversberg
+25,2027-03-06,15:30,Borussia Dortmund,FC Bayern München
+25,2027-03-06,15:30,Hamburger SV,Eintracht Frankfurt
+25,2027-03-06,15:30,RB Leipzig,FC Schalke 04
+25,2027-03-06,15:30,SC Freiburg,FC Augsburg
+25,2027-03-06,15:30,SC Paderborn 07,Borussia Mönchengladbach
+25,2027-03-06,15:30,TSG Hoffenheim,SV Werder Bremen
+25,2027-03-06,15:30,VfB Stuttgart,Bayer 04 Leverkusen
+26,2027-03-13,15:30,1. FC Union Berlin,SC Freiburg
+26,2027-03-13,15:30,Bayer 04 Leverkusen,1. FC Köln
+26,2027-03-13,15:30,Borussia Mönchengladbach,Hamburger SV
+26,2027-03-13,15:30,Eintracht Frankfurt,SC Paderborn 07
+26,2027-03-13,15:30,FC Augsburg,RB Leipzig
+26,2027-03-13,15:30,FC Bayern München,1. FSV Mainz 05
+26,2027-03-13,15:30,FC Schalke 04,TSG Hoffenheim
+26,2027-03-13,15:30,SV 07 Elversberg,Borussia Dortmund
+26,2027-03-13,15:30,SV Werder Bremen,VfB Stuttgart
+27,2027-03-20,15:30,1. FC Köln,FC Bayern München
+27,2027-03-20,15:30,1. FSV Mainz 05,FC Augsburg
+27,2027-03-20,15:30,Borussia Dortmund,Borussia Mönchengladbach
+27,2027-03-20,15:30,Hamburger SV,SV Werder Bremen
+27,2027-03-20,15:30,RB Leipzig,1. FC Union Berlin
+27,2027-03-20,15:30,SC Freiburg,SV 07 Elversberg
+27,2027-03-20,15:30,SC Paderborn 07,Bayer 04 Leverkusen
+27,2027-03-20,15:30,TSG Hoffenheim,Eintracht Frankfurt
+27,2027-03-20,15:30,VfB Stuttgart,FC Schalke 04
+28,2027-04-03,14:30,1. FC Union Berlin,1. FSV Mainz 05
+28,2027-04-03,14:30,Bayer 04 Leverkusen,Borussia Dortmund
+28,2027-04-03,14:30,Borussia Mönchengladbach,SV Werder Bremen
+28,2027-04-03,14:30,Eintracht Frankfurt,VfB Stuttgart
+28,2027-04-03,14:30,FC Augsburg,TSG Hoffenheim
+28,2027-04-03,14:30,FC Bayern München,Hamburger SV
+28,2027-04-03,14:30,FC Schalke 04,SC Paderborn 07
+28,2027-04-03,14:30,RB Leipzig,SC Freiburg
+28,2027-04-03,14:30,SV 07 Elversberg,1. FC Köln
+29,2027-04-10,14:30,1. FC Köln,FC Augsburg
+29,2027-04-10,14:30,1. FSV Mainz 05,RB Leipzig
+29,2027-04-10,14:30,Borussia Dortmund,FC Schalke 04
+29,2027-04-10,14:30,Borussia Mönchengladbach,Bayer 04 Leverkusen
+29,2027-04-10,14:30,Hamburger SV,1. FC Union Berlin
+29,2027-04-10,14:30,SC Paderborn 07,FC Bayern München
+29,2027-04-10,14:30,SV Werder Bremen,Eintracht Frankfurt
+29,2027-04-10,14:30,TSG Hoffenheim,SC Freiburg
+29,2027-04-10,14:30,VfB Stuttgart,SV 07 Elversberg
+30,2027-04-17,14:30,1. FC Union Berlin,VfB Stuttgart
+30,2027-04-17,14:30,Bayer 04 Leverkusen,SV Werder Bremen
+30,2027-04-17,14:30,Eintracht Frankfurt,Borussia Mönchengladbach
+30,2027-04-17,14:30,FC Augsburg,Borussia Dortmund
+30,2027-04-17,14:30,FC Bayern München,TSG Hoffenheim
+30,2027-04-17,14:30,FC Schalke 04,Hamburger SV
+30,2027-04-17,14:30,RB Leipzig,1. FC Köln
+30,2027-04-17,14:30,SC Freiburg,1. FSV Mainz 05
+30,2027-04-17,14:30,SV 07 Elversberg,SC Paderborn 07
+31,2027-04-24,14:30,1. FC Köln,1. FSV Mainz 05
+31,2027-04-24,14:30,Borussia Dortmund,RB Leipzig
+31,2027-04-24,14:30,Borussia Mönchengladbach,FC Schalke 04
+31,2027-04-24,14:30,Eintracht Frankfurt,Bayer 04 Leverkusen
+31,2027-04-24,14:30,Hamburger SV,SV 07 Elversberg
+31,2027-04-24,14:30,SC Paderborn 07,FC Augsburg
+31,2027-04-24,14:30,SV Werder Bremen,FC Bayern München
+31,2027-04-24,14:30,TSG Hoffenheim,1. FC Union Berlin
+31,2027-04-24,14:30,VfB Stuttgart,SC Freiburg
+32,2027-05-08,14:30,1. FC Union Berlin,SV Werder Bremen
+32,2027-05-08,14:30,1. FSV Mainz 05,Borussia Dortmund
+32,2027-05-08,14:30,Bayer 04 Leverkusen,Hamburger SV
+32,2027-05-08,14:30,FC Augsburg,VfB Stuttgart
+32,2027-05-08,14:30,FC Bayern München,Borussia Mönchengladbach
+32,2027-05-08,14:30,FC Schalke 04,Eintracht Frankfurt
+32,2027-05-08,14:30,RB Leipzig,SC Paderborn 07
+32,2027-05-08,14:30,SC Freiburg,1. FC Köln
+32,2027-05-08,14:30,SV 07 Elversberg,TSG Hoffenheim
+33,2027-05-15,14:30,Bayer 04 Leverkusen,FC Bayern München
+33,2027-05-15,14:30,Borussia Dortmund,1. FC Köln
+33,2027-05-15,14:30,Borussia Mönchengladbach,FC Augsburg
+33,2027-05-15,14:30,Eintracht Frankfurt,SV 07 Elversberg
+33,2027-05-15,14:30,Hamburger SV,SC Freiburg
+33,2027-05-15,14:30,SC Paderborn 07,1. FC Union Berlin
+33,2027-05-15,14:30,SV Werder Bremen,FC Schalke 04
+33,2027-05-15,14:30,TSG Hoffenheim,1. FSV Mainz 05
+33,2027-05-15,14:30,VfB Stuttgart,RB Leipzig
+34,2027-05-22,14:30,1. FC Köln,SC Paderborn 07
+34,2027-05-22,14:30,1. FC Union Berlin,Borussia Mönchengladbach
+34,2027-05-22,14:30,1. FSV Mainz 05,VfB Stuttgart
+34,2027-05-22,14:30,FC Augsburg,Hamburger SV
+34,2027-05-22,14:30,FC Bayern München,Eintracht Frankfurt
+34,2027-05-22,14:30,FC Schalke 04,Bayer 04 Leverkusen
+34,2027-05-22,14:30,RB Leipzig,TSG Hoffenheim
+34,2027-05-22,14:30,SC Freiburg,Borussia Dortmund
+34,2027-05-22,14:30,SV 07 Elversberg,SV Werder Bremen

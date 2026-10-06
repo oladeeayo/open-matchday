@@ -1,0 +1,71 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-07,18:00,SV Waldhof Mannheim,Fortuna Düsseldorf,2,1,H,1,0,H,,,,,,,,,,,,,"18,48,56",openligadb
+1,2026-08-08,13:00,FC Ingolstadt 04,Würzburger Kickers,2,2,D,2,2,D,,,,,,,,,,,,,"16,21,43,48",openligadb
+1,2026-08-08,13:00,MSV Duisburg,SV Meppen,3,0,H,1,0,H,,,,,,,,,,,,,"8,64,84",openligadb
+1,2026-08-08,13:00,SV Wehen Wiesbaden,Preußen Münster,1,3,A,1,1,D,,,,,,,,,,,,,"27,37,77,90",openligadb
+1,2026-08-08,13:00,TSV Havelse,VfB Stuttgart II,2,3,A,1,1,D,,,,,,,,,,,,,"1,42,49,70,78",openligadb
+1,2026-08-08,13:00,Viktoria Köln,Jahn Regensburg,2,5,A,0,2,A,,,,,,,,,,,,,"28,38,53,58,66,74,82",openligadb
+1,2026-08-08,15:30,SG Sonnenhof Großaspach,Fortuna Köln,1,0,H,1,0,H,,,,,,,,,,,,,33,openligadb
+1,2026-08-09,12:30,TSG 1899 Hoffenheim II,Hansa Rostock,2,3,A,0,0,D,,,,,,,,,,,,,"13,22,33,44,51",openligadb
+1,2026-08-09,15:30,1. FC Saarbrücken,Rot-Weiss Essen,5,2,H,2,2,D,,,,,,,,,,,,,"10,30,33,45,74,89,96",openligadb
+1,2026-08-09,18:30,Alemannia Aachen,SC Verl,4,1,H,0,1,A,,,,,,,,,,,,,"22,52,60,82,88",openligadb
+2,2026-08-14,18:00,Würzburger Kickers,SV Wehen Wiesbaden,4,0,H,2,0,H,,,,,,,,,,,,,"17,38,77,84",openligadb
+2,2026-08-15,13:00,Fortuna Düsseldorf,TSG 1899 Hoffenheim II,0,2,A,0,1,A,,,,,,,,,,,,,"3,52",openligadb
+2,2026-08-15,13:00,Fortuna Köln,Alemannia Aachen,1,1,D,0,1,A,,,,,,,,,,,,,"12,61",openligadb
+2,2026-08-15,13:00,Preußen Münster,FC Ingolstadt 04,1,1,D,1,1,D,,,,,,,,,,,,,"23,28",openligadb
+2,2026-08-15,13:00,Rot-Weiss Essen,TSV Havelse,1,0,H,0,0,D,,,,,,,,,,,,,65,openligadb
+2,2026-08-15,13:00,SV Meppen,SG Sonnenhof Großaspach,2,0,H,1,0,H,,,,,,,,,,,,,"7,59",openligadb
+2,2026-08-15,15:30,SC Verl,MSV Duisburg,2,4,A,1,0,H,,,,,,,,,,,,,"8,46,61,62,69,72",openligadb
+2,2026-08-16,12:30,Hansa Rostock,SV Waldhof Mannheim,3,3,D,1,2,A,,,,,,,,,,,,,"7,29,46,50,55,76",openligadb
+2,2026-08-16,15:30,Jahn Regensburg,1. FC Saarbrücken,0,1,A,0,0,D,,,,,,,,,,,,,95,openligadb
+2,2026-08-16,18:30,VfB Stuttgart II,Viktoria Köln,1,3,A,0,1,A,,,,,,,,,,,,,"46,50,53,61",openligadb
+3,2026-08-28,18:00,Fortuna Düsseldorf,VfB Stuttgart II,1,0,H,0,0,D,,,,,,,,,,,,,59,openligadb
+3,2026-08-29,13:00,Alemannia Aachen,SV Meppen,0,3,A,0,3,A,,,,,,,,,,,,,"9,11,43",openligadb
+3,2026-08-29,13:00,MSV Duisburg,Würzburger Kickers,3,0,H,2,0,H,,,,,,,,,,,,,"9,15,71",openligadb
+3,2026-08-29,13:00,SC Verl,Fortuna Köln,1,2,A,0,0,D,,,,,,,,,,,,,"62,89,90",openligadb
+3,2026-08-29,13:00,SG Sonnenhof Großaspach,FC Ingolstadt 04,0,2,A,0,1,A,,,,,,,,,,,,,"4,55",openligadb
+3,2026-08-29,13:00,SV Wehen Wiesbaden,Rot-Weiss Essen,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
+3,2026-08-29,15:30,TSG 1899 Hoffenheim II,Jahn Regensburg,5,1,H,2,0,H,,,,,,,,,,,,,"18,26,60,62,69,83",openligadb
+3,2026-08-30,12:30,1. FC Saarbrücken,Hansa Rostock,2,4,A,0,1,A,,,,,,,,,,,,,"32,47,55,60,73,77",openligadb
+3,2026-08-30,15:30,TSV Havelse,SV Waldhof Mannheim,3,2,H,1,2,A,,,,,,,,,,,,,"21,23,25,57,84",openligadb
+3,2026-08-30,18:30,Viktoria Köln,Preußen Münster,4,1,H,3,1,H,,,,,,,,,,,,,"6,12,20,43,89",openligadb
+4,2026-09-04,18:00,FC Ingolstadt 04,Alemannia Aachen,0,3,A,0,3,A,,,,,,,,,,,,,"6,8,11",openligadb
+4,2026-09-05,13:00,Hansa Rostock,SV Wehen Wiesbaden,1,1,D,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-05,13:00,Jahn Regensburg,MSV Duisburg,1,2,A,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-05,13:00,Preußen Münster,TSV Havelse,2,1,H,1,1,D,,,,,,,,,,,,,,openligadb
+4,2026-09-05,13:00,SV Meppen,1. FC Saarbrücken,1,6,A,1,3,A,,,,,,,,,,,,,,openligadb
+4,2026-09-05,13:00,SV Waldhof Mannheim,SC Verl,0,1,A,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-05,15:30,Rot-Weiss Essen,Viktoria Köln,1,0,H,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-06,12:30,Würzburger Kickers,VfB Stuttgart II,1,2,A,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-06,15:30,SG Sonnenhof Großaspach,TSG 1899 Hoffenheim II,1,0,H,0,0,D,,,,,,,,,,,,,,openligadb
+4,2026-09-06,18:30,Fortuna Köln,Fortuna Düsseldorf,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
+5,2026-09-11,18:00,Viktoria Köln,Hansa Rostock,4,0,H,2,0,H,,,,,,,,,,,,,,openligadb
+5,2026-09-12,13:00,1. FC Saarbrücken,FC Ingolstadt 04,0,1,A,0,0,D,,,,,,,,,,,,,,openligadb
+5,2026-09-12,13:00,Fortuna Düsseldorf,MSV Duisburg,2,1,H,0,0,D,,,,,,,,,,,,,,openligadb
+5,2026-09-12,13:00,Rot-Weiss Essen,Würzburger Kickers,6,2,H,3,0,H,,,,,,,,,,,,,,openligadb
+5,2026-09-12,13:00,SC Verl,SV Meppen,2,1,H,0,0,D,,,,,,,,,,,,,,openligadb
+5,2026-09-12,13:00,TSV Havelse,SG Sonnenhof Großaspach,2,2,D,0,0,D,,,,,,,,,,,,,,openligadb
+5,2026-09-12,15:30,Alemannia Aachen,Jahn Regensburg,2,2,D,2,1,H,,,,,,,,,,,,,"9,23,38,51",openligadb
+5,2026-09-13,12:30,VfB Stuttgart II,Preußen Münster,1,2,A,1,1,D,,,,,,,,,,,,,"8,14,75",openligadb
+5,2026-09-13,15:30,SV Wehen Wiesbaden,SV Waldhof Mannheim,0,1,A,0,1,A,,,,,,,,,,,,,21,openligadb
+5,2026-09-13,18:30,TSG 1899 Hoffenheim II,Fortuna Köln,2,2,D,2,1,H,,,,,,,,,,,,,"27,30,37,93",openligadb
+6,2026-09-15,18:00,Jahn Regensburg,Fortuna Düsseldorf,1,2,A,1,1,D,,,,,,,,,,,,,"18,22,79",openligadb
+6,2026-09-15,18:00,MSV Duisburg,TSV Havelse,2,1,H,0,1,A,,,,,,,,,,,,,"39,79,94",openligadb
+6,2026-09-15,18:00,SG Sonnenhof Großaspach,SC Verl,1,1,D,0,1,A,,,,,,,,,,,,,"4,86",openligadb
+6,2026-09-15,18:00,SV Meppen,Viktoria Köln,1,3,A,0,1,A,,,,,,,,,,,,,"33,69,70,92",openligadb
+6,2026-09-15,18:00,Würzburger Kickers,Alemannia Aachen,1,0,H,1,0,H,,,,,,,,,,,,,41,openligadb
+6,2026-09-16,18:00,FC Ingolstadt 04,TSG 1899 Hoffenheim II,1,2,A,1,1,D,,,,,,,,,,,,,"31,43,84",openligadb
+6,2026-09-16,18:00,Fortuna Köln,SV Wehen Wiesbaden,0,2,A,0,2,A,,,,,,,,,,,,,"13,44",openligadb
+6,2026-09-16,18:00,Hansa Rostock,VfB Stuttgart II,3,2,H,1,0,H,,,,,,,,,,,,,"23,50,54,65,88",openligadb
+6,2026-09-16,18:00,Preußen Münster,1. FC Saarbrücken,3,3,D,1,3,A,,,,,,,,,,,,,"4,19,21,29,57,62",openligadb
+6,2026-09-16,18:00,SV Waldhof Mannheim,Rot-Weiss Essen,1,2,A,0,0,D,,,,,,,,,,,,,"63,70,72",openligadb
+7,2026-09-18,18:00,SC Verl,Würzburger Kickers,2,1,H,2,0,H,,,,,,,,,,,,,"27,44,47",openligadb
+7,2026-09-19,13:00,Alemannia Aachen,Fortuna Düsseldorf,1,0,H,0,0,D,,,,,,,,,,,,,10,openligadb
+7,2026-09-19,13:00,TSG 1899 Hoffenheim II,SV Meppen,1,0,H,0,0,D,,,,,,,,,,,,,30,openligadb
+7,2026-09-19,13:00,VfB Stuttgart II,Jahn Regensburg,3,3,D,0,0,D,,,,,,,,,,,,,"13,22,34,36,45,75",openligadb
+7,2026-09-19,13:00,Viktoria Köln,FC Ingolstadt 04,3,0,H,0,0,D,,,,,,,,,,,,,"60,78,85",openligadb
+7,2026-09-19,15:30,1. FC Saarbrücken,SG Sonnenhof Großaspach,2,1,H,0,0,D,,,,,,,,,,,,,"51,64,97",openligadb
+7,2026-09-20,12:30,Rot-Weiss Essen,Hansa Rostock,1,1,D,0,0,D,,,,,,,,,,,,,"54,89",openligadb
+7,2026-09-20,15:30,SV Waldhof Mannheim,Preußen Münster,2,0,H,0,0,D,,,,,,,,,,,,,,openligadb
+7,2026-09-20,18:30,SV Wehen Wiesbaden,MSV Duisburg,1,4,A,1,3,A,,,,,,,,,,,,,,openligadb
+7,2026-09-25,18:00,TSV Havelse,Fortuna Köln,1,3,A,0,1,A,,,,,,,,,,,,,"39,67,83,90",openligadb

@@ -1,0 +1,44 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-01,15:00,Ayr,Arbroath,2,0,H,1,0,H,6,6,4,3,7,9,3,7,0,0,0,0,,fd.co.uk
+1,2026-08-01,15:00,Inverness C,Dunfermline,0,0,D,0,0,D,19,7,7,2,8,11,5,2,1,1,0,0,,fd.co.uk
+1,2026-08-01,15:00,Livingston,Queens Park,2,0,H,0,0,D,20,6,7,2,11,6,9,0,1,1,0,0,,fd.co.uk
+1,2026-08-01,15:00,Morton,Partick,0,1,A,0,0,D,7,13,0,5,11,10,4,1,3,2,0,0,,fd.co.uk
+1,2026-08-01,15:00,Raith Rvs,Stenhousemuir,1,1,D,1,1,D,14,3,5,2,5,13,4,2,1,3,0,0,,fd.co.uk
+2,2026-08-07,19:30,Partick,Livingston,2,0,H,2,0,H,14,9,5,1,12,13,9,10,2,2,0,0,,fd.co.uk
+2,2026-08-08,15:00,Arbroath,Inverness C,0,0,D,0,0,D,2,9,0,5,11,13,1,6,3,3,0,0,,fd.co.uk
+2,2026-08-08,15:00,Dunfermline,Ayr,1,1,D,1,1,D,9,5,5,2,7,7,12,6,1,0,0,0,,fd.co.uk
+2,2026-08-08,15:00,Queens Park,Raith Rvs,1,2,A,0,1,A,9,10,4,4,14,12,4,2,1,2,0,0,,fd.co.uk
+2,2026-08-08,15:00,Stenhousemuir,Morton,2,0,H,0,0,D,13,11,4,3,16,7,9,4,1,1,0,0,,fd.co.uk
+3,2026-08-21,19:30,Inverness C,Partick,1,1,D,0,1,A,8,9,3,6,12,15,5,3,1,2,0,0,,fd.co.uk
+3,2026-08-22,15:00,Livingston,Dunfermline,2,0,H,1,0,H,11,17,4,5,9,13,4,6,2,0,0,0,,fd.co.uk
+3,2026-08-22,15:00,Morton,Arbroath,1,2,A,0,1,A,7,7,3,6,15,14,1,6,3,0,0,0,,fd.co.uk
+3,2026-08-22,15:00,Queens Park,Stenhousemuir,0,2,A,0,0,D,1,8,0,4,13,13,4,7,1,2,0,0,,fd.co.uk
+3,2026-08-22,15:00,Raith Rvs,Ayr,2,0,H,2,0,H,14,3,5,0,13,6,5,2,2,1,0,1,,fd.co.uk
+4,2026-08-28,19:30,Dunfermline,Raith Rvs,1,0,H,0,0,D,13,7,6,3,13,20,3,3,2,1,0,0,,fd.co.uk
+4,2026-08-29,15:00,Arbroath,Livingston,1,0,H,0,0,D,5,7,2,1,12,16,2,4,3,2,1,1,,fd.co.uk
+4,2026-08-29,15:00,Ayr,Morton,1,1,D,1,0,H,7,8,4,2,10,14,3,4,1,3,0,0,,fd.co.uk
+4,2026-08-29,15:00,Partick,Queens Park,0,0,D,0,0,D,18,2,5,0,7,11,19,2,1,2,0,0,,fd.co.uk
+4,2026-08-29,15:00,Stenhousemuir,Inverness C,3,1,H,1,0,H,7,3,3,3,7,5,8,6,1,4,0,0,,fd.co.uk
+5,2026-09-04,19:30,Livingston,Stenhousemuir,0,1,A,0,1,A,9,7,3,2,16,7,5,2,4,1,0,0,,fd.co.uk
+5,2026-09-05,15:00,Arbroath,Dunfermline,1,1,D,0,0,D,2,15,1,4,12,8,3,5,0,2,0,0,,fd.co.uk
+5,2026-09-05,15:00,Inverness C,Raith Rvs,0,2,A,0,1,A,6,6,1,3,11,14,2,4,1,1,0,0,,fd.co.uk
+5,2026-09-05,15:00,Partick,Ayr,1,0,H,1,0,H,8,4,3,2,14,16,5,3,2,3,0,0,,fd.co.uk
+5,2026-09-05,15:00,Queens Park,Morton,2,1,H,1,1,D,14,8,7,6,19,6,6,6,4,1,0,0,,fd.co.uk
+6,2026-09-11,19:30,Morton,Livingston,1,4,A,0,2,A,7,20,3,6,15,17,4,4,1,1,0,0,,fd.co.uk
+6,2026-09-12,15:00,Ayr,Inverness C,1,3,A,1,2,A,6,5,2,4,9,15,8,5,1,3,0,0,,fd.co.uk
+6,2026-09-12,15:00,Dunfermline,Queens Park,2,0,H,2,0,H,11,0,6,0,16,13,6,9,4,2,0,0,,fd.co.uk
+6,2026-09-12,15:00,Raith Rvs,Arbroath,4,0,H,3,0,H,15,1,8,0,13,11,6,1,2,0,0,1,,fd.co.uk
+7,2026-09-15,19:45,Stenhousemuir,Partick,1,0,H,0,0,D,6,9,2,4,12,14,3,12,3,2,0,0,,fd.co.uk
+7,2026-09-18,19:30,Queens Park,Ayr,0,2,A,0,1,A,6,7,5,6,12,11,3,6,2,3,0,0,,fd.co.uk
+7,2026-09-19,15:00,Livingston,Inverness C,2,2,D,1,0,H,6,10,3,5,9,18,0,4,2,1,0,0,,fd.co.uk
+7,2026-09-19,15:00,Morton,Dunfermline,0,1,A,0,0,D,4,10,2,4,8,11,2,8,1,0,0,0,,fd.co.uk
+7,2026-09-19,15:00,Partick,Raith Rvs,0,0,D,0,0,D,11,2,4,1,10,17,9,4,1,3,0,0,,fd.co.uk
+7,2026-09-19,15:00,Stenhousemuir,Arbroath,1,0,H,1,0,H,6,4,4,3,15,11,5,4,3,2,0,0,,fd.co.uk
+8,2026-09-25,19:45,Arbroath,Queens Park,2,1,H,2,0,H,5,11,2,3,9,12,1,9,2,3,0,0,,fd.co.uk
+8,2026-09-25,19:45,Ayr,Stenhousemuir,0,1,A,0,1,A,15,6,4,3,14,10,10,3,3,3,0,0,,fd.co.uk
+8,2026-09-25,19:45,Inverness C,Morton,2,0,H,1,0,H,10,4,5,2,9,11,7,0,1,2,0,0,,fd.co.uk
+8,2026-09-25,19:45,Raith Rvs,Livingston,0,2,A,0,0,D,8,7,3,3,18,13,4,2,3,2,0,0,,fd.co.uk
+9,2026-10-03,15:00,Greenock Morton,Raith Rovers,1,2,A,0,1,A,6,6,5,4,6,9,4,3,1,1,0,0,,espn
+9,2026-10-03,15:00,Livingston,Ayr United,1.0,2.0,A,,,,,,,,,,,,,,,,,espn
+9,2026-10-03,15:00,Livingston,Ayr,1,2,A,1,2,A,21,2,5,2,14,13,10,0,3,3,0,1,,fd.co.uk
+9,2026-10-03,15:00,Partick Thistle,Arbroath,3,0,H,2,0,H,17,4,9,1,7,6,9,4,0,2,0,0,,espn

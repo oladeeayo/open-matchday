@@ -1,0 +1,36 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-22,18:00,AEK,Iraklis,4,0,H,2,0,H,24,7,11,1,19,17,5,2,1,0,0,0,,fd.co.uk
+1,2026-08-22,18:00,Kalamata,Aris,2,3,A,1,1,D,7,19,3,7,15,23,1,10,3,3,1,0,,fd.co.uk
+1,2026-08-22,19:30,Olympiakos,Atromitos,1,0,H,0,0,D,26,8,10,1,14,14,14,4,3,6,1,0,,fd.co.uk
+1,2026-08-23,17:30,OFI Crete,Volos NFC,2,0,H,2,0,H,9,10,2,1,16,17,5,2,1,3,0,0,,fd.co.uk
+1,2026-08-23,19:00,PAOK,Levadeiakos,4,0,H,2,0,H,13,8,5,1,21,13,3,1,0,0,0,0,,fd.co.uk
+1,2026-08-23,19:30,Panetolikos,Asteras Tripolis,3,1,H,1,0,H,4,14,4,6,19,14,1,3,0,0,0,0,,fd.co.uk
+2,2026-08-29,17:30,Volos NFC,Iraklis,1,1,D,0,1,A,17,10,3,1,18,23,2,2,4,3,0,1,,fd.co.uk
+2,2026-08-29,19:30,Panetolikos,Kalamata,2,0,H,1,0,H,20,11,4,3,22,15,4,3,3,5,0,0,,fd.co.uk
+2,2026-08-30,17:30,Aris,OFI Crete,2,1,H,1,0,H,17,10,10,3,16,23,3,1,5,2,0,0,,fd.co.uk
+2,2026-08-30,18:15,Atromitos,PAOK,1,2,A,1,1,D,16,14,3,4,19,18,2,6,1,1,0,0,,fd.co.uk
+2,2026-08-30,19:00,Asteras Tripolis,Olympiakos,0,1,A,0,1,A,10,15,3,7,8,18,3,6,3,4,0,0,,fd.co.uk
+2,2026-08-30,19:00,Kifisia,AEK,1,1,D,0,0,D,14,9,3,5,20,14,1,2,5,2,1,0,,fd.co.uk
+3,2026-08-31,17:30,Levadeiakos,Panathinaikos,0,2,A,0,1,A,8,15,2,6,18,19,5,5,2,4,1,0,,fd.co.uk
+3,2026-09-05,17:00,Volos NFC,Olympiakos,1,1,D,0,1,A,6,17,1,4,15,19,0,9,6,1,0,0,,fd.co.uk
+3,2026-09-05,19:00,AEK,Aris,5,0,H,1,0,H,21,7,10,2,16,17,2,2,2,0,0,0,,fd.co.uk
+3,2026-09-06,17:00,Atromitos,Kalamata,1,1,D,1,0,H,10,12,2,3,17,14,8,2,2,5,0,1,,fd.co.uk
+3,2026-09-06,17:30,OFI Crete,Kifisia,2,0,H,2,0,H,5,16,3,3,12,18,1,9,2,2,0,0,,fd.co.uk
+3,2026-09-06,18:00,Levadeiakos,Panetolikos,0,2,A,0,0,D,17,9,0,3,11,18,8,2,0,3,0,0,,fd.co.uk
+3,2026-09-06,19:30,Panathinaikos,PAOK,3,1,H,2,0,H,25,5,11,2,19,11,5,2,3,1,1,1,,fd.co.uk
+4,2026-09-07,16:00,Asteras Tripolis,Iraklis,0,2,A,0,1,A,14,6,5,2,15,12,7,4,3,3,0,0,,fd.co.uk
+4,2026-09-10,19:15,Panathinaikos,Kifisia,3,1,H,0,0,D,17,6,8,4,18,14,11,1,1,4,0,1,,fd.co.uk
+4,2026-09-12,17:00,Olympiakos,OFI Crete,0,1,A,0,0,D,20,13,4,4,12,6,8,2,1,0,0,0,,fd.co.uk
+4,2026-09-12,19:00,Iraklis,Atromitos,1,1,D,0,1,A,10,10,2,4,19,19,1,0,4,4,0,0,,fd.co.uk
+4,2026-09-13,16:00,Kalamata,Volos NFC,3,1,H,0,1,A,15,11,6,5,16,14,6,3,2,4,0,0,,fd.co.uk
+4,2026-09-13,17:00,Asteras Tripolis,AEK,1,1,D,1,1,D,13,21,5,3,18,11,7,5,2,1,0,0,,fd.co.uk
+4,2026-09-13,19:00,Kifisia,Levadeiakos,0,0,D,0,0,D,10,5,4,1,16,14,9,4,3,4,0,0,,fd.co.uk
+4,2026-09-13,19:00,PAOK,Aris,2,0,H,2,0,H,13,15,5,3,15,15,3,7,3,1,0,0,,fd.co.uk
+4,2026-09-13,19:30,Panathinaikos,Panetolikos,3,0,H,2,0,H,27,5,9,2,17,9,8,2,1,2,0,0,,fd.co.uk
+5,2026-09-19,17:00,Atromitos,Kifisia,1,2,A,0,0,D,14,6,5,3,16,25,3,2,2,6,0,0,,fd.co.uk
+5,2026-09-19,17:30,Aris,Iraklis,0,0,D,0,0,D,23,6,2,1,13,17,7,4,1,3,0,0,,fd.co.uk
+5,2026-09-20,15:00,Levadeiakos,Olympiakos,0,1,A,0,0,D,8,18,4,3,17,11,4,9,3,2,0,0,,fd.co.uk
+5,2026-09-20,16:00,Volos NFC,AEK,1,2,A,0,0,D,12,11,4,2,17,17,3,5,2,3,2,0,,fd.co.uk
+5,2026-09-20,17:00,OFI Crete,Asteras Tripolis,2,2,D,1,1,D,17,7,6,3,7,16,5,2,3,2,0,0,,fd.co.uk
+5,2026-09-20,17:30,Kalamata,Panathinaikos,0,1,A,0,1,A,13,14,4,5,15,16,3,6,3,1,0,0,,fd.co.uk
+5,2026-09-20,19:00,Panetolikos,PAOK,1,3,A,0,2,A,2,16,1,5,12,22,7,5,4,2,0,0,,fd.co.uk

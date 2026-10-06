@@ -1,0 +1,451 @@
+gw,date,time,home,away
+8,2026-09-26,15:00,Port Vale,Northampton Town
+9,2026-10-03,15:00,Colchester United,Port Vale
+9,2026-10-03,15:00,Northampton Town,Oldham Athletic
+9,2026-10-03,15:00,Walsall,Crawley Town
+10,2026-10-10,12:30,Oldham Athletic,Accrington Stanley
+10,2026-10-10,12:30,Swindon Town,Crewe Alexandra
+10,2026-10-10,15:00,Bristol Rovers,Barnet
+10,2026-10-10,15:00,Cheltenham Town,Salford City
+10,2026-10-10,15:00,Crawley Town,Chesterfield
+10,2026-10-10,15:00,Fleetwood Town,Walsall
+10,2026-10-10,15:00,Newport County,Colchester United
+10,2026-10-10,15:00,Port Vale,Grimsby Town
+10,2026-10-10,15:00,Rotherham United,Gillingham
+10,2026-10-10,15:00,Shrewsbury Town,Exeter City
+10,2026-10-10,15:00,Tranmere Rovers,Rochdale
+10,2026-10-10,15:00,York City,Northampton Town
+11,2026-10-17,12:30,Fleetwood Town,Rotherham United
+11,2026-10-17,12:30,Shrewsbury Town,Bristol Rovers
+11,2026-10-17,15:00,Accrington Stanley,Gillingham
+11,2026-10-17,15:00,Colchester United,Exeter City
+11,2026-10-17,15:00,Crewe Alexandra,Rochdale
+11,2026-10-17,15:00,Grimsby Town,Northampton Town
+11,2026-10-17,15:00,Newport County,York City
+11,2026-10-17,15:00,Oldham Athletic,Cheltenham Town
+11,2026-10-17,15:00,Port Vale,Chesterfield
+11,2026-10-17,15:00,Salford City,Crawley Town
+11,2026-10-17,15:00,Swindon Town,Walsall
+11,2026-10-17,15:00,Tranmere Rovers,Barnet
+12,2026-10-20,19:45,Barnet,Swindon Town
+12,2026-10-20,19:45,Bristol Rovers,Salford City
+12,2026-10-20,19:45,Cheltenham Town,Fleetwood Town
+12,2026-10-20,19:45,Chesterfield,Colchester United
+12,2026-10-20,19:45,Crawley Town,Shrewsbury Town
+12,2026-10-20,19:45,Exeter City,Crewe Alexandra
+12,2026-10-20,19:45,Northampton Town,Tranmere Rovers
+12,2026-10-20,19:45,Rochdale,Grimsby Town
+12,2026-10-20,19:45,Rotherham United,Newport County
+12,2026-10-20,19:45,Walsall,Oldham Athletic
+12,2026-10-20,19:45,York City,Accrington Stanley
+12,2026-10-20,20:00,Gillingham,Port Vale
+13,2026-10-24,12:30,Bristol Rovers,Swindon Town
+13,2026-10-24,12:30,Cheltenham Town,Newport County
+13,2026-10-24,12:30,Northampton Town,Colchester United
+13,2026-10-24,15:00,Barnet,Oldham Athletic
+13,2026-10-24,15:00,Chesterfield,Crewe Alexandra
+13,2026-10-24,15:00,Crawley Town,Tranmere Rovers
+13,2026-10-24,15:00,Exeter City,Fleetwood Town
+13,2026-10-24,15:00,Gillingham,Grimsby Town
+13,2026-10-24,15:00,Rochdale,Accrington Stanley
+13,2026-10-24,15:00,Rotherham United,Shrewsbury Town
+13,2026-10-24,15:00,York City,Port Vale
+13,2026-10-26,21:00,Walsall,Salford City
+9,2026-10-27,20:45,Barnet,York City
+14,2026-10-30,20:45,Newport County,Chesterfield
+14,2026-10-31,13:30,Grimsby Town,York City
+14,2026-10-31,13:30,Port Vale,Rochdale
+14,2026-10-31,16:00,Accrington Stanley,Northampton Town
+14,2026-10-31,16:00,Colchester United,Walsall
+14,2026-10-31,16:00,Crewe Alexandra,Barnet
+14,2026-10-31,16:00,Fleetwood Town,Bristol Rovers
+14,2026-10-31,16:00,Oldham Athletic,Crawley Town
+14,2026-10-31,16:00,Salford City,Exeter City
+14,2026-10-31,16:00,Shrewsbury Town,Gillingham
+14,2026-10-31,16:00,Swindon Town,Rotherham United
+14,2026-10-31,16:00,Tranmere Rovers,Cheltenham Town
+15,2026-11-14,13:30,Exeter City,Cheltenham Town
+15,2026-11-14,16:00,Bristol Rovers,Chesterfield
+15,2026-11-14,16:00,Colchester United,Gillingham
+15,2026-11-14,16:00,Crewe Alexandra,Newport County
+15,2026-11-14,16:00,Port Vale,Accrington Stanley
+15,2026-11-14,16:00,Rochdale,York City
+15,2026-11-14,16:00,Rotherham United,Crawley Town
+15,2026-11-14,16:00,Salford City,Northampton Town
+15,2026-11-14,16:00,Shrewsbury Town,Oldham Athletic
+15,2026-11-14,16:00,Swindon Town,Grimsby Town
+15,2026-11-14,16:00,Walsall,Barnet
+15,2026-11-14,18:30,Fleetwood Town,Tranmere Rovers
+16,2026-11-21,13:30,Gillingham,Crewe Alexandra
+16,2026-11-21,13:30,Newport County,Swindon Town
+16,2026-11-21,16:00,Accrington Stanley,Salford City
+16,2026-11-21,16:00,Barnet,Port Vale
+16,2026-11-21,16:00,Cheltenham Town,Bristol Rovers
+16,2026-11-21,16:00,Chesterfield,Shrewsbury Town
+16,2026-11-21,16:00,Crawley Town,Fleetwood Town
+16,2026-11-21,16:00,Grimsby Town,Rotherham United
+16,2026-11-21,16:00,Northampton Town,Rochdale
+16,2026-11-21,16:00,Oldham Athletic,Exeter City
+16,2026-11-21,16:00,Tranmere Rovers,Colchester United
+16,2026-11-21,16:00,York City,Walsall
+8,2026-11-24,20:45,Crawley Town,Barnet
+17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers
+17,2026-11-28,13:30,Exeter City,Crawley Town
+17,2026-11-28,16:00,Colchester United,York City
+17,2026-11-28,16:00,Crewe Alexandra,Grimsby Town
+17,2026-11-28,16:00,Fleetwood Town,Accrington Stanley
+17,2026-11-28,16:00,Port Vale,Newport County
+17,2026-11-28,16:00,Rochdale,Barnet
+17,2026-11-28,16:00,Rotherham United,Oldham Athletic
+17,2026-11-28,16:00,Salford City,Gillingham
+17,2026-11-28,16:00,Shrewsbury Town,Cheltenham Town
+17,2026-11-28,16:00,Swindon Town,Chesterfield
+17,2026-11-28,16:00,Walsall,Northampton Town
+18,2026-12-01,20:45,Accrington Stanley,Crewe Alexandra
+18,2026-12-01,20:45,Barnet,Rotherham United
+18,2026-12-01,20:45,Cheltenham Town,Rochdale
+18,2026-12-01,20:45,Chesterfield,Exeter City
+18,2026-12-01,20:45,Crawley Town,Port Vale
+18,2026-12-01,20:45,Gillingham,Swindon Town
+18,2026-12-01,20:45,Grimsby Town,Colchester United
+18,2026-12-01,20:45,Newport County,Walsall
+18,2026-12-01,20:45,Northampton Town,Fleetwood Town
+18,2026-12-01,20:45,Oldham Athletic,Bristol Rovers
+18,2026-12-01,20:45,Tranmere Rovers,Salford City
+18,2026-12-01,20:45,York City,Shrewsbury Town
+19,2026-12-12,13:30,Chesterfield,Grimsby Town
+19,2026-12-12,13:30,Tranmere Rovers,York City
+19,2026-12-12,16:00,Barnet,Northampton Town
+19,2026-12-12,16:00,Bristol Rovers,Accrington Stanley
+19,2026-12-12,16:00,Cheltenham Town,Crewe Alexandra
+19,2026-12-12,16:00,Crawley Town,Newport County
+19,2026-12-12,16:00,Exeter City,Rochdale
+19,2026-12-12,16:00,Fleetwood Town,Swindon Town
+19,2026-12-12,16:00,Oldham Athletic,Gillingham
+19,2026-12-12,16:00,Rotherham United,Walsall
+19,2026-12-12,16:00,Salford City,Colchester United
+19,2026-12-12,16:00,Shrewsbury Town,Port Vale
+20,2026-12-17,21:00,Crewe Alexandra,Salford City
+20,2026-12-19,13:30,Colchester United,Fleetwood Town
+20,2026-12-19,13:30,Northampton Town,Exeter City
+20,2026-12-19,16:00,Accrington Stanley,Chesterfield
+20,2026-12-19,16:00,Gillingham,Cheltenham Town
+20,2026-12-19,16:00,Grimsby Town,Barnet
+20,2026-12-19,16:00,Newport County,Oldham Athletic
+20,2026-12-19,16:00,Port Vale,Rotherham United
+20,2026-12-19,16:00,Rochdale,Bristol Rovers
+20,2026-12-19,16:00,Swindon Town,Tranmere Rovers
+20,2026-12-19,16:00,Walsall,Shrewsbury Town
+20,2026-12-19,16:00,York City,Crawley Town
+21,2026-12-26,16:00,Barnet,Colchester United
+21,2026-12-26,16:00,Bristol Rovers,Walsall
+21,2026-12-26,16:00,Cheltenham Town,Port Vale
+21,2026-12-26,16:00,Chesterfield,Northampton Town
+21,2026-12-26,16:00,Crawley Town,Gillingham
+21,2026-12-26,16:00,Exeter City,Newport County
+21,2026-12-26,16:00,Fleetwood Town,Crewe Alexandra
+21,2026-12-26,16:00,Oldham Athletic,York City
+21,2026-12-26,16:00,Rotherham United,Rochdale
+21,2026-12-26,16:00,Salford City,Grimsby Town
+21,2026-12-26,16:00,Shrewsbury Town,Swindon Town
+21,2026-12-26,16:00,Tranmere Rovers,Accrington Stanley
+22,2026-12-29,20:45,Accrington Stanley,Rotherham United
+22,2026-12-29,20:45,Colchester United,Crawley Town
+22,2026-12-29,20:45,Crewe Alexandra,Tranmere Rovers
+22,2026-12-29,20:45,Gillingham,Barnet
+22,2026-12-29,20:45,Grimsby Town,Oldham Athletic
+22,2026-12-29,20:45,Newport County,Shrewsbury Town
+22,2026-12-29,20:45,Northampton Town,Cheltenham Town
+22,2026-12-29,20:45,Port Vale,Bristol Rovers
+22,2026-12-29,20:45,Rochdale,Salford City
+22,2026-12-29,20:45,Swindon Town,Exeter City
+22,2026-12-29,20:45,Walsall,Chesterfield
+22,2026-12-29,20:45,York City,Fleetwood Town
+23,2027-01-01,16:00,Accrington Stanley,Shrewsbury Town
+23,2027-01-01,16:00,Colchester United,Rotherham United
+23,2027-01-01,16:00,Crewe Alexandra,Oldham Athletic
+23,2027-01-01,16:00,Grimsby Town,Tranmere Rovers
+23,2027-01-01,16:00,Newport County,Barnet
+23,2027-01-01,16:00,Port Vale,Fleetwood Town
+23,2027-01-01,16:00,Rochdale,Chesterfield
+23,2027-01-01,16:00,Swindon Town,Crawley Town
+23,2027-01-01,16:00,Walsall,Cheltenham Town
+23,2027-01-01,16:00,York City,Salford City
+23,2027-01-02,16:00,Gillingham,Exeter City
+23,2027-01-02,16:00,Northampton Town,Bristol Rovers
+24,2027-01-09,13:30,Barnet,Grimsby Town
+24,2027-01-09,13:30,Chesterfield,Accrington Stanley
+24,2027-01-09,13:30,Shrewsbury Town,Walsall
+24,2027-01-09,16:00,Bristol Rovers,Rochdale
+24,2027-01-09,16:00,Cheltenham Town,Gillingham
+24,2027-01-09,16:00,Crawley Town,York City
+24,2027-01-09,16:00,Exeter City,Northampton Town
+24,2027-01-09,16:00,Fleetwood Town,Colchester United
+24,2027-01-09,16:00,Oldham Athletic,Newport County
+24,2027-01-09,16:00,Rotherham United,Port Vale
+24,2027-01-09,16:00,Salford City,Crewe Alexandra
+24,2027-01-09,16:00,Tranmere Rovers,Swindon Town
+25,2027-01-16,16:00,Barnet,Tranmere Rovers
+25,2027-01-16,16:00,Bristol Rovers,Shrewsbury Town
+25,2027-01-16,16:00,Cheltenham Town,Oldham Athletic
+25,2027-01-16,16:00,Chesterfield,Port Vale
+25,2027-01-16,16:00,Crawley Town,Salford City
+25,2027-01-16,16:00,Exeter City,Colchester United
+25,2027-01-16,16:00,Gillingham,Accrington Stanley
+25,2027-01-16,16:00,Northampton Town,Grimsby Town
+25,2027-01-16,16:00,Rochdale,Crewe Alexandra
+25,2027-01-16,16:00,Rotherham United,Fleetwood Town
+25,2027-01-16,16:00,Walsall,Swindon Town
+25,2027-01-16,16:00,York City,Newport County
+26,2027-01-19,20:45,Accrington Stanley,York City
+26,2027-01-19,20:45,Colchester United,Chesterfield
+26,2027-01-19,20:45,Crewe Alexandra,Exeter City
+26,2027-01-19,20:45,Fleetwood Town,Cheltenham Town
+26,2027-01-19,20:45,Grimsby Town,Rochdale
+26,2027-01-19,20:45,Newport County,Rotherham United
+26,2027-01-19,20:45,Oldham Athletic,Walsall
+26,2027-01-19,20:45,Port Vale,Gillingham
+26,2027-01-19,20:45,Salford City,Bristol Rovers
+26,2027-01-19,20:45,Shrewsbury Town,Crawley Town
+26,2027-01-19,20:45,Swindon Town,Barnet
+26,2027-01-19,20:45,Tranmere Rovers,Northampton Town
+27,2027-01-23,16:00,Accrington Stanley,Rochdale
+27,2027-01-23,16:00,Colchester United,Northampton Town
+27,2027-01-23,16:00,Crewe Alexandra,Chesterfield
+27,2027-01-23,16:00,Fleetwood Town,Exeter City
+27,2027-01-23,16:00,Grimsby Town,Gillingham
+27,2027-01-23,16:00,Newport County,Cheltenham Town
+27,2027-01-23,16:00,Oldham Athletic,Barnet
+27,2027-01-23,16:00,Port Vale,York City
+27,2027-01-23,16:00,Salford City,Walsall
+27,2027-01-23,16:00,Shrewsbury Town,Rotherham United
+27,2027-01-23,16:00,Swindon Town,Bristol Rovers
+27,2027-01-23,16:00,Tranmere Rovers,Crawley Town
+28,2027-01-30,16:00,Barnet,Crewe Alexandra
+28,2027-01-30,16:00,Bristol Rovers,Fleetwood Town
+28,2027-01-30,16:00,Cheltenham Town,Tranmere Rovers
+28,2027-01-30,16:00,Chesterfield,Newport County
+28,2027-01-30,16:00,Crawley Town,Oldham Athletic
+28,2027-01-30,16:00,Exeter City,Salford City
+28,2027-01-30,16:00,Gillingham,Shrewsbury Town
+28,2027-01-30,16:00,Northampton Town,Accrington Stanley
+28,2027-01-30,16:00,Rochdale,Port Vale
+28,2027-01-30,16:00,Rotherham United,Swindon Town
+28,2027-01-30,16:00,Walsall,Colchester United
+28,2027-01-30,16:00,York City,Grimsby Town
+29,2027-02-06,16:00,Accrington Stanley,Walsall
+29,2027-02-06,16:00,Bristol Rovers,Crawley Town
+29,2027-02-06,16:00,Cheltenham Town,Barnet
+29,2027-02-06,16:00,Chesterfield,Rotherham United
+29,2027-02-06,16:00,Crewe Alexandra,Port Vale
+29,2027-02-06,16:00,Exeter City,York City
+29,2027-02-06,16:00,Fleetwood Town,Grimsby Town
+29,2027-02-06,16:00,Northampton Town,Gillingham
+29,2027-02-06,16:00,Rochdale,Colchester United
+29,2027-02-06,16:00,Salford City,Shrewsbury Town
+29,2027-02-06,16:00,Swindon Town,Oldham Athletic
+29,2027-02-06,16:00,Tranmere Rovers,Newport County
+30,2027-02-09,20:45,Barnet,Exeter City
+30,2027-02-09,20:45,Colchester United,Bristol Rovers
+30,2027-02-09,20:45,Crawley Town,Northampton Town
+30,2027-02-09,20:45,Gillingham,Chesterfield
+30,2027-02-09,20:45,Grimsby Town,Accrington Stanley
+30,2027-02-09,20:45,Newport County,Salford City
+30,2027-02-09,20:45,Oldham Athletic,Fleetwood Town
+30,2027-02-09,20:45,Port Vale,Swindon Town
+30,2027-02-09,20:45,Rotherham United,Tranmere Rovers
+30,2027-02-09,20:45,Shrewsbury Town,Rochdale
+30,2027-02-09,20:45,Walsall,Crewe Alexandra
+30,2027-02-09,20:45,York City,Cheltenham Town
+31,2027-02-13,16:00,Barnet,Chesterfield
+31,2027-02-13,16:00,Colchester United,Swindon Town
+31,2027-02-13,16:00,Crawley Town,Accrington Stanley
+31,2027-02-13,16:00,Gillingham,Rochdale
+31,2027-02-13,16:00,Grimsby Town,Cheltenham Town
+31,2027-02-13,16:00,Newport County,Northampton Town
+31,2027-02-13,16:00,Oldham Athletic,Tranmere Rovers
+31,2027-02-13,16:00,Port Vale,Salford City
+31,2027-02-13,16:00,Rotherham United,Bristol Rovers
+31,2027-02-13,16:00,Shrewsbury Town,Fleetwood Town
+31,2027-02-13,16:00,Walsall,Exeter City
+31,2027-02-13,16:00,York City,Crewe Alexandra
+32,2027-02-20,16:00,Accrington Stanley,Barnet
+32,2027-02-20,16:00,Bristol Rovers,Grimsby Town
+32,2027-02-20,16:00,Cheltenham Town,Crawley Town
+32,2027-02-20,16:00,Chesterfield,Oldham Athletic
+32,2027-02-20,16:00,Crewe Alexandra,Colchester United
+32,2027-02-20,16:00,Exeter City,Port Vale
+32,2027-02-20,16:00,Fleetwood Town,Newport County
+32,2027-02-20,16:00,Northampton Town,Shrewsbury Town
+32,2027-02-20,16:00,Rochdale,Walsall
+32,2027-02-20,16:00,Salford City,Rotherham United
+32,2027-02-20,16:00,Swindon Town,York City
+32,2027-02-20,16:00,Tranmere Rovers,Gillingham
+33,2027-02-27,16:00,Accrington Stanley,Port Vale
+33,2027-02-27,16:00,Barnet,Walsall
+33,2027-02-27,16:00,Cheltenham Town,Exeter City
+33,2027-02-27,16:00,Chesterfield,Bristol Rovers
+33,2027-02-27,16:00,Crawley Town,Rotherham United
+33,2027-02-27,16:00,Gillingham,Colchester United
+33,2027-02-27,16:00,Grimsby Town,Swindon Town
+33,2027-02-27,16:00,Newport County,Crewe Alexandra
+33,2027-02-27,16:00,Northampton Town,Salford City
+33,2027-02-27,16:00,Oldham Athletic,Shrewsbury Town
+33,2027-02-27,16:00,Tranmere Rovers,Fleetwood Town
+33,2027-02-27,16:00,York City,Rochdale
+34,2027-03-06,16:00,Bristol Rovers,York City
+34,2027-03-06,16:00,Colchester United,Accrington Stanley
+34,2027-03-06,16:00,Crewe Alexandra,Crawley Town
+34,2027-03-06,16:00,Exeter City,Grimsby Town
+34,2027-03-06,16:00,Fleetwood Town,Chesterfield
+34,2027-03-06,16:00,Port Vale,Oldham Athletic
+34,2027-03-06,16:00,Rochdale,Newport County
+34,2027-03-06,16:00,Rotherham United,Cheltenham Town
+34,2027-03-06,16:00,Salford City,Barnet
+34,2027-03-06,16:00,Shrewsbury Town,Tranmere Rovers
+34,2027-03-06,16:00,Swindon Town,Northampton Town
+34,2027-03-06,16:00,Walsall,Gillingham
+35,2027-03-13,16:00,Accrington Stanley,Exeter City
+35,2027-03-13,16:00,Barnet,Shrewsbury Town
+35,2027-03-13,16:00,Cheltenham Town,Swindon Town
+35,2027-03-13,16:00,Chesterfield,Salford City
+35,2027-03-13,16:00,Crawley Town,Rochdale
+35,2027-03-13,16:00,Gillingham,Fleetwood Town
+35,2027-03-13,16:00,Grimsby Town,Walsall
+35,2027-03-13,16:00,Newport County,Bristol Rovers
+35,2027-03-13,16:00,Northampton Town,Crewe Alexandra
+35,2027-03-13,16:00,Oldham Athletic,Colchester United
+35,2027-03-13,16:00,Tranmere Rovers,Port Vale
+35,2027-03-13,16:00,York City,Rotherham United
+36,2027-03-20,16:00,Bristol Rovers,Cheltenham Town
+36,2027-03-20,16:00,Colchester United,Tranmere Rovers
+36,2027-03-20,16:00,Crewe Alexandra,Gillingham
+36,2027-03-20,16:00,Exeter City,Oldham Athletic
+36,2027-03-20,16:00,Fleetwood Town,Crawley Town
+36,2027-03-20,16:00,Port Vale,Barnet
+36,2027-03-20,16:00,Rochdale,Northampton Town
+36,2027-03-20,16:00,Rotherham United,Grimsby Town
+36,2027-03-20,16:00,Salford City,Accrington Stanley
+36,2027-03-20,16:00,Shrewsbury Town,Chesterfield
+36,2027-03-20,16:00,Swindon Town,Newport County
+36,2027-03-20,16:00,Walsall,York City
+37,2027-03-26,16:00,Barnet,Newport County
+37,2027-03-26,16:00,Bristol Rovers,Northampton Town
+37,2027-03-26,16:00,Cheltenham Town,Walsall
+37,2027-03-26,16:00,Chesterfield,Rochdale
+37,2027-03-26,16:00,Crawley Town,Swindon Town
+37,2027-03-26,16:00,Exeter City,Gillingham
+37,2027-03-26,16:00,Fleetwood Town,Port Vale
+37,2027-03-26,16:00,Oldham Athletic,Crewe Alexandra
+37,2027-03-26,16:00,Rotherham United,Colchester United
+37,2027-03-26,16:00,Salford City,York City
+37,2027-03-26,16:00,Shrewsbury Town,Accrington Stanley
+37,2027-03-26,16:00,Tranmere Rovers,Grimsby Town
+38,2027-03-29,15:00,Accrington Stanley,Tranmere Rovers
+38,2027-03-29,15:00,Colchester United,Barnet
+38,2027-03-29,15:00,Crewe Alexandra,Fleetwood Town
+38,2027-03-29,15:00,Gillingham,Crawley Town
+38,2027-03-29,15:00,Grimsby Town,Salford City
+38,2027-03-29,15:00,Newport County,Exeter City
+38,2027-03-29,15:00,Northampton Town,Chesterfield
+38,2027-03-29,15:00,Port Vale,Cheltenham Town
+38,2027-03-29,15:00,Rochdale,Rotherham United
+38,2027-03-29,15:00,Swindon Town,Shrewsbury Town
+38,2027-03-29,15:00,Walsall,Bristol Rovers
+38,2027-03-29,15:00,York City,Oldham Athletic
+39,2027-04-03,15:00,Barnet,Gillingham
+39,2027-04-03,15:00,Bristol Rovers,Port Vale
+39,2027-04-03,15:00,Cheltenham Town,Northampton Town
+39,2027-04-03,15:00,Chesterfield,Walsall
+39,2027-04-03,15:00,Crawley Town,Colchester United
+39,2027-04-03,15:00,Exeter City,Swindon Town
+39,2027-04-03,15:00,Fleetwood Town,York City
+39,2027-04-03,15:00,Oldham Athletic,Grimsby Town
+39,2027-04-03,15:00,Rotherham United,Accrington Stanley
+39,2027-04-03,15:00,Salford City,Rochdale
+39,2027-04-03,15:00,Shrewsbury Town,Newport County
+39,2027-04-03,15:00,Tranmere Rovers,Crewe Alexandra
+40,2027-04-10,15:00,Accrington Stanley,Bristol Rovers
+40,2027-04-10,15:00,Colchester United,Salford City
+40,2027-04-10,15:00,Crewe Alexandra,Cheltenham Town
+40,2027-04-10,15:00,Gillingham,Oldham Athletic
+40,2027-04-10,15:00,Grimsby Town,Chesterfield
+40,2027-04-10,15:00,Newport County,Crawley Town
+40,2027-04-10,15:00,Northampton Town,Barnet
+40,2027-04-10,15:00,Port Vale,Shrewsbury Town
+40,2027-04-10,15:00,Rochdale,Exeter City
+40,2027-04-10,15:00,Swindon Town,Fleetwood Town
+40,2027-04-10,15:00,Walsall,Rotherham United
+40,2027-04-10,15:00,York City,Tranmere Rovers
+41,2027-04-13,19:45,Accrington Stanley,Oldham Athletic
+41,2027-04-13,19:45,Barnet,Bristol Rovers
+41,2027-04-13,19:45,Chesterfield,Crawley Town
+41,2027-04-13,19:45,Colchester United,Newport County
+41,2027-04-13,19:45,Crewe Alexandra,Swindon Town
+41,2027-04-13,19:45,Exeter City,Shrewsbury Town
+41,2027-04-13,19:45,Gillingham,Rotherham United
+41,2027-04-13,19:45,Grimsby Town,Port Vale
+41,2027-04-13,19:45,Northampton Town,York City
+41,2027-04-13,19:45,Rochdale,Tranmere Rovers
+41,2027-04-13,19:45,Salford City,Cheltenham Town
+41,2027-04-13,19:45,Walsall,Fleetwood Town
+42,2027-04-17,12:30,Oldham Athletic,Rochdale
+42,2027-04-17,15:00,Bristol Rovers,Gillingham
+42,2027-04-17,15:00,Cheltenham Town,Colchester United
+42,2027-04-17,15:00,Crawley Town,Grimsby Town
+42,2027-04-17,15:00,Fleetwood Town,Barnet
+42,2027-04-17,15:00,Newport County,Accrington Stanley
+42,2027-04-17,15:00,Port Vale,Walsall
+42,2027-04-17,15:00,Rotherham United,Northampton Town
+42,2027-04-17,15:00,Shrewsbury Town,Crewe Alexandra
+42,2027-04-17,15:00,Swindon Town,Salford City
+42,2027-04-17,15:00,Tranmere Rovers,Exeter City
+42,2027-04-17,15:00,York City,Chesterfield
+43,2027-04-24,15:00,Accrington Stanley,Swindon Town
+43,2027-04-24,15:00,Barnet,Crawley Town
+43,2027-04-24,15:00,Chesterfield,Cheltenham Town
+43,2027-04-24,15:00,Colchester United,Shrewsbury Town
+43,2027-04-24,15:00,Crewe Alexandra,Rotherham United
+43,2027-04-24,15:00,Exeter City,Bristol Rovers
+43,2027-04-24,15:00,Gillingham,York City
+43,2027-04-24,15:00,Grimsby Town,Newport County
+43,2027-04-24,15:00,Northampton Town,Port Vale
+43,2027-04-24,15:00,Rochdale,Fleetwood Town
+43,2027-04-24,15:00,Salford City,Oldham Athletic
+43,2027-04-24,15:00,Walsall,Tranmere Rovers
+44,2027-04-27,19:45,Bristol Rovers,Crewe Alexandra
+44,2027-04-27,19:45,Cheltenham Town,Accrington Stanley
+44,2027-04-27,19:45,Crawley Town,Walsall
+44,2027-04-27,19:45,Fleetwood Town,Salford City
+44,2027-04-27,19:45,Newport County,Gillingham
+44,2027-04-27,19:45,Oldham Athletic,Northampton Town
+44,2027-04-27,19:45,Port Vale,Colchester United
+44,2027-04-27,19:45,Rotherham United,Exeter City
+44,2027-04-27,19:45,Shrewsbury Town,Grimsby Town
+44,2027-04-27,19:45,Swindon Town,Rochdale
+44,2027-04-27,19:45,Tranmere Rovers,Chesterfield
+44,2027-04-27,19:45,York City,Barnet
+45,2027-05-01,15:00,Accrington Stanley,Fleetwood Town
+45,2027-05-01,15:00,Barnet,Rochdale
+45,2027-05-01,15:00,Cheltenham Town,Shrewsbury Town
+45,2027-05-01,15:00,Chesterfield,Swindon Town
+45,2027-05-01,15:00,Crawley Town,Exeter City
+45,2027-05-01,15:00,Gillingham,Salford City
+45,2027-05-01,15:00,Grimsby Town,Crewe Alexandra
+45,2027-05-01,15:00,Newport County,Port Vale
+45,2027-05-01,15:00,Northampton Town,Walsall
+45,2027-05-01,15:00,Oldham Athletic,Rotherham United
+45,2027-05-01,15:00,Tranmere Rovers,Bristol Rovers
+45,2027-05-01,15:00,York City,Colchester United
+46,2027-05-08,15:00,Bristol Rovers,Oldham Athletic
+46,2027-05-08,15:00,Colchester United,Grimsby Town
+46,2027-05-08,15:00,Crewe Alexandra,Accrington Stanley
+46,2027-05-08,15:00,Exeter City,Chesterfield
+46,2027-05-08,15:00,Fleetwood Town,Northampton Town
+46,2027-05-08,15:00,Port Vale,Crawley Town
+46,2027-05-08,15:00,Rochdale,Cheltenham Town
+46,2027-05-08,15:00,Rotherham United,Barnet
+46,2027-05-08,15:00,Salford City,Tranmere Rovers
+46,2027-05-08,15:00,Shrewsbury Town,York City
+46,2027-05-08,15:00,Swindon Town,Gillingham
+46,2027-05-08,15:00,Walsall,Newport County

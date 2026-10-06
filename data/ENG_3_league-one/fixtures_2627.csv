@@ -1,0 +1,464 @@
+gw,date,time,home,away
+8,2026-09-26,15:00,MK Dons,Bromley
+8,2026-09-26,15:00,Mansfield Town,Leyton Orient
+8,2026-09-26,15:00,Notts County,Blackpool
+9,2026-10-03,15:00,AFC Wimbledon,Stevenage
+9,2026-10-03,15:00,Barnsley,MK Dons
+8,2026-10-03,15:00,Barnsley,Milton Keynes Dons
+9,2026-10-03,15:00,Bromley,Wycombe Wanderers
+9,2026-10-03,15:00,Luton Town,Doncaster Rovers
+9,2026-10-03,15:00,Peterborough United,Notts County
+9,2026-10-03,15:00,Wigan Athletic,Mansfield Town
+10,2026-10-10,12:30,Notts County,Oxford United
+10,2026-10-10,12:30,Plymouth Argyle,AFC Wimbledon
+10,2026-10-10,15:00,Bradford City,Leyton Orient
+10,2026-10-10,15:00,Cambridge United,Blackpool
+10,2026-10-10,15:00,Doncaster Rovers,Burton Albion
+10,2026-10-10,15:00,Huddersfield Town,Sheffield Wednesday
+10,2026-10-10,15:00,Leicester City,Peterborough United
+10,2026-10-10,15:00,MK Dons,Reading
+10,2026-10-10,15:00,Mansfield Town,Bromley
+10,2026-10-10,15:00,Stevenage,Wigan Athletic
+10,2026-10-10,15:00,Stockport County,Barnsley
+10,2026-10-10,15:00,Wycombe Wanderers,Luton Town
+11,2026-10-15,20:00,Mansfield Town,Oxford United
+11,2026-10-17,12:30,MK Dons,Luton Town
+11,2026-10-17,12:30,Peterborough United,Burton Albion
+11,2026-10-17,15:00,Barnsley,Cambridge United
+11,2026-10-17,15:00,Bradford City,Stevenage
+11,2026-10-17,15:00,Leicester City,Doncaster Rovers
+11,2026-10-17,15:00,Leyton Orient,Blackpool
+11,2026-10-17,15:00,Plymouth Argyle,Huddersfield Town
+11,2026-10-17,15:00,Sheffield Wednesday,AFC Wimbledon
+11,2026-10-17,15:00,Stockport County,Bromley
+11,2026-10-17,15:00,Wigan Athletic,Reading
+11,2026-10-17,15:00,Wycombe Wanderers,Notts County
+12,2026-10-20,19:45,AFC Wimbledon,Mansfield Town
+12,2026-10-20,19:45,Blackpool,MK Dons
+12,2026-10-20,19:45,Bromley,Leicester City
+12,2026-10-20,19:45,Burton Albion,Bradford City
+12,2026-10-20,19:45,Cambridge United,Wycombe Wanderers
+12,2026-10-20,19:45,Doncaster Rovers,Stockport County
+12,2026-10-20,19:45,Huddersfield Town,Peterborough United
+12,2026-10-20,19:45,Luton Town,Barnsley
+12,2026-10-20,19:45,Notts County,Sheffield Wednesday
+12,2026-10-20,19:45,Oxford United,Wigan Athletic
+12,2026-10-20,19:45,Stevenage,Plymouth Argyle
+12,2026-10-21,20:00,Reading,Leyton Orient
+13,2026-10-24,12:30,Huddersfield Town,Wigan Athletic
+13,2026-10-24,12:30,Luton Town,Leicester City
+13,2026-10-24,15:00,AFC Wimbledon,Wycombe Wanderers
+13,2026-10-24,15:00,Blackpool,Mansfield Town
+13,2026-10-24,15:00,Bromley,Peterborough United
+13,2026-10-24,15:00,Burton Albion,Leyton Orient
+13,2026-10-24,15:00,Cambridge United,Plymouth Argyle
+13,2026-10-24,15:00,Doncaster Rovers,Sheffield Wednesday
+13,2026-10-24,15:00,Notts County,Stockport County
+13,2026-10-24,15:00,Oxford United,Bradford City
+13,2026-10-24,15:00,Reading,Barnsley
+13,2026-10-24,15:00,Stevenage,MK Dons
+8,2026-10-27,20:45,Leicester City,Wigan Athletic
+9,2026-10-27,20:45,Oxford United,Stockport County
+9,2026-10-27,20:45,Sheffield Wednesday,Cambridge United
+14,2026-10-31,13:30,Bradford City,Huddersfield Town
+14,2026-10-31,13:30,Leyton Orient,Cambridge United
+14,2026-10-31,13:30,Plymouth Argyle,Reading
+14,2026-10-31,16:00,Barnsley,Oxford United
+14,2026-10-31,16:00,Leicester City,Stevenage
+14,2026-10-31,16:00,MK Dons,Doncaster Rovers
+14,2026-10-31,16:00,Mansfield Town,Notts County
+14,2026-10-31,16:00,Peterborough United,Luton Town
+14,2026-10-31,16:00,Stockport County,AFC Wimbledon
+14,2026-10-31,16:00,Wigan Athletic,Bromley
+14,2026-10-31,16:00,Wycombe Wanderers,Burton Albion
+14,2026-11-01,15:00,Sheffield Wednesday,Blackpool
+8,2026-11-03,20:45,Huddersfield Town,Luton Town
+3,2026-11-04,20:45,Oxford United,Reading
+15,2026-11-14,16:00,AFC Wimbledon,Blackpool
+15,2026-11-14,16:00,Bromley,Notts County
+15,2026-11-14,16:00,Doncaster Rovers,Leyton Orient
+15,2026-11-14,16:00,Leicester City,Bradford City
+15,2026-11-14,16:00,Luton Town,Cambridge United
+15,2026-11-14,16:00,MK Dons,Burton Albion
+15,2026-11-14,16:00,Peterborough United,Oxford United
+15,2026-11-14,16:00,Sheffield Wednesday,Plymouth Argyle
+15,2026-11-14,16:00,Stevenage,Mansfield Town
+15,2026-11-14,16:00,Stockport County,Reading
+15,2026-11-14,16:00,Wigan Athletic,Barnsley
+15,2026-11-14,16:00,Wycombe Wanderers,Huddersfield Town
+16,2026-11-20,21:00,Barnsley,Sheffield Wednesday
+16,2026-11-21,13:30,Blackpool,Wigan Athletic
+16,2026-11-21,13:30,Reading,Bromley
+16,2026-11-21,16:00,Bradford City,Doncaster Rovers
+16,2026-11-21,16:00,Burton Albion,Luton Town
+16,2026-11-21,16:00,Cambridge United,Stockport County
+16,2026-11-21,16:00,Huddersfield Town,Leicester City
+16,2026-11-21,16:00,Leyton Orient,AFC Wimbledon
+16,2026-11-21,16:00,Mansfield Town,MK Dons
+16,2026-11-21,16:00,Notts County,Stevenage
+16,2026-11-21,16:00,Oxford United,Wycombe Wanderers
+16,2026-11-21,16:00,Plymouth Argyle,Peterborough United
+9,2026-11-24,20:45,Blackpool,Leicester City
+8,2026-11-24,20:45,Bradford City,Barnsley
+8,2026-11-24,20:45,Stevenage,Sheffield Wednesday
+17,2026-11-26,21:00,Doncaster Rovers,Huddersfield Town
+17,2026-11-28,13:30,MK Dons,Notts County
+17,2026-11-28,13:30,Peterborough United,Cambridge United
+17,2026-11-28,16:00,AFC Wimbledon,Barnsley
+17,2026-11-28,16:00,Bromley,Burton Albion
+17,2026-11-28,16:00,Leicester City,Mansfield Town
+17,2026-11-28,16:00,Luton Town,Oxford United
+17,2026-11-28,16:00,Sheffield Wednesday,Reading
+17,2026-11-28,16:00,Stevenage,Blackpool
+17,2026-11-28,16:00,Stockport County,Leyton Orient
+17,2026-11-28,16:00,Wigan Athletic,Plymouth Argyle
+17,2026-11-28,16:00,Wycombe Wanderers,Bradford City
+18,2026-12-01,20:45,Barnsley,Wycombe Wanderers
+18,2026-12-01,20:45,Blackpool,Luton Town
+18,2026-12-01,20:45,Bradford City,MK Dons
+18,2026-12-01,20:45,Burton Albion,Wigan Athletic
+18,2026-12-01,20:45,Cambridge United,Leicester City
+18,2026-12-01,20:45,Huddersfield Town,Stevenage
+18,2026-12-01,20:45,Leyton Orient,Peterborough United
+18,2026-12-01,20:45,Mansfield Town,Stockport County
+18,2026-12-01,20:45,Notts County,AFC Wimbledon
+18,2026-12-01,20:45,Oxford United,Sheffield Wednesday
+18,2026-12-01,20:45,Plymouth Argyle,Bromley
+18,2026-12-01,21:00,Reading,Doncaster Rovers
+19,2026-12-10,21:00,Leicester City,Sheffield Wednesday
+19,2026-12-12,13:30,Burton Albion,Reading
+19,2026-12-12,13:30,Stevenage,Stockport County
+19,2026-12-12,16:00,Bradford City,AFC Wimbledon
+19,2026-12-12,16:00,Doncaster Rovers,Bromley
+19,2026-12-12,16:00,Huddersfield Town,Leyton Orient
+19,2026-12-12,16:00,Luton Town,Wigan Athletic
+19,2026-12-12,16:00,MK Dons,Cambridge United
+19,2026-12-12,16:00,Mansfield Town,Wycombe Wanderers
+19,2026-12-12,16:00,Notts County,Plymouth Argyle
+19,2026-12-12,16:00,Oxford United,Blackpool
+19,2026-12-12,16:00,Peterborough United,Barnsley
+8,2026-12-15,20:45,Doncaster Rovers,Oxford United
+20,2026-12-18,20:45,Cambridge United,Stevenage
+20,2026-12-19,13:30,Barnsley,Huddersfield Town
+20,2026-12-19,13:30,Sheffield Wednesday,Luton Town
+20,2026-12-19,16:00,AFC Wimbledon,Oxford United
+20,2026-12-19,16:00,Blackpool,Burton Albion
+20,2026-12-19,16:00,Bromley,Bradford City
+20,2026-12-19,16:00,Leyton Orient,Notts County
+20,2026-12-19,16:00,Plymouth Argyle,Mansfield Town
+20,2026-12-19,16:00,Reading,Leicester City
+20,2026-12-19,16:00,Stockport County,MK Dons
+20,2026-12-19,16:00,Wigan Athletic,Peterborough United
+20,2026-12-19,16:00,Wycombe Wanderers,Doncaster Rovers
+21,2026-12-26,16:00,Bradford City,Stockport County
+21,2026-12-26,16:00,Burton Albion,Sheffield Wednesday
+21,2026-12-26,16:00,Doncaster Rovers,Wigan Athletic
+21,2026-12-26,16:00,Huddersfield Town,Blackpool
+21,2026-12-26,16:00,Leicester City,AFC Wimbledon
+21,2026-12-26,16:00,Luton Town,Bromley
+21,2026-12-26,16:00,MK Dons,Leyton Orient
+21,2026-12-26,16:00,Mansfield Town,Barnsley
+21,2026-12-26,16:00,Notts County,Cambridge United
+21,2026-12-26,16:00,Oxford United,Plymouth Argyle
+21,2026-12-26,16:00,Peterborough United,Wycombe Wanderers
+21,2026-12-26,16:00,Stevenage,Reading
+22,2026-12-29,20:45,AFC Wimbledon,Luton Town
+22,2026-12-29,20:45,Barnsley,Burton Albion
+22,2026-12-29,20:45,Blackpool,Bradford City
+22,2026-12-29,20:45,Bromley,Oxford United
+22,2026-12-29,20:45,Cambridge United,Doncaster Rovers
+22,2026-12-29,20:45,Leyton Orient,Leicester City
+22,2026-12-29,20:45,Plymouth Argyle,MK Dons
+22,2026-12-29,20:45,Sheffield Wednesday,Mansfield Town
+22,2026-12-29,20:45,Stockport County,Huddersfield Town
+22,2026-12-29,20:45,Wigan Athletic,Notts County
+22,2026-12-29,20:45,Wycombe Wanderers,Stevenage
+22,2026-12-29,21:00,Reading,Peterborough United
+23,2027-01-01,16:00,AFC Wimbledon,Peterborough United
+23,2027-01-01,16:00,Barnsley,Notts County
+23,2027-01-01,16:00,Blackpool,Doncaster Rovers
+23,2027-01-01,16:00,Bromley,Stevenage
+23,2027-01-01,16:00,Leyton Orient,Oxford United
+23,2027-01-01,16:00,Reading,MK Dons
+23,2027-01-01,16:00,Sheffield Wednesday,Huddersfield Town
+23,2027-01-01,16:00,Wigan Athletic,Bradford City
+23,2027-01-01,16:00,Wycombe Wanderers,Leicester City
+23,2027-01-02,16:00,Cambridge United,Mansfield Town
+23,2027-01-02,16:00,Plymouth Argyle,Luton Town
+23,2027-01-02,16:00,Stockport County,Burton Albion
+24,2027-01-08,21:00,Burton Albion,Blackpool
+24,2027-01-09,13:30,Oxford United,AFC Wimbledon
+24,2027-01-09,13:30,Stevenage,Cambridge United
+24,2027-01-09,16:00,Bradford City,Bromley
+24,2027-01-09,16:00,Doncaster Rovers,Wycombe Wanderers
+24,2027-01-09,16:00,Huddersfield Town,Barnsley
+24,2027-01-09,16:00,Leicester City,Reading
+24,2027-01-09,16:00,Luton Town,Sheffield Wednesday
+24,2027-01-09,16:00,MK Dons,Stockport County
+24,2027-01-09,16:00,Mansfield Town,Plymouth Argyle
+24,2027-01-09,16:00,Notts County,Leyton Orient
+24,2027-01-09,16:00,Peterborough United,Wigan Athletic
+25,2027-01-16,16:00,AFC Wimbledon,Sheffield Wednesday
+25,2027-01-16,16:00,Blackpool,Leyton Orient
+25,2027-01-16,16:00,Bromley,Stockport County
+25,2027-01-16,16:00,Burton Albion,Peterborough United
+25,2027-01-16,16:00,Cambridge United,Barnsley
+25,2027-01-16,16:00,Doncaster Rovers,Leicester City
+25,2027-01-16,16:00,Huddersfield Town,Plymouth Argyle
+25,2027-01-16,16:00,Luton Town,MK Dons
+25,2027-01-16,16:00,Notts County,Wycombe Wanderers
+25,2027-01-16,16:00,Oxford United,Mansfield Town
+25,2027-01-16,16:00,Reading,Wigan Athletic
+25,2027-01-16,16:00,Stevenage,Bradford City
+26,2027-01-19,20:45,Barnsley,Luton Town
+26,2027-01-19,20:45,Bradford City,Burton Albion
+26,2027-01-19,20:45,Leicester City,Bromley
+26,2027-01-19,20:45,Leyton Orient,Reading
+26,2027-01-19,20:45,MK Dons,Blackpool
+26,2027-01-19,20:45,Mansfield Town,AFC Wimbledon
+26,2027-01-19,20:45,Peterborough United,Huddersfield Town
+26,2027-01-19,20:45,Plymouth Argyle,Stevenage
+26,2027-01-19,20:45,Sheffield Wednesday,Notts County
+26,2027-01-19,20:45,Stockport County,Doncaster Rovers
+26,2027-01-19,20:45,Wigan Athletic,Oxford United
+26,2027-01-19,20:45,Wycombe Wanderers,Cambridge United
+27,2027-01-23,16:00,Barnsley,Reading
+27,2027-01-23,16:00,Bradford City,Oxford United
+27,2027-01-23,16:00,Leicester City,Luton Town
+27,2027-01-23,16:00,Leyton Orient,Burton Albion
+27,2027-01-23,16:00,MK Dons,Stevenage
+27,2027-01-23,16:00,Mansfield Town,Blackpool
+27,2027-01-23,16:00,Peterborough United,Bromley
+27,2027-01-23,16:00,Plymouth Argyle,Cambridge United
+27,2027-01-23,16:00,Sheffield Wednesday,Doncaster Rovers
+27,2027-01-23,16:00,Stockport County,Notts County
+27,2027-01-23,16:00,Wigan Athletic,Huddersfield Town
+27,2027-01-23,16:00,Wycombe Wanderers,AFC Wimbledon
+28,2027-01-30,13:30,Huddersfield Town,Bradford City
+28,2027-01-30,16:00,AFC Wimbledon,Stockport County
+28,2027-01-30,16:00,Blackpool,Sheffield Wednesday
+28,2027-01-30,16:00,Bromley,Wigan Athletic
+28,2027-01-30,16:00,Burton Albion,Wycombe Wanderers
+28,2027-01-30,16:00,Cambridge United,Leyton Orient
+28,2027-01-30,16:00,Doncaster Rovers,MK Dons
+28,2027-01-30,16:00,Luton Town,Peterborough United
+28,2027-01-30,16:00,Notts County,Mansfield Town
+28,2027-01-30,16:00,Oxford United,Barnsley
+28,2027-01-30,16:00,Reading,Plymouth Argyle
+28,2027-01-30,16:00,Stevenage,Leicester City
+29,2027-02-06,16:00,Barnsley,Leyton Orient
+29,2027-02-06,16:00,Bradford City,Plymouth Argyle
+29,2027-02-06,16:00,Bromley,Sheffield Wednesday
+29,2027-02-06,16:00,Burton Albion,Notts County
+29,2027-02-06,16:00,Doncaster Rovers,Stevenage
+29,2027-02-06,16:00,Huddersfield Town,Cambridge United
+29,2027-02-06,16:00,Leicester City,MK Dons
+29,2027-02-06,16:00,Luton Town,Mansfield Town
+29,2027-02-06,16:00,Peterborough United,Blackpool
+29,2027-02-06,16:00,Reading,Oxford United
+29,2027-02-06,16:00,Wigan Athletic,AFC Wimbledon
+29,2027-02-06,16:00,Wycombe Wanderers,Stockport County
+30,2027-02-09,20:45,AFC Wimbledon,Burton Albion
+30,2027-02-09,20:45,Blackpool,Barnsley
+30,2027-02-09,20:45,Cambridge United,Bradford City
+30,2027-02-09,20:45,Leyton Orient,Bromley
+30,2027-02-09,20:45,MK Dons,Wigan Athletic
+30,2027-02-09,20:45,Mansfield Town,Reading
+30,2027-02-09,20:45,Notts County,Doncaster Rovers
+30,2027-02-09,20:45,Oxford United,Huddersfield Town
+30,2027-02-09,20:45,Plymouth Argyle,Leicester City
+30,2027-02-09,20:45,Sheffield Wednesday,Wycombe Wanderers
+30,2027-02-09,20:45,Stevenage,Peterborough United
+30,2027-02-09,20:45,Stockport County,Luton Town
+31,2027-02-13,16:00,AFC Wimbledon,Bromley
+31,2027-02-13,16:00,Blackpool,Reading
+31,2027-02-13,16:00,Cambridge United,Burton Albion
+31,2027-02-13,16:00,Leyton Orient,Luton Town
+31,2027-02-13,16:00,MK Dons,Wycombe Wanderers
+31,2027-02-13,16:00,Mansfield Town,Bradford City
+31,2027-02-13,16:00,Notts County,Huddersfield Town
+31,2027-02-13,16:00,Oxford United,Leicester City
+31,2027-02-13,16:00,Plymouth Argyle,Doncaster Rovers
+31,2027-02-13,16:00,Sheffield Wednesday,Peterborough United
+31,2027-02-13,16:00,Stevenage,Barnsley
+31,2027-02-13,16:00,Stockport County,Wigan Athletic
+32,2027-02-20,16:00,Barnsley,Plymouth Argyle
+32,2027-02-20,16:00,Bradford City,Notts County
+32,2027-02-20,16:00,Bromley,Blackpool
+32,2027-02-20,16:00,Burton Albion,Oxford United
+32,2027-02-20,16:00,Doncaster Rovers,AFC Wimbledon
+32,2027-02-20,16:00,Huddersfield Town,Mansfield Town
+32,2027-02-20,16:00,Leicester City,Stockport County
+32,2027-02-20,16:00,Luton Town,Stevenage
+32,2027-02-20,16:00,Peterborough United,MK Dons
+32,2027-02-20,16:00,Reading,Cambridge United
+32,2027-02-20,16:00,Wigan Athletic,Sheffield Wednesday
+32,2027-02-20,16:00,Wycombe Wanderers,Leyton Orient
+33,2027-02-27,13:30,Cambridge United,Peterborough United
+33,2027-02-27,16:00,Barnsley,Wigan Athletic
+33,2027-02-27,16:00,Blackpool,AFC Wimbledon
+33,2027-02-27,16:00,Bradford City,Leicester City
+33,2027-02-27,16:00,Burton Albion,MK Dons
+33,2027-02-27,16:00,Huddersfield Town,Wycombe Wanderers
+33,2027-02-27,16:00,Leyton Orient,Doncaster Rovers
+33,2027-02-27,16:00,Mansfield Town,Stevenage
+33,2027-02-27,16:00,Notts County,Bromley
+33,2027-02-27,16:00,Oxford United,Luton Town
+33,2027-02-27,16:00,Plymouth Argyle,Sheffield Wednesday
+33,2027-02-27,16:00,Reading,Stockport County
+34,2027-03-06,16:00,AFC Wimbledon,Huddersfield Town
+34,2027-03-06,16:00,Bromley,Barnsley
+34,2027-03-06,16:00,Doncaster Rovers,Mansfield Town
+34,2027-03-06,16:00,Leicester City,Notts County
+34,2027-03-06,16:00,Luton Town,Reading
+34,2027-03-06,16:00,MK Dons,Oxford United
+34,2027-03-06,16:00,Peterborough United,Bradford City
+34,2027-03-06,16:00,Sheffield Wednesday,Leyton Orient
+34,2027-03-06,16:00,Stevenage,Burton Albion
+34,2027-03-06,16:00,Stockport County,Plymouth Argyle
+34,2027-03-06,16:00,Wigan Athletic,Cambridge United
+34,2027-03-06,16:00,Wycombe Wanderers,Blackpool
+35,2027-03-13,16:00,Barnsley,Doncaster Rovers
+35,2027-03-13,16:00,Blackpool,Stockport County
+35,2027-03-13,16:00,Bradford City,Sheffield Wednesday
+35,2027-03-13,16:00,Burton Albion,Leicester City
+35,2027-03-13,16:00,Cambridge United,Bromley
+35,2027-03-13,16:00,Huddersfield Town,MK Dons
+35,2027-03-13,16:00,Leyton Orient,Wigan Athletic
+35,2027-03-13,16:00,Mansfield Town,Peterborough United
+35,2027-03-13,16:00,Notts County,Luton Town
+35,2027-03-13,16:00,Oxford United,Stevenage
+35,2027-03-13,16:00,Plymouth Argyle,Wycombe Wanderers
+35,2027-03-13,16:00,Reading,AFC Wimbledon
+36,2027-03-20,16:00,AFC Wimbledon,Leyton Orient
+36,2027-03-20,16:00,Bromley,Reading
+36,2027-03-20,16:00,Doncaster Rovers,Bradford City
+36,2027-03-20,16:00,Leicester City,Huddersfield Town
+36,2027-03-20,16:00,Luton Town,Burton Albion
+36,2027-03-20,16:00,MK Dons,Mansfield Town
+36,2027-03-20,16:00,Peterborough United,Plymouth Argyle
+36,2027-03-20,16:00,Sheffield Wednesday,Barnsley
+36,2027-03-20,16:00,Stevenage,Notts County
+36,2027-03-20,16:00,Stockport County,Cambridge United
+36,2027-03-20,16:00,Wigan Athletic,Blackpool
+36,2027-03-20,16:00,Wycombe Wanderers,Oxford United
+37,2027-03-26,16:00,Bradford City,Wigan Athletic
+37,2027-03-26,16:00,Burton Albion,Stockport County
+37,2027-03-26,16:00,Doncaster Rovers,Blackpool
+37,2027-03-26,16:00,Huddersfield Town,Reading
+37,2027-03-26,16:00,Leicester City,Wycombe Wanderers
+37,2027-03-26,16:00,Luton Town,Plymouth Argyle
+37,2027-03-26,16:00,MK Dons,Sheffield Wednesday
+37,2027-03-26,16:00,Mansfield Town,Cambridge United
+37,2027-03-26,16:00,Notts County,Barnsley
+37,2027-03-26,16:00,Oxford United,Leyton Orient
+37,2027-03-26,16:00,Peterborough United,AFC Wimbledon
+37,2027-03-26,16:00,Stevenage,Bromley
+38,2027-03-29,15:00,AFC Wimbledon,Leicester City
+38,2027-03-29,15:00,Barnsley,Mansfield Town
+38,2027-03-29,15:00,Blackpool,Oxford United
+38,2027-03-29,15:00,Bromley,Doncaster Rovers
+38,2027-03-29,15:00,Cambridge United,MK Dons
+38,2027-03-29,15:00,Leyton Orient,Huddersfield Town
+38,2027-03-29,15:00,Plymouth Argyle,Notts County
+38,2027-03-29,15:00,Reading,Stevenage
+38,2027-03-29,15:00,Sheffield Wednesday,Burton Albion
+38,2027-03-29,15:00,Stockport County,Bradford City
+38,2027-03-29,15:00,Wigan Athletic,Luton Town
+38,2027-03-29,15:00,Wycombe Wanderers,Peterborough United
+39,2027-04-03,15:00,Bradford City,Blackpool
+39,2027-04-03,15:00,Burton Albion,Barnsley
+39,2027-04-03,15:00,Doncaster Rovers,Cambridge United
+39,2027-04-03,15:00,Huddersfield Town,Stockport County
+39,2027-04-03,15:00,Leicester City,Leyton Orient
+39,2027-04-03,15:00,Luton Town,AFC Wimbledon
+39,2027-04-03,15:00,MK Dons,Plymouth Argyle
+39,2027-04-03,15:00,Mansfield Town,Sheffield Wednesday
+39,2027-04-03,15:00,Notts County,Wigan Athletic
+39,2027-04-03,15:00,Oxford United,Bromley
+39,2027-04-03,15:00,Peterborough United,Reading
+39,2027-04-03,15:00,Stevenage,Wycombe Wanderers
+40,2027-04-10,15:00,AFC Wimbledon,Bradford City
+40,2027-04-10,15:00,Barnsley,Peterborough United
+40,2027-04-10,15:00,Blackpool,Huddersfield Town
+40,2027-04-10,15:00,Bromley,Luton Town
+40,2027-04-10,15:00,Cambridge United,Notts County
+40,2027-04-10,15:00,Leyton Orient,MK Dons
+40,2027-04-10,15:00,Plymouth Argyle,Oxford United
+40,2027-04-10,15:00,Reading,Burton Albion
+40,2027-04-10,15:00,Sheffield Wednesday,Leicester City
+40,2027-04-10,15:00,Stockport County,Stevenage
+40,2027-04-10,15:00,Wigan Athletic,Doncaster Rovers
+40,2027-04-10,15:00,Wycombe Wanderers,Mansfield Town
+41,2027-04-13,19:45,AFC Wimbledon,Cambridge United
+41,2027-04-13,19:45,Barnsley,Bradford City
+41,2027-04-13,19:45,Blackpool,Notts County
+41,2027-04-13,19:45,Bromley,MK Dons
+41,2027-04-13,19:45,Burton Albion,Plymouth Argyle
+41,2027-04-13,19:45,Leyton Orient,Mansfield Town
+41,2027-04-13,19:45,Luton Town,Huddersfield Town
+41,2027-04-13,19:45,Oxford United,Doncaster Rovers
+41,2027-04-13,19:45,Peterborough United,Stockport County
+41,2027-04-13,19:45,Sheffield Wednesday,Stevenage
+41,2027-04-13,19:45,Wigan Athletic,Leicester City
+41,2027-04-13,20:00,Reading,Wycombe Wanderers
+42,2027-04-17,12:30,MK Dons,AFC Wimbledon
+42,2027-04-17,15:00,Bradford City,Luton Town
+42,2027-04-17,15:00,Cambridge United,Oxford United
+42,2027-04-17,15:00,Doncaster Rovers,Peterborough United
+42,2027-04-17,15:00,Huddersfield Town,Bromley
+42,2027-04-17,15:00,Leicester City,Barnsley
+42,2027-04-17,15:00,Mansfield Town,Burton Albion
+42,2027-04-17,15:00,Notts County,Reading
+42,2027-04-17,15:00,Plymouth Argyle,Blackpool
+42,2027-04-17,15:00,Stevenage,Leyton Orient
+42,2027-04-17,15:00,Stockport County,Sheffield Wednesday
+42,2027-04-17,15:00,Wycombe Wanderers,Wigan Athletic
+43,2027-04-24,15:00,AFC Wimbledon,Plymouth Argyle
+43,2027-04-24,15:00,Barnsley,Stockport County
+43,2027-04-24,15:00,Blackpool,Cambridge United
+43,2027-04-24,15:00,Bromley,Mansfield Town
+43,2027-04-24,15:00,Burton Albion,Doncaster Rovers
+43,2027-04-24,15:00,Leyton Orient,Bradford City
+43,2027-04-24,15:00,Luton Town,Wycombe Wanderers
+43,2027-04-24,15:00,Oxford United,Notts County
+43,2027-04-24,15:00,Peterborough United,Leicester City
+43,2027-04-24,15:00,Reading,Huddersfield Town
+43,2027-04-24,15:00,Sheffield Wednesday,MK Dons
+43,2027-04-24,15:00,Wigan Athletic,Stevenage
+44,2027-04-27,19:45,Bradford City,Reading
+44,2027-04-27,19:45,Cambridge United,Sheffield Wednesday
+44,2027-04-27,19:45,Doncaster Rovers,Luton Town
+44,2027-04-27,19:45,Huddersfield Town,Burton Albion
+44,2027-04-27,19:45,Leicester City,Blackpool
+44,2027-04-27,19:45,MK Dons,Barnsley
+44,2027-04-27,19:45,Mansfield Town,Wigan Athletic
+44,2027-04-27,19:45,Notts County,Peterborough United
+44,2027-04-27,19:45,Plymouth Argyle,Leyton Orient
+44,2027-04-27,19:45,Stevenage,AFC Wimbledon
+44,2027-04-27,19:45,Stockport County,Oxford United
+44,2027-04-27,19:45,Wycombe Wanderers,Bromley
+45,2027-05-01,15:00,Barnsley,AFC Wimbledon
+45,2027-05-01,15:00,Blackpool,Stevenage
+45,2027-05-01,15:00,Bradford City,Wycombe Wanderers
+45,2027-05-01,15:00,Burton Albion,Bromley
+45,2027-05-01,15:00,Cambridge United,Luton Town
+45,2027-05-01,15:00,Huddersfield Town,Doncaster Rovers
+45,2027-05-01,15:00,Leyton Orient,Stockport County
+45,2027-05-01,15:00,Mansfield Town,Leicester City
+45,2027-05-01,15:00,Notts County,MK Dons
+45,2027-05-01,15:00,Oxford United,Peterborough United
+45,2027-05-01,15:00,Plymouth Argyle,Wigan Athletic
+45,2027-05-01,15:00,Reading,Sheffield Wednesday
+46,2027-05-08,12:30,AFC Wimbledon,Notts County
+46,2027-05-08,12:30,Bromley,Plymouth Argyle
+46,2027-05-08,12:30,Doncaster Rovers,Reading
+46,2027-05-08,12:30,Leicester City,Cambridge United
+46,2027-05-08,12:30,Luton Town,Blackpool
+46,2027-05-08,12:30,MK Dons,Bradford City
+46,2027-05-08,12:30,Peterborough United,Leyton Orient
+46,2027-05-08,12:30,Sheffield Wednesday,Oxford United
+46,2027-05-08,12:30,Stevenage,Huddersfield Town
+46,2027-05-08,12:30,Stockport County,Mansfield Town
+46,2027-05-08,12:30,Wigan Athletic,Burton Albion
+46,2027-05-08,12:30,Wycombe Wanderers,Barnsley

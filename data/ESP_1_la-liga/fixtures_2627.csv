@@ -1,0 +1,312 @@
+gw,date,time,home,away
+8,2026-10-09,20:00,Málaga CF,RCD Espanyol de Barcelona
+8,2026-10-10,13:00,Rayo Vallecano,Athletic Club
+8,2026-10-10,15:15,Deportivo Alavés,Atlético de Madrid
+8,2026-10-10,17:30,FC Barcelona,Getafe CF
+8,2026-10-10,20:00,Real Madrid,Villarreal CF
+8,2026-10-11,13:00,Elche CF,Celta
+8,2026-10-11,15:15,Real Sociedad,RC Deportivo
+8,2026-10-11,17:30,Real Betis,CA Osasuna
+8,2026-10-11,20:00,R. Racing Club,Valencia CF
+8,2026-10-12,20:00,Levante UD,Sevilla FC
+9,2026-10-16,20:00,RC Deportivo,Levante UD
+9,2026-10-17,13:00,RCD Espanyol de Barcelona,Atlético de Madrid
+9,2026-10-17,15:15,Villarreal CF,Elche CF
+9,2026-10-17,17:30,Real Betis,FC Barcelona
+9,2026-10-17,20:00,Valencia CF,Athletic Club
+9,2026-10-18,13:00,CA Osasuna,R. Racing Club
+9,2026-10-18,15:15,Celta,Deportivo Alavés
+9,2026-10-18,17:30,Málaga CF,Real Sociedad
+9,2026-10-18,20:00,Real Madrid,Sevilla FC
+9,2026-10-19,20:00,Getafe CF,Rayo Vallecano
+6,2026-10-21,19:00,Levante UD,Athletic Club
+10,2026-10-23,20:00,Deportivo Alavés,Málaga CF
+10,2026-10-24,13:00,Rayo Vallecano,Elche CF
+10,2026-10-24,15:15,R. Racing Club,RCD Espanyol de Barcelona
+10,2026-10-24,17:30,Valencia CF,Villarreal CF
+10,2026-10-24,20:00,Atlético de Madrid,RC Deportivo
+10,2026-10-25,14:00,Athletic Club,Getafe CF
+10,2026-10-25,16:15,Celta,Real Betis
+10,2026-10-25,18:30,Real Sociedad,Levante UD
+10,2026-10-25,21:00,FC Barcelona,Real Madrid
+10,2026-10-26,21:00,Sevilla FC,CA Osasuna
+11,2026-11-01,01:00,Athletic Club,Real Sociedad
+11,2026-11-01,01:00,Elche CF,Valencia CF
+11,2026-11-01,01:00,FC Barcelona,Deportivo Alavés
+11,2026-11-01,01:00,Getafe CF,Sevilla FC
+11,2026-11-01,01:00,Levante UD,Atlético de Madrid
+11,2026-11-01,01:00,R. Racing Club,Real Madrid
+11,2026-11-01,01:00,RC Deportivo,CA Osasuna
+11,2026-11-01,01:00,Rayo Vallecano,Celta
+11,2026-11-01,01:00,Real Betis,Málaga CF
+11,2026-11-01,01:00,Villarreal CF,RCD Espanyol de Barcelona
+12,2026-11-08,01:00,Atlético de Madrid,FC Barcelona
+12,2026-11-08,01:00,CA Osasuna,Athletic Club
+12,2026-11-08,01:00,Celta,Levante UD
+12,2026-11-08,01:00,Elche CF,Real Betis
+12,2026-11-08,01:00,Málaga CF,R. Racing Club
+12,2026-11-08,01:00,RCD Espanyol de Barcelona,RC Deportivo
+12,2026-11-08,01:00,Real Sociedad,Rayo Vallecano
+12,2026-11-08,01:00,Sevilla FC,Deportivo Alavés
+12,2026-11-08,01:00,Valencia CF,Real Madrid
+12,2026-11-08,01:00,Villarreal CF,Getafe CF
+13,2026-11-22,01:00,Athletic Club,RCD Espanyol de Barcelona
+13,2026-11-22,01:00,CA Osasuna,Málaga CF
+13,2026-11-22,01:00,Deportivo Alavés,RC Deportivo
+13,2026-11-22,01:00,FC Barcelona,Villarreal CF
+13,2026-11-22,01:00,Getafe CF,Atlético de Madrid
+13,2026-11-22,01:00,Levante UD,Elche CF
+13,2026-11-22,01:00,R. Racing Club,Real Sociedad
+13,2026-11-22,01:00,Rayo Vallecano,Valencia CF
+13,2026-11-22,01:00,Real Madrid,Celta
+13,2026-11-22,01:00,Sevilla FC,Real Betis
+14,2026-11-29,01:00,Celta,Villarreal CF
+14,2026-11-29,01:00,Elche CF,Atlético de Madrid
+14,2026-11-29,01:00,Levante UD,R. Racing Club
+14,2026-11-29,01:00,Málaga CF,Athletic Club
+14,2026-11-29,01:00,RC Deportivo,FC Barcelona
+14,2026-11-29,01:00,RCD Espanyol de Barcelona,Getafe CF
+14,2026-11-29,01:00,Real Betis,Rayo Vallecano
+14,2026-11-29,01:00,Real Madrid,Deportivo Alavés
+14,2026-11-29,01:00,Real Sociedad,Sevilla FC
+14,2026-11-29,01:00,Valencia CF,CA Osasuna
+15,2026-12-06,01:00,Athletic Club,Real Madrid
+15,2026-12-06,01:00,Atlético de Madrid,Real Betis
+15,2026-12-06,01:00,CA Osasuna,Elche CF
+15,2026-12-06,01:00,Deportivo Alavés,RCD Espanyol de Barcelona
+15,2026-12-06,01:00,FC Barcelona,Celta
+15,2026-12-06,01:00,Getafe CF,Valencia CF
+15,2026-12-06,01:00,R. Racing Club,RC Deportivo
+15,2026-12-06,01:00,Rayo Vallecano,Levante UD
+15,2026-12-06,01:00,Sevilla FC,Málaga CF
+15,2026-12-06,01:00,Villarreal CF,Real Sociedad
+16,2026-12-13,01:00,Atlético de Madrid,Valencia CF
+16,2026-12-13,01:00,Elche CF,Sevilla FC
+16,2026-12-13,01:00,Levante UD,Deportivo Alavés
+16,2026-12-13,01:00,Málaga CF,FC Barcelona
+16,2026-12-13,01:00,RC Deportivo,Athletic Club
+16,2026-12-13,01:00,RCD Espanyol de Barcelona,Celta
+16,2026-12-13,01:00,Real Betis,R. Racing Club
+16,2026-12-13,01:00,Real Madrid,CA Osasuna
+16,2026-12-13,01:00,Real Sociedad,Getafe CF
+16,2026-12-13,01:00,Villarreal CF,Rayo Vallecano
+17,2026-12-20,01:00,Athletic Club,Real Betis
+17,2026-12-20,01:00,CA Osasuna,Villarreal CF
+17,2026-12-20,01:00,Celta,Atlético de Madrid
+17,2026-12-20,01:00,Deportivo Alavés,Elche CF
+17,2026-12-20,01:00,FC Barcelona,Real Sociedad
+17,2026-12-20,01:00,Getafe CF,Levante UD
+17,2026-12-20,01:00,RC Deportivo,Real Madrid
+17,2026-12-20,01:00,Rayo Vallecano,Málaga CF
+17,2026-12-20,01:00,Sevilla FC,R. Racing Club
+17,2026-12-20,01:00,Valencia CF,RCD Espanyol de Barcelona
+18,2027-01-03,01:00,Celta,RC Deportivo
+18,2027-01-03,01:00,Levante UD,Valencia CF
+18,2027-01-03,01:00,Málaga CF,Elche CF
+18,2027-01-03,01:00,R. Racing Club,Athletic Club
+18,2027-01-03,01:00,RCD Espanyol de Barcelona,FC Barcelona
+18,2027-01-03,01:00,Rayo Vallecano,Atlético de Madrid
+18,2027-01-03,01:00,Real Betis,Deportivo Alavés
+18,2027-01-03,01:00,Real Madrid,Getafe CF
+18,2027-01-03,01:00,Real Sociedad,CA Osasuna
+18,2027-01-03,01:00,Villarreal CF,Sevilla FC
+19,2027-01-10,01:00,Athletic Club,Villarreal CF
+19,2027-01-10,01:00,Atlético de Madrid,R. Racing Club
+19,2027-01-10,01:00,CA Osasuna,FC Barcelona
+19,2027-01-10,01:00,Deportivo Alavés,Real Sociedad
+19,2027-01-10,01:00,Elche CF,Getafe CF
+19,2027-01-10,01:00,RC Deportivo,Rayo Vallecano
+19,2027-01-10,01:00,RCD Espanyol de Barcelona,Real Betis
+19,2027-01-10,01:00,Real Madrid,Levante UD
+19,2027-01-10,01:00,Sevilla FC,Celta
+19,2027-01-10,01:00,Valencia CF,Málaga CF
+20,2027-01-17,01:00,Atlético de Madrid,Real Sociedad
+20,2027-01-17,01:00,Celta,Valencia CF
+20,2027-01-17,01:00,FC Barcelona,Elche CF
+20,2027-01-17,01:00,Getafe CF,Athletic Club
+20,2027-01-17,01:00,Levante UD,RCD Espanyol de Barcelona
+20,2027-01-17,01:00,Málaga CF,Real Madrid
+20,2027-01-17,01:00,R. Racing Club,CA Osasuna
+20,2027-01-17,01:00,Rayo Vallecano,Sevilla FC
+20,2027-01-17,01:00,Real Betis,RC Deportivo
+20,2027-01-17,01:00,Villarreal CF,Deportivo Alavés
+21,2027-01-24,01:00,Athletic Club,Levante UD
+21,2027-01-24,01:00,Deportivo Alavés,FC Barcelona
+21,2027-01-24,01:00,Elche CF,Rayo Vallecano
+21,2027-01-24,01:00,Getafe CF,CA Osasuna
+21,2027-01-24,01:00,R. Racing Club,Celta
+21,2027-01-24,01:00,RC Deportivo,Atlético de Madrid
+21,2027-01-24,01:00,RCD Espanyol de Barcelona,Villarreal CF
+21,2027-01-24,01:00,Real Madrid,Real Betis
+21,2027-01-24,01:00,Real Sociedad,Málaga CF
+21,2027-01-24,01:00,Valencia CF,Sevilla FC
+22,2027-01-31,01:00,Atlético de Madrid,RCD Espanyol de Barcelona
+22,2027-01-31,01:00,CA Osasuna,RC Deportivo
+22,2027-01-31,01:00,Celta,Getafe CF
+22,2027-01-31,01:00,FC Barcelona,Valencia CF
+22,2027-01-31,01:00,Levante UD,Real Sociedad
+22,2027-01-31,01:00,Málaga CF,Deportivo Alavés
+22,2027-01-31,01:00,Rayo Vallecano,Real Madrid
+22,2027-01-31,01:00,Real Betis,Elche CF
+22,2027-01-31,01:00,Sevilla FC,Athletic Club
+22,2027-01-31,01:00,Villarreal CF,R. Racing Club
+23,2027-02-07,01:00,Athletic Club,CA Osasuna
+23,2027-02-07,01:00,Deportivo Alavés,Celta
+23,2027-02-07,01:00,Elche CF,Levante UD
+23,2027-02-07,01:00,FC Barcelona,Atlético de Madrid
+23,2027-02-07,01:00,Getafe CF,Villarreal CF
+23,2027-02-07,01:00,RC Deportivo,Málaga CF
+23,2027-02-07,01:00,RCD Espanyol de Barcelona,Rayo Vallecano
+23,2027-02-07,01:00,Real Betis,Sevilla FC
+23,2027-02-07,01:00,Real Sociedad,Real Madrid
+23,2027-02-07,01:00,Valencia CF,R. Racing Club
+24,2027-02-14,01:00,CA Osasuna,Atlético de Madrid
+24,2027-02-14,01:00,Celta,Rayo Vallecano
+24,2027-02-14,01:00,Elche CF,RC Deportivo
+24,2027-02-14,01:00,Levante UD,Málaga CF
+24,2027-02-14,01:00,R. Racing Club,Getafe CF
+24,2027-02-14,01:00,Real Madrid,Athletic Club
+24,2027-02-14,01:00,Real Sociedad,Real Betis
+24,2027-02-14,01:00,Sevilla FC,RCD Espanyol de Barcelona
+24,2027-02-14,01:00,Valencia CF,Deportivo Alavés
+24,2027-02-14,01:00,Villarreal CF,FC Barcelona
+25,2027-02-21,01:00,Athletic Club,Celta
+25,2027-02-21,01:00,Atlético de Madrid,Elche CF
+25,2027-02-21,01:00,Deportivo Alavés,R. Racing Club
+25,2027-02-21,01:00,FC Barcelona,Levante UD
+25,2027-02-21,01:00,Málaga CF,Real Betis
+25,2027-02-21,01:00,RC Deportivo,Real Sociedad
+25,2027-02-21,01:00,RCD Espanyol de Barcelona,CA Osasuna
+25,2027-02-21,01:00,Rayo Vallecano,Getafe CF
+25,2027-02-21,01:00,Sevilla FC,Real Madrid
+25,2027-02-21,01:00,Villarreal CF,Valencia CF
+26,2027-02-28,01:00,Athletic Club,FC Barcelona
+26,2027-02-28,01:00,CA Osasuna,Sevilla FC
+26,2027-02-28,01:00,Celta,RCD Espanyol de Barcelona
+26,2027-02-28,01:00,Getafe CF,Deportivo Alavés
+26,2027-02-28,01:00,Levante UD,RC Deportivo
+26,2027-02-28,01:00,Málaga CF,Atlético de Madrid
+26,2027-02-28,01:00,R. Racing Club,Rayo Vallecano
+26,2027-02-28,01:00,Real Betis,Villarreal CF
+26,2027-02-28,01:00,Real Madrid,Valencia CF
+26,2027-02-28,01:00,Real Sociedad,Elche CF
+27,2027-03-07,01:00,Atlético de Madrid,Celta
+27,2027-03-07,01:00,Deportivo Alavés,Athletic Club
+27,2027-03-07,01:00,Elche CF,Málaga CF
+27,2027-03-07,01:00,FC Barcelona,Real Betis
+27,2027-03-07,01:00,RC Deportivo,Getafe CF
+27,2027-03-07,01:00,RCD Espanyol de Barcelona,R. Racing Club
+27,2027-03-07,01:00,Rayo Vallecano,CA Osasuna
+27,2027-03-07,01:00,Sevilla FC,Real Sociedad
+27,2027-03-07,01:00,Valencia CF,Levante UD
+27,2027-03-07,01:00,Villarreal CF,Real Madrid
+28,2027-03-14,01:00,Athletic Club,Valencia CF
+28,2027-03-14,01:00,CA Osasuna,Celta
+28,2027-03-14,01:00,Deportivo Alavés,Sevilla FC
+28,2027-03-14,01:00,Elche CF,Villarreal CF
+28,2027-03-14,01:00,FC Barcelona,RC Deportivo
+28,2027-03-14,01:00,Getafe CF,Real Sociedad
+28,2027-03-14,01:00,Málaga CF,Rayo Vallecano
+28,2027-03-14,01:00,R. Racing Club,Atlético de Madrid
+28,2027-03-14,01:00,Real Betis,Levante UD
+28,2027-03-14,01:00,Real Madrid,RCD Espanyol de Barcelona
+29,2027-03-21,01:00,Atlético de Madrid,Getafe CF
+29,2027-03-21,01:00,Celta,Real Madrid
+29,2027-03-21,01:00,Levante UD,CA Osasuna
+29,2027-03-21,01:00,R. Racing Club,Real Betis
+29,2027-03-21,01:00,RCD Espanyol de Barcelona,Athletic Club
+29,2027-03-21,01:00,Rayo Vallecano,FC Barcelona
+29,2027-03-21,01:00,Real Sociedad,Deportivo Alavés
+29,2027-03-21,01:00,Sevilla FC,Elche CF
+29,2027-03-21,01:00,Valencia CF,RC Deportivo
+29,2027-03-21,01:00,Villarreal CF,Málaga CF
+30,2027-04-04,01:00,Athletic Club,R. Racing Club
+30,2027-04-04,01:00,Elche CF,Deportivo Alavés
+30,2027-04-04,01:00,FC Barcelona,Sevilla FC
+30,2027-04-04,01:00,Getafe CF,RCD Espanyol de Barcelona
+30,2027-04-04,01:00,Levante UD,Rayo Vallecano
+30,2027-04-04,01:00,Málaga CF,CA Osasuna
+30,2027-04-04,01:00,RC Deportivo,Villarreal CF
+30,2027-04-04,01:00,Real Betis,Celta
+30,2027-04-04,01:00,Real Madrid,Atlético de Madrid
+30,2027-04-04,01:00,Real Sociedad,Valencia CF
+31,2027-04-11,01:00,Atlético de Madrid,Levante UD
+31,2027-04-11,01:00,CA Osasuna,Real Madrid
+31,2027-04-11,01:00,Celta,Elche CF
+31,2027-04-11,01:00,Deportivo Alavés,Real Betis
+31,2027-04-11,01:00,R. Racing Club,FC Barcelona
+31,2027-04-11,01:00,RCD Espanyol de Barcelona,Málaga CF
+31,2027-04-11,01:00,Rayo Vallecano,Real Sociedad
+31,2027-04-11,01:00,Sevilla FC,RC Deportivo
+31,2027-04-11,01:00,Valencia CF,Getafe CF
+31,2027-04-11,01:00,Villarreal CF,Athletic Club
+32,2027-04-18,01:00,Atlético de Madrid,Sevilla FC
+32,2027-04-18,01:00,Deportivo Alavés,Rayo Vallecano
+32,2027-04-18,01:00,Elche CF,CA Osasuna
+32,2027-04-18,01:00,FC Barcelona,RCD Espanyol de Barcelona
+32,2027-04-18,01:00,Getafe CF,Real Madrid
+32,2027-04-18,01:00,Levante UD,Villarreal CF
+32,2027-04-18,01:00,Málaga CF,Valencia CF
+32,2027-04-18,01:00,RC Deportivo,Celta
+32,2027-04-18,01:00,Real Betis,Athletic Club
+32,2027-04-18,01:00,Real Sociedad,R. Racing Club
+33,2027-04-21,01:00,Athletic Club,RC Deportivo
+33,2027-04-21,01:00,CA Osasuna,Deportivo Alavés
+33,2027-04-21,01:00,Celta,FC Barcelona
+33,2027-04-21,01:00,Getafe CF,Real Betis
+33,2027-04-21,01:00,R. Racing Club,Málaga CF
+33,2027-04-21,01:00,RCD Espanyol de Barcelona,Real Sociedad
+33,2027-04-21,01:00,Real Madrid,Elche CF
+33,2027-04-21,01:00,Sevilla FC,Levante UD
+33,2027-04-21,01:00,Valencia CF,Rayo Vallecano
+33,2027-04-21,01:00,Villarreal CF,Atlético de Madrid
+34,2027-05-02,01:00,Atlético de Madrid,Deportivo Alavés
+34,2027-05-02,01:00,Celta,Sevilla FC
+34,2027-05-02,01:00,Elche CF,RCD Espanyol de Barcelona
+34,2027-05-02,01:00,FC Barcelona,CA Osasuna
+34,2027-05-02,01:00,Levante UD,Real Madrid
+34,2027-05-02,01:00,Málaga CF,Getafe CF
+34,2027-05-02,01:00,RC Deportivo,R. Racing Club
+34,2027-05-02,01:00,Rayo Vallecano,Villarreal CF
+34,2027-05-02,01:00,Real Betis,Valencia CF
+34,2027-05-02,01:00,Real Sociedad,Athletic Club
+35,2027-05-09,01:00,Athletic Club,Málaga CF
+35,2027-05-09,01:00,CA Osasuna,Real Sociedad
+35,2027-05-09,01:00,Deportivo Alavés,Levante UD
+35,2027-05-09,01:00,Getafe CF,Elche CF
+35,2027-05-09,01:00,R. Racing Club,Sevilla FC
+35,2027-05-09,01:00,Rayo Vallecano,RC Deportivo
+35,2027-05-09,01:00,Real Betis,RCD Espanyol de Barcelona
+35,2027-05-09,01:00,Real Madrid,FC Barcelona
+35,2027-05-09,01:00,Valencia CF,Atlético de Madrid
+35,2027-05-09,01:00,Villarreal CF,Celta
+36,2027-05-16,01:00,Atlético de Madrid,Rayo Vallecano
+36,2027-05-16,01:00,CA Osasuna,Real Betis
+36,2027-05-16,01:00,Elche CF,Athletic Club
+36,2027-05-16,01:00,Levante UD,Getafe CF
+36,2027-05-16,01:00,Málaga CF,Celta
+36,2027-05-16,01:00,RC Deportivo,Deportivo Alavés
+36,2027-05-16,01:00,RCD Espanyol de Barcelona,Valencia CF
+36,2027-05-16,01:00,Real Madrid,R. Racing Club
+36,2027-05-16,01:00,Real Sociedad,FC Barcelona
+36,2027-05-16,01:00,Sevilla FC,Villarreal CF
+37,2027-05-23,01:00,Atlético de Madrid,Athletic Club
+37,2027-05-23,01:00,Celta,Real Sociedad
+37,2027-05-23,01:00,Deportivo Alavés,Real Madrid
+37,2027-05-23,01:00,FC Barcelona,Málaga CF
+37,2027-05-23,01:00,R. Racing Club,Levante UD
+37,2027-05-23,01:00,RC Deportivo,RCD Espanyol de Barcelona
+37,2027-05-23,01:00,Rayo Vallecano,Real Betis
+37,2027-05-23,01:00,Sevilla FC,Getafe CF
+37,2027-05-23,01:00,Valencia CF,Elche CF
+37,2027-05-23,01:00,Villarreal CF,CA Osasuna
+38,2027-05-30,01:00,Athletic Club,Rayo Vallecano
+38,2027-05-30,01:00,CA Osasuna,Valencia CF
+38,2027-05-30,01:00,Elche CF,R. Racing Club
+38,2027-05-30,01:00,Getafe CF,FC Barcelona
+38,2027-05-30,01:00,Levante UD,Celta
+38,2027-05-30,01:00,Málaga CF,Sevilla FC
+38,2027-05-30,01:00,RCD Espanyol de Barcelona,Deportivo Alavés
+38,2027-05-30,01:00,Real Betis,Atlético de Madrid
+38,2027-05-30,01:00,Real Madrid,RC Deportivo
+38,2027-05-30,01:00,Real Sociedad,Villarreal CF

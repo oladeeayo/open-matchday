@@ -1,0 +1,138 @@
+gw,date,home,away,minute,score_home,score_away,scorer
+1,2026-08-28,FC Bayern München,VfB Stuttgart,21,1,0,D. Upamecano
+1,2026-08-28,FC Bayern München,VfB Stuttgart,52,1,1,J. Vagnoman
+1,2026-08-28,FC Bayern München,VfB Stuttgart,55,2,1,M. Olise
+1,2026-08-28,FC Bayern München,VfB Stuttgart,57,3,1,J. Vagnoman
+1,2026-08-28,FC Bayern München,VfB Stuttgart,82,4,1,Aleksandar Pavlovic
+1,2026-08-28,FC Bayern München,VfB Stuttgart,92,5,1,Luis Díaz
+1,2026-08-29,1. FC Köln,TSG Hoffenheim,27,0,1,A. Daghim
+1,2026-08-29,1. FC Köln,TSG Hoffenheim,51,1,1,S. El Mala
+1,2026-08-29,1. FC Köln,TSG Hoffenheim,67,1,2,O. Kabak
+1,2026-08-29,1. FC Köln,TSG Hoffenheim,72,2,2,Thijs Dallinga
+1,2026-08-29,1. FC Köln,TSG Hoffenheim,82,3,2,Thijs Dallinga
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,3,1,0,Emmanuel Latte Lath
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,10,1,1,Younes Ebnoutalib
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,11,1,2,Younes Ebnoutalib
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,67,1,3,Younes Ebnoutalib
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,79,2,3,L. Querfeld
+1,2026-08-29,1. FC Union Berlin,Eintracht Frankfurt,92,3,3,T. Skarke
+1,2026-08-29,RB Leipzig,Borussia Mönchengladbach,26,1,0,R. Baku
+1,2026-08-29,RB Leipzig,Borussia Mönchengladbach,49,2,0,A. Nusa
+1,2026-08-29,RB Leipzig,Borussia Mönchengladbach,66,3,0,R. Reitz
+1,2026-08-29,SV 07 Elversberg,Bayer 04 Leverkusen,8,1,0,L. Petkov
+1,2026-08-29,SV 07 Elversberg,Bayer 04 Leverkusen,9,2,0,Cole Campbell
+1,2026-08-29,SV 07 Elversberg,Bayer 04 Leverkusen,46,3,0,David Mokwa Ntusu
+1,2026-08-29,SV 07 Elversberg,Bayer 04 Leverkusen,77,3,1,P. Schick
+1,2026-08-29,SV 07 Elversberg,Bayer 04 Leverkusen,91,3,2,C. Kofane
+1,2026-08-29,Borussia Dortmund,Hamburger SV,9,1,0,S. Guirassy
+1,2026-08-29,Borussia Dortmund,Hamburger SV,46,2,0,Giannis Konstantelias
+1,2026-08-30,SC Freiburg,SV Werder Bremen,29,1,0,Y. Suzuki
+1,2026-08-30,SC Freiburg,SV Werder Bremen,45,2,0,I. Matanovic
+1,2026-08-30,SC Freiburg,SV Werder Bremen,48,3,0,Y. Suzuki
+1,2026-08-30,SC Freiburg,SV Werder Bremen,55,4,0,Y. Suzuki
+1,2026-08-30,SC Freiburg,SV Werder Bremen,76,4,1,D. Stalmach
+1,2026-08-30,FC Augsburg,FC Schalke 04,18,1,0,M. Gregoritsch
+1,2026-08-30,FC Augsburg,FC Schalke 04,79,2,0,A. Kade
+1,2026-08-30,FC Augsburg,FC Schalke 04,92,3,0,Rodrigo Ribeiro
+2,2026-09-04,VfB Stuttgart,1. FC Köln,39,1,0,B. El Khannouss
+2,2026-09-04,VfB Stuttgart,1. FC Köln,60,2,0,G. Prömel
+2,2026-09-04,VfB Stuttgart,1. FC Köln,76,3,0,E. Demirovic
+2,2026-09-04,VfB Stuttgart,1. FC Köln,81,3,1,R. Hendriks
+2,2026-09-04,VfB Stuttgart,1. FC Köln,91,4,1,J. Vagnoman
+2,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,1,1,0,E. Fernández
+2,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,28,2,0,Facundo Medina
+2,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,48,3,0,P. Schick
+2,2026-09-05,Bayer 04 Leverkusen,1. FC Union Berlin,66,4,0,Ibrahim Maza
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,12,1,0,H. Bolin
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,29,1,1,D. Mokwa
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,44,2,1,H. Bolin
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,56,3,1,J. Scally
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,66,3,2,M. Krattenmacher
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,80,3,3,F. Keidel
+2,2026-09-05,Borussia Mönchengladbach,SV 07 Elversberg,92,3,4,M. Krattenmacher
+2,2026-09-05,SC Paderborn 07,SC Freiburg,26,0,1,M. Eggestein
+2,2026-09-05,SV Werder Bremen,RB Leipzig,4,1,0,E. Dinkçi
+2,2026-09-05,SV Werder Bremen,RB Leipzig,68,2,0,N. Füllkrug
+2,2026-09-05,SV Werder Bremen,RB Leipzig,80,3,0,M. Grüll
+2,2026-09-05,SV Werder Bremen,RB Leipzig,95,3,1,R. Baku
+2,2026-09-05,TSG Hoffenheim,Borussia Dortmund,45,1,0,L. Avdullahu
+2,2026-09-05,TSG Hoffenheim,Borussia Dortmund,54,2,0,T. Lemperle
+2,2026-09-05,TSG Hoffenheim,Borussia Dortmund,61,2,1,S. Guirassy
+2,2026-09-05,TSG Hoffenheim,Borussia Dortmund,66,2,2,Fabio Silva
+2,2026-09-05,TSG Hoffenheim,Borussia Dortmund,87,2,3,A. Hajdari
+2,2026-09-06,Hamburger SV,1. FSV Mainz 05,20,0,1,S. Becker
+2,2026-09-06,Hamburger SV,1. FSV Mainz 05,41,0,2,P. Mwene
+2,2026-09-06,Hamburger SV,1. FSV Mainz 05,48,0,3,P. Tietz
+2,2026-09-06,Hamburger SV,1. FSV Mainz 05,83,0,4,P. Tietz
+2,2026-09-06,Hamburger SV,1. FSV Mainz 05,92,0,5,R. Königsdörffer
+2,2026-09-06,Eintracht Frankfurt,FC Augsburg,6,1,0,J. Burkardt
+2,2026-09-06,Eintracht Frankfurt,FC Augsburg,46,1,1,A. Ibrahimovic
+2,2026-09-06,Eintracht Frankfurt,FC Augsburg,47,1,2,R. Fellhauer
+2,2026-09-06,Eintracht Frankfurt,FC Augsburg,65,1,3,Alexis Claude-Maurice
+2,2026-09-06,Eintracht Frankfurt,FC Augsburg,89,1,4,F. Rieder
+3,2026-09-11,1. FC Union Berlin,FC Schalke 04,25,0,1,R. Gosens
+3,2026-09-11,1. FC Union Berlin,FC Schalke 04,46,0,2,A. Aouchiche
+3,2026-09-11,1. FC Union Berlin,FC Schalke 04,96,1,2,T. Skarke
+3,2026-09-11,1. FC Union Berlin,FC Schalke 04,103,1,3,M. Wöber
+3,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,9,0,1,C. Uzun
+3,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,46,0,2,J. Burkardt
+3,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,60,0,3,C. Uzun
+3,2026-09-12,1. FSV Mainz 05,Eintracht Frankfurt,89,1,3,P. Tietz
+3,2026-09-12,Borussia Dortmund,SC Paderborn 07,5,1,0,Fabio Silva
+3,2026-09-12,Borussia Dortmund,SC Paderborn 07,80,2,0,F. Nmecha
+3,2026-09-12,Borussia Dortmund,SC Paderborn 07,89,3,0,F. Nmecha
+3,2026-09-12,FC Augsburg,Bayer 04 Leverkusen,18,0,1,C. Kofane
+3,2026-09-12,FC Augsburg,Bayer 04 Leverkusen,50,1,1,M. Gregoritsch
+3,2026-09-12,FC Augsburg,Bayer 04 Leverkusen,55,2,1,M. Gregoritsch
+3,2026-09-12,FC Augsburg,Bayer 04 Leverkusen,89,2,2,P. Schick
+3,2026-09-12,SC Freiburg,Borussia Mönchengladbach,23,1,0,Y. Engelhardt
+3,2026-09-12,SC Freiburg,Borussia Mönchengladbach,29,2,0,I. Matanovic
+3,2026-09-12,SC Freiburg,Borussia Mönchengladbach,77,3,0,I. Matanovic
+3,2026-09-12,SC Freiburg,Borussia Mönchengladbach,79,4,0,Y. Engelhardt
+3,2026-09-12,SC Freiburg,Borussia Mönchengladbach,86,5,0,M. Eggestein
+3,2026-09-12,TSG Hoffenheim,VfB Stuttgart,13,1,0,A. Hložek
+3,2026-09-12,TSG Hoffenheim,VfB Stuttgart,48,1,1,M. Mittelstädt
+3,2026-09-12,TSG Hoffenheim,VfB Stuttgart,67,2,1,A. Hložek
+3,2026-09-12,1. FC Köln,SV Werder Bremen,11,1,0,L. Maina
+3,2026-09-12,1. FC Köln,SV Werder Bremen,70,1,1,N. Füllkrug
+3,2026-09-13,RB Leipzig,Hamburger SV,17,1,0,T. Gomis
+3,2026-09-13,RB Leipzig,Hamburger SV,28,2,0,A. Nusa
+3,2026-09-13,RB Leipzig,Hamburger SV,72,3,0,W. Orbán
+3,2026-09-13,RB Leipzig,Hamburger SV,74,4,0,C. Nkunku
+3,2026-09-13,RB Leipzig,Hamburger SV,77,5,0,Romulo
+3,2026-09-13,SV 07 Elversberg,FC Bayern München,26,0,1,Lennart Karl
+3,2026-09-13,SV 07 Elversberg,FC Bayern München,61,1,1,M. Krattenmacher
+3,2026-09-13,SV 07 Elversberg,FC Bayern München,72,1,2,H. Kane
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,18,1,0,J. Musiala
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,39,2,0,H. Kane
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,43,3,0,M. Olise
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,54,4,0,H. Kane
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,70,5,0,I. Saibari
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,73,6,0,M. Olise
+4,2026-09-18,FC Bayern München,1. FC Union Berlin,76,7,0,M. Olise
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,11,1,0,F. Neuhaus
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,18,1,1,P. Tietz
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,46,1,2,S. Becker
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,59,2,2,Isac Lidberg
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,78,2,3,E. Martel
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,89,2,4,Danny da Costa
+4,2026-09-19,Borussia Mönchengladbach,1. FSV Mainz 05,95,3,4,S. Machino
+4,2026-09-19,Eintracht Frankfurt,SC Freiburg,10,1,0,Younes Ebnoutalib
+4,2026-09-19,Eintracht Frankfurt,SC Freiburg,34,1,1,D. Scherhant
+4,2026-09-19,Eintracht Frankfurt,SC Freiburg,36,2,1,J. Burkardt
+4,2026-09-19,Eintracht Frankfurt,SC Freiburg,48,2,2,Y. Suzuki
+4,2026-09-19,Hamburger SV,1. FC Köln,44,1,0,N. Capaldo
+4,2026-09-19,Hamburger SV,1. FC Köln,49,2,0," Poulsen, Yussuf"
+4,2026-09-19,Hamburger SV,1. FC Köln,90,2,1,R. Ache
+4,2026-09-19,SV Werder Bremen,FC Augsburg,18,0,1,R. Fellhauer
+4,2026-09-19,SV Werder Bremen,FC Augsburg,58,0,2,Calvin Brackelmann
+4,2026-09-19,SV Werder Bremen,FC Augsburg,66,1,2,M. Grüll
+4,2026-09-19,SV Werder Bremen,FC Augsburg,86,2,2,N. Füllkrug
+4,2026-09-19,SV Werder Bremen,FC Augsburg,93,3,2,M. Weiser
+4,2026-09-19,VfB Stuttgart,Borussia Dortmund,70,0,1,M. Beier
+4,2026-09-20,Bayer 04 Leverkusen,RB Leipzig,44,1,0,P. Schick
+4,2026-09-20,Bayer 04 Leverkusen,RB Leipzig,58,2,0,Miguel Gutiérrez
+4,2026-09-20,SC Paderborn 07,TSG Hoffenheim,29,1,0,Santiago Castaneda
+4,2026-09-20,SC Paderborn 07,TSG Hoffenheim,42,2,0,S. Marino
+4,2026-09-20,SC Paderborn 07,TSG Hoffenheim,50,2,1,A. Daghim
+4,2026-09-20,SC Paderborn 07,TSG Hoffenheim,69,3,1,S. Tigges

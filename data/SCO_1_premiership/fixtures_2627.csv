@@ -1,0 +1,156 @@
+gw,date,time,home,away
+8,2026-10-10,15:00,Dundee United,Hibernian
+8,2026-10-10,15:00,Falkirk,Dundee
+8,2026-10-10,15:00,Heart of Midlothian,St. Mirren
+8,2026-10-10,15:00,Rangers,Kilmarnock
+8,2026-10-11,12:00,Motherwell,Celtic
+8,2026-10-11,14:00,Aberdeen,St. Johnstone
+9,2026-10-17,15:00,Aberdeen,St. Mirren
+9,2026-10-17,15:00,Hibernian,Falkirk
+9,2026-10-17,15:00,Kilmarnock,Motherwell
+9,2026-10-17,15:00,St. Johnstone,Dundee United
+9,2026-10-17,20:00,Dundee,Rangers
+9,2026-10-18,15:00,Celtic,Heart of Midlothian
+10,2026-10-24,15:00,Dundee United,Aberdeen
+10,2026-10-24,15:00,Falkirk,Kilmarnock
+10,2026-10-24,15:00,Rangers,St. Johnstone
+10,2026-10-24,15:00,St. Mirren,Dundee
+10,2026-10-25,13:00,Hibernian,Celtic
+10,2026-10-25,15:00,Motherwell,Heart of Midlothian
+11,2026-10-28,20:45,Aberdeen,Falkirk
+11,2026-10-28,20:45,Celtic,Dundee United
+11,2026-10-28,20:45,Dundee,Kilmarnock
+11,2026-10-28,20:45,St. Johnstone,Motherwell
+11,2026-10-28,20:45,St. Mirren,Hibernian
+11,2026-10-28,21:00,Heart of Midlothian,Rangers
+12,2026-10-31,16:00,Dundee United,Heart of Midlothian
+12,2026-10-31,16:00,Kilmarnock,St. Johnstone
+12,2026-10-31,16:00,Motherwell,St. Mirren
+12,2026-11-01,14:00,Falkirk,Celtic
+13,2026-11-07,16:00,Dundee United,Motherwell
+13,2026-11-07,16:00,St. Johnstone,Dundee
+13,2026-11-07,18:45,Aberdeen,Hibernian
+13,2026-11-07,21:00,St. Mirren,Rangers
+13,2026-11-08,16:00,Heart of Midlothian,Falkirk
+13,2026-11-08,17:00,Celtic,Kilmarnock
+14,2026-11-21,16:00,Celtic,St. Mirren
+14,2026-11-21,16:00,Falkirk,St. Johnstone
+14,2026-11-21,16:00,Kilmarnock,Aberdeen
+14,2026-11-21,18:45,Dundee,Heart of Midlothian
+14,2026-11-21,21:00,Motherwell,Rangers
+12,2026-11-24,20:45,Hibernian,Dundee
+12,2026-11-24,21:00,Rangers,Aberdeen
+15,2026-11-28,16:00,Aberdeen,Dundee
+15,2026-11-28,16:00,Dundee United,St. Johnstone
+15,2026-11-28,16:00,Rangers,Falkirk
+15,2026-11-28,16:00,St. Mirren,Kilmarnock
+15,2026-11-28,18:45,Motherwell,Hibernian
+15,2026-11-29,16:00,Heart of Midlothian,Celtic
+16,2026-12-02,20:45,Dundee,Celtic
+16,2026-12-02,20:45,Falkirk,Motherwell
+16,2026-12-02,20:45,Heart of Midlothian,Aberdeen
+16,2026-12-02,20:45,Kilmarnock,Hibernian
+16,2026-12-02,20:45,Rangers,Dundee United
+16,2026-12-02,20:45,St. Johnstone,St. Mirren
+17,2026-12-05,16:00,Aberdeen,Dundee United
+17,2026-12-05,16:00,Celtic,St. Johnstone
+17,2026-12-05,16:00,Dundee,Falkirk
+17,2026-12-05,16:00,Hibernian,Rangers
+17,2026-12-05,16:00,Motherwell,Kilmarnock
+17,2026-12-05,16:00,St. Mirren,Heart of Midlothian
+18,2026-12-12,16:00,Dundee United,St. Mirren
+18,2026-12-12,16:00,Falkirk,Aberdeen
+18,2026-12-12,16:00,Kilmarnock,Dundee
+18,2026-12-12,16:00,St. Johnstone,Rangers
+18,2026-12-13,16:00,Celtic,Hibernian
+18,2026-12-13,16:00,Heart of Midlothian,Motherwell
+19,2026-12-19,16:00,Aberdeen,Celtic
+19,2026-12-19,16:00,Dundee United,Kilmarnock
+19,2026-12-19,16:00,Hibernian,St. Johnstone
+19,2026-12-19,16:00,Motherwell,Dundee
+19,2026-12-19,16:00,St. Mirren,Falkirk
+19,2026-12-20,16:00,Rangers,Heart of Midlothian
+20,2026-12-26,16:00,Celtic,Motherwell
+20,2026-12-26,16:00,Dundee,St. Mirren
+20,2026-12-26,16:00,Falkirk,Dundee United
+20,2026-12-26,16:00,St. Johnstone,Aberdeen
+20,2026-12-26,18:45,Kilmarnock,Rangers
+20,2026-12-27,13:00,Heart of Midlothian,Hibernian
+21,2026-12-30,20:45,Aberdeen,Motherwell
+21,2026-12-30,20:45,Dundee United,Celtic
+21,2026-12-30,20:45,Hibernian,St. Mirren
+21,2026-12-30,20:45,Kilmarnock,Falkirk
+21,2026-12-30,20:45,Rangers,Dundee
+21,2026-12-30,20:45,St. Johnstone,Heart of Midlothian
+22,2027-01-02,13:30,Dundee,Dundee United
+22,2027-01-02,16:00,Falkirk,Hibernian
+22,2027-01-02,16:00,Heart of Midlothian,Kilmarnock
+22,2027-01-02,16:00,Motherwell,St. Johnstone
+22,2027-01-03,13:00,Rangers,Celtic
+22,2027-01-03,15:30,St. Mirren,Aberdeen
+23,2027-01-09,16:00,Aberdeen,Heart of Midlothian
+23,2027-01-09,16:00,Celtic,Dundee
+23,2027-01-09,16:00,Dundee United,Rangers
+23,2027-01-09,16:00,Hibernian,Motherwell
+23,2027-01-09,16:00,Kilmarnock,St. Mirren
+23,2027-01-09,16:00,St. Johnstone,Falkirk
+24,2027-01-23,16:00,Dundee,Aberdeen
+24,2027-01-23,16:00,Falkirk,Heart of Midlothian
+24,2027-01-23,16:00,Hibernian,Kilmarnock
+24,2027-01-23,16:00,Motherwell,Dundee United
+24,2027-01-23,16:00,Rangers,St. Johnstone
+24,2027-01-24,16:00,St. Mirren,Celtic
+25,2027-01-30,16:00,Aberdeen,Rangers
+25,2027-01-30,16:00,Dundee,Hibernian
+25,2027-01-30,16:00,Heart of Midlothian,St. Mirren
+25,2027-01-30,16:00,Kilmarnock,Motherwell
+25,2027-01-30,16:00,St. Johnstone,Dundee United
+25,2027-01-31,16:00,Celtic,Falkirk
+26,2027-02-03,20:45,Aberdeen,Falkirk
+26,2027-02-03,20:45,Dundee United,Hibernian
+26,2027-02-03,20:45,Heart of Midlothian,Dundee
+26,2027-02-03,20:45,Motherwell,Celtic
+26,2027-02-03,20:45,Rangers,Kilmarnock
+26,2027-02-03,20:45,St. Mirren,St. Johnstone
+27,2027-02-13,16:00,Celtic,Heart of Midlothian
+27,2027-02-13,16:00,Dundee,St. Johnstone
+27,2027-02-13,16:00,Falkirk,Rangers
+27,2027-02-13,16:00,Hibernian,Aberdeen
+27,2027-02-13,16:00,Kilmarnock,Dundee United
+27,2027-02-13,16:00,St. Mirren,Motherwell
+28,2027-02-20,16:00,Dundee United,Aberdeen
+28,2027-02-20,16:00,Falkirk,Dundee
+28,2027-02-20,16:00,Hibernian,Celtic
+28,2027-02-20,16:00,Motherwell,Heart of Midlothian
+28,2027-02-20,16:00,Rangers,St. Mirren
+28,2027-02-20,16:00,St. Johnstone,Kilmarnock
+29,2027-02-27,16:00,Aberdeen,St. Johnstone
+29,2027-02-27,16:00,Celtic,Rangers
+29,2027-02-27,16:00,Dundee,Kilmarnock
+29,2027-02-27,16:00,Heart of Midlothian,Dundee United
+29,2027-02-27,16:00,Motherwell,Falkirk
+29,2027-02-27,16:00,St. Mirren,Hibernian
+30,2027-03-13,16:00,Aberdeen,St. Mirren
+30,2027-03-13,16:00,Dundee United,Dundee
+30,2027-03-13,16:00,Hibernian,Falkirk
+30,2027-03-13,16:00,Kilmarnock,Heart of Midlothian
+30,2027-03-13,16:00,Rangers,Motherwell
+30,2027-03-13,16:00,St. Johnstone,Celtic
+31,2027-03-20,16:00,Celtic,Aberdeen
+31,2027-03-20,16:00,Dundee,Motherwell
+31,2027-03-20,16:00,Falkirk,Kilmarnock
+31,2027-03-20,16:00,Heart of Midlothian,Rangers
+31,2027-03-20,16:00,St. Johnstone,Hibernian
+31,2027-03-20,16:00,St. Mirren,Dundee United
+32,2027-04-03,15:00,Dundee United,Falkirk
+32,2027-04-03,15:00,Heart of Midlothian,St. Johnstone
+32,2027-04-03,15:00,Kilmarnock,Celtic
+32,2027-04-03,15:00,Motherwell,Aberdeen
+32,2027-04-03,15:00,Rangers,Hibernian
+32,2027-04-03,15:00,St. Mirren,Dundee
+33,2027-04-10,15:00,Aberdeen,Kilmarnock
+33,2027-04-10,15:00,Celtic,Dundee United
+33,2027-04-10,15:00,Dundee,Rangers
+33,2027-04-10,15:00,Falkirk,St. Mirren
+33,2027-04-10,15:00,Hibernian,Heart of Midlothian
+33,2027-04-10,15:00,St. Johnstone,Motherwell

@@ -1,0 +1,46 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-21,19:45,Olympique de Marseille,RC Strasbourg Alsace,4,0,H,0,0,D,14,5,8,2,6,12,3,4,1,2,0,1,,fixturedl
+1,2026-08-22,16:15,RC Lens,AJ Auxerre,5,2,H,1,0,H,12,10,9,4,6,21,4,7,1,1,0,1,,fixturedl
+1,2026-08-22,19:45,Estac Troyes,Paris FC,0,0,D,0,0,D,9,10,2,1,8,14,6,2,2,1,0,0,,fixturedl
+1,2026-08-22,19:45,Le Mans FC,Stade Brestois 29,2,2,D,1,1,D,8,26,5,7,14,12,1,10,1,1,0,0,,fixturedl
+1,2026-08-22,19:45,OGC Nice,FC Lorient,0,0,D,0,0,D,14,10,1,2,15,8,9,3,1,0,0,0,,fixturedl
+1,2026-08-22,19:45,Toulouse FC,Olympique Lyonnais,0,2,A,0,0,D,17,11,2,3,15,15,6,5,1,2,0,0,,fixturedl
+1,2026-08-23,14:00,Angers SCO,LOSC Lille,0,2,A,0,2,A,20,11,2,8,11,13,8,3,2,2,0,0,,fixturedl
+1,2026-08-23,16:15,Havre Athletic Club,AS Monaco,0,1,A,0,1,A,15,15,4,7,13,12,7,4,3,2,0,0,,fixturedl
+1,2026-08-23,19:45,Stade Rennais FC,Paris Saint-Germain,2,2,D,2,0,H,9,19,3,5,7,6,0,10,2,2,0,0,,fixturedl
+2,2026-08-28,19:45,LOSC Lille,Paris Saint-Germain,2,2,D,1,0,H,9,18,4,4,11,7,0,5,2,1,0,0,,fixturedl
+2,2026-08-29,16:15,RC Strasbourg Alsace,RC Lens,2,1,H,0,1,A,16,17,7,7,10,11,3,6,2,2,0,0,,fixturedl
+2,2026-08-29,19:45,AJ Auxerre,Angers SCO,1,3,A,1,1,D,20,15,7,6,16,6,7,10,3,2,0,0,,fixturedl
+2,2026-08-29,19:45,FC Lorient,Estac Troyes,1,2,A,0,2,A,15,11,6,2,9,11,2,5,0,0,0,0,,fixturedl
+2,2026-08-29,19:45,Olympique Lyonnais,Havre Athletic Club,1,1,D,0,0,D,16,12,5,4,7,16,5,5,0,2,0,0,,fixturedl
+2,2026-08-29,19:45,Stade Brestois 29,Toulouse FC,2,2,D,1,1,D,26,6,7,2,19,18,7,2,2,3,0,0,,fixturedl
+2,2026-08-30,14:00,Paris FC,OGC Nice,3,0,H,1,0,H,15,15,4,4,7,7,2,4,0,1,0,0,,fixturedl
+2,2026-08-30,16:15,Stade Rennais FC,Le Mans FC,3,2,H,2,1,H,22,12,8,5,15,15,8,6,3,2,0,1,,fixturedl
+2,2026-08-30,19:45,AS Monaco,Olympique de Marseille,2,0,H,1,0,H,11,13,5,2,9,10,5,7,4,0,0,0,,fixturedl
+3,2026-09-03,19:45,Toulouse FC,LOSC Lille,0,1,A,0,0,D,24,10,10,6,16,9,6,2,1,0,0,0,,fixturedl
+3,2026-09-04,18:00,Olympique Lyonnais,AJ Auxerre,3,1,H,2,1,H,21,8,7,3,11,8,9,5,2,2,0,0,,fixturedl
+3,2026-09-04,20:05,Paris Saint-Germain,AS Monaco,1,2,A,1,0,H,23,4,10,2,9,11,6,0,1,1,0,0,,fixturedl
+3,2026-09-05,16:15,RC Lens,FC Lorient,0,1,A,0,0,D,17,8,6,3,18,6,8,0,4,1,1,0,,fixturedl
+3,2026-09-05,19:45,Havre Athletic Club,Stade Brestois 29,1,2,A,0,1,A,18,19,4,9,15,18,5,5,1,1,1,0,,fixturedl
+3,2026-09-05,19:45,OGC Nice,Le Mans FC,1,1,D,1,1,D,8,8,2,3,4,11,5,2,2,2,0,0,,fixturedl
+3,2026-09-06,14:00,Estac Troyes,RC Strasbourg Alsace,2,6,A,1,2,A,27,19,6,12,6,16,11,0,1,1,0,0,,fixturedl
+3,2026-09-06,16:15,Angers SCO,Stade Rennais FC,1,2,A,1,2,A,19,17,3,5,10,15,12,6,1,1,0,0,,fixturedl
+3,2026-09-06,19:45,Olympique de Marseille,Paris FC,2,3,A,1,2,A,14,18,5,7,10,12,5,4,0,2,0,0,,fixturedl
+4,2026-09-11,19:45,Stade Rennais FC,Olympique de Marseille,1,0,H,0,0,D,20,13,7,5,15,13,3,5,1,4,0,0,,fixturedl
+4,2026-09-12,16:15,RC Strasbourg Alsace,AS Monaco,1,1,D,0,0,D,13,12,2,3,9,10,2,7,1,1,0,0,,fixturedl
+4,2026-09-12,19:45,AJ Auxerre,OGC Nice,1,0,H,0,0,D,11,12,7,4,9,7,3,8,1,1,0,0,,fixturedl
+4,2026-09-12,19:45,FC Lorient,Toulouse FC,2,2,D,2,0,H,10,13,3,4,8,18,4,3,1,0,0,0,,fixturedl
+4,2026-09-12,19:45,Havre Athletic Club,Angers SCO,0,0,D,0,0,D,15,9,6,1,15,13,4,6,1,1,0,0,,fixturedl
+4,2026-09-12,19:45,Paris FC,Olympique Lyonnais,0,0,D,0,0,D,6,5,4,1,19,13,4,3,2,1,0,0,,fixturedl
+4,2026-09-13,14:00,LOSC Lille,Estac Troyes,2,0,H,1,0,H,13,8,6,1,11,20,2,5,1,0,0,0,,fixturedl
+4,2026-09-13,16:15,Le Mans FC,RC Lens,2,2,D,2,1,H,13,16,5,6,17,11,3,9,2,3,0,0,,fixturedl
+4,2026-09-13,19:45,Stade Brestois 29,Paris Saint-Germain,0,1,A,0,1,A,16,15,4,7,13,7,3,2,1,2,0,0,,fixturedl
+5,2026-09-18,19:45,AS Monaco,RC Lens,2,1,H,1,0,H,9,12,6,4,13,11,2,8,1,1,0,0,,fixturedl
+5,2026-09-19,16:15,Paris FC,RC Strasbourg Alsace,2,1,H,1,0,H,17,5,7,1,17,12,3,0,3,2,0,0,,fixturedl
+5,2026-09-19,19:45,Angers SCO,Estac Troyes,2,0,H,1,0,H,12,19,3,3,14,15,2,11,3,2,0,0,,fixturedl
+5,2026-09-19,19:45,Le Mans FC,FC Lorient,2,1,H,1,0,H,11,9,7,2,15,15,1,3,3,3,0,0,,fixturedl
+5,2026-09-19,19:45,Olympique Lyonnais,Stade Rennais FC,4,0,H,2,0,H,15,13,9,4,13,14,3,8,4,2,0,0,,fixturedl
+5,2026-09-19,19:45,Toulouse FC,Havre Athletic Club,3,2,H,0,0,D,14,18,5,7,17,15,6,7,3,1,0,0,,fixturedl
+5,2026-09-20,14:00,AJ Auxerre,Stade Brestois 29,2,1,H,0,1,A,11,8,4,2,19,13,8,3,1,1,0,0,,fixturedl
+5,2026-09-20,16:15,OGC Nice,LOSC Lille,2,1,H,1,0,H,10,21,4,8,16,9,3,7,3,1,0,0,,fixturedl
+5,2026-09-20,19:45,Olympique de Marseille,Paris Saint-Germain,1,2,A,0,0,D,12,31,4,10,9,3,3,7,2,1,1,0,,fixturedl

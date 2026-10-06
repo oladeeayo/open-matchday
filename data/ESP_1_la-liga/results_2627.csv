@@ -1,0 +1,70 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-15,18:30,Deportivo Alavés,Getafe CF,3,0,H,0,0,D,18,6,8,2,16,13,5,3,4,3,0,1,,fixturedl
+1,2026-08-15,20:30,Sevilla FC,Rayo Vallecano,2,1,H,0,1,A,13,6,4,3,18,18,1,2,4,4,1,0,,fixturedl
+1,2026-08-16,16:00,R. Racing Club,Villarreal CF,2,2,D,2,2,D,17,12,3,7,14,14,6,10,2,4,0,0,,fixturedl
+1,2026-08-16,18:00,RCD Espanyol de Barcelona,Levante UD,3,0,H,2,0,H,16,4,6,0,17,7,0,1,3,0,0,0,,fixturedl
+1,2026-08-17,20:00,RC Deportivo,Elche CF,1,1,D,1,0,H,8,11,3,6,17,12,2,6,2,2,0,0,,fixturedl
+1,2026-08-19,20:00,Atlético de Madrid,Málaga CF,2,0,H,0,0,D,15,5,6,1,17,11,6,1,2,3,0,0,,fixturedl
+2,2026-08-20,20:00,Rayo Vallecano,Deportivo Alavés,1,1,D,0,0,D,8,15,3,3,14,13,9,7,1,2,0,0,,fixturedl
+2,2026-08-21,20:00,Real Betis,Real Sociedad,1,0,H,0,0,D,18,9,7,3,9,12,4,5,3,3,0,0,,fixturedl
+2,2026-08-22,16:00,Athletic Club,Sevilla FC,1,3,A,0,1,A,18,7,8,4,11,16,10,3,2,5,1,0,,fixturedl
+2,2026-08-22,18:30,Valencia CF,Celta,0,0,D,0,0,D,8,7,2,3,17,17,1,2,2,3,0,0,,fixturedl
+2,2026-08-22,20:30,RCD Espanyol de Barcelona,Real Madrid,1,2,A,1,1,D,8,21,3,8,19,7,0,8,5,1,0,0,,fixturedl
+2,2026-08-23,16:00,Atlético de Madrid,Villarreal CF,2,2,D,0,0,D,19,13,4,6,12,13,5,3,3,2,1,0,,fixturedl
+2,2026-08-23,18:30,Getafe CF,R. Racing Club,1,0,H,0,0,D,12,6,1,3,14,17,8,6,1,3,0,0,,fixturedl
+2,2026-08-23,20:30,Elche CF,FC Barcelona,0,5,A,0,2,A,7,11,2,7,13,12,3,1,1,0,0,0,,fixturedl
+2,2026-08-24,18:30,CA Osasuna,Levante UD,0,0,D,0,0,D,12,11,7,1,9,12,9,4,2,1,0,0,,fixturedl
+2,2026-08-24,20:30,Málaga CF,RC Deportivo,1,1,D,1,1,D,13,6,2,4,12,12,7,4,1,4,0,0,,fixturedl
+1,2026-08-25,20:00,Valencia CF,Real Betis,0,1,A,0,0,D,16,15,3,3,10,11,8,2,2,1,0,0,,fixturedl
+1,2026-08-26,20:00,Real Madrid,Real Sociedad,4,1,H,1,1,D,20,10,11,3,10,8,4,7,3,3,0,0,,fixturedl
+1,2026-08-27,19:30,Celta,CA Osasuna,1,2,A,1,0,H,4,13,2,5,7,16,5,3,0,1,1,0,,fixturedl
+1,2026-08-27,20:00,FC Barcelona,Athletic Club,2,0,H,1,0,H,22,5,10,0,13,6,12,5,1,2,0,0,,fixturedl
+3,2026-08-28,18:00,R. Racing Club,Elche CF,3,2,H,3,0,H,13,18,6,7,17,19,5,10,2,1,0,0,,fixturedl
+3,2026-08-28,20:30,Deportivo Alavés,Villarreal CF,1,0,H,1,0,H,9,19,2,6,15,8,5,9,3,1,0,0,,fixturedl
+3,2026-08-29,16:00,Levante UD,Real Betis,5,2,H,2,2,D,19,20,10,6,9,7,5,8,1,1,0,0,,fixturedl
+3,2026-08-29,18:00,Real Sociedad,RCD Espanyol de Barcelona,2,1,H,1,1,D,17,11,10,3,19,14,7,3,2,4,0,0,,fixturedl
+3,2026-08-29,20:30,Sevilla FC,Atlético de Madrid,1,3,A,0,3,A,20,12,5,5,20,16,4,2,2,2,0,0,,fixturedl
+3,2026-08-30,16:00,Real Madrid,Málaga CF,4,0,H,3,0,H,19,14,8,1,6,9,9,6,0,2,0,0,,fixturedl
+3,2026-08-30,18:30,RC Deportivo,Valencia CF,3,1,H,2,1,H,11,12,4,4,14,5,5,5,2,1,1,0,,fixturedl
+3,2026-08-30,20:30,Celta,Athletic Club,0,2,A,0,2,A,8,17,2,7,8,17,4,7,0,3,0,0,,fixturedl
+3,2026-08-31,18:30,CA Osasuna,Getafe CF,1,0,H,1,0,H,10,11,2,1,17,14,1,3,5,4,0,0,,fixturedl
+3,2026-08-31,20:30,FC Barcelona,Rayo Vallecano,5,2,H,2,1,H,26,11,9,5,4,11,9,5,0,1,0,0,,fixturedl
+6,2026-09-03,20:00,Real Sociedad,Celta,0,0,D,0,0,D,16,7,5,2,15,11,11,3,2,3,0,0,,fixturedl
+4,2026-09-04,20:00,Real Betis,Real Madrid,1,0,H,0,0,D,10,20,5,8,11,13,6,10,3,5,0,0,,fixturedl
+4,2026-09-05,15:15,Athletic Club,Atlético de Madrid,3,0,H,0,0,D,11,15,4,5,8,6,3,8,0,1,0,0,,fixturedl
+4,2026-09-05,17:30,Rayo Vallecano,R. Racing Club,3,2,H,2,2,D,16,9,10,4,15,12,9,6,3,2,2,0,,fixturedl
+4,2026-09-05,20:00,Villarreal CF,RC Deportivo,2,3,A,1,1,D,17,8,5,3,14,14,7,1,2,2,0,0,,fixturedl
+4,2026-09-06,15:15,Valencia CF,FC Barcelona,0,5,A,0,2,A,3,25,2,10,7,6,1,4,1,3,0,0,,fixturedl
+4,2026-09-06,17:30,Deportivo Alavés,CA Osasuna,5,2,H,2,0,H,12,7,7,5,14,13,4,1,1,2,0,0,,fixturedl
+4,2026-09-06,17:30,Málaga CF,Levante UD,0,0,D,0,0,D,10,11,3,3,15,11,6,4,4,2,0,0,,fixturedl
+4,2026-09-06,20:00,RCD Espanyol de Barcelona,Sevilla FC,1,1,D,0,0,D,12,6,3,3,17,13,0,4,2,3,0,1,,fixturedl
+4,2026-09-07,18:00,Getafe CF,Celta,1,1,D,1,0,H,10,16,2,3,8,9,3,5,4,2,1,0,,fixturedl
+4,2026-09-07,20:30,Elche CF,Real Sociedad,2,3,A,0,2,A,20,13,10,6,9,8,6,7,4,1,0,1,,fixturedl
+5,2026-09-11,20:00,Sevilla FC,Valencia CF,1,0,H,0,0,D,13,3,4,0,8,12,6,4,1,2,0,0,,fixturedl
+5,2026-09-12,13:00,R. Racing Club,Deportivo Alavés,2,1,H,1,1,D,11,16,4,8,16,17,4,6,2,3,1,0,,fixturedl
+5,2026-09-12,15:15,CA Osasuna,RCD Espanyol de Barcelona,0,2,A,0,2,A,11,6,4,3,10,24,3,4,2,3,0,0,,fixturedl
+5,2026-09-12,17:30,Athletic Club,Elche CF,1,1,D,0,0,D,19,3,3,1,11,12,7,1,3,3,0,0,,fixturedl
+5,2026-09-12,20:00,Real Madrid,Rayo Vallecano,4,1,H,3,0,H,24,18,11,7,9,13,11,5,0,1,0,0,,fixturedl
+5,2026-09-13,13:00,Celta,Málaga CF,1,1,D,1,0,H,17,12,5,2,10,10,1,5,1,1,0,0,,fixturedl
+5,2026-09-13,15:15,Levante UD,FC Barcelona,2,4,A,0,2,A,13,12,7,6,11,11,3,5,1,1,0,0,,fixturedl
+5,2026-09-13,17:30,Getafe CF,RC Deportivo,1,1,D,0,0,D,15,10,4,3,14,9,3,7,3,1,0,0,,fixturedl
+5,2026-09-13,20:00,Real Sociedad,Atlético de Madrid,0,3,A,0,0,D,8,13,3,5,13,9,9,3,3,1,0,0,,fixturedl
+5,2026-09-14,20:00,Villarreal CF,Real Betis,1,2,A,1,2,A,14,26,8,12,7,8,7,4,1,0,0,0,,fixturedl
+6,2026-09-15,18:00,Rayo Vallecano,RCD Espanyol de Barcelona,2,1,H,2,0,H,16,19,2,5,10,15,3,5,5,1,0,1,,fixturedl
+6,2026-09-15,19:00,Deportivo Alavés,Valencia CF,0,1,A,0,0,D,15,10,3,3,7,14,2,5,1,4,0,0,,fixturedl
+6,2026-09-15,20:30,Elche CF,Real Madrid,2,3,A,0,2,A,11,20,3,4,21,8,2,5,4,2,0,0,,fixturedl
+6,2026-09-16,18:00,Atlético de Madrid,CA Osasuna,4,0,H,1,0,H,27,3,11,1,7,12,8,0,1,2,0,0,,fixturedl
+6,2026-09-16,18:00,RC Deportivo,Sevilla FC,0,1,A,0,0,D,4,11,3,6,15,16,4,4,1,4,1,0,,fixturedl
+6,2026-09-16,20:30,FC Barcelona,R. Racing Club,7,2,H,4,1,H,30,5,9,3,10,13,18,0,3,2,0,0,,fixturedl
+6,2026-09-17,18:00,Real Betis,Getafe CF,1,0,H,1,0,H,22,8,8,2,13,24,4,3,0,0,0,0,,fixturedl
+6,2026-09-17,20:30,Málaga CF,Villarreal CF,1,3,A,1,2,A,5,16,1,7,17,10,4,8,0,0,0,0,,fixturedl
+7,2026-09-18,20:00,RCD Espanyol de Barcelona,Elche CF,1,3,A,0,2,A,23,9,4,6,14,9,3,3,2,2,0,1,,fixturedl
+7,2026-09-19,13:00,CA Osasuna,Rayo Vallecano,1,1,D,1,0,H,10,19,3,2,21,13,4,4,3,2,0,0,,fixturedl
+7,2026-09-19,15:15,Athletic Club,Deportivo Alavés,0,0,D,0,0,D,24,2,6,0,14,13,5,1,2,0,0,0,,fixturedl
+7,2026-09-19,17:30,Celta,R. Racing Club,5,0,H,2,0,H,13,11,9,5,13,11,3,3,2,5,0,0,,fixturedl
+7,2026-09-19,20:00,Sevilla FC,FC Barcelona,1,3,A,1,1,D,7,24,3,7,10,11,1,3,1,0,0,0,,fixturedl
+7,2026-09-20,13:00,Getafe CF,Málaga CF,1,0,H,0,0,D,20,11,7,4,16,16,5,9,4,2,0,0,,fixturedl
+7,2026-09-20,15:15,Atlético de Madrid,Real Madrid,2,1,H,0,0,D,18,8,9,3,19,6,3,1,2,2,0,1,,fixturedl
+7,2026-09-20,17:30,RC Deportivo,Real Betis,1,1,D,0,1,A,24,11,7,4,6,9,11,5,1,1,0,0,,fixturedl
+7,2026-09-20,17:30,Villarreal CF,Levante UD,3,1,H,1,1,D,21,6,7,1,9,10,7,1,1,1,0,0,,fixturedl
+7,2026-09-20,20:00,Valencia CF,Real Sociedad,2,3,A,0,1,A,22,21,5,6,9,12,7,5,2,1,0,1,,fixturedl

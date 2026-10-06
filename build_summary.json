@@ -1,0 +1,206 @@
+{
+  "season": "2627",
+  "generated_utc": "2026-10-06T02:23:25Z",
+  "leagues": [
+    {
+      "league": "Premier League",
+      "folder": "data\\ENG_1_premier-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 50,
+      "fixtures": 330,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "La Liga",
+      "folder": "data\\ESP_1_la-liga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 69,
+      "fixtures": 311,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Bundesliga",
+      "folder": "data\\GER_1_bundesliga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 36,
+      "fixtures": 270,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Serie A",
+      "folder": "data\\ITA_1_serie-a",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 50,
+      "fixtures": 330,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Ligue 1",
+      "folder": "data\\FRA_1_ligue-1",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 45,
+      "fixtures": 261,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "EFL Championship",
+      "folder": "data\\ENG_2_championship",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 103,
+      "fixtures": 457,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "EFL League One",
+      "folder": "data\\ENG_3_league-one",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 104,
+      "fixtures": 463,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "EFL League Two",
+      "folder": "data\\ENG_4_league-two",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 118,
+      "fixtures": 450,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "National League",
+      "folder": "data\\ENG_5_national-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 143,
+      "fixtures": 1,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "Scottish Premiership",
+      "folder": "data\\SCO_1_premiership",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 42,
+      "fixtures": 155,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Scottish Championship",
+      "folder": "data\\SCO_2_championship",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 43,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "Scottish League One",
+      "folder": "data\\SCO_3_league-one",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 44,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "Scottish League Two",
+      "folder": "data\\SCO_4_league-two",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 45,
+      "fixtures": 0,
+      "errors": [],
+      "latest": "2026-10-03"
+    },
+    {
+      "league": "2. Bundesliga",
+      "folder": "data\\GER_2_2-bundesliga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 54,
+      "fixtures": 252,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "3. Liga",
+      "folder": "data\\GER_3_3-liga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 70,
+      "fixtures": 310,
+      "errors": [],
+      "latest": "2026-09-25"
+    },
+    {
+      "league": "Primeira Liga",
+      "folder": "data\\POR_1_primeira-liga",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 69,
+      "fixtures": 244,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Eredivisie",
+      "folder": "data\\NED_1_eredivisie",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 63,
+      "fixtures": 243,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Belgian Pro League",
+      "folder": "data\\BEL_1_pro-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 63,
+      "fixtures": 1,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Süper Lig",
+      "folder": "data\\TUR_1_super-lig",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 54,
+      "fixtures": 252,
+      "errors": [],
+      "latest": "2026-09-20"
+    },
+    {
+      "league": "Super League Greece",
+      "folder": "data\\GRE_1_super-league",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "results": 35,
+      "fixtures": 2,
+      "errors": [],
+      "latest": "2026-09-20"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-14,19:30,Galatasaray,Çorum,2,2,D,0,0,D,38,8,13,3,11,6,8,1,1,0,0,1,,fixturedl
+1,2026-08-15,17:00,Kasimpasa,Trabzonspor,1,1,D,0,1,A,9,13,4,5,17,9,3,10,2,0,0,0,,fixturedl
+1,2026-08-15,17:00,Konyaspor,Çaykur Rizespor,0,1,A,0,0,D,7,14,3,5,12,11,1,7,1,4,0,0,,fixturedl
+1,2026-08-15,19:30,Gaziantep,Alanyaspor,1,1,D,0,1,A,13,11,5,2,14,21,0,4,3,3,0,0,,fixturedl
+1,2026-08-15,19:30,Gençlerbirligi,Fenerbahçe,2,1,H,1,1,D,10,27,3,11,7,10,1,12,0,1,0,0,,fixturedl
+1,2026-08-16,17:00,Istanbul Basaksehir,Kocaelispor,2,0,H,1,0,H,17,8,5,4,14,14,8,2,2,2,0,0,,fixturedl
+1,2026-08-16,19:30,Amedspor,Erzurumspor,3,0,H,0,0,D,13,5,5,1,10,12,4,4,1,0,0,0,,fixturedl
+1,2026-08-16,19:30,Besiktas,Eyüpspor,1,0,H,1,0,H,19,4,5,1,20,14,8,2,2,3,0,1,,fixturedl
+1,2026-08-17,19:30,Samsunspor,Göztepe,3,3,D,2,1,H,21,20,3,7,8,13,4,8,1,3,0,0,,fixturedl
+2,2026-08-21,19:30,Erzurumspor,Galatasaray,0,4,A,0,3,A,12,10,4,4,11,12,2,2,1,0,0,0,,fixturedl
+2,2026-08-22,17:00,Çaykur Rizespor,Samsunspor,0,2,A,0,1,A,28,6,8,3,13,11,10,1,1,1,0,0,,fixturedl
+2,2026-08-22,17:00,Çorum,Kasimpasa,0,1,A,0,1,A,16,6,2,1,12,13,7,0,1,3,0,0,,fixturedl
+2,2026-08-22,19:30,Fenerbahçe,Konyaspor,4,2,H,3,1,H,20,17,9,8,11,10,7,3,0,3,0,0,,fixturedl
+2,2026-08-23,17:00,Eyüpspor,Gaziantep,0,1,A,0,0,D,12,9,1,2,16,17,4,2,0,1,0,1,,fixturedl
+2,2026-08-23,17:00,Trabzonspor,Istanbul Basaksehir,2,1,H,1,1,D,19,12,8,4,13,18,5,1,3,4,0,0,,fixturedl
+2,2026-08-23,19:30,Alanyaspor,Besiktas,1,0,H,0,0,D,9,14,3,6,14,14,7,7,0,0,0,0,,fixturedl
+2,2026-08-23,19:30,Göztepe,Gençlerbirligi,0,1,A,0,0,D,16,10,6,2,15,12,6,5,1,2,0,0,,fixturedl
+2,2026-08-24,19:30,Kocaelispor,Amedspor,2,0,H,1,0,H,11,12,3,1,9,16,3,7,0,2,0,0,,fixturedl
+3,2026-08-28,19:30,Gençlerbirligi,Erzurumspor,1,1,D,0,0,D,16,9,5,4,15,11,3,5,3,3,0,0,,fixturedl
+3,2026-08-29,17:00,Konyaspor,Kocaelispor,1,2,A,1,0,H,10,15,0,7,16,12,1,4,1,3,1,0,,fixturedl
+3,2026-08-29,19:30,Galatasaray,Göztepe,3,2,H,1,1,D,34,9,11,4,5,12,6,2,2,2,0,0,,fixturedl
+3,2026-08-29,19:30,Gaziantep,Çaykur Rizespor,1,2,A,0,2,A,16,10,4,4,10,17,8,0,1,2,0,0,,fixturedl
+3,2026-08-30,17:00,Eyüpspor,Alanyaspor,2,1,H,1,1,D,11,7,4,2,16,22,1,2,3,1,1,0,,fixturedl
+3,2026-08-30,19:30,Istanbul Basaksehir,Kasimpasa,1,1,D,1,0,H,12,12,2,3,11,13,5,3,3,1,0,0,,fixturedl
+3,2026-08-30,19:30,Samsunspor,Fenerbahçe,0,2,A,0,1,A,6,15,0,7,13,18,1,6,0,1,0,0,,fixturedl
+3,2026-08-31,19:30,Amedspor,Trabzonspor,2,1,H,1,1,D,17,8,7,5,18,10,2,5,5,3,0,0,,fixturedl
+3,2026-08-31,19:30,Besiktas,Çorum,6,2,H,2,0,H,18,11,7,3,9,11,8,6,2,3,0,0,,fixturedl
+4,2026-09-04,18:00,Istanbul Basaksehir,Galatasaray,2,3,A,0,1,A,12,13,3,6,14,15,6,5,2,3,1,0,,fixturedl
+4,2026-09-05,15:00,Erzurumspor,Konyaspor,1,0,H,1,0,H,12,14,4,1,13,11,4,3,1,4,0,0,,fixturedl
+4,2026-09-05,18:00,Fenerbahçe,Besiktas,1,2,A,1,1,D,9,14,2,6,18,21,2,7,4,3,0,0,,fixturedl
+4,2026-09-06,15:00,Kasimpasa,Amedspor,2,2,D,1,0,H,14,14,7,4,15,10,2,9,5,2,0,0,,fixturedl
+4,2026-09-06,15:00,Çorum,Eyüpspor,3,0,H,2,0,H,19,8,9,4,15,8,8,3,1,2,0,0,,fixturedl
+4,2026-09-06,18:00,Kocaelispor,Samsunspor,1,0,H,1,0,H,9,20,4,4,13,14,4,4,1,0,0,0,,fixturedl
+4,2026-09-06,18:00,Trabzonspor,Gençlerbirligi,5,0,H,3,0,H,23,14,13,6,12,12,6,3,3,1,0,0,,fixturedl
+4,2026-09-07,18:00,Göztepe,Gaziantep,2,4,A,0,4,A,19,13,4,6,18,10,8,3,3,2,1,0,,fixturedl
+4,2026-09-07,18:00,Çaykur Rizespor,Alanyaspor,0,1,A,0,0,D,21,9,5,2,8,15,8,7,1,1,0,0,,fixturedl
+5,2026-09-11,18:00,Besiktas,Erzurumspor,3,0,H,2,0,H,21,8,6,0,11,11,10,1,3,0,0,0,,fixturedl
+5,2026-09-12,15:00,Eyüpspor,Çaykur Rizespor,0,2,A,0,1,A,26,9,5,4,13,10,8,2,0,3,0,1,,fixturedl
+5,2026-09-12,15:00,Samsunspor,Çorum,1,5,A,1,3,A,18,12,4,8,12,18,8,2,0,3,0,0,,fixturedl
+5,2026-09-12,18:00,Alanyaspor,Göztepe,2,2,D,0,1,A,20,14,4,4,8,10,9,3,2,2,0,0,,fixturedl
+5,2026-09-12,18:00,Konyaspor,Trabzonspor,1,0,H,1,0,H,11,15,5,4,16,9,3,7,3,3,0,0,,fixturedl
+5,2026-09-13,15:00,Gençlerbirligi,Kasimpasa,1,2,A,1,0,H,15,16,5,3,18,14,8,9,4,3,0,0,,fixturedl
+5,2026-09-13,18:00,Amedspor,Istanbul Basaksehir,5,0,H,1,0,H,22,7,6,1,9,9,3,3,1,2,0,0,,fixturedl
+5,2026-09-13,18:00,Galatasaray,Kocaelispor,1,0,H,0,0,D,28,12,9,1,13,10,16,3,3,2,0,0,,fixturedl
+5,2026-09-14,18:00,Gaziantep,Fenerbahçe,0,0,D,0,0,D,11,15,0,4,16,8,6,6,4,3,0,0,,fixturedl
+6,2026-09-18,18:00,Kasimpasa,Konyaspor,0,0,D,0,0,D,13,11,2,4,17,16,6,4,3,4,0,0,,fixturedl
+6,2026-09-19,15:00,Kocaelispor,Gaziantep,2,0,H,0,0,D,19,16,5,3,16,12,1,2,1,2,0,0,,fixturedl
+6,2026-09-19,15:00,Çorum,Alanyaspor,1,2,A,0,0,D,12,9,5,5,22,8,3,3,5,0,0,0,,fixturedl
+6,2026-09-19,18:00,Istanbul Basaksehir,Gençlerbirligi,4,0,H,2,0,H,18,7,11,0,11,9,3,7,2,1,0,0,,fixturedl
+6,2026-09-19,18:00,Trabzonspor,Galatasaray,4,0,H,3,0,H,7,13,4,3,15,18,1,5,4,1,0,1,,fixturedl
+6,2026-09-20,15:00,Erzurumspor,Samsunspor,1,0,H,1,0,H,8,8,2,2,11,14,3,5,3,2,0,0,,fixturedl
+6,2026-09-20,15:00,Fenerbahçe,Eyüpspor,8,0,H,5,0,H,24,17,13,6,12,9,8,6,1,1,0,0,,fixturedl
+6,2026-09-20,18:00,Amedspor,Besiktas,3,2,H,2,0,H,10,21,8,8,25,7,1,10,7,5,1,0,,fixturedl
+6,2026-09-20,18:00,Göztepe,Çaykur Rizespor,2,2,D,1,0,H,25,11,10,4,15,9,4,3,5,1,0,0,,fixturedl

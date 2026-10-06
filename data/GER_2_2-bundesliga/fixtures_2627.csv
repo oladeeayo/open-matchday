@@ -1,0 +1,253 @@
+gw,date,time,home,away
+7,2026-10-09,17:30,1. FC Heidenheim 1846,1. FC Kaiserslautern
+7,2026-10-09,17:30,Eintracht Braunschweig,Holstein Kiel
+7,2026-10-10,12:00,1. FC Magdeburg,Hannover 96
+7,2026-10-10,12:00,SV Darmstadt 98,Energie Cottbus
+7,2026-10-10,12:00,VfL Osnabrück,Dynamo Dresden
+7,2026-10-10,19:30,1. FC Nürnberg,VfL Wolfsburg
+7,2026-10-11,12:30,FC St. Pauli,Karlsruher SC
+7,2026-10-11,12:30,Hertha BSC,SpVgg Greuther Fürth
+7,2026-10-11,12:30,VfL Bochum,DSC Arminia Bielefeld
+8,2026-10-16,17:30,Energie Cottbus,1. FC Nürnberg
+8,2026-10-16,17:30,Holstein Kiel,Hertha BSC
+8,2026-10-17,12:00,1. FC Kaiserslautern,VfL Bochum
+8,2026-10-17,12:00,SpVgg Greuther Fürth,Eintracht Braunschweig
+8,2026-10-17,12:00,VfL Wolfsburg,1. FC Heidenheim 1846
+8,2026-10-17,19:30,Hannover 96,FC St. Pauli
+8,2026-10-18,12:30,DSC Arminia Bielefeld,VfL Osnabrück
+8,2026-10-18,12:30,Dynamo Dresden,1. FC Magdeburg
+8,2026-10-18,12:30,Karlsruher SC,SV Darmstadt 98
+9,2026-10-23,17:30,SV Darmstadt 98,FC St. Pauli
+9,2026-10-23,17:30,VfL Bochum,VfL Wolfsburg
+9,2026-10-24,12:00,1. FC Heidenheim 1846,Energie Cottbus
+9,2026-10-24,12:00,1. FC Magdeburg,Karlsruher SC
+9,2026-10-24,12:00,Hertha BSC,DSC Arminia Bielefeld
+9,2026-10-24,19:30,1. FC Nürnberg,1. FC Kaiserslautern
+9,2026-10-25,13:30,Eintracht Braunschweig,Hannover 96
+9,2026-10-25,13:30,Holstein Kiel,Dynamo Dresden
+9,2026-10-25,13:30,VfL Osnabrück,SpVgg Greuther Fürth
+10,2026-10-30,18:30,DSC Arminia Bielefeld,Eintracht Braunschweig
+10,2026-10-30,18:30,Energie Cottbus,VfL Bochum
+10,2026-10-31,13:00,1. FC Kaiserslautern,Hertha BSC
+10,2026-10-31,13:00,SV Darmstadt 98,1. FC Magdeburg
+10,2026-10-31,13:00,VfL Wolfsburg,VfL Osnabrück
+10,2026-10-31,20:30,Karlsruher SC,1. FC Heidenheim 1846
+10,2026-11-01,13:30,FC St. Pauli,1. FC Nürnberg
+10,2026-11-01,13:30,Hannover 96,Dynamo Dresden
+10,2026-11-01,13:30,SpVgg Greuther Fürth,Holstein Kiel
+11,2026-11-06,18:30,Dynamo Dresden,SpVgg Greuther Fürth
+11,2026-11-06,18:30,Eintracht Braunschweig,Energie Cottbus
+11,2026-11-07,13:00,1. FC Nürnberg,SV Darmstadt 98
+11,2026-11-07,13:00,Holstein Kiel,DSC Arminia Bielefeld
+11,2026-11-07,13:00,VfL Osnabrück,1. FC Kaiserslautern
+11,2026-11-07,20:30,Hertha BSC,VfL Wolfsburg
+11,2026-11-08,13:30,1. FC Heidenheim 1846,Hannover 96
+11,2026-11-08,13:30,1. FC Magdeburg,FC St. Pauli
+11,2026-11-08,13:30,VfL Bochum,Karlsruher SC
+12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg
+12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846
+12,2026-11-21,13:00,1. FC Nürnberg,Eintracht Braunschweig
+12,2026-11-21,13:00,Hannover 96,SpVgg Greuther Fürth
+12,2026-11-21,13:00,VfL Wolfsburg,Holstein Kiel
+12,2026-11-21,20:30,FC St. Pauli,VfL Bochum
+12,2026-11-22,13:30,1. FC Kaiserslautern,Dynamo Dresden
+12,2026-11-22,13:30,Energie Cottbus,Hertha BSC
+12,2026-11-22,13:30,Karlsruher SC,VfL Osnabrück
+13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg
+13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98
+13,2026-11-28,13:00,Dynamo Dresden,FC St. Pauli
+13,2026-11-28,13:00,Hertha BSC,Karlsruher SC
+13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern
+13,2026-11-28,20:30,VfL Osnabrück,Hannover 96
+13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus
+13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg
+13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld
+14,2026-12-06,13:30,1. FC Kaiserslautern,SpVgg Greuther Fürth
+14,2026-12-06,13:30,1. FC Nürnberg,VfL Bochum
+14,2026-12-06,13:30,DSC Arminia Bielefeld,Dynamo Dresden
+14,2026-12-06,13:30,Energie Cottbus,VfL Osnabrück
+14,2026-12-06,13:30,FC St. Pauli,1. FC Heidenheim 1846
+14,2026-12-06,13:30,Hannover 96,Hertha BSC
+14,2026-12-06,13:30,Karlsruher SC,Holstein Kiel
+14,2026-12-06,13:30,SV Darmstadt 98,Eintracht Braunschweig
+14,2026-12-06,13:30,VfL Wolfsburg,1. FC Magdeburg
+15,2026-12-13,13:30,1. FC Magdeburg,1. FC Nürnberg
+15,2026-12-13,13:30,DSC Arminia Bielefeld,1. FC Kaiserslautern
+15,2026-12-13,13:30,Dynamo Dresden,Energie Cottbus
+15,2026-12-13,13:30,Eintracht Braunschweig,Karlsruher SC
+15,2026-12-13,13:30,Hertha BSC,SV Darmstadt 98
+15,2026-12-13,13:30,Holstein Kiel,Hannover 96
+15,2026-12-13,13:30,SpVgg Greuther Fürth,VfL Wolfsburg
+15,2026-12-13,13:30,VfL Bochum,1. FC Heidenheim 1846
+15,2026-12-13,13:30,VfL Osnabrück,FC St. Pauli
+16,2026-12-20,13:30,1. FC Heidenheim 1846,Eintracht Braunschweig
+16,2026-12-20,13:30,1. FC Nürnberg,VfL Osnabrück
+16,2026-12-20,13:30,Energie Cottbus,Holstein Kiel
+16,2026-12-20,13:30,FC St. Pauli,Hertha BSC
+16,2026-12-20,13:30,Hannover 96,1. FC Kaiserslautern
+16,2026-12-20,13:30,Karlsruher SC,Dynamo Dresden
+16,2026-12-20,13:30,SV Darmstadt 98,SpVgg Greuther Fürth
+16,2026-12-20,13:30,VfL Bochum,1. FC Magdeburg
+16,2026-12-20,13:30,VfL Wolfsburg,DSC Arminia Bielefeld
+17,2027-01-17,13:30,1. FC Kaiserslautern,Energie Cottbus
+17,2027-01-17,13:30,1. FC Magdeburg,1. FC Heidenheim 1846
+17,2027-01-17,13:30,DSC Arminia Bielefeld,Hannover 96
+17,2027-01-17,13:30,Dynamo Dresden,VfL Wolfsburg
+17,2027-01-17,13:30,Eintracht Braunschweig,FC St. Pauli
+17,2027-01-17,13:30,Hertha BSC,1. FC Nürnberg
+17,2027-01-17,13:30,Holstein Kiel,VfL Bochum
+17,2027-01-17,13:30,SpVgg Greuther Fürth,Karlsruher SC
+17,2027-01-17,13:30,VfL Osnabrück,SV Darmstadt 98
+18,2027-01-24,13:30,1. FC Kaiserslautern,VfL Wolfsburg
+18,2027-01-24,13:30,DSC Arminia Bielefeld,Karlsruher SC
+18,2027-01-24,13:30,Dynamo Dresden,1. FC Nürnberg
+18,2027-01-24,13:30,Eintracht Braunschweig,1. FC Magdeburg
+18,2027-01-24,13:30,Hannover 96,Energie Cottbus
+18,2027-01-24,13:30,Hertha BSC,VfL Bochum
+18,2027-01-24,13:30,Holstein Kiel,SV Darmstadt 98
+18,2027-01-24,13:30,SpVgg Greuther Fürth,FC St. Pauli
+18,2027-01-24,13:30,VfL Osnabrück,1. FC Heidenheim 1846
+19,2027-01-31,13:30,1. FC Heidenheim 1846,Hertha BSC
+19,2027-01-31,13:30,1. FC Magdeburg,VfL Osnabrück
+19,2027-01-31,13:30,1. FC Nürnberg,SpVgg Greuther Fürth
+19,2027-01-31,13:30,Energie Cottbus,DSC Arminia Bielefeld
+19,2027-01-31,13:30,FC St. Pauli,Holstein Kiel
+19,2027-01-31,13:30,Karlsruher SC,1. FC Kaiserslautern
+19,2027-01-31,13:30,SV Darmstadt 98,Dynamo Dresden
+19,2027-01-31,13:30,VfL Bochum,Eintracht Braunschweig
+19,2027-01-31,13:30,VfL Wolfsburg,Hannover 96
+20,2027-02-07,13:30,1. FC Kaiserslautern,FC St. Pauli
+20,2027-02-07,13:30,DSC Arminia Bielefeld,1. FC Nürnberg
+20,2027-02-07,13:30,Dynamo Dresden,1. FC Heidenheim 1846
+20,2027-02-07,13:30,Hannover 96,SV Darmstadt 98
+20,2027-02-07,13:30,Hertha BSC,Eintracht Braunschweig
+20,2027-02-07,13:30,Holstein Kiel,1. FC Magdeburg
+20,2027-02-07,13:30,SpVgg Greuther Fürth,Energie Cottbus
+20,2027-02-07,13:30,VfL Osnabrück,VfL Bochum
+20,2027-02-07,13:30,VfL Wolfsburg,Karlsruher SC
+21,2027-02-14,13:30,1. FC Heidenheim 1846,SpVgg Greuther Fürth
+21,2027-02-14,13:30,1. FC Magdeburg,Hertha BSC
+21,2027-02-14,13:30,1. FC Nürnberg,Holstein Kiel
+21,2027-02-14,13:30,Eintracht Braunschweig,VfL Osnabrück
+21,2027-02-14,13:30,Energie Cottbus,VfL Wolfsburg
+21,2027-02-14,13:30,FC St. Pauli,DSC Arminia Bielefeld
+21,2027-02-14,13:30,Karlsruher SC,Hannover 96
+21,2027-02-14,13:30,SV Darmstadt 98,1. FC Kaiserslautern
+21,2027-02-14,13:30,VfL Bochum,Dynamo Dresden
+22,2027-02-21,13:30,1. FC Kaiserslautern,1. FC Magdeburg
+22,2027-02-21,13:30,DSC Arminia Bielefeld,SV Darmstadt 98
+22,2027-02-21,13:30,Dynamo Dresden,Eintracht Braunschweig
+22,2027-02-21,13:30,Energie Cottbus,Karlsruher SC
+22,2027-02-21,13:30,Hannover 96,1. FC Nürnberg
+22,2027-02-21,13:30,Hertha BSC,VfL Osnabrück
+22,2027-02-21,13:30,Holstein Kiel,1. FC Heidenheim 1846
+22,2027-02-21,13:30,SpVgg Greuther Fürth,VfL Bochum
+22,2027-02-21,13:30,VfL Wolfsburg,FC St. Pauli
+23,2027-02-28,13:30,1. FC Heidenheim 1846,DSC Arminia Bielefeld
+23,2027-02-28,13:30,1. FC Magdeburg,SpVgg Greuther Fürth
+23,2027-02-28,13:30,1. FC Nürnberg,Karlsruher SC
+23,2027-02-28,13:30,Eintracht Braunschweig,1. FC Kaiserslautern
+23,2027-02-28,13:30,FC St. Pauli,Energie Cottbus
+23,2027-02-28,13:30,Hertha BSC,Dynamo Dresden
+23,2027-02-28,13:30,SV Darmstadt 98,VfL Wolfsburg
+23,2027-02-28,13:30,VfL Bochum,Hannover 96
+23,2027-02-28,13:30,VfL Osnabrück,Holstein Kiel
+24,2027-03-03,18:30,1. FC Kaiserslautern,1. FC Heidenheim 1846
+24,2027-03-03,18:30,DSC Arminia Bielefeld,VfL Bochum
+24,2027-03-03,18:30,Dynamo Dresden,VfL Osnabrück
+24,2027-03-03,18:30,Energie Cottbus,SV Darmstadt 98
+24,2027-03-03,18:30,Hannover 96,1. FC Magdeburg
+24,2027-03-03,18:30,Holstein Kiel,Eintracht Braunschweig
+24,2027-03-03,18:30,Karlsruher SC,FC St. Pauli
+24,2027-03-03,18:30,SpVgg Greuther Fürth,Hertha BSC
+24,2027-03-03,18:30,VfL Wolfsburg,1. FC Nürnberg
+25,2027-03-07,13:30,1. FC Heidenheim 1846,VfL Wolfsburg
+25,2027-03-07,13:30,1. FC Magdeburg,Dynamo Dresden
+25,2027-03-07,13:30,1. FC Nürnberg,Energie Cottbus
+25,2027-03-07,13:30,Eintracht Braunschweig,SpVgg Greuther Fürth
+25,2027-03-07,13:30,FC St. Pauli,Hannover 96
+25,2027-03-07,13:30,Hertha BSC,Holstein Kiel
+25,2027-03-07,13:30,SV Darmstadt 98,Karlsruher SC
+25,2027-03-07,13:30,VfL Bochum,1. FC Kaiserslautern
+25,2027-03-07,13:30,VfL Osnabrück,DSC Arminia Bielefeld
+26,2027-03-14,13:30,1. FC Kaiserslautern,1. FC Nürnberg
+26,2027-03-14,13:30,DSC Arminia Bielefeld,Hertha BSC
+26,2027-03-14,13:30,Dynamo Dresden,Holstein Kiel
+26,2027-03-14,13:30,Energie Cottbus,1. FC Heidenheim 1846
+26,2027-03-14,13:30,FC St. Pauli,SV Darmstadt 98
+26,2027-03-14,13:30,Hannover 96,Eintracht Braunschweig
+26,2027-03-14,13:30,Karlsruher SC,1. FC Magdeburg
+26,2027-03-14,13:30,SpVgg Greuther Fürth,VfL Osnabrück
+26,2027-03-14,13:30,VfL Wolfsburg,VfL Bochum
+27,2027-03-21,13:30,1. FC Heidenheim 1846,Karlsruher SC
+27,2027-03-21,13:30,1. FC Magdeburg,SV Darmstadt 98
+27,2027-03-21,13:30,1. FC Nürnberg,FC St. Pauli
+27,2027-03-21,13:30,Dynamo Dresden,Hannover 96
+27,2027-03-21,13:30,Eintracht Braunschweig,DSC Arminia Bielefeld
+27,2027-03-21,13:30,Hertha BSC,1. FC Kaiserslautern
+27,2027-03-21,13:30,Holstein Kiel,SpVgg Greuther Fürth
+27,2027-03-21,13:30,VfL Bochum,Energie Cottbus
+27,2027-03-21,13:30,VfL Osnabrück,VfL Wolfsburg
+28,2027-04-04,12:30,1. FC Kaiserslautern,VfL Osnabrück
+28,2027-04-04,12:30,DSC Arminia Bielefeld,Holstein Kiel
+28,2027-04-04,12:30,Energie Cottbus,Eintracht Braunschweig
+28,2027-04-04,12:30,FC St. Pauli,1. FC Magdeburg
+28,2027-04-04,12:30,Hannover 96,1. FC Heidenheim 1846
+28,2027-04-04,12:30,Karlsruher SC,VfL Bochum
+28,2027-04-04,12:30,SV Darmstadt 98,1. FC Nürnberg
+28,2027-04-04,12:30,SpVgg Greuther Fürth,Dynamo Dresden
+28,2027-04-04,12:30,VfL Wolfsburg,Hertha BSC
+29,2027-04-11,12:30,1. FC Heidenheim 1846,SV Darmstadt 98
+29,2027-04-11,12:30,1. FC Magdeburg,DSC Arminia Bielefeld
+29,2027-04-11,12:30,Dynamo Dresden,1. FC Kaiserslautern
+29,2027-04-11,12:30,Eintracht Braunschweig,1. FC Nürnberg
+29,2027-04-11,12:30,Hertha BSC,Energie Cottbus
+29,2027-04-11,12:30,Holstein Kiel,VfL Wolfsburg
+29,2027-04-11,12:30,SpVgg Greuther Fürth,Hannover 96
+29,2027-04-11,12:30,VfL Bochum,FC St. Pauli
+29,2027-04-11,12:30,VfL Osnabrück,Karlsruher SC
+30,2027-04-18,12:30,1. FC Kaiserslautern,Holstein Kiel
+30,2027-04-18,12:30,1. FC Nürnberg,1. FC Heidenheim 1846
+30,2027-04-18,12:30,DSC Arminia Bielefeld,SpVgg Greuther Fürth
+30,2027-04-18,12:30,Energie Cottbus,1. FC Magdeburg
+30,2027-04-18,12:30,FC St. Pauli,Dynamo Dresden
+30,2027-04-18,12:30,Hannover 96,VfL Osnabrück
+30,2027-04-18,12:30,Karlsruher SC,Hertha BSC
+30,2027-04-18,12:30,SV Darmstadt 98,VfL Bochum
+30,2027-04-18,12:30,VfL Wolfsburg,Eintracht Braunschweig
+31,2027-04-25,12:30,1. FC Heidenheim 1846,FC St. Pauli
+31,2027-04-25,12:30,1. FC Magdeburg,VfL Wolfsburg
+31,2027-04-25,12:30,Dynamo Dresden,DSC Arminia Bielefeld
+31,2027-04-25,12:30,Eintracht Braunschweig,SV Darmstadt 98
+31,2027-04-25,12:30,Hertha BSC,Hannover 96
+31,2027-04-25,12:30,Holstein Kiel,Karlsruher SC
+31,2027-04-25,12:30,SpVgg Greuther Fürth,1. FC Kaiserslautern
+31,2027-04-25,12:30,VfL Bochum,1. FC Nürnberg
+31,2027-04-25,12:30,VfL Osnabrück,Energie Cottbus
+32,2027-05-09,12:30,1. FC Heidenheim 1846,VfL Bochum
+32,2027-05-09,12:30,1. FC Kaiserslautern,DSC Arminia Bielefeld
+32,2027-05-09,12:30,1. FC Nürnberg,1. FC Magdeburg
+32,2027-05-09,12:30,Energie Cottbus,Dynamo Dresden
+32,2027-05-09,12:30,FC St. Pauli,VfL Osnabrück
+32,2027-05-09,12:30,Hannover 96,Holstein Kiel
+32,2027-05-09,12:30,Karlsruher SC,Eintracht Braunschweig
+32,2027-05-09,12:30,SV Darmstadt 98,Hertha BSC
+32,2027-05-09,12:30,VfL Wolfsburg,SpVgg Greuther Fürth
+33,2027-05-16,12:30,1. FC Kaiserslautern,Hannover 96
+33,2027-05-16,12:30,1. FC Magdeburg,VfL Bochum
+33,2027-05-16,12:30,DSC Arminia Bielefeld,VfL Wolfsburg
+33,2027-05-16,12:30,Dynamo Dresden,Karlsruher SC
+33,2027-05-16,12:30,Eintracht Braunschweig,1. FC Heidenheim 1846
+33,2027-05-16,12:30,Hertha BSC,FC St. Pauli
+33,2027-05-16,12:30,Holstein Kiel,Energie Cottbus
+33,2027-05-16,12:30,SpVgg Greuther Fürth,SV Darmstadt 98
+33,2027-05-16,12:30,VfL Osnabrück,1. FC Nürnberg
+34,2027-05-23,14:30,1. FC Heidenheim 1846,1. FC Magdeburg
+34,2027-05-23,14:30,1. FC Nürnberg,Hertha BSC
+34,2027-05-23,14:30,Energie Cottbus,1. FC Kaiserslautern
+34,2027-05-23,14:30,FC St. Pauli,Eintracht Braunschweig
+34,2027-05-23,14:30,Hannover 96,DSC Arminia Bielefeld
+34,2027-05-23,14:30,Karlsruher SC,SpVgg Greuther Fürth
+34,2027-05-23,14:30,SV Darmstadt 98,VfL Osnabrück
+34,2027-05-23,14:30,VfL Bochum,Holstein Kiel
+34,2027-05-23,14:30,VfL Wolfsburg,Dynamo Dresden

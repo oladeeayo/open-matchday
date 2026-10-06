@@ -1,0 +1,245 @@
+gw,date,time,home,away
+8,2026-10-09,18:45,Moreirense FC,Gil Vicente FC
+8,2026-10-09,20:15,SC Braga,Sporting CP
+8,2026-10-10,15:30,Casa Pia AC,Santa Clara
+8,2026-10-10,18:00,Marítimo M.,FC Porto
+8,2026-10-10,20:30,Académico,Estoril Praia
+8,2026-10-11,15:30,Rio Ave FC,CD Nacional
+8,2026-10-11,18:00,SL Benfica,Vitória SC
+8,2026-10-11,20:30,FC Arouca,Estrela Amadora
+8,2026-10-12,20:15,FC Famalicão,FC Alverca
+2,2026-10-19,20:15,SC Braga,Gil Vicente FC
+9,2026-10-23,20:45,Vitória SC,Marítimo M.
+9,2026-10-24,15:30,Estrela Amadora,Casa Pia AC
+9,2026-10-24,18:00,FC Alverca,FC Arouca
+9,2026-10-24,20:30,Gil Vicente FC,FC Porto
+9,2026-10-25,16:30,Estoril Praia,Moreirense FC
+9,2026-10-25,19:00,CD Nacional,SC Braga
+9,2026-10-25,19:00,Rio Ave FC,FC Famalicão
+9,2026-10-25,21:30,Sporting CP,Académico
+9,2026-10-26,19:45,Santa Clara,SL Benfica
+10,2026-10-30,21:15,Casa Pia AC,Sporting CP
+10,2026-10-31,16:30,Moreirense FC,Estrela Amadora
+10,2026-10-31,21:30,FC Porto,Estoril Praia
+10,2026-11-01,16:30,FC Arouca,CD Nacional
+10,2026-11-01,19:00,Académico,Rio Ave FC
+10,2026-11-01,19:00,Marítimo M.,Santa Clara
+10,2026-11-01,21:30,SC Braga,FC Famalicão
+10,2026-11-02,21:15,Gil Vicente FC,Vitória SC
+10,2026-11-02,21:15,SL Benfica,FC Alverca
+11,2026-11-06,21:45,FC Famalicão,FC Arouca
+11,2026-11-07,16:30,CD Nacional,Académico
+11,2026-11-07,19:00,FC Alverca,Casa Pia AC
+11,2026-11-07,21:30,Sporting CP,Moreirense FC
+11,2026-11-08,16:30,Estoril Praia,Marítimo M.
+11,2026-11-08,16:30,Santa Clara,Gil Vicente FC
+11,2026-11-08,19:00,Vitória SC,FC Porto
+11,2026-11-08,21:30,Estrela Amadora,SL Benfica
+11,2026-11-08,21:30,Rio Ave FC,SC Braga
+12,2026-11-27,21:15,Marítimo M.,CD Nacional
+12,2026-11-28,16:30,FC Arouca,Rio Ave FC
+12,2026-11-28,16:30,Moreirense FC,Santa Clara
+12,2026-11-28,19:00,Académico,FC Alverca
+12,2026-11-28,21:30,Vitória SC,Estrela Amadora
+12,2026-11-29,19:00,Gil Vicente FC,Estoril Praia
+12,2026-11-29,21:30,FC Porto,Sporting CP
+12,2026-11-30,21:15,Casa Pia AC,SC Braga
+12,2026-11-30,21:15,SL Benfica,FC Famalicão
+13,2026-12-06,01:00,CD Nacional,SL Benfica
+13,2026-12-06,01:00,Estoril Praia,Vitória SC
+13,2026-12-06,01:00,Estrela Amadora,Gil Vicente FC
+13,2026-12-06,01:00,FC Alverca,Moreirense FC
+13,2026-12-06,01:00,FC Famalicão,Académico
+13,2026-12-06,01:00,Rio Ave FC,Casa Pia AC
+13,2026-12-06,01:00,SC Braga,FC Arouca
+13,2026-12-06,01:00,Santa Clara,FC Porto
+13,2026-12-06,01:00,Sporting CP,Marítimo M.
+14,2026-12-13,01:00,Académico,FC Arouca
+14,2026-12-13,01:00,Casa Pia AC,CD Nacional
+14,2026-12-13,01:00,Estoril Praia,Santa Clara
+14,2026-12-13,01:00,FC Porto,Estrela Amadora
+14,2026-12-13,01:00,Gil Vicente FC,Sporting CP
+14,2026-12-13,01:00,Marítimo M.,Rio Ave FC
+14,2026-12-13,01:00,Moreirense FC,FC Famalicão
+14,2026-12-13,01:00,SL Benfica,SC Braga
+14,2026-12-13,01:00,Vitória SC,FC Alverca
+15,2026-12-20,01:00,CD Nacional,Moreirense FC
+15,2026-12-20,01:00,Estrela Amadora,Marítimo M.
+15,2026-12-20,01:00,FC Alverca,Gil Vicente FC
+15,2026-12-20,01:00,FC Arouca,Casa Pia AC
+15,2026-12-20,01:00,FC Famalicão,FC Porto
+15,2026-12-20,01:00,Rio Ave FC,SL Benfica
+15,2026-12-20,01:00,SC Braga,Académico
+15,2026-12-20,01:00,Santa Clara,Vitória SC
+15,2026-12-20,01:00,Sporting CP,Estoril Praia
+16,2026-12-27,01:00,Casa Pia AC,FC Famalicão
+16,2026-12-27,01:00,Estoril Praia,FC Alverca
+16,2026-12-27,01:00,FC Porto,CD Nacional
+16,2026-12-27,01:00,Gil Vicente FC,FC Arouca
+16,2026-12-27,01:00,Marítimo M.,SC Braga
+16,2026-12-27,01:00,Moreirense FC,Académico
+16,2026-12-27,01:00,SL Benfica,Sporting CP
+16,2026-12-27,01:00,Santa Clara,Estrela Amadora
+16,2026-12-27,01:00,Vitória SC,Rio Ave FC
+17,2027-01-10,01:00,Académico,Casa Pia AC
+17,2027-01-10,01:00,CD Nacional,Gil Vicente FC
+17,2027-01-10,01:00,Estrela Amadora,Estoril Praia
+17,2027-01-10,01:00,FC Alverca,Marítimo M.
+17,2027-01-10,01:00,FC Arouca,SL Benfica
+17,2027-01-10,01:00,FC Famalicão,Vitória SC
+17,2027-01-10,01:00,Rio Ave FC,Moreirense FC
+17,2027-01-10,01:00,SC Braga,FC Porto
+17,2027-01-10,01:00,Sporting CP,Santa Clara
+18,2027-01-17,01:00,Académico,SL Benfica
+18,2027-01-17,01:00,CD Nacional,Santa Clara
+18,2027-01-17,01:00,Casa Pia AC,Marítimo M.
+18,2027-01-17,01:00,FC Alverca,FC Porto
+18,2027-01-17,01:00,FC Arouca,Vitória SC
+18,2027-01-17,01:00,FC Famalicão,Estoril Praia
+18,2027-01-17,01:00,Rio Ave FC,Gil Vicente FC
+18,2027-01-17,01:00,SC Braga,Moreirense FC
+18,2027-01-17,01:00,Sporting CP,Estrela Amadora
+19,2027-01-24,01:00,Estoril Praia,CD Nacional
+19,2027-01-24,01:00,Estrela Amadora,FC Alverca
+19,2027-01-24,01:00,FC Porto,Rio Ave FC
+19,2027-01-24,01:00,Gil Vicente FC,SC Braga
+19,2027-01-24,01:00,Marítimo M.,FC Famalicão
+19,2027-01-24,01:00,Moreirense FC,FC Arouca
+19,2027-01-24,01:00,SL Benfica,Casa Pia AC
+19,2027-01-24,01:00,Santa Clara,Académico
+19,2027-01-24,01:00,Vitória SC,Sporting CP
+20,2027-01-31,01:00,Académico,Marítimo M.
+20,2027-01-31,01:00,CD Nacional,Vitória SC
+20,2027-01-31,01:00,Casa Pia AC,Gil Vicente FC
+20,2027-01-31,01:00,FC Alverca,Sporting CP
+20,2027-01-31,01:00,FC Arouca,FC Porto
+20,2027-01-31,01:00,FC Famalicão,Santa Clara
+20,2027-01-31,01:00,Rio Ave FC,Estoril Praia
+20,2027-01-31,01:00,SC Braga,Estrela Amadora
+20,2027-01-31,01:00,SL Benfica,Moreirense FC
+21,2027-02-07,01:00,Estoril Praia,SL Benfica
+21,2027-02-07,01:00,Estrela Amadora,CD Nacional
+21,2027-02-07,01:00,FC Porto,Académico
+21,2027-02-07,01:00,Gil Vicente FC,FC Famalicão
+21,2027-02-07,01:00,Marítimo M.,FC Arouca
+21,2027-02-07,01:00,Moreirense FC,Casa Pia AC
+21,2027-02-07,01:00,Santa Clara,FC Alverca
+21,2027-02-07,01:00,Sporting CP,Rio Ave FC
+21,2027-02-07,01:00,Vitória SC,SC Braga
+22,2027-02-14,01:00,Académico,Gil Vicente FC
+22,2027-02-14,01:00,CD Nacional,Sporting CP
+22,2027-02-14,01:00,Casa Pia AC,Vitória SC
+22,2027-02-14,01:00,FC Arouca,Estoril Praia
+22,2027-02-14,01:00,FC Famalicão,Estrela Amadora
+22,2027-02-14,01:00,Moreirense FC,FC Porto
+22,2027-02-14,01:00,Rio Ave FC,Santa Clara
+22,2027-02-14,01:00,SC Braga,FC Alverca
+22,2027-02-14,01:00,SL Benfica,Marítimo M.
+23,2027-02-21,01:00,Estoril Praia,SC Braga
+23,2027-02-21,01:00,Estrela Amadora,Rio Ave FC
+23,2027-02-21,01:00,FC Alverca,CD Nacional
+23,2027-02-21,01:00,FC Porto,Casa Pia AC
+23,2027-02-21,01:00,Gil Vicente FC,SL Benfica
+23,2027-02-21,01:00,Marítimo M.,Moreirense FC
+23,2027-02-21,01:00,Santa Clara,FC Arouca
+23,2027-02-21,01:00,Sporting CP,FC Famalicão
+23,2027-02-21,01:00,Vitória SC,Académico
+24,2027-02-28,01:00,Académico,Estrela Amadora
+24,2027-02-28,01:00,Casa Pia AC,Estoril Praia
+24,2027-02-28,01:00,FC Arouca,Sporting CP
+24,2027-02-28,01:00,FC Famalicão,CD Nacional
+24,2027-02-28,01:00,Marítimo M.,Gil Vicente FC
+24,2027-02-28,01:00,Moreirense FC,Vitória SC
+24,2027-02-28,01:00,Rio Ave FC,FC Alverca
+24,2027-02-28,01:00,SC Braga,Santa Clara
+24,2027-02-28,01:00,SL Benfica,FC Porto
+25,2027-03-07,01:00,CD Nacional,Rio Ave FC
+25,2027-03-07,01:00,Estoril Praia,Académico
+25,2027-03-07,01:00,Estrela Amadora,FC Arouca
+25,2027-03-07,01:00,FC Alverca,FC Famalicão
+25,2027-03-07,01:00,FC Porto,Marítimo M.
+25,2027-03-07,01:00,Gil Vicente FC,Moreirense FC
+25,2027-03-07,01:00,Santa Clara,Casa Pia AC
+25,2027-03-07,01:00,Sporting CP,SC Braga
+25,2027-03-07,01:00,Vitória SC,SL Benfica
+26,2027-03-14,01:00,Académico,Sporting CP
+26,2027-03-14,01:00,Casa Pia AC,Estrela Amadora
+26,2027-03-14,01:00,FC Arouca,FC Alverca
+26,2027-03-14,01:00,FC Famalicão,Rio Ave FC
+26,2027-03-14,01:00,FC Porto,Gil Vicente FC
+26,2027-03-14,01:00,Marítimo M.,Vitória SC
+26,2027-03-14,01:00,Moreirense FC,Estoril Praia
+26,2027-03-14,01:00,SC Braga,CD Nacional
+26,2027-03-14,01:00,SL Benfica,Santa Clara
+27,2027-03-21,01:00,CD Nacional,FC Arouca
+27,2027-03-21,01:00,Estoril Praia,FC Porto
+27,2027-03-21,01:00,Estrela Amadora,Moreirense FC
+27,2027-03-21,01:00,FC Alverca,SL Benfica
+27,2027-03-21,01:00,FC Famalicão,SC Braga
+27,2027-03-21,01:00,Rio Ave FC,Académico
+27,2027-03-21,01:00,Santa Clara,Marítimo M.
+27,2027-03-21,01:00,Sporting CP,Casa Pia AC
+27,2027-03-21,01:00,Vitória SC,Gil Vicente FC
+28,2027-04-03,00:00,Académico,CD Nacional
+28,2027-04-03,00:00,Casa Pia AC,FC Alverca
+28,2027-04-03,00:00,FC Arouca,FC Famalicão
+28,2027-04-03,00:00,FC Porto,Vitória SC
+28,2027-04-03,00:00,Gil Vicente FC,Santa Clara
+28,2027-04-03,00:00,Marítimo M.,Estoril Praia
+28,2027-04-03,00:00,Moreirense FC,Sporting CP
+28,2027-04-03,00:00,SC Braga,Rio Ave FC
+28,2027-04-03,00:00,SL Benfica,Estrela Amadora
+29,2027-04-10,00:00,CD Nacional,Marítimo M.
+29,2027-04-10,00:00,Estoril Praia,Gil Vicente FC
+29,2027-04-10,00:00,Estrela Amadora,Vitória SC
+29,2027-04-10,00:00,FC Alverca,Académico
+29,2027-04-10,00:00,FC Famalicão,SL Benfica
+29,2027-04-10,00:00,Rio Ave FC,FC Arouca
+29,2027-04-10,00:00,SC Braga,Casa Pia AC
+29,2027-04-10,00:00,Santa Clara,Moreirense FC
+29,2027-04-10,00:00,Sporting CP,FC Porto
+30,2027-04-17,00:00,Académico,FC Famalicão
+30,2027-04-17,00:00,Casa Pia AC,Rio Ave FC
+30,2027-04-17,00:00,FC Arouca,SC Braga
+30,2027-04-17,00:00,FC Porto,Santa Clara
+30,2027-04-17,00:00,Gil Vicente FC,Estrela Amadora
+30,2027-04-17,00:00,Marítimo M.,Sporting CP
+30,2027-04-17,00:00,Moreirense FC,FC Alverca
+30,2027-04-17,00:00,SL Benfica,CD Nacional
+30,2027-04-17,00:00,Vitória SC,Estoril Praia
+31,2027-04-24,00:00,CD Nacional,Casa Pia AC
+31,2027-04-24,00:00,Estrela Amadora,FC Porto
+31,2027-04-24,00:00,FC Alverca,Vitória SC
+31,2027-04-24,00:00,FC Arouca,Académico
+31,2027-04-24,00:00,FC Famalicão,Moreirense FC
+31,2027-04-24,00:00,Rio Ave FC,Marítimo M.
+31,2027-04-24,00:00,SC Braga,SL Benfica
+31,2027-04-24,00:00,Santa Clara,Estoril Praia
+31,2027-04-24,00:00,Sporting CP,Gil Vicente FC
+32,2027-05-01,00:00,Académico,SC Braga
+32,2027-05-01,00:00,Casa Pia AC,FC Arouca
+32,2027-05-01,00:00,Estoril Praia,Sporting CP
+32,2027-05-01,00:00,FC Porto,FC Famalicão
+32,2027-05-01,00:00,Gil Vicente FC,FC Alverca
+32,2027-05-01,00:00,Marítimo M.,Estrela Amadora
+32,2027-05-01,00:00,Moreirense FC,CD Nacional
+32,2027-05-01,00:00,SL Benfica,Rio Ave FC
+32,2027-05-01,00:00,Vitória SC,Santa Clara
+33,2027-05-08,00:00,Académico,Moreirense FC
+33,2027-05-08,00:00,CD Nacional,FC Porto
+33,2027-05-08,00:00,Estrela Amadora,Santa Clara
+33,2027-05-08,00:00,FC Alverca,Estoril Praia
+33,2027-05-08,00:00,FC Arouca,Gil Vicente FC
+33,2027-05-08,00:00,FC Famalicão,Casa Pia AC
+33,2027-05-08,00:00,Rio Ave FC,Vitória SC
+33,2027-05-08,00:00,SC Braga,Marítimo M.
+33,2027-05-08,00:00,Sporting CP,SL Benfica
+34,2027-05-15,00:00,Casa Pia AC,Académico
+34,2027-05-15,00:00,Estoril Praia,Estrela Amadora
+34,2027-05-15,00:00,FC Porto,SC Braga
+34,2027-05-15,00:00,Gil Vicente FC,CD Nacional
+34,2027-05-15,00:00,Marítimo M.,FC Alverca
+34,2027-05-15,00:00,Moreirense FC,Rio Ave FC
+34,2027-05-15,00:00,SL Benfica,FC Arouca
+34,2027-05-15,00:00,Santa Clara,Sporting CP
+34,2027-05-15,00:00,Vitória SC,FC Famalicão

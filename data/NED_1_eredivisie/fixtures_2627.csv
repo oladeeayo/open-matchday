@@ -1,0 +1,244 @@
+gw,date,time,home,away
+8,2026-10-09,19:00,PSV,sc Heerenveen
+8,2026-10-10,15:30,Go Ahead Eagles,Sparta Rotterdam
+8,2026-10-10,17:45,Feyenoord,AZ
+8,2026-10-10,19:00,Fortuna Sittard,FC Twente
+8,2026-10-10,20:00,Ajax,N.E.C. Nijmegen
+8,2026-10-11,11:15,FC Utrecht,Willem II
+8,2026-10-11,13:30,PEC Zwolle,SC Cambuur
+8,2026-10-11,13:30,Telstar,ADO Den Haag
+8,2026-10-11,15:45,Excelsior Rotterdam,FC Groningen
+9,2026-10-16,19:00,sc Heerenveen,Excelsior Rotterdam
+9,2026-10-17,15:30,ADO Den Haag,PSV
+9,2026-10-17,19:00,Telstar,Feyenoord
+9,2026-10-17,20:00,Sparta Rotterdam,Willem II
+9,2026-10-18,11:15,PEC Zwolle,Go Ahead Eagles
+9,2026-10-18,13:30,SC Cambuur,AZ
+9,2026-10-18,15:45,FC Groningen,Ajax
+9,2026-10-18,19:00,FC Twente,FC Utrecht
+9,2026-10-18,19:00,N.E.C. Nijmegen,Fortuna Sittard
+10,2026-10-23,19:00,Go Ahead Eagles,Telstar
+10,2026-10-24,15:30,FC Utrecht,PEC Zwolle
+10,2026-10-24,17:45,Willem II,SC Cambuur
+10,2026-10-24,20:00,ADO Den Haag,sc Heerenveen
+10,2026-10-25,12:15,Fortuna Sittard,Excelsior Rotterdam
+10,2026-10-25,14:30,N.E.C. Nijmegen,FC Groningen
+10,2026-10-25,14:30,PSV,Feyenoord
+10,2026-10-25,16:45,Sparta Rotterdam,Ajax
+10,2026-10-25,20:00,AZ,FC Twente
+11,2026-10-31,16:30,Feyenoord,Fortuna Sittard
+11,2026-10-31,18:45,PSV,Willem II
+11,2026-10-31,18:45,sc Heerenveen,N.E.C. Nijmegen
+11,2026-10-31,21:00,Ajax,AZ
+11,2026-10-31,21:00,SC Cambuur,Go Ahead Eagles
+11,2026-11-01,12:15,PEC Zwolle,ADO Den Haag
+11,2026-11-01,14:30,Excelsior Rotterdam,FC Twente
+11,2026-11-01,14:30,Telstar,FC Utrecht
+11,2026-11-01,16:45,FC Groningen,Sparta Rotterdam
+12,2026-11-06,20:00,Willem II,PEC Zwolle
+12,2026-11-07,16:30,Fortuna Sittard,Telstar
+12,2026-11-07,18:45,ADO Den Haag,Sparta Rotterdam
+12,2026-11-07,21:00,Excelsior Rotterdam,Go Ahead Eagles
+12,2026-11-08,12:15,sc Heerenveen,Feyenoord
+12,2026-11-08,14:30,FC Twente,Ajax
+12,2026-11-08,16:45,AZ,FC Groningen
+12,2026-11-08,16:45,SC Cambuur,PSV
+12,2026-11-08,20:00,FC Utrecht,N.E.C. Nijmegen
+13,2026-11-21,16:30,N.E.C. Nijmegen,PSV
+13,2026-11-21,18:45,FC Utrecht,SC Cambuur
+13,2026-11-21,18:45,Feyenoord,Excelsior Rotterdam
+13,2026-11-21,21:00,FC Groningen,sc Heerenveen
+13,2026-11-21,21:00,Telstar,PEC Zwolle
+13,2026-11-22,12:15,FC Twente,Willem II
+13,2026-11-22,14:30,Ajax,ADO Den Haag
+13,2026-11-22,14:30,Sparta Rotterdam,AZ
+13,2026-11-22,16:45,Go Ahead Eagles,Fortuna Sittard
+14,2026-11-27,20:00,FC Groningen,Willem II
+14,2026-11-28,16:30,Excelsior Rotterdam,Telstar
+14,2026-11-28,18:45,PSV,Go Ahead Eagles
+14,2026-11-28,21:00,SC Cambuur,Sparta Rotterdam
+14,2026-11-29,12:15,ADO Den Haag,FC Utrecht
+14,2026-11-29,14:30,Feyenoord,Ajax
+14,2026-11-29,14:30,Fortuna Sittard,sc Heerenveen
+14,2026-11-29,16:45,PEC Zwolle,AZ
+14,2026-11-29,20:00,N.E.C. Nijmegen,FC Twente
+15,2026-12-04,20:00,Telstar,FC Groningen
+15,2026-12-05,16:30,Willem II,Feyenoord
+15,2026-12-05,18:45,Sparta Rotterdam,N.E.C. Nijmegen
+15,2026-12-05,20:00,AZ,PSV
+15,2026-12-05,21:00,Fortuna Sittard,PEC Zwolle
+15,2026-12-06,12:15,sc Heerenveen,SC Cambuur
+15,2026-12-06,14:30,Ajax,FC Utrecht
+15,2026-12-06,14:30,Go Ahead Eagles,FC Twente
+15,2026-12-06,16:45,ADO Den Haag,Excelsior Rotterdam
+16,2026-12-12,16:30,FC Utrecht,Fortuna Sittard
+16,2026-12-12,18:45,sc Heerenveen,Go Ahead Eagles
+16,2026-12-12,21:00,PEC Zwolle,Excelsior Rotterdam
+16,2026-12-13,12:15,PSV,Telstar
+16,2026-12-13,14:30,FC Groningen,Feyenoord
+16,2026-12-13,14:30,Willem II,ADO Den Haag
+16,2026-12-13,16:45,AZ,N.E.C. Nijmegen
+16,2026-12-13,20:00,Ajax,SC Cambuur
+17,2026-12-18,20:00,Telstar,Willem II
+17,2026-12-19,16:30,Excelsior Rotterdam,AZ
+17,2026-12-19,18:45,Fortuna Sittard,Sparta Rotterdam
+17,2026-12-19,21:00,FC Utrecht,sc Heerenveen
+17,2026-12-20,12:15,N.E.C. Nijmegen,ADO Den Haag
+17,2026-12-20,14:30,Feyenoord,FC Twente
+17,2026-12-20,14:30,SC Cambuur,FC Groningen
+17,2026-12-20,16:45,Go Ahead Eagles,Ajax
+17,2026-12-20,20:00,PSV,PEC Zwolle
+18,2027-01-08,20:00,FC Twente,Fortuna Sittard
+18,2027-01-09,16:30,Sparta Rotterdam,Excelsior Rotterdam
+18,2027-01-09,18:45,PEC Zwolle,FC Utrecht
+18,2027-01-09,20:00,Willem II,Ajax
+18,2027-01-09,21:00,AZ,sc Heerenveen
+18,2027-01-10,12:15,N.E.C. Nijmegen,SC Cambuur
+18,2027-01-10,14:30,ADO Den Haag,Telstar
+18,2027-01-10,14:30,Feyenoord,PSV
+18,2027-01-10,16:45,FC Groningen,Go Ahead Eagles
+19,2027-01-15,20:00,sc Heerenveen,Sparta Rotterdam
+19,2027-01-16,16:30,Telstar,N.E.C. Nijmegen
+19,2027-01-16,18:45,Excelsior Rotterdam,Feyenoord
+19,2027-01-16,20:00,ADO Den Haag,PEC Zwolle
+19,2027-01-16,21:00,Fortuna Sittard,PSV
+19,2027-01-17,12:15,FC Utrecht,FC Twente
+19,2027-01-17,14:30,Ajax,FC Groningen
+19,2027-01-17,14:30,Go Ahead Eagles,AZ
+19,2027-01-17,16:45,SC Cambuur,Willem II
+20,2027-01-22,20:00,Excelsior Rotterdam,Fortuna Sittard
+20,2027-01-23,16:30,Ajax,Telstar
+20,2027-01-23,18:45,Feyenoord,PEC Zwolle
+20,2027-01-23,20:00,FC Twente,sc Heerenveen
+20,2027-01-23,21:00,PSV,ADO Den Haag
+20,2027-01-24,12:15,Go Ahead Eagles,SC Cambuur
+20,2027-01-24,14:30,N.E.C. Nijmegen,Willem II
+20,2027-01-24,14:30,Sparta Rotterdam,FC Groningen
+20,2027-01-24,16:45,AZ,FC Utrecht
+21,2027-01-29,20:00,FC Utrecht,Excelsior Rotterdam
+21,2027-01-30,16:30,Sparta Rotterdam,Telstar
+21,2027-01-30,18:45,ADO Den Haag,Go Ahead Eagles
+21,2027-01-30,20:00,Willem II,PSV
+21,2027-01-30,21:00,PEC Zwolle,Fortuna Sittard
+21,2027-01-31,12:15,sc Heerenveen,Ajax
+21,2027-01-31,14:30,AZ,Feyenoord
+21,2027-01-31,14:30,FC Twente,SC Cambuur
+21,2027-01-31,16:45,FC Groningen,N.E.C. Nijmegen
+16,2027-02-06,01:00,FC Twente,Sparta Rotterdam
+22,2027-02-13,01:00,Excelsior Rotterdam,Ajax
+22,2027-02-13,01:00,FC Groningen,AZ
+22,2027-02-13,01:00,Feyenoord,N.E.C. Nijmegen
+22,2027-02-13,01:00,Fortuna Sittard,ADO Den Haag
+22,2027-02-13,01:00,Go Ahead Eagles,PEC Zwolle
+22,2027-02-13,01:00,PSV,FC Twente
+22,2027-02-13,01:00,SC Cambuur,FC Utrecht
+22,2027-02-13,01:00,Telstar,sc Heerenveen
+22,2027-02-13,01:00,Willem II,Sparta Rotterdam
+23,2027-02-20,01:00,AZ,Fortuna Sittard
+23,2027-02-20,01:00,Ajax,Go Ahead Eagles
+23,2027-02-20,01:00,FC Twente,Excelsior Rotterdam
+23,2027-02-20,01:00,FC Utrecht,ADO Den Haag
+23,2027-02-20,01:00,Feyenoord,Telstar
+23,2027-02-20,01:00,N.E.C. Nijmegen,Sparta Rotterdam
+23,2027-02-20,01:00,PEC Zwolle,FC Groningen
+23,2027-02-20,01:00,PSV,SC Cambuur
+23,2027-02-20,01:00,sc Heerenveen,Willem II
+24,2027-02-27,01:00,ADO Den Haag,FC Twente
+24,2027-02-27,01:00,Ajax,Feyenoord
+24,2027-02-27,01:00,Excelsior Rotterdam,sc Heerenveen
+24,2027-02-27,01:00,Fortuna Sittard,FC Utrecht
+24,2027-02-27,01:00,N.E.C. Nijmegen,AZ
+24,2027-02-27,01:00,SC Cambuur,PEC Zwolle
+24,2027-02-27,01:00,Sparta Rotterdam,PSV
+24,2027-02-27,01:00,Telstar,Go Ahead Eagles
+24,2027-02-27,01:00,Willem II,FC Groningen
+25,2027-03-06,01:00,ADO Den Haag,Ajax
+25,2027-03-06,01:00,FC Groningen,Telstar
+25,2027-03-06,01:00,FC Twente,AZ
+25,2027-03-06,01:00,Feyenoord,sc Heerenveen
+25,2027-03-06,01:00,Fortuna Sittard,N.E.C. Nijmegen
+25,2027-03-06,01:00,Go Ahead Eagles,Excelsior Rotterdam
+25,2027-03-06,01:00,PEC Zwolle,Willem II
+25,2027-03-06,01:00,PSV,FC Utrecht
+25,2027-03-06,01:00,Sparta Rotterdam,SC Cambuur
+26,2027-03-13,01:00,AZ,Sparta Rotterdam
+26,2027-03-13,01:00,Ajax,PEC Zwolle
+26,2027-03-13,01:00,Excelsior Rotterdam,N.E.C. Nijmegen
+26,2027-03-13,01:00,FC Utrecht,FC Groningen
+26,2027-03-13,01:00,Go Ahead Eagles,Feyenoord
+26,2027-03-13,01:00,SC Cambuur,ADO Den Haag
+26,2027-03-13,01:00,Telstar,PSV
+26,2027-03-13,01:00,Willem II,FC Twente
+26,2027-03-13,01:00,sc Heerenveen,Fortuna Sittard
+27,2027-03-20,01:00,ADO Den Haag,Willem II
+27,2027-03-20,01:00,AZ,Excelsior Rotterdam
+27,2027-03-20,01:00,FC Groningen,PSV
+27,2027-03-20,01:00,FC Twente,Go Ahead Eagles
+27,2027-03-20,01:00,FC Utrecht,Sparta Rotterdam
+27,2027-03-20,01:00,Feyenoord,SC Cambuur
+27,2027-03-20,01:00,N.E.C. Nijmegen,Ajax
+27,2027-03-20,01:00,PEC Zwolle,sc Heerenveen
+27,2027-03-20,01:00,Telstar,Fortuna Sittard
+28,2027-04-03,01:00,Ajax,FC Twente
+28,2027-04-03,01:00,Excelsior Rotterdam,PEC Zwolle
+28,2027-04-03,01:00,Fortuna Sittard,Feyenoord
+28,2027-04-03,01:00,Go Ahead Eagles,N.E.C. Nijmegen
+28,2027-04-03,01:00,PSV,AZ
+28,2027-04-03,01:00,SC Cambuur,Telstar
+28,2027-04-03,01:00,Sparta Rotterdam,ADO Den Haag
+28,2027-04-03,01:00,Willem II,FC Utrecht
+28,2027-04-03,01:00,sc Heerenveen,FC Groningen
+29,2027-04-10,01:00,ADO Den Haag,Feyenoord
+29,2027-04-10,01:00,FC Groningen,Excelsior Rotterdam
+29,2027-04-10,01:00,FC Utrecht,Ajax
+29,2027-04-10,01:00,N.E.C. Nijmegen,sc Heerenveen
+29,2027-04-10,01:00,PEC Zwolle,PSV
+29,2027-04-10,01:00,SC Cambuur,Fortuna Sittard
+29,2027-04-10,01:00,Sparta Rotterdam,Go Ahead Eagles
+29,2027-04-10,01:00,Telstar,FC Twente
+29,2027-04-10,01:00,Willem II,AZ
+30,2027-04-24,01:00,AZ,SC Cambuur
+30,2027-04-24,01:00,Excelsior Rotterdam,Willem II
+30,2027-04-24,01:00,FC Twente,N.E.C. Nijmegen
+30,2027-04-24,01:00,Feyenoord,Sparta Rotterdam
+30,2027-04-24,01:00,Fortuna Sittard,FC Groningen
+30,2027-04-24,01:00,Go Ahead Eagles,FC Utrecht
+30,2027-04-24,01:00,PEC Zwolle,Telstar
+30,2027-04-24,01:00,PSV,Ajax
+30,2027-04-24,01:00,sc Heerenveen,ADO Den Haag
+31,2027-05-01,01:00,Ajax,Fortuna Sittard
+31,2027-05-01,01:00,Excelsior Rotterdam,SC Cambuur
+31,2027-05-01,01:00,FC Groningen,ADO Den Haag
+31,2027-05-01,01:00,Feyenoord,Willem II
+31,2027-05-01,01:00,Go Ahead Eagles,PSV
+31,2027-05-01,01:00,N.E.C. Nijmegen,PEC Zwolle
+31,2027-05-01,01:00,Sparta Rotterdam,FC Twente
+31,2027-05-01,01:00,Telstar,AZ
+31,2027-05-01,01:00,sc Heerenveen,FC Utrecht
+32,2027-05-08,01:00,ADO Den Haag,N.E.C. Nijmegen
+32,2027-05-08,01:00,AZ,Ajax
+32,2027-05-08,01:00,FC Twente,FC Groningen
+32,2027-05-08,01:00,FC Utrecht,Feyenoord
+32,2027-05-08,01:00,Fortuna Sittard,Go Ahead Eagles
+32,2027-05-08,01:00,PEC Zwolle,Sparta Rotterdam
+32,2027-05-08,01:00,PSV,Excelsior Rotterdam
+32,2027-05-08,01:00,SC Cambuur,sc Heerenveen
+32,2027-05-08,01:00,Willem II,Telstar
+33,2027-05-16,13:30,AZ,PEC Zwolle
+33,2027-05-16,13:30,Ajax,Sparta Rotterdam
+33,2027-05-16,13:30,Excelsior Rotterdam,ADO Den Haag
+33,2027-05-16,13:30,FC Groningen,SC Cambuur
+33,2027-05-16,13:30,FC Twente,Feyenoord
+33,2027-05-16,13:30,FC Utrecht,Telstar
+33,2027-05-16,13:30,Fortuna Sittard,Willem II
+33,2027-05-16,13:30,Go Ahead Eagles,sc Heerenveen
+33,2027-05-16,13:30,PSV,N.E.C. Nijmegen
+34,2027-05-23,13:30,ADO Den Haag,AZ
+34,2027-05-23,13:30,Feyenoord,FC Groningen
+34,2027-05-23,13:30,N.E.C. Nijmegen,FC Utrecht
+34,2027-05-23,13:30,PEC Zwolle,FC Twente
+34,2027-05-23,13:30,SC Cambuur,Ajax
+34,2027-05-23,13:30,Sparta Rotterdam,Fortuna Sittard
+34,2027-05-23,13:30,Telstar,Excelsior Rotterdam
+34,2027-05-23,13:30,Willem II,Go Ahead Eagles
+34,2027-05-23,13:30,sc Heerenveen,PSV

@@ -1,0 +1,104 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-14,20:00,Wolverhampton Wanderers,Blackburn Rovers,2,2,D,1,1,D,18,10,3,5,10,16,5,5,1,3,0,0,,fixturedl
+1,2026-08-15,12:30,Bolton Wanderers,Preston North End,2,1,H,2,0,H,15,10,6,3,12,11,5,2,2,3,0,0,,fixturedl
+1,2026-08-15,15:00,Bristol City,Millwall,0,2,A,0,1,A,8,24,0,3,8,12,6,6,2,2,1,0,,fixturedl
+1,2026-08-15,15:00,Charlton Athletic,Derby County,2,1,H,0,1,A,13,15,4,4,7,16,5,4,0,3,0,0,,fixturedl
+1,2026-08-15,15:00,Middlesbrough,Lincoln City,2,1,H,0,1,A,23,10,7,2,12,12,5,5,0,2,0,0,,fixturedl
+1,2026-08-15,15:00,Norwich City,West Bromwich Albion,1,2,A,0,0,D,20,9,7,4,13,13,8,2,0,2,0,0,,fixturedl
+1,2026-08-15,15:00,Portsmouth,Queens Park Rangers,1,3,A,1,3,A,17,13,6,6,9,13,6,3,0,1,0,0,,fixturedl
+1,2026-08-15,15:00,Stoke City,Swansea City,1,2,A,1,1,D,6,7,2,3,14,9,4,5,1,3,0,0,,fixturedl
+1,2026-08-15,17:30,Sheffield United,Birmingham City,0,0,D,0,0,D,3,10,1,2,12,12,2,8,0,0,0,0,,fixturedl
+1,2026-08-16,13:30,Watford,Southampton,2,1,H,2,0,H,16,17,3,3,12,9,4,8,6,3,0,0,,fixturedl
+1,2026-08-16,16:00,Burnley,West Ham United,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-16,16:00,Burnley,West Ham,2,2,D,0,1,A,18,11,6,2,12,9,5,6,1,4,0,0,,fd.co.uk
+1,2026-08-17,20:00,Cardiff City,Wrexham,1,1,D,0,1,A,11,18,3,8,9,13,9,9,0,2,0,0,,fixturedl
+2,2026-08-22,12:30,Birmingham City,Bristol City,2,2,D,1,1,D,8,14,2,6,13,12,7,3,2,1,0,0,,fixturedl
+2,2026-08-22,12:30,Lincoln City,Portsmouth,1,3,A,1,2,A,15,13,4,7,17,15,8,3,3,1,0,0,,fixturedl
+2,2026-08-22,12:30,Millwall,Norwich City,3,0,H,1,0,H,19,8,7,2,14,8,8,3,1,3,0,1,,fixturedl
+2,2026-08-22,15:00,Blackburn Rovers,Middlesbrough,2,1,H,0,1,A,6,22,5,3,10,10,2,10,4,1,0,0,,fixturedl
+2,2026-08-22,15:00,Derby County,Cardiff City,2,2,D,1,2,A,15,16,7,7,12,10,7,7,5,1,0,0,,fixturedl
+2,2026-08-22,15:00,Preston North End,Wolverhampton Wanderers,1,3,A,0,1,A,13,16,2,5,11,10,5,4,4,1,0,0,,fixturedl
+2,2026-08-22,15:00,Queens Park Rangers,Bolton Wanderers,0,0,D,0,0,D,18,2,10,0,6,8,9,2,1,2,0,0,,fixturedl
+2,2026-08-22,15:00,Southampton,Stoke City,3,1,H,1,1,D,18,15,5,2,10,21,4,2,3,5,0,1,,fixturedl
+2,2026-08-22,15:00,Swansea City,Sheffield United,0,0,D,0,0,D,9,12,1,2,14,10,6,3,2,2,0,0,,fixturedl
+2,2026-08-22,15:00,West Ham,Charlton,1,2,A,0,1,A,25,7,9,5,9,16,7,4,2,3,0,0,,fd.co.uk
+2,2026-08-22,15:00,West Ham United,Charlton Athletic,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-22,15:00,Wrexham,Watford,1,1,D,1,1,D,12,10,2,6,13,11,10,3,2,0,0,0,,fixturedl
+2,2026-08-23,12:00,West Bromwich Albion,Burnley,3,1,H,1,1,D,11,11,7,3,8,13,3,5,1,2,0,0,,fixturedl
+3,2026-08-28,20:00,Wrexham,Birmingham City,1,2,A,0,1,A,9,9,4,4,8,14,3,6,1,2,0,0,,fixturedl
+3,2026-08-29,12:30,Derby County,Swansea City,0,3,A,0,2,A,8,23,0,12,16,7,5,6,3,2,0,0,,fixturedl
+3,2026-08-29,12:30,Middlesbrough,West Bromwich Albion,3,1,H,0,0,D,15,12,6,4,15,6,7,6,0,1,0,0,,fixturedl
+3,2026-08-29,12:30,Wolverhampton Wanderers,Stoke City,4,1,H,2,1,H,18,10,8,3,13,15,7,1,1,4,0,0,,fixturedl
+3,2026-08-29,15:00,Blackburn Rovers,Queens Park Rangers,1,2,A,0,0,D,12,19,2,6,12,6,3,3,3,2,0,0,,fixturedl
+3,2026-08-29,15:00,Bolton Wanderers,Lincoln City,0,1,A,0,0,D,21,8,6,2,6,15,14,2,0,3,0,0,,fixturedl
+3,2026-08-29,15:00,Bristol City,Portsmouth,2,1,H,1,0,H,9,14,3,1,15,6,3,10,3,0,0,0,,fixturedl
+3,2026-08-29,15:00,Cardiff City,Sheffield United,2,2,D,2,2,D,28,6,10,4,12,11,13,2,2,2,0,0,,fixturedl
+3,2026-08-29,15:00,Charlton Athletic,Preston North End,1,0,H,0,0,D,15,12,2,1,11,21,7,4,1,1,0,0,,fixturedl
+3,2026-08-29,15:00,Norwich City,Burnley,4,1,H,3,1,H,20,16,6,4,14,5,3,5,4,3,0,1,,fixturedl
+3,2026-08-29,15:00,Southampton,Millwall,5,1,H,2,1,H,21,15,7,5,6,10,8,11,2,1,0,0,,fixturedl
+3,2026-08-29,15:00,Watford,West Ham United,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-29,15:00,Watford,West Ham,1,1,D,1,1,D,16,13,5,1,10,7,3,11,3,1,0,0,,fd.co.uk
+4,2026-09-01,19:45,Lincoln City,Blackburn Rovers,0,0,D,0,0,D,18,8,1,2,12,11,5,7,1,4,0,1,,fixturedl
+4,2026-09-01,19:45,Portsmouth,Derby County,0,2,A,0,1,A,21,8,3,5,12,15,11,2,1,2,0,0,,fixturedl
+4,2026-09-01,19:45,Preston North End,Bristol City,1,3,A,0,1,A,18,12,4,7,11,14,5,2,2,0,0,0,,fixturedl
+4,2026-09-01,19:45,Sheffield United,Bolton Wanderers,3,2,H,1,1,D,13,18,5,6,8,13,5,5,0,2,0,0,,fixturedl
+4,2026-09-01,19:45,Swansea City,Watford,2,0,H,2,0,H,18,9,8,3,6,14,5,3,0,4,0,0,,fixturedl
+4,2026-09-01,19:45,West Ham,Wolves,4,2,H,2,1,H,12,18,6,3,9,9,6,7,2,1,0,0,,fd.co.uk
+4,2026-09-01,19:45,West Ham United,Wolverhampton Wanderers,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-09-01,20:00,Birmingham City,Southampton,1,1,D,0,1,A,16,13,4,4,12,8,3,5,3,2,0,0,,fixturedl
+4,2026-09-01,20:00,Stoke City,Norwich City,1,0,H,1,0,H,6,15,2,6,16,10,3,5,2,2,0,0,,fixturedl
+4,2026-09-02,19:45,Millwall,Wrexham,0,3,A,0,1,A,4,9,0,3,11,14,1,2,2,1,0,0,,fixturedl
+4,2026-09-02,19:45,Queens Park Rangers,Cardiff City,2,1,H,1,0,H,20,9,4,3,10,12,3,4,0,2,0,0,,fixturedl
+4,2026-09-02,19:45,West Bromwich Albion,Charlton Athletic,1,1,D,0,0,D,15,4,3,1,4,16,8,3,1,1,0,0,,fixturedl
+4,2026-09-02,20:00,Burnley,Middlesbrough,1,1,D,0,1,A,11,10,3,2,11,8,5,1,2,2,0,0,,fixturedl
+5,2026-09-05,12:30,Lincoln City,Southampton,1,1,D,0,1,A,19,16,5,4,14,10,4,6,3,0,0,0,,fixturedl
+5,2026-09-05,12:30,Preston North End,Blackburn Rovers,2,1,H,2,0,H,8,12,3,5,11,9,3,11,4,2,0,0,,fixturedl
+5,2026-09-05,12:30,Stoke City,Charlton Athletic,4,0,H,4,0,H,17,13,8,3,20,13,5,3,1,4,0,1,,fixturedl
+5,2026-09-05,15:00,Burnley,Bristol City,1,2,A,0,0,D,8,15,2,4,13,7,5,8,3,0,0,0,,fixturedl
+5,2026-09-05,15:00,Millwall,Bolton Wanderers,4,0,H,1,0,H,12,13,5,4,13,14,3,9,0,1,1,1,,fixturedl
+5,2026-09-05,15:00,Portsmouth,Cardiff City,2,0,H,1,0,H,15,16,5,5,15,12,5,7,0,4,0,0,,fixturedl
+5,2026-09-05,15:00,Queens Park Rangers,Middlesbrough,0,1,A,0,1,A,16,16,5,6,3,8,12,3,1,2,0,0,,fixturedl
+5,2026-09-05,15:00,Sheffield United,Norwich City,1,3,A,1,2,A,11,19,4,8,14,13,7,4,2,3,0,0,,fixturedl
+5,2026-09-05,15:00,West Bromwich Albion,Watford,1,0,H,1,0,H,9,11,4,2,18,11,5,4,5,3,0,0,,fixturedl
+4,2026-09-05,15:00,West Ham,Derby,3,0,H,1,0,H,20,4,7,0,6,16,5,6,0,2,0,0,,fd.co.uk
+5,2026-09-05,15:00,West Ham United,Derby County,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,20:00,Swansea City,Wrexham,0,0,D,0,0,D,6,8,3,1,10,13,5,2,3,0,0,0,,fixturedl
+5,2026-09-06,12:00,Birmingham City,Wolverhampton Wanderers,2,2,D,2,2,D,15,10,5,4,17,12,8,4,2,1,0,0,,fixturedl
+6,2026-09-08,19:45,Blackburn Rovers,Sheffield United,1,2,A,1,2,A,19,7,5,4,9,14,7,3,1,2,0,0,,fixturedl
+6,2026-09-08,19:45,Cardiff City,Stoke City,1,1,D,0,1,A,26,12,7,4,5,19,7,5,1,2,0,0,,fixturedl
+6,2026-09-08,19:45,Southampton,Swansea City,3,1,H,2,0,H,16,10,4,2,10,10,9,3,0,1,0,0,,fixturedl
+6,2026-09-08,19:45,Watford,Preston North End,2,1,H,0,1,A,15,18,5,6,7,10,2,4,0,2,0,0,,fixturedl
+6,2026-09-08,19:45,Wrexham,Burnley,1,1,D,0,1,A,15,19,5,4,12,15,4,4,2,3,0,0,,fixturedl
+5,2026-09-08,20:00,Bolton,West Ham,2,3,A,2,2,D,13,11,6,7,7,12,4,4,0,3,0,0,,fd.co.uk
+6,2026-09-08,20:00,Bolton Wanderers,West Ham United,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-09,19:45,Derby County,West Bromwich Albion,0,1,A,0,1,A,13,4,3,1,12,9,11,3,0,4,0,1,,fixturedl
+6,2026-09-09,19:45,Norwich City,Birmingham City,2,1,H,2,0,H,15,14,6,3,12,9,6,7,6,2,0,0,,fixturedl
+6,2026-09-09,20:00,Charlton Athletic,Queens Park Rangers,0,0,D,0,0,D,9,15,0,2,8,10,5,12,0,2,0,0,,fixturedl
+5,2026-09-11,20:00,West Ham,Wrexham,6,0,H,2,0,H,19,8,9,1,10,7,3,6,1,0,0,0,,fd.co.uk
+7,2026-09-11,20:00,West Ham United,Wrexham,6,0,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-12,12:30,Bolton Wanderers,Cardiff City,1,0,H,0,0,D,7,17,5,10,16,13,2,10,5,2,0,0,,fixturedl
+7,2026-09-12,12:30,Derby County,Birmingham City,1,2,A,1,1,D,18,19,4,9,8,12,10,4,1,3,0,0,,fixturedl
+7,2026-09-12,12:30,West Bromwich Albion,Queens Park Rangers,1,1,D,1,1,D,12,4,5,3,11,14,5,3,1,4,0,0,,fixturedl
+7,2026-09-12,15:00,Blackburn Rovers,Millwall,3,1,H,1,0,H,18,16,4,2,9,15,6,2,5,3,0,0,,fixturedl
+7,2026-09-12,15:00,Charlton Athletic,Portsmouth,0,0,D,0,0,D,10,9,3,3,10,9,7,5,1,1,0,0,,fixturedl
+7,2026-09-12,15:00,Middlesbrough,Norwich City,4,3,H,3,1,H,17,13,6,5,13,9,3,5,2,1,0,0,,fixturedl
+7,2026-09-12,15:00,Preston North End,Lincoln City,0,1,A,0,0,D,11,9,3,3,8,9,16,3,1,1,0,0,,fixturedl
+7,2026-09-12,15:00,Southampton,Bristol City,4,1,H,1,0,H,10,21,5,6,6,14,2,5,0,2,0,0,,fixturedl
+7,2026-09-12,15:00,Swansea City,Burnley,3,1,H,2,0,H,13,18,6,6,7,7,3,6,2,1,0,0,,fixturedl
+7,2026-09-12,15:00,Watford,Stoke City,1,2,A,0,1,A,6,18,2,6,14,6,5,8,2,2,0,0,,fixturedl
+7,2026-09-13,12:00,Sheffield United,Wolverhampton Wanderers,0,1,A,0,0,D,6,17,2,3,12,15,0,9,2,1,0,0,,fixturedl
+6,2026-09-15,19:45,Bristol City,Lincoln City,0,1,A,0,0,D,18,9,4,3,13,19,13,4,2,5,0,0,,fixturedl
+6,2026-09-15,19:45,Middlesbrough,Millwall,2,2,D,0,2,A,22,11,7,4,3,12,14,1,1,1,0,0,,fixturedl
+8,2026-09-18,20:00,Bristol City,Watford,1,0,H,1,0,H,17,10,7,2,11,15,2,5,2,5,0,0,,fixturedl
+8,2026-09-19,12:30,Cardiff City,Charlton Athletic,3,1,H,2,1,H,27,6,8,3,10,15,6,1,5,3,0,0,,fixturedl
+8,2026-09-19,12:30,Millwall,West Ham United,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-19,12:30,Millwall,West Ham,2,2,D,2,0,H,19,15,7,6,17,18,3,11,1,4,0,1,,fd.co.uk
+8,2026-09-19,12:30,Stoke City,Sheffield United,2,1,H,0,0,D,12,8,5,3,12,15,8,1,4,4,0,0,,fixturedl
+8,2026-09-19,15:00,Birmingham City,Middlesbrough,2,2,D,0,1,A,15,15,5,4,11,11,5,3,2,0,0,0,,fixturedl
+8,2026-09-19,15:00,Burnley,Derby County,1,1,D,1,0,H,6,17,2,6,9,12,4,6,4,2,0,0,,fixturedl
+8,2026-09-19,15:00,Lincoln City,Swansea City,1,2,A,1,0,H,13,10,4,4,12,11,2,1,2,1,0,0,,fixturedl
+8,2026-09-19,15:00,Portsmouth,Blackburn Rovers,2,2,D,1,1,D,22,8,7,5,16,9,9,7,2,1,0,0,,fixturedl
+8,2026-09-19,15:00,Queens Park Rangers,Preston North End,2,2,D,0,2,A,30,13,6,3,8,13,9,3,2,2,1,0,,fixturedl
+8,2026-09-19,15:00,Wrexham,Southampton,2,1,H,1,0,H,8,20,4,7,8,7,2,3,1,4,0,0,,fixturedl
+8,2026-09-20,12:00,Wolverhampton Wanderers,West Bromwich Albion,1,0,H,0,0,D,15,7,6,2,18,13,8,7,1,2,0,0,,fixturedl
+8,2026-09-20,13:30,Norwich City,Bolton Wanderers,3,4,A,2,2,D,10,9,4,5,11,12,4,2,0,0,0,0,,fixturedl

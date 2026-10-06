@@ -1,0 +1,51 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-21,20:00,Arsenal,Coventry,3,0,H,2,0,H,20,4,6,1,10,13,8,2,1,1,0,0,,fixturedl
+1,2026-08-22,12:30,Hull,Man Utd,2,0,H,2,0,H,8,21,4,5,10,9,1,6,2,1,0,0,,fixturedl
+1,2026-08-22,15:00,Everton,Crystal Palace,2,0,H,1,0,H,16,11,5,4,5,15,4,0,0,1,0,0,,fixturedl
+1,2026-08-22,15:00,Ipswich,Sunderland,2,1,H,1,1,D,10,11,3,4,12,14,3,5,0,3,0,0,,fixturedl
+1,2026-08-22,15:00,Nott'm Forest,Leeds,0,1,A,0,0,D,12,11,2,3,15,14,3,2,2,1,0,0,,fixturedl
+1,2026-08-22,17:30,Brentford,Spurs,3,0,H,2,0,H,26,9,8,4,17,14,7,3,1,1,0,0,,fixturedl
+1,2026-08-23,14:00,Brighton,Aston Villa,4,0,H,4,0,H,21,6,6,0,12,11,5,2,2,3,0,1,,fixturedl
+1,2026-08-23,14:00,Man City,Bournemouth,2,1,H,0,1,A,13,5,6,4,11,11,8,3,1,2,0,0,,fixturedl
+1,2026-08-23,16:30,Newcastle,Liverpool,2,2,D,1,0,H,13,27,4,7,16,15,2,6,5,3,0,0,,fixturedl
+1,2026-08-24,20:00,Fulham,Chelsea,2,3,A,1,2,A,14,18,6,6,12,7,6,4,2,3,0,0,,fixturedl
+2,2026-08-28,20:00,Crystal Palace,Man City,1,4,A,0,1,A,9,18,1,9,8,11,2,6,1,2,0,0,,fixturedl
+2,2026-08-29,12:30,Liverpool,Nott'm Forest,2,2,D,0,1,A,13,12,4,3,13,10,3,5,4,2,0,0,,fixturedl
+2,2026-08-29,15:00,Bournemouth,Everton,1,1,D,1,0,H,17,13,5,7,11,14,10,7,3,2,0,0,,fixturedl
+2,2026-08-29,15:00,Coventry,Hull,0,1,A,0,0,D,11,6,3,2,11,8,6,2,1,4,0,0,,fixturedl
+2,2026-08-29,17:30,Spurs,Newcastle,0,2,A,0,0,D,17,11,6,2,15,9,9,7,1,2,0,0,,fixturedl
+2,2026-08-30,14:00,Chelsea,Brighton,4,3,H,3,1,H,17,15,6,6,6,12,4,7,1,3,0,0,,fixturedl
+2,2026-08-30,14:00,Leeds,Brentford,1,1,D,0,1,A,12,22,2,5,5,13,5,6,0,4,0,0,,fixturedl
+2,2026-08-30,14:00,Sunderland,Fulham,1,0,H,0,0,D,12,11,4,0,10,15,3,4,0,2,0,0,,fixturedl
+2,2026-08-30,16:30,Man Utd,Ipswich,5,2,H,1,1,D,33,9,11,5,7,12,8,4,1,3,0,0,,fixturedl
+2,2026-08-31,20:00,Aston Villa,Arsenal,0,1,A,0,0,D,7,7,0,2,17,6,2,4,3,1,0,0,,fixturedl
+3,2026-09-04,20:00,Ipswich,Liverpool,0,2,A,0,2,A,14,10,5,7,6,13,4,3,1,3,0,0,,fixturedl
+3,2026-09-05,12:30,Newcastle,Bournemouth,2,2,D,1,2,A,8,17,2,5,19,17,4,3,2,3,0,0,,fixturedl
+3,2026-09-05,15:00,Brentford,Sunderland,1,1,D,0,0,D,12,14,2,5,19,9,4,3,3,2,0,0,,fixturedl
+3,2026-09-05,15:00,Brighton,Leeds,1,1,D,0,1,A,20,10,5,5,13,16,7,6,3,3,0,0,,fixturedl
+3,2026-09-05,15:00,Fulham,Crystal Palace,2,3,A,2,1,H,25,10,6,5,6,7,7,1,0,0,0,0,,fixturedl
+3,2026-09-05,15:00,Man City,Coventry,1,0,H,1,0,H,15,12,4,3,7,17,4,5,1,2,0,0,,fixturedl
+3,2026-09-05,15:00,Nott'm Forest,Spurs,0,0,D,0,0,D,12,11,2,0,22,14,2,10,2,2,0,0,,fixturedl
+3,2026-09-05,17:30,Hull,Aston Villa,0,0,D,0,0,D,11,13,4,1,10,5,3,4,2,0,0,0,,fixturedl
+3,2026-09-06,14:00,Everton,Man Utd,2,2,D,0,0,D,18,14,6,3,7,11,4,3,3,3,0,0,,fixturedl
+3,2026-09-06,16:30,Arsenal,Chelsea,2,1,H,1,1,D,16,13,9,5,13,16,5,3,2,4,0,0,,fixturedl
+4,2026-09-12,15:00,Aston Villa,Nott'm Forest,1,2,A,0,0,D,7,22,5,7,11,16,6,1,2,5,0,0,,fixturedl
+4,2026-09-12,15:00,Bournemouth,Brentford,2,2,D,1,1,D,20,8,10,2,10,13,2,1,5,1,0,0,,fixturedl
+4,2026-09-12,15:00,Chelsea,Hull,2,2,D,1,2,A,12,14,7,5,7,12,10,4,1,5,0,0,,fixturedl
+4,2026-09-12,15:00,Crystal Palace,Ipswich,2,3,A,1,2,A,11,12,4,6,6,16,6,3,1,3,1,0,,fixturedl
+4,2026-09-12,15:00,Liverpool,Fulham,0,0,D,0,0,D,14,10,3,4,11,8,5,8,0,1,0,0,,fixturedl
+4,2026-09-12,17:30,Spurs,Everton,0,0,D,0,0,D,14,12,2,3,14,8,5,6,0,2,0,0,,fixturedl
+4,2026-09-12,20:00,Sunderland,Arsenal,0,2,A,0,0,D,12,11,3,5,18,11,4,2,6,2,1,0,,fixturedl
+4,2026-09-13,14:00,Coventry,Brighton,0,5,A,0,1,A,14,22,6,7,9,15,5,3,0,0,1,0,,fixturedl
+4,2026-09-13,16:30,Man Utd,Man City,0,1,A,0,0,D,16,6,3,2,17,10,6,7,1,2,0,1,,fixturedl
+4,2026-09-14,20:00,Leeds,Newcastle,4,1,H,3,0,H,15,7,6,5,8,13,5,5,1,2,0,0,,fixturedl
+5,2026-09-18,20:00,Brentford,Chelsea,3,0,H,0,0,D,13,12,6,2,10,7,4,12,2,0,0,0,,fixturedl
+5,2026-09-19,12:30,Spurs,Aston Villa,2,3,A,0,1,A,20,15,7,6,9,13,11,1,1,2,0,0,,fixturedl
+5,2026-09-19,15:00,Brighton,Arsenal,3,0,H,2,0,H,17,11,5,2,13,11,5,6,4,1,0,0,,fixturedl
+5,2026-09-19,15:00,Everton,Ipswich,1,0,H,1,0,H,21,13,2,4,6,12,4,4,2,1,0,1,,fixturedl
+5,2026-09-19,15:00,Newcastle,Hull,2,1,H,2,0,H,12,22,5,4,4,10,4,7,1,4,0,0,,fixturedl
+5,2026-09-19,17:30,Nott'm Forest,Coventry,0,1,A,0,0,D,24,10,3,3,12,10,6,2,2,0,0,0,,fixturedl
+5,2026-09-20,14:00,Bournemouth,Liverpool,0,1,A,0,0,D,9,12,2,3,11,13,3,3,1,2,0,0,,fixturedl
+5,2026-09-20,14:00,Leeds,Crystal Palace,0,0,D,0,0,D,13,12,2,4,10,12,4,3,2,3,0,0,,fixturedl
+5,2026-09-20,14:00,Man City,Sunderland,5,3,H,3,2,H,16,17,6,9,14,14,6,5,0,1,0,0,,fixturedl
+5,2026-09-20,16:30,Fulham,Man Utd,1,1,D,0,0,D,12,29,6,6,9,5,3,13,3,0,0,0,,fixturedl

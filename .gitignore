@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+probe/
+probe2/
+*.log
+.DS_Store

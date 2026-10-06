@@ -1,0 +1,311 @@
+gw,date,time,home,away
+8,2026-10-09,18:00,Preußen Münster,Rot-Weiss Essen
+8,2026-10-10,13:00,Fortuna Köln,1. FC Saarbrücken
+8,2026-10-10,13:00,Jahn Regensburg,TSV Havelse
+8,2026-10-10,13:00,SG Sonnenhof Großaspach,SV Waldhof Mannheim
+8,2026-10-10,13:00,SV Meppen,VfB Stuttgart II
+8,2026-10-10,13:00,Würzburger Kickers,Hansa Rostock
+8,2026-10-10,15:30,MSV Duisburg,TSG 1899 Hoffenheim II
+8,2026-10-11,12:30,FC Ingolstadt 04,SV Wehen Wiesbaden
+8,2026-10-11,15:30,Alemannia Aachen,Viktoria Köln
+8,2026-10-11,18:30,Fortuna Düsseldorf,SC Verl
+9,2026-10-13,18:00,1. FC Saarbrücken,MSV Duisburg
+9,2026-10-13,18:00,Hansa Rostock,SV Meppen
+9,2026-10-13,18:00,Rot-Weiss Essen,Fortuna Köln
+9,2026-10-13,18:00,TSV Havelse,Würzburger Kickers
+9,2026-10-13,18:00,VfB Stuttgart II,TSG 1899 Hoffenheim II
+9,2026-10-14,18:00,Preußen Münster,Fortuna Düsseldorf
+9,2026-10-14,18:00,SC Verl,Jahn Regensburg
+9,2026-10-14,18:00,SV Waldhof Mannheim,FC Ingolstadt 04
+9,2026-10-14,18:00,SV Wehen Wiesbaden,Alemannia Aachen
+9,2026-10-14,18:00,Viktoria Köln,SG Sonnenhof Großaspach
+10,2026-10-16,18:00,Fortuna Köln,VfB Stuttgart II
+10,2026-10-17,13:00,Alemannia Aachen,Hansa Rostock
+10,2026-10-17,13:00,FC Ingolstadt 04,Rot-Weiss Essen
+10,2026-10-17,13:00,Fortuna Düsseldorf,1. FC Saarbrücken
+10,2026-10-17,13:00,Jahn Regensburg,SV Wehen Wiesbaden
+10,2026-10-17,13:00,SG Sonnenhof Großaspach,Preußen Münster
+10,2026-10-17,15:30,Würzburger Kickers,SV Waldhof Mannheim
+10,2026-10-18,12:30,TSG 1899 Hoffenheim II,SC Verl
+10,2026-10-18,15:30,MSV Duisburg,Viktoria Köln
+10,2026-10-18,18:30,SV Meppen,TSV Havelse
+11,2026-10-23,18:00,Rot-Weiss Essen,Jahn Regensburg
+11,2026-10-24,13:00,FC Ingolstadt 04,MSV Duisburg
+11,2026-10-24,13:00,Hansa Rostock,Fortuna Düsseldorf
+11,2026-10-24,13:00,SV Meppen,Würzburger Kickers
+11,2026-10-24,13:00,SV Wehen Wiesbaden,SG Sonnenhof Großaspach
+11,2026-10-24,13:00,Viktoria Köln,SC Verl
+11,2026-10-24,15:30,VfB Stuttgart II,Alemannia Aachen
+11,2026-10-25,13:30,TSV Havelse,1. FC Saarbrücken
+11,2026-10-25,16:30,Preußen Münster,Fortuna Köln
+11,2026-10-25,19:30,SV Waldhof Mannheim,TSG 1899 Hoffenheim II
+12,2026-10-30,19:00,Fortuna Düsseldorf,SV Meppen
+12,2026-10-31,14:00,Jahn Regensburg,Hansa Rostock
+12,2026-10-31,14:00,MSV Duisburg,VfB Stuttgart II
+12,2026-10-31,14:00,SC Verl,SV Wehen Wiesbaden
+12,2026-10-31,14:00,TSG 1899 Hoffenheim II,Viktoria Köln
+12,2026-10-31,14:00,TSV Havelse,FC Ingolstadt 04
+12,2026-10-31,16:30,Fortuna Köln,Würzburger Kickers
+12,2026-11-01,13:30,1. FC Saarbrücken,SV Waldhof Mannheim
+12,2026-11-01,16:30,SG Sonnenhof Großaspach,Rot-Weiss Essen
+12,2026-11-01,19:30,Alemannia Aachen,Preußen Münster
+13,2026-11-06,19:00,Viktoria Köln,1. FC Saarbrücken
+13,2026-11-07,14:00,FC Ingolstadt 04,Fortuna Düsseldorf
+13,2026-11-07,14:00,Hansa Rostock,SG Sonnenhof Großaspach
+13,2026-11-07,14:00,Rot-Weiss Essen,Alemannia Aachen
+13,2026-11-07,14:00,SV Waldhof Mannheim,Fortuna Köln
+13,2026-11-07,14:00,SV Wehen Wiesbaden,TSV Havelse
+13,2026-11-07,16:30,Preußen Münster,MSV Duisburg
+13,2026-11-08,13:30,SV Meppen,Jahn Regensburg
+13,2026-11-08,16:30,VfB Stuttgart II,SC Verl
+13,2026-11-08,19:30,Würzburger Kickers,TSG 1899 Hoffenheim II
+14,2026-11-20,19:00,TSV Havelse,Viktoria Köln
+14,2026-11-21,14:00,Fortuna Düsseldorf,SG Sonnenhof Großaspach
+14,2026-11-21,14:00,Fortuna Köln,SV Meppen
+14,2026-11-21,14:00,Jahn Regensburg,Würzburger Kickers
+14,2026-11-21,14:00,SC Verl,Rot-Weiss Essen
+14,2026-11-21,14:00,TSG 1899 Hoffenheim II,Preußen Münster
+14,2026-11-21,16:30,Alemannia Aachen,SV Waldhof Mannheim
+14,2026-11-22,13:30,VfB Stuttgart II,FC Ingolstadt 04
+14,2026-11-22,16:30,1. FC Saarbrücken,SV Wehen Wiesbaden
+14,2026-11-22,19:30,MSV Duisburg,Hansa Rostock
+15,2026-11-27,19:00,Hansa Rostock,TSV Havelse
+15,2026-11-28,14:00,1. FC Saarbrücken,Alemannia Aachen
+15,2026-11-28,14:00,Preußen Münster,SC Verl
+15,2026-11-28,14:00,Rot-Weiss Essen,TSG 1899 Hoffenheim II
+15,2026-11-28,14:00,SV Waldhof Mannheim,VfB Stuttgart II
+15,2026-11-28,14:00,Würzburger Kickers,Fortuna Düsseldorf
+15,2026-11-28,16:30,SG Sonnenhof Großaspach,MSV Duisburg
+15,2026-11-29,13:30,Viktoria Köln,Fortuna Köln
+15,2026-11-29,16:30,SV Wehen Wiesbaden,SV Meppen
+15,2026-11-29,19:30,FC Ingolstadt 04,Jahn Regensburg
+16,2026-12-05,14:00,Alemannia Aachen,TSV Havelse
+16,2026-12-05,14:00,Fortuna Düsseldorf,SV Wehen Wiesbaden
+16,2026-12-05,14:00,Fortuna Köln,Hansa Rostock
+16,2026-12-05,14:00,Jahn Regensburg,Preußen Münster
+16,2026-12-05,14:00,MSV Duisburg,SV Waldhof Mannheim
+16,2026-12-05,14:00,SC Verl,FC Ingolstadt 04
+16,2026-12-05,14:00,SV Meppen,Rot-Weiss Essen
+16,2026-12-05,14:00,TSG 1899 Hoffenheim II,1. FC Saarbrücken
+16,2026-12-05,14:00,VfB Stuttgart II,SG Sonnenhof Großaspach
+16,2026-12-05,14:00,Würzburger Kickers,Viktoria Köln
+17,2026-12-12,14:00,1. FC Saarbrücken,Würzburger Kickers
+17,2026-12-12,14:00,FC Ingolstadt 04,Fortuna Köln
+17,2026-12-12,14:00,Hansa Rostock,SC Verl
+17,2026-12-12,14:00,Preußen Münster,SV Meppen
+17,2026-12-12,14:00,Rot-Weiss Essen,MSV Duisburg
+17,2026-12-12,14:00,SG Sonnenhof Großaspach,Alemannia Aachen
+17,2026-12-12,14:00,SV Waldhof Mannheim,Jahn Regensburg
+17,2026-12-12,14:00,SV Wehen Wiesbaden,VfB Stuttgart II
+17,2026-12-12,14:00,TSV Havelse,TSG 1899 Hoffenheim II
+17,2026-12-12,14:00,Viktoria Köln,Fortuna Düsseldorf
+18,2026-12-19,14:00,Fortuna Düsseldorf,Rot-Weiss Essen
+18,2026-12-19,14:00,Hansa Rostock,Preußen Münster
+18,2026-12-19,14:00,Jahn Regensburg,Fortuna Köln
+18,2026-12-19,14:00,MSV Duisburg,Alemannia Aachen
+18,2026-12-19,14:00,SC Verl,TSV Havelse
+18,2026-12-19,14:00,SV Meppen,FC Ingolstadt 04
+18,2026-12-19,14:00,TSG 1899 Hoffenheim II,SV Wehen Wiesbaden
+18,2026-12-19,14:00,VfB Stuttgart II,1. FC Saarbrücken
+18,2026-12-19,14:00,Viktoria Köln,SV Waldhof Mannheim
+18,2026-12-19,14:00,Würzburger Kickers,SG Sonnenhof Großaspach
+19,2027-01-16,14:00,1. FC Saarbrücken,SC Verl
+19,2027-01-16,14:00,Alemannia Aachen,TSG 1899 Hoffenheim II
+19,2027-01-16,14:00,FC Ingolstadt 04,Hansa Rostock
+19,2027-01-16,14:00,Fortuna Köln,MSV Duisburg
+19,2027-01-16,14:00,Preußen Münster,Würzburger Kickers
+19,2027-01-16,14:00,Rot-Weiss Essen,VfB Stuttgart II
+19,2027-01-16,14:00,SG Sonnenhof Großaspach,Jahn Regensburg
+19,2027-01-16,14:00,SV Waldhof Mannheim,SV Meppen
+19,2027-01-16,14:00,SV Wehen Wiesbaden,Viktoria Köln
+19,2027-01-16,14:00,TSV Havelse,Fortuna Düsseldorf
+20,2027-01-23,14:00,Fortuna Düsseldorf,SV Waldhof Mannheim
+20,2027-01-23,14:00,Fortuna Köln,SG Sonnenhof Großaspach
+20,2027-01-23,14:00,Hansa Rostock,TSG 1899 Hoffenheim II
+20,2027-01-23,14:00,Jahn Regensburg,Viktoria Köln
+20,2027-01-23,14:00,Preußen Münster,SV Wehen Wiesbaden
+20,2027-01-23,14:00,Rot-Weiss Essen,1. FC Saarbrücken
+20,2027-01-23,14:00,SC Verl,Alemannia Aachen
+20,2027-01-23,14:00,SV Meppen,MSV Duisburg
+20,2027-01-23,14:00,VfB Stuttgart II,TSV Havelse
+20,2027-01-23,14:00,Würzburger Kickers,FC Ingolstadt 04
+21,2027-01-30,14:00,1. FC Saarbrücken,Jahn Regensburg
+21,2027-01-30,14:00,Alemannia Aachen,Fortuna Köln
+21,2027-01-30,14:00,FC Ingolstadt 04,Preußen Münster
+21,2027-01-30,14:00,MSV Duisburg,SC Verl
+21,2027-01-30,14:00,SG Sonnenhof Großaspach,SV Meppen
+21,2027-01-30,14:00,SV Waldhof Mannheim,Hansa Rostock
+21,2027-01-30,14:00,SV Wehen Wiesbaden,Würzburger Kickers
+21,2027-01-30,14:00,TSG 1899 Hoffenheim II,Fortuna Düsseldorf
+21,2027-01-30,14:00,TSV Havelse,Rot-Weiss Essen
+21,2027-01-30,14:00,Viktoria Köln,VfB Stuttgart II
+22,2027-02-06,14:00,FC Ingolstadt 04,SG Sonnenhof Großaspach
+22,2027-02-06,14:00,Fortuna Köln,SC Verl
+22,2027-02-06,14:00,Hansa Rostock,1. FC Saarbrücken
+22,2027-02-06,14:00,Jahn Regensburg,TSG 1899 Hoffenheim II
+22,2027-02-06,14:00,Preußen Münster,Viktoria Köln
+22,2027-02-06,14:00,Rot-Weiss Essen,SV Wehen Wiesbaden
+22,2027-02-06,14:00,SV Meppen,Alemannia Aachen
+22,2027-02-06,14:00,SV Waldhof Mannheim,TSV Havelse
+22,2027-02-06,14:00,VfB Stuttgart II,Fortuna Düsseldorf
+22,2027-02-06,14:00,Würzburger Kickers,MSV Duisburg
+23,2027-02-13,14:00,1. FC Saarbrücken,SV Meppen
+23,2027-02-13,14:00,Alemannia Aachen,FC Ingolstadt 04
+23,2027-02-13,14:00,Fortuna Düsseldorf,Fortuna Köln
+23,2027-02-13,14:00,MSV Duisburg,Jahn Regensburg
+23,2027-02-13,14:00,SC Verl,SV Waldhof Mannheim
+23,2027-02-13,14:00,SV Wehen Wiesbaden,Hansa Rostock
+23,2027-02-13,14:00,TSG 1899 Hoffenheim II,SG Sonnenhof Großaspach
+23,2027-02-13,14:00,TSV Havelse,Preußen Münster
+23,2027-02-13,14:00,VfB Stuttgart II,Würzburger Kickers
+23,2027-02-13,14:00,Viktoria Köln,Rot-Weiss Essen
+24,2027-02-20,14:00,FC Ingolstadt 04,1. FC Saarbrücken
+24,2027-02-20,14:00,Fortuna Köln,TSG 1899 Hoffenheim II
+24,2027-02-20,14:00,Hansa Rostock,Viktoria Köln
+24,2027-02-20,14:00,Jahn Regensburg,Alemannia Aachen
+24,2027-02-20,14:00,MSV Duisburg,Fortuna Düsseldorf
+24,2027-02-20,14:00,Preußen Münster,VfB Stuttgart II
+24,2027-02-20,14:00,SG Sonnenhof Großaspach,TSV Havelse
+24,2027-02-20,14:00,SV Meppen,SC Verl
+24,2027-02-20,14:00,SV Waldhof Mannheim,SV Wehen Wiesbaden
+24,2027-02-20,14:00,Würzburger Kickers,Rot-Weiss Essen
+25,2027-02-27,14:00,1. FC Saarbrücken,Preußen Münster
+25,2027-02-27,14:00,Alemannia Aachen,Würzburger Kickers
+25,2027-02-27,14:00,Fortuna Düsseldorf,Jahn Regensburg
+25,2027-02-27,14:00,Rot-Weiss Essen,SV Waldhof Mannheim
+25,2027-02-27,14:00,SC Verl,SG Sonnenhof Großaspach
+25,2027-02-27,14:00,SV Wehen Wiesbaden,Fortuna Köln
+25,2027-02-27,14:00,TSG 1899 Hoffenheim II,FC Ingolstadt 04
+25,2027-02-27,14:00,TSV Havelse,MSV Duisburg
+25,2027-02-27,14:00,VfB Stuttgart II,Hansa Rostock
+25,2027-02-27,14:00,Viktoria Köln,SV Meppen
+26,2027-03-03,19:00,FC Ingolstadt 04,Viktoria Köln
+26,2027-03-03,19:00,Fortuna Düsseldorf,Alemannia Aachen
+26,2027-03-03,19:00,Fortuna Köln,TSV Havelse
+26,2027-03-03,19:00,Hansa Rostock,Rot-Weiss Essen
+26,2027-03-03,19:00,Jahn Regensburg,VfB Stuttgart II
+26,2027-03-03,19:00,MSV Duisburg,SV Wehen Wiesbaden
+26,2027-03-03,19:00,Preußen Münster,SV Waldhof Mannheim
+26,2027-03-03,19:00,SG Sonnenhof Großaspach,1. FC Saarbrücken
+26,2027-03-03,19:00,SV Meppen,TSG 1899 Hoffenheim II
+26,2027-03-03,19:00,Würzburger Kickers,SC Verl
+27,2027-03-06,14:00,1. FC Saarbrücken,Fortuna Köln
+27,2027-03-06,14:00,Hansa Rostock,Würzburger Kickers
+27,2027-03-06,14:00,Rot-Weiss Essen,Preußen Münster
+27,2027-03-06,14:00,SC Verl,Fortuna Düsseldorf
+27,2027-03-06,14:00,SV Waldhof Mannheim,SG Sonnenhof Großaspach
+27,2027-03-06,14:00,SV Wehen Wiesbaden,FC Ingolstadt 04
+27,2027-03-06,14:00,TSG 1899 Hoffenheim II,MSV Duisburg
+27,2027-03-06,14:00,TSV Havelse,Jahn Regensburg
+27,2027-03-06,14:00,VfB Stuttgart II,SV Meppen
+27,2027-03-06,14:00,Viktoria Köln,Alemannia Aachen
+28,2027-03-13,14:00,Alemannia Aachen,SV Wehen Wiesbaden
+28,2027-03-13,14:00,FC Ingolstadt 04,SV Waldhof Mannheim
+28,2027-03-13,14:00,Fortuna Düsseldorf,Preußen Münster
+28,2027-03-13,14:00,Fortuna Köln,Rot-Weiss Essen
+28,2027-03-13,14:00,Jahn Regensburg,SC Verl
+28,2027-03-13,14:00,MSV Duisburg,1. FC Saarbrücken
+28,2027-03-13,14:00,SG Sonnenhof Großaspach,Viktoria Köln
+28,2027-03-13,14:00,SV Meppen,Hansa Rostock
+28,2027-03-13,14:00,TSG 1899 Hoffenheim II,VfB Stuttgart II
+28,2027-03-13,14:00,Würzburger Kickers,TSV Havelse
+29,2027-03-17,19:00,1. FC Saarbrücken,Fortuna Düsseldorf
+29,2027-03-17,19:00,Hansa Rostock,Alemannia Aachen
+29,2027-03-17,19:00,Preußen Münster,SG Sonnenhof Großaspach
+29,2027-03-17,19:00,Rot-Weiss Essen,FC Ingolstadt 04
+29,2027-03-17,19:00,SC Verl,TSG 1899 Hoffenheim II
+29,2027-03-17,19:00,SV Waldhof Mannheim,Würzburger Kickers
+29,2027-03-17,19:00,SV Wehen Wiesbaden,Jahn Regensburg
+29,2027-03-17,19:00,TSV Havelse,SV Meppen
+29,2027-03-17,19:00,VfB Stuttgart II,Fortuna Köln
+29,2027-03-17,19:00,Viktoria Köln,MSV Duisburg
+30,2027-03-20,14:00,1. FC Saarbrücken,TSV Havelse
+30,2027-03-20,14:00,Alemannia Aachen,VfB Stuttgart II
+30,2027-03-20,14:00,Fortuna Düsseldorf,Hansa Rostock
+30,2027-03-20,14:00,Fortuna Köln,Preußen Münster
+30,2027-03-20,14:00,Jahn Regensburg,Rot-Weiss Essen
+30,2027-03-20,14:00,MSV Duisburg,FC Ingolstadt 04
+30,2027-03-20,14:00,SC Verl,Viktoria Köln
+30,2027-03-20,14:00,SG Sonnenhof Großaspach,SV Wehen Wiesbaden
+30,2027-03-20,14:00,TSG 1899 Hoffenheim II,SV Waldhof Mannheim
+30,2027-03-20,14:00,Würzburger Kickers,SV Meppen
+31,2027-04-03,13:00,FC Ingolstadt 04,TSV Havelse
+31,2027-04-03,13:00,Hansa Rostock,Jahn Regensburg
+31,2027-04-03,13:00,Preußen Münster,Alemannia Aachen
+31,2027-04-03,13:00,Rot-Weiss Essen,SG Sonnenhof Großaspach
+31,2027-04-03,13:00,SV Meppen,Fortuna Düsseldorf
+31,2027-04-03,13:00,SV Waldhof Mannheim,1. FC Saarbrücken
+31,2027-04-03,13:00,SV Wehen Wiesbaden,SC Verl
+31,2027-04-03,13:00,VfB Stuttgart II,MSV Duisburg
+31,2027-04-03,13:00,Viktoria Köln,TSG 1899 Hoffenheim II
+31,2027-04-03,13:00,Würzburger Kickers,Fortuna Köln
+32,2027-04-10,13:00,1. FC Saarbrücken,Viktoria Köln
+32,2027-04-10,13:00,Alemannia Aachen,Rot-Weiss Essen
+32,2027-04-10,13:00,Fortuna Düsseldorf,FC Ingolstadt 04
+32,2027-04-10,13:00,Fortuna Köln,SV Waldhof Mannheim
+32,2027-04-10,13:00,Jahn Regensburg,SV Meppen
+32,2027-04-10,13:00,MSV Duisburg,Preußen Münster
+32,2027-04-10,13:00,SC Verl,VfB Stuttgart II
+32,2027-04-10,13:00,SG Sonnenhof Großaspach,Hansa Rostock
+32,2027-04-10,13:00,TSG 1899 Hoffenheim II,Würzburger Kickers
+32,2027-04-10,13:00,TSV Havelse,SV Wehen Wiesbaden
+33,2027-04-17,13:00,FC Ingolstadt 04,VfB Stuttgart II
+33,2027-04-17,13:00,Hansa Rostock,MSV Duisburg
+33,2027-04-17,13:00,Preußen Münster,TSG 1899 Hoffenheim II
+33,2027-04-17,13:00,Rot-Weiss Essen,SC Verl
+33,2027-04-17,13:00,SG Sonnenhof Großaspach,Fortuna Düsseldorf
+33,2027-04-17,13:00,SV Meppen,Fortuna Köln
+33,2027-04-17,13:00,SV Waldhof Mannheim,Alemannia Aachen
+33,2027-04-17,13:00,SV Wehen Wiesbaden,1. FC Saarbrücken
+33,2027-04-17,13:00,Viktoria Köln,TSV Havelse
+33,2027-04-17,13:00,Würzburger Kickers,Jahn Regensburg
+34,2027-04-24,13:00,Alemannia Aachen,1. FC Saarbrücken
+34,2027-04-24,13:00,Fortuna Düsseldorf,Würzburger Kickers
+34,2027-04-24,13:00,Fortuna Köln,Viktoria Köln
+34,2027-04-24,13:00,Jahn Regensburg,FC Ingolstadt 04
+34,2027-04-24,13:00,MSV Duisburg,SG Sonnenhof Großaspach
+34,2027-04-24,13:00,SC Verl,Preußen Münster
+34,2027-04-24,13:00,SV Meppen,SV Wehen Wiesbaden
+34,2027-04-24,13:00,TSG 1899 Hoffenheim II,Rot-Weiss Essen
+34,2027-04-24,13:00,TSV Havelse,Hansa Rostock
+34,2027-04-24,13:00,VfB Stuttgart II,SV Waldhof Mannheim
+35,2027-04-28,18:00,1. FC Saarbrücken,TSG 1899 Hoffenheim II
+35,2027-04-28,18:00,FC Ingolstadt 04,SC Verl
+35,2027-04-28,18:00,Hansa Rostock,Fortuna Köln
+35,2027-04-28,18:00,Preußen Münster,Jahn Regensburg
+35,2027-04-28,18:00,Rot-Weiss Essen,SV Meppen
+35,2027-04-28,18:00,SG Sonnenhof Großaspach,VfB Stuttgart II
+35,2027-04-28,18:00,SV Waldhof Mannheim,MSV Duisburg
+35,2027-04-28,18:00,SV Wehen Wiesbaden,Fortuna Düsseldorf
+35,2027-04-28,18:00,TSV Havelse,Alemannia Aachen
+35,2027-04-28,18:00,Viktoria Köln,Würzburger Kickers
+36,2027-05-08,13:00,Alemannia Aachen,SG Sonnenhof Großaspach
+36,2027-05-08,13:00,Fortuna Düsseldorf,Viktoria Köln
+36,2027-05-08,13:00,Fortuna Köln,FC Ingolstadt 04
+36,2027-05-08,13:00,Jahn Regensburg,SV Waldhof Mannheim
+36,2027-05-08,13:00,MSV Duisburg,Rot-Weiss Essen
+36,2027-05-08,13:00,SC Verl,Hansa Rostock
+36,2027-05-08,13:00,SV Meppen,Preußen Münster
+36,2027-05-08,13:00,TSG 1899 Hoffenheim II,TSV Havelse
+36,2027-05-08,13:00,VfB Stuttgart II,SV Wehen Wiesbaden
+36,2027-05-08,13:00,Würzburger Kickers,1. FC Saarbrücken
+37,2027-05-15,13:00,1. FC Saarbrücken,VfB Stuttgart II
+37,2027-05-15,13:00,Alemannia Aachen,MSV Duisburg
+37,2027-05-15,13:00,FC Ingolstadt 04,SV Meppen
+37,2027-05-15,13:00,Fortuna Köln,Jahn Regensburg
+37,2027-05-15,13:00,Preußen Münster,Hansa Rostock
+37,2027-05-15,13:00,Rot-Weiss Essen,Fortuna Düsseldorf
+37,2027-05-15,13:00,SG Sonnenhof Großaspach,Würzburger Kickers
+37,2027-05-15,13:00,SV Waldhof Mannheim,Viktoria Köln
+37,2027-05-15,13:00,SV Wehen Wiesbaden,TSG 1899 Hoffenheim II
+37,2027-05-15,13:00,TSV Havelse,SC Verl
+38,2027-05-22,12:30,Fortuna Düsseldorf,TSV Havelse
+38,2027-05-22,12:30,Hansa Rostock,FC Ingolstadt 04
+38,2027-05-22,12:30,Jahn Regensburg,SG Sonnenhof Großaspach
+38,2027-05-22,12:30,MSV Duisburg,Fortuna Köln
+38,2027-05-22,12:30,SC Verl,1. FC Saarbrücken
+38,2027-05-22,12:30,SV Meppen,SV Waldhof Mannheim
+38,2027-05-22,12:30,TSG 1899 Hoffenheim II,Alemannia Aachen
+38,2027-05-22,12:30,VfB Stuttgart II,Rot-Weiss Essen
+38,2027-05-22,12:30,Viktoria Köln,SV Wehen Wiesbaden
+38,2027-05-22,12:30,Würzburger Kickers,Preußen Münster
