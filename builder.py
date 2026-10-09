@@ -87,9 +87,26 @@ _TEAM_ALIASES = {
     "southampton": "Southampton", "leeds": "Leeds United",
     "brighton": "Brighton and Hove Albion", "bournemouth": "AFC Bournemouth",
     "crystalpalace": "Crystal Palace", "newcastle": "Newcastle United",
-    "mancity": "Manchester City",  # also maps fd-style 'Man City' -> city name
     "sunderland": "Sunderland", "middlesbrough": "Middlesbrough",
     "wrexham": "Wrexham",
+    # fd.co.uk abbreviations that are NOT substrings of the spine name
+    "westham": "West Ham United", "york": "York City",
+    "mkdons": "MK Dons", "miltonkeynesdons": "MK Dons",
+    "sheffieldweds": "Sheffield Wednesday", "bristolrvs": "Bristol Rovers",
+    "leicester": "Leicester City", "bradford": "Bradford City",
+    "wycombe": "Wycombe Wanderers", "wigan": "Wigan Athletic",
+    "stockport": "Stockport County", "oxford": "Oxford United",
+    "rotherham": "Rotherham United", "cheltenham": "Cheltenham Town",
+    "crewe": "Crewe Alexandra", "grimsby": "Grimsby Town",
+    "swindon": "Swindon Town", "exeter": "Exeter City",
+    "colchester": "Colchester United", "ayr": "Ayr United",
+    # ESPN display names that differ from the spine
+    "racingsantander": "R. Racing Club", "fccologne": "1. FC Köln",
+    "hamburgsv": "Hamburger SV", "amedsfk": "Amedspor",
+    "erzurumbb": "Erzurumspor",
+    # fd vs ESPN Greek spellings
+    "aek": "AEK Athens", "olympiakos": "Olympiacos",
+    "levadeiakos": "Levadiakos",
     # Spain (fd abbreviations)
     "athmadrid": "Atletico Madrid", "athbilbao": "Athletic Bilbao",
     "athleticclub": "Athletic Bilbao", "athletic": "Athletic Bilbao",
@@ -145,12 +162,7 @@ _TEAM_ALIASES = {
     "nacional": "CD Nacional", "santaclara": "Santa Clara",
     "famalicao": "FC Famalicão", "arouca": "FC Arouca",
     "splisbon": "Sporting CP", "spbraga": "SC Braga",
-    "guimaraes": "Vitoria Guimaraes", "porto": "FC Porto",
-    "estrela": "Estrela Amadora", "famalicao": "Famalicao",
-    "gilvicente": "Gil Vicente", "nacional": "Nacional",
-    "casapia": "Casa Pia", "moreirense": "Moreirense",
-    "rioave": "Rio Ave", "santaclara": "Santa Clara",
-    "arouca": "Arouca", "estoril": "Estoril", "alverca": "Alverca",
+    "porto": "FC Porto", "estrela": "Estrela Amadora",
     "academicoviseu": "Academico Viseu",
     # Turkey (fd abbreviations)
     "buyuksehyr": "Basaksehir", "goztep": "Goztepe",
@@ -195,6 +207,15 @@ def _same_team(a: str, b: str) -> bool:
     ra = _TEAM_ALIASES.get(na, a or "")
     rb = _TEAM_ALIASES.get(nb, b or "")
     if norm_team(ra) and norm_team(ra) == norm_team(rb):
+        return True
+    # rule 1b: full-name containment — the SHORTER name (min 4 chars, so
+    # 'Ayr' needs the alias table but 'York'/'West Ham'/'Rio Ave' work
+    # standalone) is a substring of the longer one: 'york' ⊂ 'yorkcity',
+    # 'rioave' ⊂ 'rioavefc'. Same-pairing + date-window guards in
+    # _same_match make cross-club false positives (differing cities)
+    # practically impossible.
+    short, long = (na, nb) if len(na) <= len(nb) else (nb, na)
+    if len(short) >= 4 and short not in _AMBIG_TOKENS and short in long:
         return True
     ta, tb = _tokens(ra), _tokens(rb)
     if not ta or not tb:

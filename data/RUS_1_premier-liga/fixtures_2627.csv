@@ -1,1 +1,109 @@
 gw,date,time,home,away
+10,2026-10-10,,Fakel Voronezh,Lokomotiv Moscow
+10,2026-10-10,,Krylya Sovetov,Spartak Moscow
+10,2026-10-10,,Orenburg,Dynamo Makhachkala
+10,2026-10-11,,Akhmat Grozny,Baltika
+10,2026-10-11,,CSKA Moscow,Rodina Moscow
+10,2026-10-11,,Krasnodar,Zenit
+11,2026-10-17,,Dynamo Makhachkala,Akron Togliatti
+11,2026-10-17,,Krylya Sovetov,Fakel Voronezh
+11,2026-10-17,,Rubin Kazan,Dynamo Moscow
+11,2026-10-18,,Dynamo Moscow,CSKA Moscow
+11,2026-10-18,,Lokomotiv Moscow,Krasnodar
+11,2026-10-18,,Spartak Moscow,Rubin Kazan
+11,2026-10-18,,Zenit,Akhmat Grozny
+12,2026-10-19,,Baltika,FK Rostov
+12,2026-10-23,,Rodina Moscow,Orenburg
+12,2026-10-24,,Akhmat Grozny,Orenburg
+12,2026-10-24,,Akron Togliatti,Dynamo Moscow
+12,2026-10-24,,Fakel Voronezh,Rodina Moscow
+12,2026-10-24,,Rubin Kazan,Krylya Sovetov
+12,2026-10-25,,CSKA Moscow,Spartak Moscow
+12,2026-10-25,,FK Rostov,Lokomotiv Moscow
+12,2026-10-25,,Krasnodar,Baltika
+13,2026-10-31,,Dynamo Moscow,Akhmat Grozny
+13,2026-10-31,,Rubin Kazan,Fakel Voronezh
+13,2026-10-31,,Zenit,Dynamo Makhachkala
+13,2026-11-01,,Baltika,Akron Togliatti
+13,2026-11-01,,Dynamo Makhachkala,FK Rostov
+13,2026-11-01,,Orenburg,CSKA Moscow
+13,2026-11-01,,Rodina Moscow,Krasnodar
+14,2026-11-02,,Lokomotiv Moscow,Spartak Moscow
+14,2026-11-06,,Krylya Sovetov,Zenit
+14,2026-11-07,,Akhmat Grozny,Rodina Moscow
+14,2026-11-07,,Fakel Voronezh,Dynamo Moscow
+14,2026-11-07,,Lokomotiv Moscow,Rubin Kazan
+14,2026-11-08,,Krasnodar,CSKA Moscow
+14,2026-11-08,,Krylya Sovetov,Orenburg
+14,2026-11-08,,Spartak Moscow,Akron Togliatti
+14,2026-11-08,,Zenit,FK Rostov
+15,2026-11-20,,Baltika,Dynamo Makhachkala
+15,2026-11-21,,Akron Togliatti,Fakel Voronezh
+15,2026-11-21,,FK Rostov,Krylya Sovetov
+15,2026-11-21,,Orenburg,Baltika
+15,2026-11-21,,Rubin Kazan,Zenit
+15,2026-11-22,,CSKA Moscow,Akhmat Grozny
+15,2026-11-22,,Dynamo Makhachkala,Spartak Moscow
+15,2026-11-22,,Dynamo Moscow,Krasnodar
+16,2026-11-28,,CSKA Moscow,Zenit
+16,2026-11-28,,Rodina Moscow,Lokomotiv Moscow
+16,2026-11-28,,Rubin Kazan,Akron Togliatti
+16,2026-11-29,,Baltika,Akhmat Grozny
+16,2026-11-29,,FK Rostov,Krasnodar
+16,2026-11-29,,Krylya Sovetov,Dynamo Moscow
+16,2026-11-29,,Orenburg,Rodina Moscow
+17,2026-11-30,,Lokomotiv Moscow,Dynamo Makhachkala
+17,2026-12-04,,Fakel Voronezh,Spartak Moscow
+17,2026-12-05,,Akron Togliatti,Orenburg
+17,2026-12-05,,Dynamo Makhachkala,Krylya Sovetov
+17,2026-12-05,,Rodina Moscow,CSKA Moscow
+17,2026-12-05,,Zenit,Baltika
+17,2026-12-06,,Akhmat Grozny,Lokomotiv Moscow
+17,2026-12-06,,Fakel Voronezh,FK Rostov
+18,2027-02-27,,Akhmat Grozny,Akron Togliatti
+18,2027-02-27,,Baltika,Rodina Moscow
+18,2027-02-27,,Dynamo Makhachkala,Orenburg
+18,2027-02-27,,Dynamo Moscow,Rubin Kazan
+18,2027-02-27,,FK Rostov,CSKA Moscow
+18,2027-02-27,,Krasnodar,Rubin Kazan
+18,2027-02-27,,Krasnodar,Spartak Moscow
+18,2027-02-27,,Krylya Sovetov,Lokomotiv Moscow
+19,2027-03-06,,Akhmat Grozny,Rubin Kazan
+19,2027-03-06,,Akron Togliatti,Spartak Moscow
+19,2027-03-06,,Dynamo Makhachkala,Fakel Voronezh
+19,2027-03-06,,FK Rostov,Baltika
+19,2027-03-06,,Krasnodar,Krylya Sovetov
+19,2027-03-06,,Lokomotiv Moscow,CSKA Moscow
+19,2027-03-06,,Zenit,Fakel Voronezh
+20,2027-03-13,,Akron Togliatti,Dynamo Makhachkala
+20,2027-03-13,,Baltika,Krasnodar
+20,2027-03-13,,Dynamo Moscow,Lokomotiv Moscow
+20,2027-03-13,,Fakel Voronezh,CSKA Moscow
+20,2027-03-13,,Orenburg,Krylya Sovetov
+20,2027-03-13,,Rodina Moscow,Zenit
+20,2027-03-13,,Rubin Kazan,FK Rostov
+20,2027-03-13,,Zenit,Orenburg
+21,2027-03-20,,CSKA Moscow,Orenburg
+21,2027-03-20,,Dynamo Makhachkala,Baltika
+21,2027-03-20,,FK Rostov,Rodina Moscow
+21,2027-03-20,,Krasnodar,Dynamo Moscow
+21,2027-03-20,,Krylya Sovetov,Akhmat Grozny
+21,2027-03-20,,Lokomotiv Moscow,Fakel Voronezh
+21,2027-03-20,,Rubin Kazan,Spartak Moscow
+21,2027-03-20,,Spartak Moscow,Akhmat Grozny
+22,2027-04-03,,Akhmat Grozny,Fakel Voronezh
+22,2027-04-03,,Akron Togliatti,Lokomotiv Moscow
+22,2027-04-03,,CSKA Moscow,Krasnodar
+22,2027-04-03,,Dynamo Moscow,Baltika
+22,2027-04-03,,FK Rostov,Zenit
+22,2027-04-03,,Orenburg,Rubin Kazan
+22,2027-04-03,,Rodina Moscow,Krylya Sovetov
+22,2027-04-03,,Zenit,Akron Togliatti
+23,2027-04-10,,Akhmat Grozny,Dynamo Moscow
+23,2027-04-10,,Baltika,CSKA Moscow
+23,2027-04-10,,Dynamo Makhachkala,Rubin Kazan
+23,2027-04-10,,Fakel Voronezh,Akron Togliatti
+23,2027-04-10,,Krasnodar,Rodina Moscow
+23,2027-04-10,,Krylya Sovetov,FK Rostov
+23,2027-04-10,,Lokomotiv Moscow,Zenit
+23,2027-04-10,,Spartak Moscow,Dynamo Makhachkala

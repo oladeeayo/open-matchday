@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-06T09:28:37Z",
+  "generated_utc": "2026-10-09T18:00:43Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -48,7 +48,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 45,
-      "fixtures": 261,
+      "fixtures": 262,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -57,7 +57,7 @@
       "folder": "data\\ENG_2_championship",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 103,
+      "results": 95,
       "fixtures": 457,
       "errors": [],
       "latest": "2026-09-20"
@@ -67,8 +67,8 @@
       "folder": "data\\ENG_3_league-one",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 104,
-      "fixtures": 463,
+      "results": 90,
+      "fixtures": 462,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -77,8 +77,8 @@
       "folder": "data\\ENG_4_league-two",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 118,
-      "fixtures": 450,
+      "results": 102,
+      "fixtures": 453,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -88,7 +88,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 143,
-      "fixtures": 1,
+      "fixtures": 409,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -98,7 +98,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 120,
-      "fixtures": 0,
+      "fixtures": 112,
       "errors": [],
       "latest": "2026-09-29"
     },
@@ -107,10 +107,10 @@
       "folder": "data\\ENG_6_national-league-south",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 113,
-      "fixtures": 0,
+      "results": 116,
+      "fixtures": 116,
       "errors": [],
-      "latest": "2026-09-29"
+      "latest": "2026-10-06"
     },
     {
       "league": "Northern Premier League",
@@ -118,9 +118,9 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 112,
-      "fixtures": 0,
+      "fixtures": 111,
       "errors": [],
-      "latest": "2026-10-03"
+      "latest": "2026-10-07"
     },
     {
       "league": "Scottish Premiership",
@@ -137,8 +137,8 @@
       "folder": "data\\SCO_2_championship",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 43,
-      "fixtures": 0,
+      "results": 42,
+      "fixtures": 156,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -148,7 +148,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 44,
-      "fixtures": 0,
+      "fixtures": 105,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -158,7 +158,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 45,
-      "fixtures": 0,
+      "fixtures": 109,
       "errors": [],
       "latest": "2026-10-03"
     },
@@ -167,27 +167,27 @@
       "folder": "data\\GER_2_2-bundesliga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 54,
-      "fixtures": 252,
+      "results": 56,
+      "fixtures": 250,
       "errors": [],
-      "latest": "2026-09-20"
+      "latest": "2026-10-09"
     },
     {
       "league": "3. Liga",
       "folder": "data\\GER_3_3-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 70,
-      "fixtures": 310,
+      "results": 71,
+      "fixtures": 309,
       "errors": [],
-      "latest": "2026-09-25"
+      "latest": "2026-10-09"
     },
     {
       "league": "Primeira Liga",
       "folder": "data\\POR_1_primeira-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 69,
+      "results": 62,
       "fixtures": 244,
       "errors": [],
       "latest": "2026-09-20"
@@ -208,7 +208,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 63,
-      "fixtures": 1,
+      "fixtures": 243,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -228,7 +228,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 35,
-      "fixtures": 2,
+      "fixtures": 147,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -238,7 +238,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 54,
-      "fixtures": 0,
+      "fixtures": 77,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -248,7 +248,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 42,
-      "fixtures": 0,
+      "fixtures": 89,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -258,7 +258,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 54,
-      "fixtures": 0,
+      "fixtures": 76,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -268,7 +268,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 104,
-      "fixtures": 0,
+      "fixtures": 62,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -278,7 +278,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 109,
-      "fixtures": 0,
+      "fixtures": 70,
       "errors": [],
       "latest": "2026-09-20"
     },
@@ -287,10 +287,10 @@
       "folder": "data\\ROU_1_liga-1",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "results": 79,
-      "fixtures": 0,
+      "results": 81,
+      "fixtures": 110,
       "errors": [],
-      "latest": "2026-09-21"
+      "latest": "2026-10-09"
     },
     {
       "league": "Russian Premier Liga",
@@ -298,7 +298,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "results": 71,
-      "fixtures": 0,
+      "fixtures": 108,
       "errors": [],
       "latest": "2026-09-17"
     }

@@ -10,10 +10,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-08-15,15:00,Grimsby Town,Exeter City,1,0,H,1,0,H,21,8,4,2,15,8,6,3,1,1,0,0,,fixturedl
 1,2026-08-15,15:00,Northampton Town,Swindon Town,0,0,D,0,0,D,11,4,3,0,7,6,10,1,0,2,0,0,,fixturedl
 1,2026-08-15,15:00,Tranmere Rovers,Shrewsbury Town,2,0,H,1,0,H,7,15,4,5,15,11,3,5,3,2,0,0,,fixturedl
-1,2026-08-15,15:00,York,Bristol Rvs,3,2,H,0,1,A,16,13,5,3,9,10,7,6,2,0,0,0,,fd.co.uk
-1,2026-08-15,15:00,York City,Bristol Rovers,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-22,12:30,Bristol Rovers,Newport County,5,3,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-22,12:30,Bristol Rvs,Newport County,5,3,H,1,1,D,26,8,9,3,6,8,11,1,2,1,0,0,,fd.co.uk
+1,2026-08-15,15:00,York City,Bristol Rovers,3,2,H,0,1,A,16,13,5,3,9,10,7,6,2,0,0,0,,fixturedl
+2,2026-08-22,12:30,Bristol Rovers,Newport County,5,3,H,1,1,D,26,8,9,3,6,8,11,1,2,1,0,0,,fixturedl
 2,2026-08-22,12:30,Salford City,Chesterfield,0,1,A,0,1,A,10,14,3,3,12,17,5,1,2,3,0,0,,fixturedl
 2,2026-08-22,12:30,Walsall,Grimsby Town,0,0,D,0,0,D,16,13,2,1,12,15,8,7,1,1,0,0,,fixturedl
 2,2026-08-22,15:00,Colchester United,Oldham Athletic,2,1,H,0,1,A,17,6,5,2,14,17,8,2,2,5,0,1,,fixturedl
@@ -22,29 +20,24 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 2,2026-08-22,15:00,Fleetwood Town,Gillingham,0,0,D,0,0,D,17,9,0,3,13,15,10,2,1,2,0,0,,fixturedl
 2,2026-08-22,15:00,Port Vale,Tranmere Rovers,1,1,D,1,0,H,9,6,4,4,19,17,4,3,2,3,0,0,,fixturedl
 2,2026-08-22,15:00,Rochdale,Crawley Town,1,2,A,0,1,A,7,12,3,2,12,14,5,3,4,4,0,0,,fixturedl
-2,2026-08-22,15:00,Rotherham,York,1,1,D,1,1,D,10,17,2,5,11,5,5,9,2,0,0,0,,fd.co.uk
-2,2026-08-22,15:00,Rotherham United,York City,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-22,15:00,Rotherham United,York City,1,1,D,1,1,D,10,17,2,5,11,5,5,9,2,0,0,0,,fixturedl
 2,2026-08-22,15:00,Shrewsbury Town,Barnet,1,3,A,1,1,D,10,15,1,3,14,14,7,9,1,0,0,0,,fixturedl
 2,2026-08-22,15:00,Swindon Town,Cheltenham Town,2,1,H,1,0,H,5,14,3,6,7,12,2,5,1,1,0,0,,fixturedl
 3,2026-08-29,12:30,Barnet,Cheltenham Town,2,2,D,1,0,H,14,9,3,5,7,19,11,4,1,3,0,0,,fixturedl
 3,2026-08-29,12:30,Port Vale,Crewe Alexandra,0,0,D,0,0,D,11,14,4,3,15,15,3,1,0,1,0,0,,fixturedl
 3,2026-08-29,13:00,Rotherham United,Chesterfield,2,1,H,1,0,H,13,7,4,2,14,11,2,0,2,1,0,0,,fixturedl
 3,2026-08-29,15:00,Colchester United,Rochdale,1,0,H,0,0,D,11,11,5,4,10,15,5,3,1,2,0,0,,fixturedl
-3,2026-08-29,15:00,Crawley Town,Bristol Rovers,0,2,A,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-29,15:00,Crawley Town,Bristol Rvs,0,2,A,0,2,A,8,27,1,5,6,16,2,4,3,4,0,0,,fd.co.uk
+3,2026-08-29,15:00,Crawley Town,Bristol Rovers,0,2,A,0,2,A,8,27,1,5,6,16,2,4,3,4,0,0,,fixturedl
 3,2026-08-29,15:00,Gillingham,Northampton Town,1,1,D,1,1,D,11,5,3,1,10,16,4,4,2,4,0,0,,fixturedl
 3,2026-08-29,15:00,Grimsby Town,Fleetwood Town,2,2,D,1,1,D,15,11,5,4,15,11,7,5,2,4,0,0,,fixturedl
 3,2026-08-29,15:00,Newport County,Tranmere Rovers,2,2,D,1,0,H,11,15,4,5,14,11,4,6,2,2,0,0,,fixturedl
 3,2026-08-29,15:00,Oldham Athletic,Swindon Town,3,0,H,1,0,H,26,3,9,1,6,12,14,4,0,3,0,0,,fixturedl
 3,2026-08-29,15:00,Shrewsbury Town,Salford City,1,0,H,0,0,D,9,13,2,1,13,11,5,3,1,0,0,0,,fixturedl
 3,2026-08-29,15:00,Walsall,Accrington Stanley,3,2,H,2,1,H,16,22,5,6,8,18,4,4,4,3,0,0,,fixturedl
-3,2026-08-29,15:00,York,Exeter,2,1,H,1,0,H,11,8,8,2,12,10,7,5,2,3,0,0,,fd.co.uk
-3,2026-08-29,15:00,York City,Exeter City,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-29,15:00,York City,Exeter City,2,1,H,1,0,H,11,8,8,2,12,10,7,5,2,3,0,0,,fixturedl
 4,2026-09-01,19:45,Accrington Stanley,Grimsby Town,2,2,D,1,2,A,12,19,5,7,9,10,2,8,4,1,0,0,,fixturedl
-4,2026-09-01,19:45,Bristol Rovers,Colchester United,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-4,2026-09-01,19:45,Bristol Rvs,Colchester,2,0,H,1,0,H,24,13,8,1,17,9,3,2,3,1,0,0,,fd.co.uk
-4,2026-09-01,19:45,Cheltenham,York,3,2,H,1,1,D,13,20,5,5,11,6,4,4,1,0,0,0,,fd.co.uk
-4,2026-09-01,19:45,Cheltenham Town,York City,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-09-01,19:45,Bristol Rovers,Colchester United,2,0,H,1,0,H,24,13,8,1,17,9,3,2,3,1,0,0,,fixturedl
+4,2026-09-01,19:45,Cheltenham Town,York City,3,2,H,1,1,D,13,20,5,5,11,6,4,4,1,0,0,0,,fixturedl
 4,2026-09-01,19:45,Chesterfield,Gillingham,1,1,D,1,0,H,24,7,10,1,8,12,8,2,1,2,0,0,,fixturedl
 4,2026-09-01,19:45,Crewe Alexandra,Walsall,2,2,D,0,1,A,20,14,5,4,11,14,9,4,0,2,0,0,,fixturedl
 4,2026-09-01,19:45,Exeter City,Barnet,1,1,D,0,0,D,9,10,5,4,13,12,1,2,1,4,0,0,,fixturedl
@@ -57,20 +50,17 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-09-05,12:30,Fleetwood Town,Shrewsbury Town,2,0,H,1,0,H,10,10,3,1,13,15,3,4,3,5,0,0,,fixturedl
 5,2026-09-05,12:30,Salford City,Port Vale,1,0,H,0,0,D,8,13,2,3,11,18,6,6,1,2,0,0,,fixturedl
 5,2026-09-05,15:00,Accrington Stanley,Crawley Town,3,2,H,1,1,D,10,15,4,5,21,8,1,4,4,2,0,0,,fixturedl
-5,2026-09-05,15:00,Bristol Rovers,Rotherham United,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-4,2026-09-05,15:00,Bristol Rvs,Rotherham,1,0,H,1,0,H,12,7,5,2,9,9,10,4,1,3,0,0,,fd.co.uk
+5,2026-09-05,15:00,Bristol Rovers,Rotherham United,1,0,H,1,0,H,12,7,5,2,9,9,10,4,1,3,0,0,,fixturedl
 5,2026-09-05,15:00,Cheltenham Town,Grimsby Town,2,2,D,2,0,H,8,12,4,5,8,10,3,7,1,1,0,0,,fixturedl
 5,2026-09-05,15:00,Chesterfield,Barnet,3,3,D,1,2,A,15,23,7,6,9,19,4,8,3,3,0,0,,fixturedl
-4,2026-09-05,15:00,Crewe,York,1,1,D,1,1,D,17,27,6,6,11,10,5,9,1,2,0,0,,fd.co.uk
-5,2026-09-05,15:00,Crewe Alexandra,York City,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,15:00,Crewe Alexandra,York City,1,1,D,1,1,D,17,27,6,6,11,10,5,9,1,2,0,0,,fixturedl
 5,2026-09-05,15:00,Exeter City,Walsall,0,0,D,0,0,D,13,8,3,2,16,20,4,8,0,1,0,0,,fixturedl
 5,2026-09-05,15:00,Northampton Town,Newport County,1,0,H,0,0,D,8,4,4,2,15,11,2,0,3,2,0,0,,fixturedl
 5,2026-09-05,15:00,Rochdale,Gillingham,1,4,A,0,1,A,7,16,4,6,12,12,6,6,2,1,1,0,,fixturedl
 5,2026-09-05,15:00,Swindon Town,Colchester United,3,1,H,0,1,A,14,18,6,6,8,7,4,6,2,0,0,0,,fixturedl
 5,2026-09-05,15:00,Tranmere Rovers,Oldham Athletic,2,0,H,1,0,H,9,22,4,6,11,16,2,10,3,2,0,0,,fixturedl
 6,2026-09-12,12:30,Crawley Town,Cheltenham Town,1,3,A,1,2,A,18,9,6,3,13,11,8,3,4,2,0,0,,fixturedl
-5,2026-09-12,12:30,Grimsby,Bristol Rvs,2,0,H,2,0,H,8,3,3,1,9,12,8,8,2,3,0,1,,fd.co.uk
-6,2026-09-12,12:30,Grimsby Town,Bristol Rovers,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,12:30,Grimsby Town,Bristol Rovers,2,0,H,2,0,H,8,3,3,1,9,12,8,8,2,3,0,1,,fixturedl
 6,2026-09-12,15:00,Barnet,Accrington Stanley,2,1,H,0,1,A,15,8,5,2,9,19,6,4,0,6,0,1,,fixturedl
 6,2026-09-12,15:00,Colchester United,Crewe Alexandra,1,1,D,1,0,H,16,9,5,1,12,17,1,3,0,1,0,0,,fixturedl
 6,2026-09-12,15:00,Gillingham,Tranmere Rovers,2,0,H,0,0,D,10,15,5,3,8,10,5,5,3,2,0,0,,fixturedl
@@ -80,24 +70,20 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 6,2026-09-12,15:00,Rotherham United,Salford City,3,3,D,2,2,D,20,10,9,5,17,12,4,3,3,3,0,1,,fixturedl
 6,2026-09-12,15:00,Shrewsbury Town,Northampton Town,2,0,H,2,0,H,11,7,4,5,16,9,1,5,1,1,0,0,,fixturedl
 6,2026-09-12,15:00,Walsall,Rochdale,0,0,D,0,0,D,24,9,7,1,9,7,7,4,1,3,0,0,,fixturedl
-5,2026-09-12,15:00,York,Swindon,4,0,H,2,0,H,20,7,9,4,5,15,6,1,1,1,0,1,,fd.co.uk
-6,2026-09-12,15:00,York City,Swindon Town,4,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,15:00,York City,Swindon Town,4,0,H,2,0,H,20,7,9,4,5,15,6,1,1,1,0,1,,fixturedl
 7,2026-09-19,12:30,Rochdale,Oldham Athletic,2,0,H,1,0,H,7,17,2,1,16,11,0,6,0,0,0,0,,fixturedl
 7,2026-09-19,12:30,Walsall,Port Vale,2,0,H,1,0,H,15,9,5,1,14,18,7,4,3,3,0,0,,fixturedl
 7,2026-09-19,15:00,Accrington Stanley,Newport County,0,0,D,0,0,D,10,14,4,4,21,11,4,5,2,2,0,0,,fixturedl
 7,2026-09-19,15:00,Barnet,Fleetwood Town,3,1,H,1,1,D,13,15,6,4,20,19,5,6,2,2,1,0,,fixturedl
-7,2026-09-19,15:00,Chesterfield,York City,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-19,15:00,Chesterfield,York,2,0,H,0,0,D,26,7,8,0,12,12,7,4,1,2,0,0,,fd.co.uk
+7,2026-09-19,15:00,Chesterfield,York City,2,0,H,0,0,D,26,7,8,0,12,12,7,4,1,2,0,0,,fixturedl
 7,2026-09-19,15:00,Colchester United,Cheltenham Town,1,1,D,0,0,D,8,12,2,2,14,13,3,9,3,4,1,0,,fixturedl
 7,2026-09-19,15:00,Crewe Alexandra,Shrewsbury Town,1,1,D,1,1,D,10,21,4,6,9,13,6,9,2,4,0,0,,fixturedl
 7,2026-09-19,15:00,Exeter City,Tranmere Rovers,0,0,D,0,0,D,9,10,3,1,16,10,6,2,2,3,0,0,,fixturedl
-7,2026-09-19,15:00,Gillingham,Bristol Rovers,3,0,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-19,15:00,Gillingham,Bristol Rvs,3,0,H,0,0,D,10,8,6,2,8,8,2,1,1,2,0,0,,fd.co.uk
+7,2026-09-19,15:00,Gillingham,Bristol Rovers,3,0,H,0,0,D,10,8,6,2,8,8,2,1,1,2,0,0,,fixturedl
 7,2026-09-19,15:00,Grimsby Town,Crawley Town,2,0,H,2,0,H,22,13,11,1,17,14,9,6,2,4,0,0,,fixturedl
 7,2026-09-19,15:00,Northampton Town,Rotherham United,0,1,A,0,0,D,17,11,3,5,14,11,5,7,2,2,0,0,,fixturedl
 7,2026-09-19,15:00,Salford City,Swindon Town,1,0,H,0,0,D,21,12,6,1,5,11,12,5,0,3,0,0,,fixturedl
-8,2026-09-26,15:00,Bristol Rovers,Exeter City,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-26,15:00,Bristol Rvs,Exeter,1,0,H,0,0,D,17,8,5,5,13,12,6,3,1,1,0,0,,fd.co.uk
+8,2026-09-26,15:00,Bristol Rovers,Exeter City,1,0,H,0,0,D,17,8,5,5,13,12,6,3,1,1,0,0,,fixturedl
 8,2026-09-26,15:00,Cheltenham Town,Chesterfield,2,1,H,2,0,H,7,27,3,11,9,6,2,11,4,0,0,0,,fixturedl
 8,2026-09-26,15:00,Fleetwood Town,Rochdale,1,2,A,1,2,A,21,12,5,6,12,13,5,5,1,0,0,1,,fixturedl
 8,2026-09-26,15:00,Newport County,Grimsby Town,2,1,H,0,0,D,10,10,5,3,14,9,7,3,2,2,0,0,,fixturedl
@@ -105,13 +91,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-09-26,15:00,Shrewsbury Town,Colchester United,2,2,D,1,1,D,18,11,6,4,17,13,8,4,3,0,0,0,,fixturedl
 8,2026-09-26,15:00,Swindon Town,Accrington Stanley,1,1,D,1,1,D,11,12,5,4,6,6,6,7,1,1,0,0,,fixturedl
 8,2026-09-26,15:00,Tranmere Rovers,Walsall,1,1,D,0,0,D,21,7,11,2,9,11,6,5,0,3,0,0,,fixturedl
-7,2026-09-26,15:00,York,Gillingham,3,0,H,1,0,H,17,6,6,0,8,17,4,2,1,3,0,1,,fd.co.uk
-8,2026-09-26,15:00,York City,Gillingham,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-09-26,15:00,York City,Gillingham,3,0,H,1,0,H,17,6,6,0,8,17,4,2,1,3,0,1,,fixturedl
 8,2026-09-26,17:30,Oldham Athletic,Salford City,1,4,A,1,2,A,18,16,3,7,17,9,11,5,0,2,0,0,,fixturedl
 9,2026-10-03,12:30,Chesterfield,Tranmere Rovers,4,2,H,1,0,H,26,6,10,3,11,13,12,1,3,3,0,0,,fixturedl
 9,2026-10-03,15:00,Accrington Stanley,Cheltenham Town,2,0,H,0,0,D,22,6,6,1,15,11,8,2,3,1,0,1,,fixturedl
-8,2026-10-03,15:00,Crewe,Bristol Rvs,3,1,H,2,0,H,9,15,4,4,13,23,3,5,4,4,0,0,,fd.co.uk
-9,2026-10-03,15:00,Crewe Alexandra,Bristol Rovers,3.0,1.0,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-03,15:00,Crewe Alexandra,Bristol Rovers,3,1,H,2,0,H,9,15,4,4,13,23,3,5,4,4,0,0,,fixturedl
 9,2026-10-03,15:00,Exeter City,Rotherham United,1,0,H,0,0,D,16,7,7,0,8,13,8,2,2,1,0,0,,fixturedl
 9,2026-10-03,15:00,Gillingham,Newport County,0,0,D,0,0,D,7,15,1,5,17,12,3,2,4,2,0,0,,fixturedl
 9,2026-10-03,15:00,Grimsby Town,Shrewsbury Town,1,2,A,0,1,A,21,9,5,4,13,25,8,6,1,6,0,0,,fixturedl

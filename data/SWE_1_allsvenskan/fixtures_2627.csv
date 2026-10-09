@@ -1,1 +1,63 @@
 gw,date,time,home,away
+14,2026-10-10,,AIK,Brommapojkarna
+14,2026-10-10,,GAIS,Sirius
+14,2026-10-11,,Hammarby,Djurgarden
+14,2026-10-11,,Mjallby,Degerfors
+15,2026-10-12,,Elfsborg,Halmstad
+15,2026-10-12,,Hacken,Orgryte
+15,2026-10-16,,Malmo FF,Kalmar
+15,2026-10-17,,Brommapojkarna,Djurgarden
+15,2026-10-18,,AIK,Goteborg
+15,2026-10-18,,Halmstad,Hammarby
+15,2026-10-18,,Malmo FF,Hacken
+15,2026-10-18,,Sirius,Elfsborg
+15,2026-10-18,,Vasteras SK,Mjallby
+16,2026-10-19,,Orgryte,GAIS
+16,2026-10-23,,Degerfors,Kalmar
+16,2026-10-23,,Elfsborg,Malmo FF
+16,2026-10-24,,Djurgarden,Orgryte
+16,2026-10-24,,Hacken,Degerfors
+16,2026-10-24,,Sirius,AIK
+16,2026-10-24,,Vasteras SK,Halmstad
+16,2026-10-25,,GAIS,Goteborg
+16,2026-10-25,,Kalmar,Brommapojkarna
+17,2026-10-27,,Mjallby,Hammarby
+17,2026-10-28,,AIK,Elfsborg
+17,2026-10-28,,Brommapojkarna,Hacken
+17,2026-10-28,,Degerfors,Vasteras SK
+17,2026-10-28,,Goteborg,Djurgarden
+17,2026-10-29,,Halmstad,Malmo FF
+17,2026-10-29,,Hammarby,Sirius
+17,2026-10-29,,Kalmar,GAIS
+17,2026-11-01,,Djurgarden,Degerfors
+17,2026-11-01,,Elfsborg,Orgryte
+17,2026-11-01,,Hacken,Goteborg
+17,2026-11-01,,Malmo FF,Hammarby
+17,2026-11-01,,Orgryte,Mjallby
+18,2026-11-02,,GAIS,AIK
+18,2026-11-02,,Vasteras SK,Brommapojkarna
+18,2026-11-03,,Mjallby,Kalmar
+18,2026-11-06,,Sirius,Halmstad
+18,2026-11-07,,Degerfors,GAIS
+18,2026-11-07,,Hammarby,Elfsborg
+18,2026-11-08,,AIK,Hacken
+18,2026-11-08,,Brommapojkarna,Mjallby
+18,2026-11-08,,Goteborg,Malmo FF
+18,2026-11-08,,Halmstad,Djurgarden
+18,2026-11-08,,Orgryte,Vasteras SK
+19,2026-11-21,,AIK,Degerfors
+19,2026-11-21,,Kalmar,Sirius
+19,2026-11-21,,Mjallby,Malmo FF
+19,2026-11-22,,GAIS,Vasteras SK
+19,2026-11-22,,Hacken,Elfsborg
+19,2026-11-22,,Sirius,Djurgarden
+20,2026-11-23,,Brommapojkarna,Halmstad
+20,2026-11-23,,Hammarby,Goteborg
+20,2026-11-29,,Degerfors,Orgryte
+20,2026-11-29,,Djurgarden,Hacken
+20,2026-11-29,,Elfsborg,GAIS
+20,2026-11-29,,Goteborg,Sirius
+20,2026-11-29,,Halmstad,Mjallby
+20,2026-11-29,,Kalmar,AIK
+20,2026-11-29,,Malmo FF,Brommapojkarna
+20,2026-11-29,,Orgryte,Kalmar

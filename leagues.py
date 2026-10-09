@@ -47,9 +47,9 @@ OTHERS = [
     League("ENG_7_northern-premier-league", "Northern Premier League", "England", soccerway="england/northern-premier-league"),
     # Scotland
     League("SCO_1_premiership",      "Scottish Premiership",      "Scotland", espn="sco.1", fd_div="SC0", fixturedl="scottish-premiership-2026"),
-    League("SCO_2_championship",     "Scottish Championship",     "Scotland", espn="sco.2", fd_div="SC1"),
-    League("SCO_3_league-one",       "Scottish League One",       "Scotland", espn="sco.3", fd_div="SC2"),
-    League("SCO_4_league-two",       "Scottish League Two",       "Scotland", espn="sco.4", fd_div="SC3"),
+    League("SCO_2_championship",     "Scottish Championship",     "Scotland", espn="sco.2", fd_div="SC1", soccerway="scotland/championship"),
+    League("SCO_3_league-one",       "Scottish League One",       "Scotland", espn="sco.3", fd_div="SC2", soccerway="scotland/league-one"),
+    League("SCO_4_league-two",       "Scottish League Two",       "Scotland", espn="sco.4", fd_div="SC3", soccerway="scotland/league-two"),
     # Germany
     League("GER_2_2-bundesliga",     "2. Bundesliga",             "Germany", espn="ger.2", openligadb="bl2", fd_div="D2"),
     League("GER_3_3-liga",           "3. Liga",                   "Germany", openligadb="bl3"),

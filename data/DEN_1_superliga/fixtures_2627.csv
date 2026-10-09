@@ -1,1 +1,77 @@
 gw,date,time,home,away
+10,2026-10-11,,Brondby,Lyngby
+10,2026-10-11,,Randers FC,Viborg
+10,2026-10-11,,Silkeborg,Horsens
+11,2026-10-12,,Midtjylland,FC Copenhagen
+11,2026-10-16,,Aarhus,Sonderjyske
+11,2026-10-18,,Horsens,Randers FC
+11,2026-10-18,,Lyngby,Nordsjaelland
+11,2026-10-18,,Odense,Brondby
+11,2026-10-18,,Sonderjyske,Silkeborg
+12,2026-10-19,,FC Copenhagen,Aarhus
+12,2026-10-23,,Viborg,Midtjylland
+12,2026-10-25,,Horsens,Sonderjyske
+12,2026-10-25,,Midtjylland,Lyngby
+12,2026-10-25,,Randers FC,Brondby
+12,2026-10-25,,Silkeborg,Nordsjaelland
+13,2026-10-26,,Aarhus,Viborg
+13,2026-10-30,,FC Copenhagen,Odense
+13,2026-11-01,,Lyngby,Randers FC
+13,2026-11-01,,Nordsjaelland,Midtjylland
+13,2026-11-01,,Odense,Silkeborg
+13,2026-11-01,,Viborg,Horsens
+14,2026-11-02,,Brondby,Aarhus
+14,2026-11-06,,Sonderjyske,FC Copenhagen
+14,2026-11-07,,Silkeborg,Lyngby
+14,2026-11-08,,Aarhus,Horsens
+14,2026-11-08,,FC Copenhagen,Brondby
+14,2026-11-08,,Odense,Viborg
+14,2026-11-08,,Randers FC,Nordsjaelland
+15,2026-11-20,,Midtjylland,Sonderjyske
+15,2026-11-22,,Aarhus,Lyngby
+15,2026-11-22,,Horsens,Silkeborg
+15,2026-11-22,,Sonderjyske,Odense
+15,2026-11-22,,Viborg,Randers FC
+16,2026-11-23,,Nordsjaelland,FC Copenhagen
+16,2026-11-27,,Brondby,Midtjylland
+16,2026-11-29,,FC Copenhagen,Midtjylland
+16,2026-11-29,,Lyngby,Viborg
+16,2026-11-29,,Randers FC,Horsens
+16,2026-11-29,,Sonderjyske,Brondby
+17,2026-11-30,,Silkeborg,Aarhus
+17,2026-12-05,,Odense,Nordsjaelland
+17,2026-12-06,,Aarhus,Randers FC
+17,2026-12-06,,Brondby,Odense
+17,2026-12-06,,Midtjylland,Silkeborg
+17,2026-12-06,,Nordsjaelland,Lyngby
+18,2026-12-07,,Horsens,FC Copenhagen
+19,2027-02-21,,FC Copenhagen,Viborg
+19,2027-02-21,,Lyngby,Brondby
+19,2027-02-21,,Midtjylland,Odense
+19,2027-02-21,,Nordsjaelland,Horsens
+19,2027-02-21,,Silkeborg,Randers FC
+19,2027-02-21,,Viborg,Sonderjyske
+20,2027-02-28,,Aarhus,FC Copenhagen
+20,2027-02-28,,Brondby,Nordsjaelland
+20,2027-02-28,,Horsens,Midtjylland
+20,2027-02-28,,Odense,Lyngby
+20,2027-02-28,,Randers FC,Sonderjyske
+20,2027-02-28,,Sonderjyske,Aarhus
+21,2027-03-07,,FC Copenhagen,Randers FC
+21,2027-03-07,,Lyngby,Horsens
+21,2027-03-07,,Midtjylland,Viborg
+21,2027-03-07,,Nordsjaelland,Sonderjyske
+21,2027-03-07,,Odense,Aarhus
+21,2027-03-07,,Viborg,Silkeborg
+22,2027-03-14,,Aarhus,Nordsjaelland
+22,2027-03-14,,FC Copenhagen,Silkeborg
+22,2027-03-14,,Horsens,Odense
+22,2027-03-14,,Randers FC,Midtjylland
+22,2027-03-14,,Silkeborg,Brondby
+22,2027-03-14,,Sonderjyske,Lyngby
+23,2027-03-21,,Brondby,Horsens
+23,2027-03-21,,Lyngby,FC Copenhagen
+23,2027-03-21,,Midtjylland,Aarhus
+23,2027-03-21,,Nordsjaelland,Viborg
+23,2027-03-21,,Odense,Randers FC
+23,2027-03-21,,Viborg,Brondby

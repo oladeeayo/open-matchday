@@ -128,17 +128,24 @@ def _parse_matches(data: str) -> list[dict[str, Any]]:
 
         home_score = get_int_field("AG")
         away_score = get_int_field("AU")
-        ts = get_int_field("AO")
+        # played matches carry AO; upcoming ones only AD/ADE
+        ts = get_int_field("AO") or get_int_field("AD") or get_int_field("ADE")
         away = get_str_field("AF")
 
         # Clean home team name: strip D1/D2 delimiters from ends, remove other control chars
         home = home.strip(D1).strip(D2).strip()
         home = re.sub(r"[\x00-\x1f\x7f-\x9f]", "", home)
 
-        # Only include matches with valid scores
-        if home_score is not None and away_score is not None:
-            date_str = datetime.fromtimestamp(ts).strftime("%Y-%m-%d") if ts else ""
+        if not home or not away:
+            pos = rw_pos + 2
+            continue
 
+        date_str = ""
+        if ts:
+            # UTC: builds must be reproducible regardless of host timezone
+            date_str = datetime.utcfromtimestamp(ts).strftime("%Y-%m-%d")
+
+        if home_score is not None and away_score is not None:
             results.append(
                 {
                     "date": date_str,
@@ -147,6 +154,20 @@ def _parse_matches(data: str) -> list[dict[str, Any]]:
                     "away": away or "Unknown",
                     "ft_home": home_score,
                     "ft_away": away_score,
+                    "source": "soccerway",
+                }
+            )
+        elif date_str:
+            # upcoming fixture (no score yet) — keep it so leagues have
+            # future matches even without a fixturedownload spine
+            results.append(
+                {
+                    "date": date_str,
+                    "round": round_num,
+                    "home": home,
+                    "away": away or "Unknown",
+                    "ft_home": None,
+                    "ft_away": None,
                     "source": "soccerway",
                 }
             )
@@ -188,13 +209,9 @@ def fetch_league(slug: str) -> list[dict[str, Any]]:
 
     all_matches: dict[tuple[str, str], dict[str, Any]] = {}  # (date, home+away) -> match
 
-    # Fetch from standings page - it has ALL data blobs in one page
-    try:
-        standings_html = get(f"https://www.soccerway.com/{country}/{league}/standings/")
-        # Find ALL data blobs in the page
-        for m in re.finditer(r"data: `([\s\S]*?)`", standings_html):
-            blob = m.group(1)
-            for match in _parse_matches(blob):
+    def absorb(html: str) -> None:
+        for m in re.finditer(r"data: `([\s\S]*?)`", html):
+            for match in _parse_matches(m.group(1)):
                 key = (match["date"], match["home"] + "|" + match["away"])
                 # Completed matches: always update (keep latest)
                 # Upcoming matches (no score): only add if not already present
@@ -202,18 +219,19 @@ def fetch_league(slug: str) -> list[dict[str, Any]]:
                     all_matches[key] = match
                 elif key not in all_matches:
                     all_matches[key] = match
-    except Exception as e:
-        # Fallback: try results + fixtures pages
-        pass
 
-    # If standings page failed or returned nothing, fall back to individual pages
+    # Standings page embeds recent results + some fixtures; the dedicated
+    # fixtures page carries the full upcoming list (scoreless rows with AD ts).
+    for page in ("standings", "fixtures"):
+        try:
+            absorb(get(f"https://www.soccerway.com/{country}/{league}/{page}/"))
+        except Exception:
+            pass
+
+    # If both pages failed or returned nothing, fall back to results page
     if not all_matches:
         try:
-            results_html = _fetch_page(country, league)
-            for m in _parse_matches(_extract_data_blob(results_html) or ""):
-                key = (m["date"], m["home"] + "|" + m["away"])
-                if m.get("ft_home") is not None:
-                    all_matches[key] = m
+            absorb(_fetch_page(country, league))
         except Exception:
             pass
 

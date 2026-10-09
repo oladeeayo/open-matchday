@@ -1,2 +1,244 @@
 gw,date,time,home,away
 8,2026-10-09,19:45,Waasland-Beveren,Lommel SK
+8,2026-10-10,15:00,Cercle Brugge KSV,Anderlecht
+8,2026-10-10,17:15,RAAL La Louvière,Club Brugge
+8,2026-10-10,19:45,Racing Genk,KV Kortrijk
+8,2026-10-10,19:45,Zulte-Waregem,KAA Gent
+8,2026-10-11,12:30,Standard Liege,Royal Charleroi SC
+8,2026-10-11,15:00,Union St.-Gilloise,OH Leuven
+8,2026-10-11,17:30,KVC Westerlo,Antwerp
+8,2026-10-11,18:15,KV Mechelen,Sint-Truidense
+9,2026-10-23,19:45,KV Kortrijk,KV Mechelen
+9,2026-10-24,15:00,Antwerp,Royal Charleroi SC
+9,2026-10-24,17:15,OH Leuven,Lommel SK
+9,2026-10-24,19:45,KVC Westerlo,Waasland-Beveren
+9,2026-10-24,19:45,RAAL La Louvière,Zulte-Waregem
+9,2026-10-25,13:30,Racing Genk,Standard Liege
+9,2026-10-25,16:00,Club Brugge,Sint-Truidense
+9,2026-10-25,18:30,KAA Gent,Anderlecht
+9,2026-10-25,19:15,Union St.-Gilloise,Cercle Brugge KSV
+10,2026-10-30,20:45,Zulte-Waregem,Club Brugge
+10,2026-10-31,16:00,KV Mechelen,Racing Genk
+10,2026-10-31,18:15,Standard Liege,KV Kortrijk
+10,2026-10-31,20:45,Anderlecht,KVC Westerlo
+10,2026-10-31,20:45,Waasland-Beveren,Union St.-Gilloise
+10,2026-11-01,13:30,Cercle Brugge KSV,Antwerp
+10,2026-11-01,16:00,Sint-Truidense,OH Leuven
+10,2026-11-01,18:30,Lommel SK,KAA Gent
+10,2026-11-01,19:15,Royal Charleroi SC,RAAL La Louvière
+11,2026-11-06,20:45,Standard Liege,Waasland-Beveren
+11,2026-11-07,16:00,KVC Westerlo,Royal Charleroi SC
+11,2026-11-07,18:15,OH Leuven,KV Mechelen
+11,2026-11-07,20:45,Antwerp,Lommel SK
+11,2026-11-07,20:45,RAAL La Louvière,Cercle Brugge KSV
+11,2026-11-08,13:30,Club Brugge,Anderlecht
+11,2026-11-08,16:00,KAA Gent,KV Kortrijk
+11,2026-11-08,18:30,Union St.-Gilloise,Racing Genk
+11,2026-11-08,19:15,Sint-Truidense,Zulte-Waregem
+12,2026-11-20,20:45,Cercle Brugge KSV,KVC Westerlo
+12,2026-11-21,16:00,Royal Charleroi SC,Sint-Truidense
+12,2026-11-21,18:15,Racing Genk,RAAL La Louvière
+12,2026-11-21,20:45,KV Mechelen,Club Brugge
+12,2026-11-21,20:45,Zulte-Waregem,Antwerp
+12,2026-11-22,13:30,Waasland-Beveren,KAA Gent
+12,2026-11-22,16:00,KV Kortrijk,Union St.-Gilloise
+12,2026-11-22,18:30,Anderlecht,OH Leuven
+12,2026-11-22,19:15,Lommel SK,Standard Liege
+13,2026-11-27,20:45,OH Leuven,KV Kortrijk
+13,2026-11-28,16:00,KVC Westerlo,RAAL La Louvière
+13,2026-11-28,18:15,Cercle Brugge KSV,KV Mechelen
+13,2026-11-28,20:45,Lommel SK,Zulte-Waregem
+13,2026-11-28,20:45,Royal Charleroi SC,Waasland-Beveren
+13,2026-11-29,13:30,Sint-Truidense,Racing Genk
+13,2026-11-29,16:00,Antwerp,Anderlecht
+13,2026-11-29,18:30,Standard Liege,Club Brugge
+13,2026-11-29,19:15,Union St.-Gilloise,KAA Gent
+14,2026-12-11,20:45,Racing Genk,OH Leuven
+14,2026-12-12,16:00,KV Kortrijk,Lommel SK
+14,2026-12-12,18:15,RAAL La Louvière,Antwerp
+14,2026-12-12,20:45,Waasland-Beveren,Cercle Brugge KSV
+14,2026-12-12,20:45,Zulte-Waregem,Standard Liege
+14,2026-12-13,13:30,Anderlecht,Royal Charleroi SC
+14,2026-12-13,16:00,Club Brugge,KVC Westerlo
+14,2026-12-13,18:30,KV Mechelen,Union St.-Gilloise
+14,2026-12-13,19:15,KAA Gent,Sint-Truidense
+15,2026-12-18,20:45,Antwerp,OH Leuven
+15,2026-12-19,16:00,Waasland-Beveren,KV Mechelen
+15,2026-12-19,18:15,Cercle Brugge KSV,Zulte-Waregem
+15,2026-12-19,20:45,Lommel SK,RAAL La Louvière
+15,2026-12-19,20:45,Royal Charleroi SC,Racing Genk
+15,2026-12-20,13:30,Standard Liege,Anderlecht
+15,2026-12-20,16:00,Sint-Truidense,KV Kortrijk
+15,2026-12-20,18:30,Union St.-Gilloise,Club Brugge
+15,2026-12-20,19:15,KVC Westerlo,KAA Gent
+16,2026-12-26,13:30,Club Brugge,Royal Charleroi SC
+16,2026-12-26,16:00,KV Kortrijk,Cercle Brugge KSV
+16,2026-12-26,18:15,OH Leuven,KVC Westerlo
+16,2026-12-26,20:45,RAAL La Louvière,Waasland-Beveren
+16,2026-12-26,20:45,Standard Liege,Union St.-Gilloise
+16,2026-12-27,13:30,Anderlecht,Sint-Truidense
+16,2026-12-27,16:00,Racing Genk,Lommel SK
+16,2026-12-27,18:30,KAA Gent,Antwerp
+16,2026-12-27,19:15,KV Mechelen,Zulte-Waregem
+17,2027-01-15,20:45,Waasland-Beveren,Club Brugge
+17,2027-01-16,16:00,Lommel SK,Anderlecht
+17,2027-01-16,18:15,Union St.-Gilloise,RAAL La Louvière
+17,2027-01-16,20:45,Antwerp,KV Mechelen
+17,2027-01-16,20:45,KVC Westerlo,KV Kortrijk
+17,2027-01-17,13:30,Sint-Truidense,Standard Liege
+17,2027-01-17,16:00,Cercle Brugge KSV,Racing Genk
+17,2027-01-17,18:30,Royal Charleroi SC,KAA Gent
+17,2027-01-17,19:15,Zulte-Waregem,OH Leuven
+18,2027-01-23,21:00,Club Brugge,RAAL La Louvière
+18,2027-01-23,21:00,KAA Gent,Cercle Brugge KSV
+18,2027-01-23,21:00,KV Kortrijk,Anderlecht
+18,2027-01-23,21:00,KV Mechelen,Lommel SK
+18,2027-01-23,21:00,OH Leuven,Sint-Truidense
+18,2027-01-23,21:00,Racing Genk,Zulte-Waregem
+18,2027-01-23,21:00,Royal Charleroi SC,Antwerp
+18,2027-01-23,21:00,Standard Liege,KVC Westerlo
+18,2027-01-23,21:00,Union St.-Gilloise,Waasland-Beveren
+19,2027-01-30,21:00,Anderlecht,KAA Gent
+19,2027-01-30,21:00,Antwerp,Club Brugge
+19,2027-01-30,21:00,Cercle Brugge KSV,Standard Liege
+19,2027-01-30,21:00,KVC Westerlo,Racing Genk
+19,2027-01-30,21:00,Lommel SK,OH Leuven
+19,2027-01-30,21:00,RAAL La Louvière,Royal Charleroi SC
+19,2027-01-30,21:00,Sint-Truidense,KV Mechelen
+19,2027-01-30,21:00,Waasland-Beveren,KV Kortrijk
+19,2027-01-30,21:00,Zulte-Waregem,Union St.-Gilloise
+20,2027-02-06,21:00,Club Brugge,Standard Liege
+20,2027-02-06,21:00,KAA Gent,Waasland-Beveren
+20,2027-02-06,21:00,KV Kortrijk,RAAL La Louvière
+20,2027-02-06,21:00,KV Mechelen,Cercle Brugge KSV
+20,2027-02-06,21:00,OH Leuven,Anderlecht
+20,2027-02-06,21:00,Racing Genk,Antwerp
+20,2027-02-06,21:00,Royal Charleroi SC,KVC Westerlo
+20,2027-02-06,21:00,Union St.-Gilloise,Sint-Truidense
+20,2027-02-06,21:00,Zulte-Waregem,Lommel SK
+21,2027-02-13,21:00,Anderlecht,KV Mechelen
+21,2027-02-13,21:00,Antwerp,KV Kortrijk
+21,2027-02-13,21:00,Cercle Brugge KSV,Royal Charleroi SC
+21,2027-02-13,21:00,KVC Westerlo,Club Brugge
+21,2027-02-13,21:00,Lommel SK,Union St.-Gilloise
+21,2027-02-13,21:00,RAAL La Louvière,OH Leuven
+21,2027-02-13,21:00,Sint-Truidense,KAA Gent
+21,2027-02-13,21:00,Standard Liege,Zulte-Waregem
+21,2027-02-13,21:00,Waasland-Beveren,Racing Genk
+22,2027-02-20,21:00,Club Brugge,Lommel SK
+22,2027-02-20,21:00,KAA Gent,RAAL La Louvière
+22,2027-02-20,21:00,KV Kortrijk,Racing Genk
+22,2027-02-20,21:00,KV Mechelen,Waasland-Beveren
+22,2027-02-20,21:00,OH Leuven,Antwerp
+22,2027-02-20,21:00,Royal Charleroi SC,Standard Liege
+22,2027-02-20,21:00,Sint-Truidense,Cercle Brugge KSV
+22,2027-02-20,21:00,Union St.-Gilloise,KVC Westerlo
+22,2027-02-20,21:00,Zulte-Waregem,Anderlecht
+23,2027-02-27,21:00,Anderlecht,Club Brugge
+23,2027-02-27,21:00,Antwerp,Zulte-Waregem
+23,2027-02-27,21:00,Cercle Brugge KSV,OH Leuven
+23,2027-02-27,21:00,KVC Westerlo,KV Mechelen
+23,2027-02-27,21:00,Lommel SK,KV Kortrijk
+23,2027-02-27,21:00,RAAL La Louvière,Sint-Truidense
+23,2027-02-27,21:00,Racing Genk,Union St.-Gilloise
+23,2027-02-27,21:00,Standard Liege,KAA Gent
+23,2027-02-27,21:00,Waasland-Beveren,Royal Charleroi SC
+24,2027-03-06,21:00,Club Brugge,Waasland-Beveren
+24,2027-03-06,21:00,KAA Gent,Royal Charleroi SC
+24,2027-03-06,21:00,KV Mechelen,KV Kortrijk
+24,2027-03-06,21:00,KVC Westerlo,Anderlecht
+24,2027-03-06,21:00,OH Leuven,Racing Genk
+24,2027-03-06,21:00,RAAL La Louvière,Lommel SK
+24,2027-03-06,21:00,Sint-Truidense,Antwerp
+24,2027-03-06,21:00,Union St.-Gilloise,Standard Liege
+24,2027-03-06,21:00,Zulte-Waregem,Cercle Brugge KSV
+25,2027-03-13,21:00,Anderlecht,Lommel SK
+25,2027-03-13,21:00,Antwerp,RAAL La Louvière
+25,2027-03-13,21:00,Cercle Brugge KSV,Union St.-Gilloise
+25,2027-03-13,21:00,KAA Gent,Zulte-Waregem
+25,2027-03-13,21:00,KV Kortrijk,OH Leuven
+25,2027-03-13,21:00,Racing Genk,Sint-Truidense
+25,2027-03-13,21:00,Royal Charleroi SC,Club Brugge
+25,2027-03-13,21:00,Standard Liege,KV Mechelen
+25,2027-03-13,21:00,Waasland-Beveren,KVC Westerlo
+26,2027-03-20,19:00,Anderlecht,Standard Liege
+26,2027-03-20,19:00,Club Brugge,KAA Gent
+26,2027-03-20,19:00,KV Mechelen,Royal Charleroi SC
+26,2027-03-20,19:00,KVC Westerlo,Cercle Brugge KSV
+26,2027-03-20,19:00,Lommel SK,Antwerp
+26,2027-03-20,19:00,OH Leuven,Union St.-Gilloise
+26,2027-03-20,19:00,RAAL La Louvière,Racing Genk
+26,2027-03-20,19:00,Sint-Truidense,Waasland-Beveren
+26,2027-03-20,19:00,Zulte-Waregem,KV Kortrijk
+27,2027-04-03,19:00,Cercle Brugge KSV,RAAL La Louvière
+27,2027-04-03,19:00,KAA Gent,KVC Westerlo
+27,2027-04-03,19:00,KV Kortrijk,Club Brugge
+27,2027-04-03,19:00,OH Leuven,Zulte-Waregem
+27,2027-04-03,19:00,Racing Genk,Anderlecht
+27,2027-04-03,19:00,Royal Charleroi SC,Lommel SK
+27,2027-04-03,19:00,Standard Liege,Sint-Truidense
+27,2027-04-03,19:00,Union St.-Gilloise,KV Mechelen
+27,2027-04-03,19:00,Waasland-Beveren,Antwerp
+28,2027-04-10,19:00,Anderlecht,Waasland-Beveren
+28,2027-04-10,19:00,Antwerp,Cercle Brugge KSV
+28,2027-04-10,19:00,Club Brugge,OH Leuven
+28,2027-04-10,19:00,KV Kortrijk,Standard Liege
+28,2027-04-10,19:00,KV Mechelen,KAA Gent
+28,2027-04-10,19:00,Lommel SK,Racing Genk
+28,2027-04-10,19:00,RAAL La Louvière,Union St.-Gilloise
+28,2027-04-10,19:00,Sint-Truidense,Royal Charleroi SC
+28,2027-04-10,19:00,Zulte-Waregem,KVC Westerlo
+29,2027-04-17,19:00,Cercle Brugge KSV,KV Kortrijk
+29,2027-04-17,19:00,KAA Gent,Lommel SK
+29,2027-04-17,19:00,KV Mechelen,RAAL La Louvière
+29,2027-04-17,19:00,KVC Westerlo,Sint-Truidense
+29,2027-04-17,19:00,Racing Genk,Club Brugge
+29,2027-04-17,19:00,Royal Charleroi SC,Anderlecht
+29,2027-04-17,19:00,Standard Liege,OH Leuven
+29,2027-04-17,19:00,Union St.-Gilloise,Antwerp
+29,2027-04-17,19:00,Waasland-Beveren,Zulte-Waregem
+30,2027-04-24,19:00,Anderlecht,Cercle Brugge KSV
+30,2027-04-24,19:00,Antwerp,KAA Gent
+30,2027-04-24,19:00,Club Brugge,Union St.-Gilloise
+30,2027-04-24,19:00,KV Kortrijk,KVC Westerlo
+30,2027-04-24,19:00,Lommel SK,Sint-Truidense
+30,2027-04-24,19:00,OH Leuven,Waasland-Beveren
+30,2027-04-24,19:00,RAAL La Louvière,Standard Liege
+30,2027-04-24,19:00,Racing Genk,Royal Charleroi SC
+30,2027-04-24,19:00,Zulte-Waregem,KV Mechelen
+31,2027-05-01,19:00,Cercle Brugge KSV,Club Brugge
+31,2027-05-01,19:00,KAA Gent,Racing Genk
+31,2027-05-01,19:00,KV Mechelen,Antwerp
+31,2027-05-01,19:00,KVC Westerlo,OH Leuven
+31,2027-05-01,19:00,Royal Charleroi SC,Zulte-Waregem
+31,2027-05-01,19:00,Sint-Truidense,Anderlecht
+31,2027-05-01,19:00,Standard Liege,Lommel SK
+31,2027-05-01,19:00,Union St.-Gilloise,KV Kortrijk
+31,2027-05-01,19:00,Waasland-Beveren,RAAL La Louvière
+32,2027-05-08,19:00,Anderlecht,Union St.-Gilloise
+32,2027-05-08,19:00,Antwerp,Standard Liege
+32,2027-05-08,19:00,Club Brugge,KV Mechelen
+32,2027-05-08,19:00,KV Kortrijk,KAA Gent
+32,2027-05-08,19:00,Lommel SK,Waasland-Beveren
+32,2027-05-08,19:00,OH Leuven,Royal Charleroi SC
+32,2027-05-08,19:00,RAAL La Louvière,KVC Westerlo
+32,2027-05-08,19:00,Racing Genk,Cercle Brugge KSV
+32,2027-05-08,19:00,Zulte-Waregem,Sint-Truidense
+33,2027-05-15,19:00,Anderlecht,Antwerp
+33,2027-05-15,19:00,Cercle Brugge KSV,Waasland-Beveren
+33,2027-05-15,19:00,KAA Gent,Union St.-Gilloise
+33,2027-05-15,19:00,KV Mechelen,OH Leuven
+33,2027-05-15,19:00,KVC Westerlo,Lommel SK
+33,2027-05-15,19:00,Royal Charleroi SC,KV Kortrijk
+33,2027-05-15,19:00,Sint-Truidense,Club Brugge
+33,2027-05-15,19:00,Standard Liege,Racing Genk
+33,2027-05-15,19:00,Zulte-Waregem,RAAL La Louvière
+34,2027-05-22,19:00,Antwerp,KVC Westerlo
+34,2027-05-22,19:00,Club Brugge,Zulte-Waregem
+34,2027-05-22,19:00,KV Kortrijk,Sint-Truidense
+34,2027-05-22,19:00,Lommel SK,Cercle Brugge KSV
+34,2027-05-22,19:00,OH Leuven,KAA Gent
+34,2027-05-22,19:00,RAAL La Louvière,Anderlecht
+34,2027-05-22,19:00,Racing Genk,KV Mechelen
+34,2027-05-22,19:00,Union St.-Gilloise,Royal Charleroi SC
+34,2027-05-22,19:00,Waasland-Beveren,Standard Liege

@@ -1,1 +1,111 @@
 gw,date,time,home,away
+12,2026-10-10,,FC Botosani,UTA Arad
+12,2026-10-10,,Sepsi Sf. Gheorghe,Dinamo Bucuresti
+12,2026-10-11,,Csikszereda M. Ciuc,Univ. Craiova
+12,2026-10-11,,FCSB,Otelul
+13,2026-10-12,,FC Arges,CFR Cluj
+13,2026-10-12,,Farul Constanta,Petrolul
+13,2026-10-16,,Otelul,Csikszereda M. Ciuc
+13,2026-10-16,,U. Cluj,FC Rapid Bucuresti
+13,2026-10-17,,Dinamo Bucuresti,FC Botosani
+13,2026-10-17,,Petrolul,Sepsi Sf. Gheorghe
+13,2026-10-18,,FC Rapid Bucuresti,Corvinul
+13,2026-10-18,,UTA Arad,CFR Cluj
+14,2026-10-19,,U. Cluj,FC Arges
+14,2026-10-19,,Univ. Craiova,Farul Constanta
+14,2026-10-23,,FC Botosani,Petrolul
+14,2026-10-23,,FC Voluntari,FCSB
+14,2026-10-24,,Corvinul,U. Cluj
+14,2026-10-24,,Csikszereda M. Ciuc,FC Voluntari
+14,2026-10-24,,FC Arges,UTA Arad
+14,2026-10-25,,FCSB,FC Rapid Bucuresti
+14,2026-10-25,,Farul Constanta,Otelul
+15,2026-10-26,,CFR Cluj,Dinamo Bucuresti
+15,2026-10-30,,Sepsi Sf. Gheorghe,Univ. Craiova
+15,2026-10-31,,Corvinul,FC Arges
+15,2026-10-31,,FC Rapid Bucuresti,Csikszereda M. Ciuc
+15,2026-11-01,,Otelul,Sepsi Sf. Gheorghe
+15,2026-11-01,,Petrolul,CFR Cluj
+15,2026-11-01,,Univ. Craiova,FC Botosani
+16,2026-11-02,,Dinamo Bucuresti,UTA Arad
+16,2026-11-02,,FC Voluntari,Farul Constanta
+16,2026-11-07,,CFR Cluj,Univ. Craiova
+16,2026-11-07,,Csikszereda M. Ciuc,U. Cluj
+16,2026-11-07,,FC Arges,Dinamo Bucuresti
+16,2026-11-07,,FC Botosani,Otelul
+16,2026-11-07,,FCSB,Corvinul
+16,2026-11-07,,Farul Constanta,FC Rapid Bucuresti
+16,2026-11-07,,Sepsi Sf. Gheorghe,FC Voluntari
+16,2026-11-07,,U. Cluj,FCSB
+17,2026-11-21,,CFR Cluj,Otelul
+17,2026-11-21,,Csikszereda M. Ciuc,Corvinul
+17,2026-11-21,,Dinamo Bucuresti,Petrolul
+17,2026-11-21,,FC Arges,FCSB
+17,2026-11-21,,FC Botosani,FC Voluntari
+17,2026-11-21,,Farul Constanta,U. Cluj
+17,2026-11-21,,Sepsi Sf. Gheorghe,FC Rapid Bucuresti
+17,2026-11-21,,UTA Arad,Petrolul
+18,2026-11-28,,Corvinul,Farul Constanta
+18,2026-11-28,,FC Rapid Bucuresti,FC Botosani
+18,2026-11-28,,FC Voluntari,CFR Cluj
+18,2026-11-28,,FCSB,Csikszereda M. Ciuc
+18,2026-11-28,,Otelul,UTA Arad
+18,2026-11-28,,Petrolul,FC Arges
+18,2026-11-28,,U. Cluj,Sepsi Sf. Gheorghe
+18,2026-11-28,,UTA Arad,Univ. Craiova
+19,2026-12-05,,CFR Cluj,FC Rapid Bucuresti
+19,2026-12-05,,Csikszereda M. Ciuc,FC Arges
+19,2026-12-05,,Dinamo Bucuresti,Otelul
+19,2026-12-05,,FC Botosani,U. Cluj
+19,2026-12-05,,Farul Constanta,FCSB
+19,2026-12-05,,Petrolul,Univ. Craiova
+19,2026-12-05,,Sepsi Sf. Gheorghe,Corvinul
+19,2026-12-05,,Univ. Craiova,Dinamo Bucuresti
+20,2026-12-12,,Corvinul,FC Botosani
+20,2026-12-12,,Csikszereda M. Ciuc,Farul Constanta
+20,2026-12-12,,FC Arges,Univ. Craiova
+20,2026-12-12,,FC Rapid Bucuresti,UTA Arad
+20,2026-12-12,,FC Voluntari,Dinamo Bucuresti
+20,2026-12-12,,FCSB,Sepsi Sf. Gheorghe
+20,2026-12-12,,Otelul,Petrolul
+20,2026-12-12,,UTA Arad,FC Voluntari
+21,2026-12-19,,CFR Cluj,Corvinul
+21,2026-12-19,,Dinamo Bucuresti,FC Rapid Bucuresti
+21,2026-12-19,,FC Botosani,FCSB
+21,2026-12-19,,Farul Constanta,FC Arges
+21,2026-12-19,,Petrolul,FC Voluntari
+21,2026-12-19,,Sepsi Sf. Gheorghe,Csikszereda M. Ciuc
+21,2026-12-19,,U. Cluj,CFR Cluj
+21,2026-12-19,,Univ. Craiova,Otelul
+22,2027-01-16,,Corvinul,UTA Arad
+22,2027-01-16,,Csikszereda M. Ciuc,FC Botosani
+22,2027-01-16,,FC Arges,Otelul
+22,2027-01-16,,FC Rapid Bucuresti,Petrolul
+22,2027-01-16,,FC Voluntari,Univ. Craiova
+22,2027-01-16,,FCSB,CFR Cluj
+22,2027-01-16,,Farul Constanta,Sepsi Sf. Gheorghe
+22,2027-01-16,,UTA Arad,U. Cluj
+23,2027-01-23,,CFR Cluj,Csikszereda M. Ciuc
+23,2027-01-23,,Dinamo Bucuresti,Corvinul
+23,2027-01-23,,FC Botosani,Farul Constanta
+23,2027-01-23,,Otelul,FC Voluntari
+23,2027-01-23,,Petrolul,U. Cluj
+23,2027-01-23,,Sepsi Sf. Gheorghe,FC Arges
+23,2027-01-23,,U. Cluj,Dinamo Bucuresti
+23,2027-01-23,,Univ. Craiova,FC Rapid Bucuresti
+24,2027-01-30,,Corvinul,Petrolul
+24,2027-01-30,,Csikszereda M. Ciuc,UTA Arad
+24,2027-01-30,,FC Arges,FC Voluntari
+24,2027-01-30,,FC Rapid Bucuresti,Otelul
+24,2027-01-30,,FCSB,Dinamo Bucuresti
+24,2027-01-30,,Farul Constanta,CFR Cluj
+24,2027-01-30,,Sepsi Sf. Gheorghe,FC Botosani
+24,2027-01-30,,UTA Arad,FCSB
+25,2027-02-06,,CFR Cluj,Sepsi Sf. Gheorghe
+25,2027-02-06,,Dinamo Bucuresti,Csikszereda M. Ciuc
+25,2027-02-06,,FC Botosani,FC Arges
+25,2027-02-06,,FC Voluntari,FC Rapid Bucuresti
+25,2027-02-06,,Otelul,U. Cluj
+25,2027-02-06,,Petrolul,FCSB
+25,2027-02-06,,U. Cluj,Univ. Craiova
+25,2027-02-06,,Univ. Craiova,Corvinul

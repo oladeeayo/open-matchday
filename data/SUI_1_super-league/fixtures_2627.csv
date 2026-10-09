@@ -1,1 +1,78 @@
 gw,date,time,home,away
+9,2026-10-10,,Lugano,Luzern
+9,2026-10-10,,Servette,Sion
+9,2026-10-11,,Grasshoppers,Young Boys
+9,2026-10-11,,St. Gallen,Lausanne
+9,2026-10-11,,Zurich,Thun
+10,2026-10-24,,Servette,Vaduz
+10,2026-10-24,,Vaduz,Basel
+10,2026-10-24,,Zurich,Luzern
+10,2026-10-25,,Basel,Grasshoppers
+10,2026-10-25,,Thun,Lugano
+10,2026-10-25,,Young Boys,St. Gallen
+11,2026-10-31,,Grasshoppers,Vaduz
+11,2026-10-31,,Sion,Lausanne
+11,2026-10-31,,St. Gallen,Servette
+11,2026-11-01,,Lausanne,Thun
+11,2026-11-01,,Luzern,Sion
+11,2026-11-01,,Young Boys,Zurich
+12,2026-11-07,,Lugano,Basel
+12,2026-11-07,,Luzern,Young Boys
+12,2026-11-07,,Vaduz,Sion
+12,2026-11-08,,Grasshoppers,Lausanne
+12,2026-11-08,,Servette,Zurich
+12,2026-11-08,,St. Gallen,Lugano
+13,2026-11-21,,Lugano,Grasshoppers
+13,2026-11-21,,Thun,Basel
+13,2026-11-21,,Young Boys,Thun
+13,2026-11-22,,Basel,Luzern
+13,2026-11-22,,Sion,Servette
+13,2026-11-22,,Zurich,St. Gallen
+14,2026-11-28,,Grasshoppers,Basel
+14,2026-11-28,,Lausanne,Vaduz
+14,2026-11-28,,Vaduz,Zurich
+14,2026-11-29,,Luzern,Lugano
+14,2026-11-29,,Servette,Lausanne
+14,2026-11-29,,Sion,Young Boys
+15,2026-12-05,,Thun,St. Gallen
+15,2026-12-05,,Thun,Luzern
+15,2026-12-05,,Vaduz,Young Boys
+15,2026-12-06,,Basel,Servette
+15,2026-12-06,,Lausanne,Sion
+15,2026-12-06,,Zurich,Lugano
+16,2026-12-12,,St. Gallen,Grasshoppers
+16,2026-12-12,,St. Gallen,Vaduz
+16,2026-12-12,,Zurich,Grasshoppers
+16,2026-12-13,,Lugano,Thun
+16,2026-12-13,,Luzern,Servette
+16,2026-12-13,,Young Boys,Lausanne
+17,2026-12-19,,Grasshoppers,Luzern
+17,2026-12-19,,Lausanne,St. Gallen
+17,2026-12-19,,Sion,Basel
+17,2026-12-20,,Basel,Zurich
+17,2026-12-20,,Servette,Young Boys
+17,2026-12-20,,Thun,Sion
+18,2027-01-16,,Basel,Vaduz
+18,2027-01-16,,Servette,Thun
+18,2027-01-16,,Vaduz,Lugano
+18,2027-01-17,,Luzern,St. Gallen
+18,2027-01-17,,Young Boys,Lugano
+18,2027-01-17,,Zurich,Lausanne
+19,2027-01-23,,Sion,Grasshoppers
+19,2027-01-23,,Thun,Zurich
+19,2027-01-23,,Vaduz,Luzern
+19,2027-01-24,,Grasshoppers,Servette
+19,2027-01-24,,Lausanne,Basel
+19,2027-01-24,,Lugano,Sion
+20,2027-01-30,,Grasshoppers,Thun
+20,2027-01-30,,Lugano,Lausanne
+20,2027-01-30,,St. Gallen,Young Boys
+20,2027-01-31,,Basel,Young Boys
+20,2027-01-31,,Luzern,Zurich
+20,2027-01-31,,Sion,St. Gallen
+21,2027-02-06,,Lausanne,Luzern
+21,2027-02-06,,Thun,Vaduz
+21,2027-02-06,,Vaduz,Servette
+21,2027-02-07,,Servette,Lugano
+21,2027-02-07,,St. Gallen,Basel
+21,2027-02-07,,Zurich,Sion

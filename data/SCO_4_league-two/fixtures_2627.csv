@@ -1,1 +1,110 @@
 gw,date,time,home,away
+10,2026-10-10,,Annan,Stranraer
+10,2026-10-10,,Clyde,Dumbarton
+10,2026-10-10,,Edinburgh City,Spartans
+10,2026-10-10,,Forfar Athletic,Elgin City
+11,2026-10-17,,Clyde,Annan
+11,2026-10-17,,Dumbarton,Stirling
+11,2026-10-17,,Elgin City,Edinburgh City
+11,2026-10-17,,Kelty Hearts,Forfar Athletic
+11,2026-10-17,,Stirling,Kelty Hearts
+12,2026-10-31,,Edinburgh City,Dumbarton
+12,2026-10-31,,Kelty Hearts,Elgin City
+12,2026-10-31,,Spartans,Stranraer
+12,2026-10-31,,Spartans,Annan
+12,2026-10-31,,Stirling,Forfar Athletic
+13,2026-11-07,,Annan,Kelty Hearts
+13,2026-11-07,,Clyde,Spartans
+13,2026-11-07,,Elgin City,Dumbarton
+13,2026-11-07,,Forfar Athletic,Edinburgh City
+13,2026-11-07,,Stranraer,Clyde
+14,2026-11-14,,Dumbarton,Annan
+14,2026-11-14,,Edinburgh City,Clyde
+14,2026-11-14,,Forfar Athletic,Spartans
+14,2026-11-14,,Kelty Hearts,Stranraer
+14,2026-11-14,,Stranraer,Stirling
+15,2026-11-21,,Annan,Forfar Athletic
+15,2026-11-21,,Clyde,Stirling
+15,2026-11-21,,Edinburgh City,Kelty Hearts
+15,2026-11-21,,Spartans,Dumbarton
+15,2026-11-21,,Stirling,Elgin City
+16,2026-12-05,,Dumbarton,Stranraer
+16,2026-12-05,,Elgin City,Annan
+16,2026-12-05,,Forfar Athletic,Clyde
+16,2026-12-05,,Kelty Hearts,Spartans
+16,2026-12-05,,Stranraer,Elgin City
+17,2026-12-12,,Annan,Edinburgh City
+17,2026-12-12,,Clyde,Elgin City
+17,2026-12-12,,Dumbarton,Kelty Hearts
+17,2026-12-12,,Spartans,Stirling
+17,2026-12-12,,Stirling,Edinburgh City
+18,2026-12-19,,Edinburgh City,Stranraer
+18,2026-12-19,,Elgin City,Spartans
+18,2026-12-19,,Forfar Athletic,Dumbarton
+18,2026-12-19,,Kelty Hearts,Clyde
+18,2026-12-19,,Stranraer,Forfar Athletic
+19,2026-12-23,,Stirling,Annan
+19,2026-12-26,,Dumbarton,Clyde
+19,2026-12-26,,Elgin City,Forfar Athletic
+19,2026-12-26,,Kelty Hearts,Stirling
+19,2026-12-26,,Spartans,Edinburgh City
+20,2027-01-02,,Annan,Spartans
+20,2027-01-02,,Clyde,Stranraer
+20,2027-01-02,,Edinburgh City,Elgin City
+20,2027-01-02,,Forfar Athletic,Kelty Hearts
+20,2027-01-02,,Stranraer,Annan
+21,2027-01-09,,Annan,Clyde
+21,2027-01-09,,Dumbarton,Edinburgh City
+21,2027-01-09,,Elgin City,Stirling
+21,2027-01-09,,Spartans,Forfar Athletic
+21,2027-01-09,,Stirling,Dumbarton
+22,2027-01-23,,Clyde,Edinburgh City
+22,2027-01-23,,Dumbarton,Elgin City
+22,2027-01-23,,Forfar Athletic,Stirling
+22,2027-01-23,,Kelty Hearts,Annan
+22,2027-01-23,,Stranraer,Kelty Hearts
+23,2027-01-30,,Annan,Dumbarton
+23,2027-01-30,,Edinburgh City,Forfar Athletic
+23,2027-01-30,,Elgin City,Kelty Hearts
+23,2027-01-30,,Spartans,Clyde
+23,2027-01-30,,Stranraer,Spartans
+24,2027-02-06,,Dumbarton,Spartans
+24,2027-02-06,,Elgin City,Stranraer
+24,2027-02-06,,Forfar Athletic,Annan
+24,2027-02-06,,Kelty Hearts,Edinburgh City
+24,2027-02-06,,Stirling,Stranraer
+25,2027-02-13,,Annan,Elgin City
+25,2027-02-13,,Clyde,Forfar Athletic
+25,2027-02-13,,Edinburgh City,Stirling
+25,2027-02-13,,Spartans,Kelty Hearts
+25,2027-02-13,,Stirling,Clyde
+26,2027-02-20,,Edinburgh City,Annan
+26,2027-02-20,,Elgin City,Clyde
+26,2027-02-20,,Forfar Athletic,Stranraer
+26,2027-02-20,,Kelty Hearts,Dumbarton
+26,2027-02-20,,Stranraer,Dumbarton
+27,2027-02-27,,Annan,Stirling
+27,2027-02-27,,Clyde,Kelty Hearts
+27,2027-02-27,,Dumbarton,Forfar Athletic
+27,2027-02-27,,Spartans,Elgin City
+27,2027-02-27,,Stirling,Spartans
+28,2027-03-06,,Clyde,Annan
+28,2027-03-06,,Edinburgh City,Dumbarton
+28,2027-03-06,,Forfar Athletic,Spartans
+28,2027-03-06,,Kelty Hearts,Stranraer
+28,2027-03-06,,Stranraer,Edinburgh City
+29,2027-03-13,,Dumbarton,Stirling
+29,2027-03-13,,Elgin City,Edinburgh City
+29,2027-03-13,,Kelty Hearts,Forfar Athletic
+29,2027-03-13,,Spartans,Annan
+29,2027-03-13,,Stirling,Elgin City
+30,2027-03-20,,Annan,Stranraer
+30,2027-03-20,,Clyde,Dumbarton
+30,2027-03-20,,Edinburgh City,Spartans
+30,2027-03-20,,Forfar Athletic,Elgin City
+30,2027-03-20,,Stranraer,Clyde
+31,2027-03-27,,Annan,Kelty Hearts
+31,2027-03-27,,Edinburgh City,Clyde
+31,2027-03-27,,Elgin City,Dumbarton
+31,2027-03-27,,Spartans,Stranraer
+31,2027-03-27,,Stirling,Kelty Hearts

@@ -1,3 +1,148 @@
 gw,date,time,home,away
 6,2026-10-10,17:30,AEK Athens,OFI Crete
 6,2026-10-10,17:30,Asteras Tripoli,Atromitos
+6,2026-10-11,15:00,Iraklis,Levadiakos
+6,2026-10-11,15:00,Kifisia,Panetolikos
+6,2026-10-11,17:00,Aris,Volos NFC
+6,2026-10-11,19:00,Olympiacos,Panathinaikos
+7,2026-10-12,16:00,PAOK,Kalamata
+7,2026-10-17,15:00,Levadiakos,Volos NFC
+7,2026-10-17,17:30,Atromitos,AEK Athens
+7,2026-10-18,14:00,Kalamata,OFI Crete
+7,2026-10-18,15:00,Panetolikos,Olympiacos
+7,2026-10-18,15:30,Panathinaikos,Asteras Tripoli
+7,2026-10-18,18:00,Kifisia,Aris
+7,2026-10-18,19:00,PAOK,Iraklis
+8,2026-10-24,17:00,Iraklis,Kifisia
+8,2026-10-24,17:30,Asteras Tripoli,Levadiakos
+8,2026-10-24,18:00,AEK Athens,Panetolikos
+8,2026-10-25,15:00,Olympiacos,Kalamata
+8,2026-10-25,17:00,Volos NFC,Panathinaikos
+8,2026-10-25,18:30,Aris,Atromitos
+8,2026-10-25,19:00,OFI Crete,PAOK
+9,2026-10-31,18:00,Kifisia,Olympiacos
+9,2026-11-01,16:00,Levadiakos,Aris
+9,2026-11-01,17:00,Panetolikos,OFI Crete
+9,2026-11-01,18:00,PAOK,Asteras Tripoli
+9,2026-11-01,18:00,Panathinaikos,AEK Athens
+10,2026-11-02,17:00,Atromitos,Volos NFC
+10,2026-11-02,18:30,Kalamata,Iraklis
+10,2026-11-07,16:00,Volos NFC,Kifisia
+10,2026-11-07,18:30,Aris,Panetolikos
+10,2026-11-08,16:00,AEK Athens,Levadiakos
+10,2026-11-08,16:00,Asteras Tripoli,Kalamata
+10,2026-11-08,16:30,Iraklis,Panathinaikos
+10,2026-11-08,18:00,OFI Crete,Atromitos
+10,2026-11-08,20:00,Olympiacos,PAOK
+11,2026-11-21,18:30,Kalamata,AEK Athens
+11,2026-11-22,15:00,Levadiakos,Atromitos
+11,2026-11-22,16:00,Panetolikos,Volos NFC
+11,2026-11-22,16:30,Panathinaikos,OFI Crete
+11,2026-11-22,18:00,Olympiacos,Iraklis
+11,2026-11-22,18:30,PAOK,Kifisia
+12,2026-11-23,16:00,Asteras Tripoli,Aris
+12,2026-11-28,16:00,Volos NFC,Asteras Tripoli
+12,2026-11-28,19:00,Kifisia,Kalamata
+12,2026-11-28,20:00,Iraklis,Panetolikos
+12,2026-11-29,16:00,Atromitos,Panathinaikos
+12,2026-11-29,16:30,OFI Crete,Levadiakos
+12,2026-11-29,18:00,Aris,Olympiacos
+12,2026-11-29,20:00,AEK Athens,PAOK
+13,2026-12-05,19:00,Olympiacos,AEK Athens
+13,2026-12-06,14:00,Kalamata,Levadiakos
+13,2026-12-06,15:00,Asteras Tripoli,Kifisia
+13,2026-12-06,16:30,Panathinaikos,Aris
+13,2026-12-06,18:30,PAOK,Volos NFC
+13,2026-12-06,19:00,OFI Crete,Iraklis
+14,2026-12-07,18:00,Panetolikos,Atromitos
+14,2026-12-12,16:00,Kalamata,Panetolikos
+14,2026-12-12,18:30,Levadiakos,Asteras Tripoli
+14,2026-12-12,20:00,Iraklis,Aris
+14,2026-12-13,16:00,Atromitos,Olympiacos
+14,2026-12-13,18:00,AEK Athens,Volos NFC
+14,2026-12-13,18:30,PAOK,Panathinaikos
+15,2026-12-14,18:00,Kifisia,OFI Crete
+15,2026-12-19,16:00,Volos NFC,Levadiakos
+15,2026-12-19,18:30,Asteras Tripoli,PAOK
+15,2026-12-19,19:00,Kifisia,Atromitos
+15,2026-12-20,16:00,Olympiacos,Panetolikos
+15,2026-12-20,16:30,Panathinaikos,Iraklis
+15,2026-12-20,18:30,Aris,AEK Athens
+15,2026-12-20,18:30,OFI Crete,Kalamata
+16,2027-01-09,16:00,Levadiakos,OFI Crete
+16,2027-01-09,18:00,AEK Athens,Atromitos
+16,2027-01-09,18:30,Kalamata,Olympiacos
+16,2027-01-09,19:00,Iraklis,Volos NFC
+16,2027-01-10,16:00,Asteras Tripoli,Panathinaikos
+16,2027-01-10,18:30,Aris,PAOK
+16,2027-01-10,18:30,Panetolikos,Kifisia
+17,2027-01-16,21:00,AEK Athens,Kalamata
+17,2027-01-16,21:00,Atromitos,Panetolikos
+17,2027-01-16,21:00,Kifisia,Asteras Tripoli
+17,2027-01-16,21:00,Levadiakos,Iraklis
+17,2027-01-16,21:00,OFI Crete,Panathinaikos
+17,2027-01-16,21:00,PAOK,Olympiacos
+17,2027-01-16,21:00,Volos NFC,Aris
+18,2027-01-23,21:00,Aris,Kifisia
+18,2027-01-23,21:00,Iraklis,PAOK
+18,2027-01-23,21:00,Kalamata,Asteras Tripoli
+18,2027-01-23,21:00,Olympiacos,Levadiakos
+18,2027-01-23,21:00,Panathinaikos,Atromitos
+18,2027-01-23,21:00,Panetolikos,AEK Athens
+18,2027-01-23,21:00,Volos NFC,OFI Crete
+19,2027-01-30,21:00,Atromitos,Aris
+19,2027-01-30,21:00,Iraklis,Asteras Tripoli
+19,2027-01-30,21:00,Kifisia,Volos NFC
+19,2027-01-30,21:00,Levadiakos,Kalamata
+19,2027-01-30,21:00,OFI Crete,AEK Athens
+19,2027-01-30,21:00,PAOK,Panetolikos
+19,2027-01-30,21:00,Panathinaikos,Olympiacos
+20,2027-02-06,21:00,AEK Athens,Kifisia
+20,2027-02-06,21:00,Aris,Panathinaikos
+20,2027-02-06,21:00,Iraklis,OFI Crete
+20,2027-02-06,21:00,Kalamata,PAOK
+20,2027-02-06,21:00,Olympiacos,Asteras Tripoli
+20,2027-02-06,21:00,Panetolikos,Levadiakos
+20,2027-02-06,21:00,Volos NFC,Atromitos
+21,2027-02-13,21:00,Asteras Tripoli,Panetolikos
+21,2027-02-13,21:00,Atromitos,Iraklis
+21,2027-02-13,21:00,Levadiakos,Kifisia
+21,2027-02-13,21:00,OFI Crete,Aris
+21,2027-02-13,21:00,Olympiacos,Volos NFC
+21,2027-02-13,21:00,PAOK,AEK Athens
+21,2027-02-13,21:00,Panathinaikos,Kalamata
+22,2027-02-20,21:00,AEK Athens,Asteras Tripoli
+22,2027-02-20,21:00,Aris,Levadiakos
+22,2027-02-20,21:00,Atromitos,OFI Crete
+22,2027-02-20,21:00,Iraklis,Olympiacos
+22,2027-02-20,21:00,Kifisia,PAOK
+22,2027-02-20,21:00,Panetolikos,Panathinaikos
+22,2027-02-20,21:00,Volos NFC,Kalamata
+23,2027-02-27,21:00,Asteras Tripoli,OFI Crete
+23,2027-02-27,21:00,Kalamata,Kifisia
+23,2027-02-27,21:00,Levadiakos,AEK Athens
+23,2027-02-27,21:00,Olympiacos,Aris
+23,2027-02-27,21:00,PAOK,Atromitos
+23,2027-02-27,21:00,Panathinaikos,Volos NFC
+23,2027-02-27,21:00,Panetolikos,Iraklis
+24,2027-03-06,21:00,AEK Athens,Olympiacos
+24,2027-03-06,21:00,Aris,Asteras Tripoli
+24,2027-03-06,21:00,Atromitos,Levadiakos
+24,2027-03-06,21:00,Iraklis,Kalamata
+24,2027-03-06,21:00,Kifisia,Panathinaikos
+24,2027-03-06,21:00,OFI Crete,Panetolikos
+24,2027-03-06,21:00,Volos NFC,PAOK
+25,2027-03-13,21:00,Asteras Tripoli,Volos NFC
+25,2027-03-13,21:00,Iraklis,AEK Athens
+25,2027-03-13,21:00,Kalamata,Atromitos
+25,2027-03-13,21:00,Olympiacos,Kifisia
+25,2027-03-13,21:00,PAOK,OFI Crete
+25,2027-03-13,21:00,Panathinaikos,Levadiakos
+25,2027-03-13,21:00,Panetolikos,Aris
+26,2027-03-20,19:00,AEK Athens,Panathinaikos
+26,2027-03-20,19:00,Aris,Kalamata
+26,2027-03-20,19:00,Atromitos,Asteras Tripoli
+26,2027-03-20,19:00,Kifisia,Iraklis
+26,2027-03-20,19:00,Levadiakos,PAOK
+26,2027-03-20,19:00,OFI Crete,Olympiacos
+26,2027-03-20,19:00,Volos NFC,Panetolikos

@@ -1,1 +1,71 @@
 gw,date,time,home,away
+15,2026-10-10,,Bodo/Glimt,Kristiansund
+15,2026-10-11,,Aalesund,Sarpsborg 08
+15,2026-10-11,,Fredrikstad,Tromso
+15,2026-10-11,,Rosenborg,Sandefjord
+15,2026-10-11,,Start,HamKam
+16,2026-10-12,,Lillestrom,Molde
+16,2026-10-17,,HamKam,Bodo/Glimt
+16,2026-10-17,,KFUM Oslo,Valerenga
+16,2026-10-17,,Kristiansund,Aalesund
+16,2026-10-18,,Molde,Start
+16,2026-10-18,,Sandefjord,Lillestrom
+16,2026-10-18,,Sarpsborg 08,Rosenborg
+16,2026-10-18,,Valerenga,Brann
+16,2026-10-18,,Viking,Fredrikstad
+17,2026-10-24,,Bodo/Glimt,Valerenga
+17,2026-10-24,,Tromso,KFUM Oslo
+17,2026-10-25,,HamKam,Rosenborg
+17,2026-10-25,,Kristiansund,KFUM Oslo
+17,2026-10-25,,Lillestrom,Brann
+17,2026-10-25,,Sarpsborg 08,Aalesund
+17,2026-10-25,,Start,Sandefjord
+17,2026-10-25,,Viking,Tromso
+18,2026-10-30,,Molde,Fredrikstad
+18,2026-10-31,,Bodo/Glimt,Viking
+18,2026-10-31,,Fredrikstad,Rosenborg
+18,2026-11-01,,Aalesund,Sandefjord
+18,2026-11-01,,Brann,Molde
+18,2026-11-01,,KFUM Oslo,HamKam
+18,2026-11-01,,Sarpsborg 08,Kristiansund
+18,2026-11-01,,Start,Lillestrom
+19,2026-11-07,,Kristiansund,Valerenga
+19,2026-11-07,,Valerenga,Tromso
+19,2026-11-08,,HamKam,Sarpsborg 08
+19,2026-11-08,,Lillestrom,Aalesund
+19,2026-11-08,,Rosenborg,Start
+19,2026-11-08,,Sandefjord,Molde
+19,2026-11-08,,Tromso,Bodo/Glimt
+19,2026-11-08,,Viking,KFUM Oslo
+20,2026-11-20,,Fredrikstad,Brann
+20,2026-11-21,,HamKam,Fredrikstad
+20,2026-11-21,,Molde,Bodo/Glimt
+20,2026-11-21,,Tromso,Viking
+20,2026-11-22,,Aalesund,Rosenborg
+20,2026-11-22,,KFUM Oslo,Brann
+20,2026-11-22,,Kristiansund,Sandefjord
+20,2026-11-22,,Valerenga,Start
+21,2026-11-28,,Bodo/Glimt,KFUM Oslo
+21,2026-11-28,,Sarpsborg 08,Lillestrom
+21,2026-11-29,,Brann,Kristiansund
+21,2026-11-29,,Fredrikstad,Aalesund
+21,2026-11-29,,Rosenborg,Molde
+21,2026-11-29,,Sandefjord,Tromso
+21,2026-11-29,,Start,Sarpsborg 08
+22,2026-11-30,,Viking,Valerenga
+22,2026-12-04,,Lillestrom,HamKam
+22,2026-12-05,,Aalesund,Bodo/Glimt
+22,2026-12-05,,Molde,Viking
+22,2026-12-06,,KFUM Oslo,Fredrikstad
+22,2026-12-06,,Kristiansund,Lillestrom
+22,2026-12-06,,Sarpsborg 08,Brann
+22,2026-12-06,,Tromso,Start
+22,2026-12-06,,Valerenga,Rosenborg
+23,2026-12-13,,Bodo/Glimt,Sarpsborg 08
+23,2026-12-13,,Brann,Aalesund
+23,2026-12-13,,Fredrikstad,Molde
+23,2026-12-13,,HamKam,Sandefjord
+23,2026-12-13,,Lillestrom,Tromso
+23,2026-12-13,,Rosenborg,KFUM Oslo
+23,2026-12-13,,Sandefjord,Valerenga
+23,2026-12-13,,Start,Kristiansund

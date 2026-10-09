@@ -1,1 +1,117 @@
 gw,date,time,home,away
+10,2026-10-10,,AFC Totton,Walton & Hersham
+10,2026-10-10,,Billericay,Farnborough
+10,2026-10-10,,Braintree,Truro
+10,2026-10-10,,Chesham,Chelmsford
+10,2026-10-10,,Dag & Red,Hemel Hempstead
+10,2026-10-10,,Dover,Dorking
+10,2026-10-10,,Farnham,Salisbury
+10,2026-10-10,,Hampton & Richmond,Ebbsfleet
+10,2026-10-10,,Horsham FC,Maidstone
+10,2026-10-10,,Maidenhead,Tonbridge
+10,2026-10-10,,Torquay,Slough
+11,2026-10-13,,Weston-super-Mare,Folkestone
+11,2026-10-17,,Ebbsfleet,AFC Totton
+11,2026-10-17,,Ebbsfleet,Weston-super-Mare
+11,2026-10-17,,Farnborough,Dag & Red
+11,2026-10-17,,Folkestone,AFC Totton
+11,2026-10-17,,Maidstone,Maidenhead
+12,2026-10-20,,Slough,Horsham FC
+12,2026-10-24,,Chelmsford,Tonbridge
+12,2026-10-24,,Dag & Red,Chesham
+12,2026-10-24,,Ebbsfleet,Horsham FC
+12,2026-10-24,,Ebbsfleet,Maidenhead
+12,2026-10-24,,Farnham,Braintree
+12,2026-10-24,,Folkestone,Farnborough
+12,2026-10-24,,Hampton & Richmond,Truro
+12,2026-10-24,,Hemel Hempstead,AFC Totton
+12,2026-10-24,,Horsham FC,Walton & Hersham
+12,2026-10-24,,Salisbury,Dover
+12,2026-10-24,,Slough,Dorking
+12,2026-10-24,,Torquay,Maidstone
+13,2026-10-27,,AFC Totton,Torquay
+13,2026-10-27,,Billericay,Hampton & Richmond
+13,2026-10-27,,Braintree,Dag & Red
+13,2026-10-27,,Chesham,Farnham
+13,2026-10-27,,Dorking,Hemel Hempstead
+13,2026-10-27,,Dover,Chelmsford
+13,2026-10-27,,Maidenhead,Horsham FC
+13,2026-10-27,,Maidstone,Ebbsfleet
+13,2026-10-27,,Tonbridge,Folkestone
+13,2026-10-27,,Truro,Slough
+13,2026-10-27,,Weston-super-Mare,Billericay
+13,2026-10-28,,Walton & Hersham,Salisbury
+13,2026-10-31,,AFC Totton,Chelmsford
+13,2026-10-31,,Billericay,Hemel Hempstead
+13,2026-10-31,,Braintree,Hampton & Richmond
+13,2026-10-31,,Chesham,Folkestone
+13,2026-10-31,,Dorking,Weston-super-Mare
+13,2026-10-31,,Dover,Farnham
+13,2026-10-31,,Farnborough,Weston-super-Mare
+13,2026-10-31,,Farnborough,Horsham FC
+13,2026-10-31,,Maidenhead,Dag & Red
+13,2026-10-31,,Maidstone,Slough
+13,2026-10-31,,Tonbridge,Salisbury
+13,2026-10-31,,Truro,Ebbsfleet
+14,2026-11-03,,Walton & Hersham,Torquay
+14,2026-11-07,,Chelmsford,Farnborough
+14,2026-11-07,,Dag & Red,Billericay
+14,2026-11-07,,Ebbsfleet,Chesham
+14,2026-11-07,,Farnborough,Ebbsfleet
+14,2026-11-07,,Farnham,Tonbridge
+14,2026-11-07,,Folkestone,Truro
+14,2026-11-07,,Hampton & Richmond,Maidenhead
+14,2026-11-07,,Hemel Hempstead,Maidstone
+14,2026-11-07,,Horsham FC,AFC Totton
+14,2026-11-07,,Salisbury,Dorking
+14,2026-11-07,,Slough,Walton & Hersham
+14,2026-11-07,,Torquay,Dover
+15,2026-11-09,,Weston-super-Mare,Braintree
+16,2026-11-21,,AFC Totton,Dag & Red
+16,2026-11-21,,Billericay,Slough
+16,2026-11-21,,Braintree,Torquay
+16,2026-11-21,,Chelmsford,Ebbsfleet
+16,2026-11-21,,Chesham,Hampton & Richmond
+16,2026-11-21,,Dorking,Ebbsfleet
+16,2026-11-21,,Dover,Horsham FC
+16,2026-11-21,,Farnborough,Salisbury
+16,2026-11-21,,Maidenhead,Folkestone
+16,2026-11-21,,Maidstone,Farnham
+16,2026-11-21,,Tonbridge,Weston-super-Mare
+16,2026-11-21,,Truro,Hemel Hempstead
+17,2026-11-23,,Walton & Hersham,Chelmsford
+17,2026-11-24,,Chelmsford,Maidstone
+17,2026-11-24,,Dag & Red,Tonbridge
+17,2026-11-24,,Ebbsfleet,Billericay
+17,2026-11-24,,Farnham,Maidenhead
+17,2026-11-24,,Folkestone,Dorking
+17,2026-11-24,,Hampton & Richmond,Dover
+17,2026-11-24,,Hemel Hempstead,Braintree
+17,2026-11-24,,Horsham FC,Truro
+17,2026-11-24,,Salisbury,AFC Totton
+17,2026-11-24,,Slough,Farnborough
+17,2026-11-24,,Torquay,Chesham
+17,2026-11-28,,Billericay,Horsham FC
+17,2026-11-28,,Braintree,AFC Totton
+17,2026-11-28,,Dorking,Farnborough
+17,2026-11-28,,Farnham,Ebbsfleet
+17,2026-11-28,,Folkestone,Hampton & Richmond
+17,2026-11-28,,Hemel Hempstead,Walton & Hersham
+17,2026-11-28,,Maidstone,Chesham
+17,2026-11-28,,Salisbury,Dag & Red
+17,2026-11-28,,Slough,Tonbridge
+17,2026-11-28,,Torquay,Chelmsford
+17,2026-11-28,,Truro,Dover
+17,2026-11-28,,Weston-super-Mare,Walton & Hersham
+18,2026-12-05,,AFC Totton,Maidstone
+18,2026-12-05,,Chelmsford,Slough
+18,2026-12-05,,Chesham,Salisbury
+18,2026-12-05,,Dag & Red,Folkestone
+18,2026-12-05,,Dover,Hemel Hempstead
+18,2026-12-05,,Ebbsfleet,Torquay
+18,2026-12-05,,Farnborough,Truro
+18,2026-12-05,,Hampton & Richmond,Farnham
+18,2026-12-05,,Horsham FC,Weston-super-Mare
+18,2026-12-05,,Maidenhead,Braintree
+18,2026-12-05,,Tonbridge,Dorking
+18,2026-12-05,,Weston-super-Mare,Maidenhead

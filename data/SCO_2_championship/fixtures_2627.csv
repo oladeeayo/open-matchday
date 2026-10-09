@@ -1,1 +1,157 @@
 gw,date,time,home,away
+10,2026-10-10,15:00,Arbroath,Greenock Morton
+10,2026-10-10,15:00,Ayr United,Dunfermline Athletic
+10,2026-10-10,15:00,Inverness Caledonian Thistle,Stenhousemuir
+10,2026-10-10,15:00,Livingston,Partick Thistle
+10,2026-10-10,15:00,Raith Rovers,Queen's Park
+11,2026-10-13,19:45,Queen's Park,Inverness Caledonian Thistle
+11,2026-10-16,19:30,Ayr United,Partick Thistle
+11,2026-10-17,15:00,Dunfermline Athletic,Livingston
+11,2026-10-17,15:00,Greenock Morton,Queen's Park
+11,2026-10-17,15:00,Inverness Caledonian Thistle,Arbroath
+11,2026-10-17,15:00,Stenhousemuir,Raith Rovers
+12,2026-10-20,19:45,Dunfermline Athletic,Partick Thistle
+12,2026-10-24,,Dunfermline,Partick Thistle
+12,2026-10-24,15:00,Greenock Morton,Ayr United
+12,2026-10-24,15:00,Livingston,Arbroath
+12,2026-10-24,15:00,Partick Thistle,Stenhousemuir
+12,2026-10-24,15:00,Queen's Park,Dunfermline Athletic
+12,2026-10-24,15:00,Raith Rovers,Inverness Caledonian Thistle
+13,2026-10-27,20:45,Stenhousemuir,Dunfermline Athletic
+13,2026-10-30,20:30,Stenhousemuir,Livingston
+13,2026-10-31,16:00,Arbroath,Raith Rovers
+13,2026-10-31,16:00,Ayr United,Queen's Park
+13,2026-10-31,16:00,Dunfermline Athletic,Inverness Caledonian Thistle
+13,2026-10-31,16:00,Partick Thistle,Greenock Morton
+14,2026-11-06,,Partick Thistle,Morton
+14,2026-11-06,20:30,Raith Rovers,Dunfermline Athletic
+14,2026-11-07,16:00,Arbroath,Ayr United
+14,2026-11-07,16:00,Greenock Morton,Stenhousemuir
+14,2026-11-07,16:00,Inverness Caledonian Thistle,Livingston
+14,2026-11-07,16:00,Queen's Park,Partick Thistle
+15,2026-11-14,,Queen's Park,Partick Thistle
+15,2026-11-14,16:00,Ayr United,Raith Rovers
+15,2026-11-14,16:00,Dunfermline Athletic,Arbroath
+15,2026-11-14,16:00,Livingston,Greenock Morton
+15,2026-11-14,16:00,Partick Thistle,Inverness Caledonian Thistle
+15,2026-11-14,16:00,Stenhousemuir,Queen's Park
+16,2026-11-20,,Stenhousemuir,Queen's Park
+16,2026-11-20,20:30,Inverness Caledonian Thistle,Ayr United
+16,2026-11-21,16:00,Arbroath,Stenhousemuir
+16,2026-11-21,16:00,Dunfermline Athletic,Greenock Morton
+16,2026-11-21,16:00,Queen's Park,Livingston
+16,2026-11-21,16:00,Raith Rovers,Partick Thistle
+17,2026-12-05,,Raith,Partick Thistle
+17,2026-12-05,16:00,Greenock Morton,Inverness Caledonian Thistle
+17,2026-12-05,16:00,Livingston,Raith Rovers
+17,2026-12-05,16:00,Partick Thistle,Dunfermline Athletic
+17,2026-12-05,16:00,Queen's Park,Arbroath
+17,2026-12-05,16:00,Stenhousemuir,Ayr United
+18,2026-12-12,,Stenhousemuir,Ayr
+18,2026-12-12,16:00,Arbroath,Partick Thistle
+18,2026-12-12,16:00,Ayr United,Livingston
+18,2026-12-12,16:00,Dunfermline Athletic,Stenhousemuir
+18,2026-12-12,16:00,Inverness Caledonian Thistle,Queen's Park
+18,2026-12-12,16:00,Raith Rovers,Greenock Morton
+19,2026-12-19,,Raith,Morton
+19,2026-12-19,16:00,Greenock Morton,Arbroath
+19,2026-12-19,16:00,Livingston,Dunfermline Athletic
+19,2026-12-19,16:00,Partick Thistle,Ayr United
+19,2026-12-19,16:00,Queen's Park,Raith Rovers
+19,2026-12-19,16:00,Stenhousemuir,Inverness Caledonian Thistle
+20,2026-12-23,,Stenhousemuir,Inverness
+20,2026-12-23,20:30,Arbroath,Inverness Caledonian Thistle
+20,2026-12-23,20:45,Ayr United,Greenock Morton
+20,2026-12-26,16:00,Dunfermline Athletic,Raith Rovers
+20,2026-12-26,16:00,Livingston,Stenhousemuir
+20,2026-12-26,16:00,Partick Thistle,Queen's Park
+21,2027-01-02,,Partick Thistle,Queen's Park
+21,2027-01-02,16:00,Greenock Morton,Livingston
+21,2027-01-02,16:00,Inverness Caledonian Thistle,Dunfermline Athletic
+21,2027-01-02,16:00,Queen's Park,Ayr United
+21,2027-01-02,16:00,Raith Rovers,Arbroath
+21,2027-01-02,16:00,Stenhousemuir,Partick Thistle
+22,2027-01-09,,Stenhousemuir,Partick Thistle
+22,2027-01-09,16:00,Ayr United,Arbroath
+22,2027-01-09,16:00,Dunfermline Athletic,Queen's Park
+22,2027-01-09,16:00,Inverness Caledonian Thistle,Raith Rovers
+22,2027-01-09,16:00,Partick Thistle,Livingston
+22,2027-01-09,16:00,Stenhousemuir,Greenock Morton
+23,2027-01-23,,Stenhousemuir,Morton
+23,2027-01-23,16:00,Arbroath,Dunfermline Athletic
+23,2027-01-23,16:00,Greenock Morton,Partick Thistle
+23,2027-01-23,16:00,Livingston,Inverness Caledonian Thistle
+23,2027-01-23,16:00,Queen's Park,Stenhousemuir
+23,2027-01-23,16:00,Raith Rovers,Ayr United
+24,2027-01-30,,Raith,Ayr
+24,2027-01-30,16:00,Arbroath,Livingston
+24,2027-01-30,16:00,Dunfermline Athletic,Ayr United
+24,2027-01-30,16:00,Inverness Caledonian Thistle,Partick Thistle
+24,2027-01-30,16:00,Queen's Park,Greenock Morton
+24,2027-01-30,16:00,Raith Rovers,Stenhousemuir
+25,2027-02-13,,Raith,Stenhousemuir
+25,2027-02-13,16:00,Ayr United,Inverness Caledonian Thistle
+25,2027-02-13,16:00,Greenock Morton,Dunfermline Athletic
+25,2027-02-13,16:00,Livingston,Queen's Park
+25,2027-02-13,16:00,Partick Thistle,Raith Rovers
+25,2027-02-13,16:00,Stenhousemuir,Arbroath
+26,2027-02-20,,Stenhousemuir,Arbroath
+26,2027-02-20,16:00,Arbroath,Queen's Park
+26,2027-02-20,16:00,Ayr United,Stenhousemuir
+26,2027-02-20,16:00,Dunfermline Athletic,Partick Thistle
+26,2027-02-20,16:00,Inverness Caledonian Thistle,Greenock Morton
+26,2027-02-20,16:00,Raith Rovers,Livingston
+27,2027-02-27,,Raith,Livingston
+27,2027-02-27,16:00,Greenock Morton,Raith Rovers
+27,2027-02-27,16:00,Livingston,Ayr United
+27,2027-02-27,16:00,Partick Thistle,Arbroath
+27,2027-02-27,16:00,Queen's Park,Inverness Caledonian Thistle
+27,2027-02-27,16:00,Stenhousemuir,Dunfermline Athletic
+28,2027-03-06,,Stenhousemuir,Dunfermline
+28,2027-03-06,16:00,Arbroath,Greenock Morton
+28,2027-03-06,16:00,Ayr United,Partick Thistle
+28,2027-03-06,16:00,Dunfermline Athletic,Livingston
+28,2027-03-06,16:00,Inverness Caledonian Thistle,Stenhousemuir
+28,2027-03-06,16:00,Raith Rovers,Queen's Park
+29,2027-03-13,,Raith,Queen's Park
+29,2027-03-13,16:00,Arbroath,Raith Rovers
+29,2027-03-13,16:00,Dunfermline Athletic,Inverness Caledonian Thistle
+29,2027-03-13,16:00,Greenock Morton,Ayr United
+29,2027-03-13,16:00,Queen's Park,Partick Thistle
+29,2027-03-13,16:00,Stenhousemuir,Livingston
+30,2027-03-20,,Stenhousemuir,Livingston
+30,2027-03-20,16:00,Ayr United,Queen's Park
+30,2027-03-20,16:00,Inverness Caledonian Thistle,Arbroath
+30,2027-03-20,16:00,Livingston,Greenock Morton
+30,2027-03-20,16:00,Partick Thistle,Stenhousemuir
+30,2027-03-20,16:00,Raith Rovers,Dunfermline Athletic
+31,2027-03-27,16:00,Arbroath,Ayr United
+31,2027-03-27,16:00,Greenock Morton,Stenhousemuir
+31,2027-03-27,16:00,Inverness Caledonian Thistle,Livingston
+31,2027-03-27,16:00,Queen's Park,Dunfermline Athletic
+31,2027-03-27,16:00,Raith Rovers,Partick Thistle
+32,2027-04-03,15:00,Ayr United,Raith Rovers
+32,2027-04-03,15:00,Dunfermline Athletic,Greenock Morton
+32,2027-04-03,15:00,Livingston,Arbroath
+32,2027-04-03,15:00,Partick Thistle,Inverness Caledonian Thistle
+32,2027-04-03,15:00,Stenhousemuir,Queen's Park
+33,2027-04-10,15:00,Arbroath,Stenhousemuir
+33,2027-04-10,15:00,Ayr United,Dunfermline Athletic
+33,2027-04-10,15:00,Partick Thistle,Greenock Morton
+33,2027-04-10,15:00,Queen's Park,Livingston
+33,2027-04-10,15:00,Raith Rovers,Inverness Caledonian Thistle
+34,2027-04-17,15:00,Dunfermline Athletic,Arbroath
+34,2027-04-17,15:00,Greenock Morton,Queen's Park
+34,2027-04-17,15:00,Inverness Caledonian Thistle,Ayr United
+34,2027-04-17,15:00,Livingston,Partick Thistle
+34,2027-04-17,15:00,Stenhousemuir,Raith Rovers
+35,2027-04-24,15:00,Greenock Morton,Inverness Caledonian Thistle
+35,2027-04-24,15:00,Livingston,Raith Rovers
+35,2027-04-24,15:00,Partick Thistle,Dunfermline Athletic
+35,2027-04-24,15:00,Queen's Park,Arbroath
+35,2027-04-24,15:00,Stenhousemuir,Ayr United
+36,2027-04-30,19:45,Arbroath,Partick Thistle
+36,2027-04-30,19:45,Ayr United,Livingston
+36,2027-04-30,19:45,Dunfermline Athletic,Stenhousemuir
+36,2027-04-30,19:45,Inverness Caledonian Thistle,Queen's Park
+36,2027-04-30,19:45,Raith Rovers,Greenock Morton

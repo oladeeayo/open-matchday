@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -178,3 +178,4 @@ gw,date,home,away,minute,score_home,score_away,scorer
 6,2026-09-20,Hannover 96,VfL Bochum,24,1,0,S. Teitur Thórdarson
 6,2026-09-20,Hannover 96,VfL Bochum,43,2,0,M. Hartel
 6,2026-09-20,Hannover 96,VfL Bochum,77,2,1,  T. Meyer
+7,2026-10-09,Eintracht Braunschweig,Holstein Kiel,11,1,0,J. Urbich

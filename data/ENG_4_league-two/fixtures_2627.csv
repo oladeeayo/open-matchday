@@ -64,6 +64,7 @@ gw,date,time,home,away
 14,2026-10-31,16:00,Shrewsbury Town,Gillingham
 14,2026-10-31,16:00,Swindon Town,Rotherham United
 14,2026-10-31,16:00,Tranmere Rovers,Cheltenham Town
+13,2026-11-03,20:45,Northampton Town,Oldham Athletic
 15,2026-11-14,13:30,Exeter City,Cheltenham Town
 15,2026-11-14,16:00,Bristol Rovers,Chesterfield
 15,2026-11-14,16:00,Colchester United,Gillingham
@@ -89,6 +90,7 @@ gw,date,time,home,away
 16,2026-11-21,16:00,Tranmere Rovers,Colchester United
 16,2026-11-21,16:00,York City,Walsall
 8,2026-11-24,20:45,Crawley Town,Barnet
+16,2026-11-24,20:45,Port Vale,Northampton Town
 17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers
 17,2026-11-28,13:30,Exeter City,Crawley Town
 17,2026-11-28,16:00,Colchester United,York City
@@ -125,6 +127,7 @@ gw,date,time,home,away
 19,2026-12-12,16:00,Rotherham United,Walsall
 19,2026-12-12,16:00,Salford City,Colchester United
 19,2026-12-12,16:00,Shrewsbury Town,Port Vale
+19,2026-12-15,20:45,Colchester United,Port Vale
 20,2026-12-17,21:00,Crewe Alexandra,Salford City
 20,2026-12-19,13:30,Colchester United,Fleetwood Town
 20,2026-12-19,13:30,Northampton Town,Exeter City

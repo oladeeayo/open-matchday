@@ -1,1 +1,112 @@
 gw,date,time,home,away
+8,2026-09-29,,Warrington,Gainsborough
+9,2026-10-10,,Alfreton,Bury
+9,2026-10-10,,Avro,Guiseley
+9,2026-10-10,,Cleethorpes,Warrington Rylands
+9,2026-10-10,,Curzon Ashton,Hyde
+9,2026-10-10,,Emley,Gainsborough
+9,2026-10-10,,Ilkeston,Redcar Athletic
+9,2026-10-10,,Leek,Ashton Utd
+9,2026-10-10,,Quorn,Workington
+9,2026-10-10,,Stockton,FC United
+9,2026-10-10,,Warrington,Lancaster
+10,2026-10-13,,Ashton Utd,Alfreton
+10,2026-10-13,,Bamber Bridge,Warrington
+10,2026-10-13,,Bury,Leek
+10,2026-10-13,,FC United,Emley
+10,2026-10-13,,Gainsborough,Ilkeston
+10,2026-10-13,,Guiseley,Cleethorpes
+10,2026-10-13,,Hyde,Quorn
+10,2026-10-13,,Lancaster,Stockton
+10,2026-10-13,,Redcar Athletic,Avro
+10,2026-10-13,,Warrington Rylands,Curzon Ashton
+10,2026-10-13,,Whitby,Bamber Bridge
+10,2026-10-17,,Alfreton,Warrington
+10,2026-10-17,,Ashton Utd,Redcar Athletic
+10,2026-10-17,,Bamber Bridge,Workington
+10,2026-10-17,,Gainsborough,Hyde
+10,2026-10-17,,Ilkeston,Avro
+10,2026-10-17,,Lancaster,Leek
+10,2026-10-17,,Stockton,Emley
+10,2026-10-17,,Workington,Whitby
+11,2026-10-20,,Curzon Ashton,FC United
+11,2026-10-20,,Whitby,Curzon Ashton
+11,2026-10-21,,Quorn,Bury
+11,2026-10-24,,Avro,Ashton Utd
+11,2026-10-24,,Emley,Lancaster
+11,2026-10-24,,FC United,Whitby
+12,2026-10-31,,Alfreton,Emley
+12,2026-10-31,,Ashton Utd,Warrington Rylands
+12,2026-10-31,,Bury,Workington
+12,2026-10-31,,Cleethorpes,Avro
+12,2026-10-31,,Curzon Ashton,Leek
+12,2026-10-31,,FC United,Lancaster
+12,2026-10-31,,Gainsborough,Curzon Ashton
+12,2026-10-31,,Gainsborough,Bamber Bridge
+12,2026-10-31,,Ilkeston,Hyde
+12,2026-10-31,,Quorn,Warrington
+12,2026-10-31,,Redcar Athletic,Guiseley
+13,2026-11-03,,Bury,Avro
+13,2026-11-03,,Whitby,Stockton
+13,2026-11-06,,Guiseley,Leek
+13,2026-11-07,,Avro,Warrington
+13,2026-11-07,,Bamber Bridge,Bury
+13,2026-11-07,,Emley,Whitby
+13,2026-11-07,,Guiseley,FC United
+13,2026-11-07,,Hyde,Redcar Athletic
+13,2026-11-07,,Lancaster,Cleethorpes
+13,2026-11-07,,Leek,Ilkeston
+13,2026-11-07,,Quorn,Alfreton
+13,2026-11-07,,Stockton,Curzon Ashton
+13,2026-11-07,,Warrington Rylands,Gainsborough
+14,2026-11-10,,Curzon Ashton,Ilkeston
+14,2026-11-10,,Quorn,Stockton
+14,2026-11-10,,Redcar Athletic,Bamber Bridge
+14,2026-11-10,,Workington,Ashton Utd
+14,2026-11-11,,Workington,Alfreton
+14,2026-11-14,,Ashton Utd,Bury
+14,2026-11-14,,Avro,Whitby
+14,2026-11-14,,Avro,Emley
+14,2026-11-14,,Cleethorpes,Stockton
+14,2026-11-14,,Curzon Ashton,Quorn
+14,2026-11-14,,Gainsborough,Lancaster
+14,2026-11-14,,Guiseley,Bamber Bridge
+14,2026-11-14,,Hyde,Workington
+14,2026-11-14,,Ilkeston,FC United
+14,2026-11-14,,Leek,Alfreton
+14,2026-11-14,,Redcar Athletic,Warrington
+15,2026-11-17,,Warrington Rylands,Whitby
+15,2026-11-21,,Alfreton,Curzon Ashton
+15,2026-11-21,,Bamber Bridge,Cleethorpes
+15,2026-11-21,,Bury,Redcar Athletic
+15,2026-11-21,,Emley,Hyde
+15,2026-11-21,,FC United,Warrington Rylands
+15,2026-11-21,,Hyde,Warrington Rylands
+15,2026-11-21,,Lancaster,Ashton Utd
+15,2026-11-21,,Quorn,Avro
+15,2026-11-21,,Stockton,Ilkeston
+15,2026-11-21,,Warrington,Guiseley
+15,2026-11-21,,Whitby,Leek
+16,2026-11-24,,Workington,Gainsborough
+16,2026-11-27,,Leek,Gainsborough
+16,2026-11-28,,Ashton Utd,Stockton
+16,2026-11-28,,Avro,Bamber Bridge
+16,2026-11-28,,Cleethorpes,Quorn
+16,2026-11-28,,Curzon Ashton,Bury
+16,2026-11-28,,Gainsborough,Alfreton
+16,2026-11-28,,Guiseley,Whitby
+16,2026-11-28,,Hyde,Warrington
+16,2026-11-28,,Ilkeston,Emley
+16,2026-11-28,,Leek,FC United
+16,2026-11-28,,Warrington Rylands,Lancaster
+17,2026-12-05,,Alfreton,Cleethorpes
+17,2026-12-05,,Bamber Bridge,Curzon Ashton
+17,2026-12-05,,Bury,Guiseley
+17,2026-12-05,,Emley,Leek
+17,2026-12-05,,FC United,Hyde
+17,2026-12-05,,Lancaster,Redcar Athletic
+17,2026-12-05,,Quorn,Warrington Rylands
+17,2026-12-05,,Redcar Athletic,Workington
+17,2026-12-05,,Stockton,Gainsborough
+17,2026-12-05,,Warrington,Ilkeston
+17,2026-12-05,,Whitby,Ashton Utd

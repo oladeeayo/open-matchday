@@ -1,1 +1,113 @@
 gw,date,time,home,away
+9,2026-10-10,,Brackley Town,Spennymoor
+9,2026-10-10,,Chester,Bedford
+9,2026-10-10,,Chorley,AFC Telford
+9,2026-10-10,,Darlington,Merthyr Town
+9,2026-10-10,,Harborough,Southport
+9,2026-10-10,,Hebburn Town,Oxford City
+9,2026-10-10,,Hereford,Hednesford
+9,2026-10-10,,King’s Lynn,Buxton
+9,2026-10-10,,Macclesfield,South Shields
+9,2026-10-10,,Marine,Spalding United
+9,2026-10-10,,Radcliffe,Scarborough
+10,2026-10-17,,AFC Telford,Darlington
+10,2026-10-17,,Buxton,Worksop
+10,2026-10-17,,Hednesford,Brackley Town
+10,2026-10-17,,Merthyr Town,King’s Lynn
+10,2026-10-17,,Worksop,Morecambe
+11,2026-10-24,,AFC Telford,Hebburn Town
+11,2026-10-24,,Brackley Town,Radcliffe
+11,2026-10-24,,Chorley,Buxton
+11,2026-10-24,,Darlington,Spennymoor
+11,2026-10-24,,Harborough,Worksop
+11,2026-10-24,,Hednesford,Spalding United
+11,2026-10-24,,King’s Lynn,Southport
+11,2026-10-24,,Macclesfield,Hereford
+11,2026-10-24,,Marine,Oxford City
+11,2026-10-24,,Merthyr Town,Morecambe
+11,2026-10-24,,Scarborough,Bedford
+11,2026-10-24,,Southport,Radcliffe
+12,2026-10-27,,Bedford,Hednesford
+12,2026-10-27,,Buxton,Harborough
+12,2026-10-27,,Chester,Marine
+12,2026-10-27,,Hebburn Town,Scarborough
+12,2026-10-27,,Hereford,AFC Telford
+12,2026-10-27,,Morecambe,Darlington
+12,2026-10-27,,Oxford City,Merthyr Town
+12,2026-10-27,,Radcliffe,Chorley
+12,2026-10-27,,South Shields,Chester
+12,2026-10-27,,Southport,Macclesfield
+12,2026-10-27,,Spalding United,Brackley Town
+12,2026-10-27,,Spennymoor,South Shields
+12,2026-10-31,,Bedford,Macclesfield
+12,2026-10-31,,Buxton,Marine
+12,2026-10-31,,Chester,Hednesford
+12,2026-10-31,,Hebburn Town,Harborough
+12,2026-10-31,,Hereford,King’s Lynn
+12,2026-10-31,,Morecambe,Scarborough
+12,2026-10-31,,Oxford City,South Shields
+12,2026-10-31,,Radcliffe,Merthyr Town
+12,2026-10-31,,Southport,AFC Telford
+12,2026-10-31,,Spalding United,Darlington
+12,2026-10-31,,Spennymoor,Chorley
+12,2026-10-31,,Worksop,King’s Lynn
+13,2026-11-07,,AFC Telford,Spalding United
+13,2026-11-07,,Brackley Town,Chester
+13,2026-11-07,,Chorley,Hereford
+13,2026-11-07,,Darlington,Oxford City
+13,2026-11-07,,Harborough,Radcliffe
+13,2026-11-07,,Hednesford,Morecambe
+13,2026-11-07,,King’s Lynn,Spennymoor
+13,2026-11-07,,Macclesfield,Worksop
+13,2026-11-07,,Marine,Bedford
+13,2026-11-07,,Merthyr Town,Hebburn Town
+13,2026-11-07,,Scarborough,Buxton
+13,2026-11-07,,Worksop,Brackley Town
+14,2026-11-21,,Bedford,South Shields
+14,2026-11-21,,Buxton,Hednesford
+14,2026-11-21,,Chester,Macclesfield
+14,2026-11-21,,Hebburn Town,Marine
+14,2026-11-21,,Hereford,Darlington
+14,2026-11-21,,Morecambe,King’s Lynn
+14,2026-11-21,,Oxford City,Scarborough
+14,2026-11-21,,Radcliffe,AFC Telford
+14,2026-11-21,,South Shields,Southport
+14,2026-11-21,,Southport,Brackley Town
+14,2026-11-21,,Spalding United,Merthyr Town
+14,2026-11-21,,Spennymoor,Harborough
+15,2026-11-24,,AFC Telford,Buxton
+15,2026-11-24,,Brackley Town,Hereford
+15,2026-11-24,,Chorley,Hebburn Town
+15,2026-11-24,,Darlington,Southport
+15,2026-11-24,,Harborough,Chester
+15,2026-11-24,,Hednesford,Oxford City
+15,2026-11-24,,King’s Lynn,Radcliffe
+15,2026-11-24,,Macclesfield,Morecambe
+15,2026-11-24,,Marine,Spennymoor
+15,2026-11-24,,Merthyr Town,Bedford
+15,2026-11-24,,Scarborough,Spalding United
+15,2026-11-24,,Worksop,Chorley
+15,2026-11-28,,AFC Telford,South Shields
+15,2026-11-28,,Buxton,Spennymoor
+15,2026-11-28,,Chorley,Harborough
+15,2026-11-28,,Darlington,Brackley Town
+15,2026-11-28,,Hebburn Town,Bedford
+15,2026-11-28,,King’s Lynn,Macclesfield
+15,2026-11-28,,Marine,Hednesford
+15,2026-11-28,,Merthyr Town,Worksop
+15,2026-11-28,,Morecambe,Spalding United
+15,2026-11-28,,Oxford City,Southport
+15,2026-11-28,,Radcliffe,Chester
+15,2026-11-28,,South Shields,Worksop
+16,2026-12-05,,Bedford,Morecambe
+16,2026-12-05,,Brackley Town,Marine
+16,2026-12-05,,Chester,Oxford City
+16,2026-12-05,,Harborough,Scarborough
+16,2026-12-05,,Hednesford,Darlington
+16,2026-12-05,,Hereford,Hebburn Town
+16,2026-12-05,,Macclesfield,Chorley
+16,2026-12-05,,Scarborough,Hereford
+16,2026-12-05,,South Shields,King’s Lynn
+16,2026-12-05,,Southport,Merthyr Town
+16,2026-12-05,,Spalding United,Buxton
+16,2026-12-05,,Spennymoor,AFC Telford

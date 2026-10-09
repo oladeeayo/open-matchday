@@ -1,1 +1,90 @@
 gw,date,time,home,away
+9,2026-10-10,,Grazer AK,Salzburg
+9,2026-10-10,,Tirol,Ried
+9,2026-10-11,,Altach,Wolfsberger AC
+9,2026-10-11,,Austria Vienna,Sturm Graz
+9,2026-10-11,,Hartberg,A. Lustenau
+10,2026-10-16,,LASK,SK Rapid
+10,2026-10-17,,A. Lustenau,LASK
+10,2026-10-17,,SK Rapid,Hartberg
+10,2026-10-18,,Ried,Austria Vienna
+10,2026-10-18,,Salzburg,Altach
+10,2026-10-18,,Wolfsberger AC,Tirol
+11,2026-10-23,,Sturm Graz,Grazer AK
+11,2026-10-24,,Altach,Austria Vienna
+11,2026-10-24,,Hartberg,Wolfsberger AC
+11,2026-10-24,,Tirol,Grazer AK
+11,2026-10-25,,SK Rapid,A. Lustenau
+11,2026-10-25,,Sturm Graz,Ried
+12,2026-10-30,,LASK,Salzburg
+12,2026-10-31,,Altach,Ried
+12,2026-10-31,,Grazer AK,Hartberg
+12,2026-11-01,,LASK,Tirol
+12,2026-11-01,,Salzburg,A. Lustenau
+12,2026-11-01,,Wolfsberger AC,Sturm Graz
+13,2026-11-06,,Austria Vienna,SK Rapid
+13,2026-11-07,,A. Lustenau,Grazer AK
+13,2026-11-07,,SK Rapid,Wolfsberger AC
+13,2026-11-08,,Hartberg,Altach
+13,2026-11-08,,Ried,LASK
+13,2026-11-08,,Tirol,Austria Vienna
+14,2026-11-21,,LASK,Hartberg
+14,2026-11-21,,Sturm Graz,Salzburg
+14,2026-11-21,,Tirol,A. Lustenau
+14,2026-11-22,,Altach,Sturm Graz
+14,2026-11-22,,Grazer AK,SK Rapid
+14,2026-11-22,,Wolfsberger AC,Ried
+15,2026-11-27,,Austria Vienna,Salzburg
+15,2026-11-28,,Austria Vienna,Wolfsberger AC
+15,2026-11-28,,Grazer AK,Altach
+15,2026-11-29,,A. Lustenau,SK Rapid
+15,2026-11-29,,Ried,Hartberg
+15,2026-11-29,,Sturm Graz,Tirol
+16,2026-12-04,,Salzburg,LASK
+16,2026-12-05,,Altach,Salzburg
+16,2026-12-05,,Hartberg,Grazer AK
+16,2026-12-06,,Ried,Tirol
+16,2026-12-06,,SK Rapid,LASK
+16,2026-12-06,,Wolfsberger AC,A. Lustenau
+17,2026-12-11,,Sturm Graz,Austria Vienna
+17,2026-12-12,,A. Lustenau,Hartberg
+17,2026-12-12,,Tirol,Altach
+17,2026-12-13,,Grazer AK,Sturm Graz
+17,2026-12-13,,SK Rapid,Ried
+17,2026-12-13,,Salzburg,Wolfsberger AC
+18,2027-01-23,,A. Lustenau,Salzburg
+18,2027-01-23,,Austria Vienna,Grazer AK
+18,2027-01-23,,Hartberg,SK Rapid
+18,2027-01-23,,LASK,Austria Vienna
+18,2027-01-23,,Ried,Altach
+18,2027-01-23,,Sturm Graz,Wolfsberger AC
+19,2027-01-30,,Altach,A. Lustenau
+19,2027-01-30,,Grazer AK,Tirol
+19,2027-01-30,,LASK,Sturm Graz
+19,2027-01-30,,SK Rapid,Austria Vienna
+19,2027-01-30,,Salzburg,Ried
+19,2027-01-30,,Tirol,LASK
+20,2027-02-06,,A. Lustenau,Sturm Graz
+20,2027-02-06,,Austria Vienna,Altach
+20,2027-02-06,,Grazer AK,Ried
+20,2027-02-06,,Hartberg,Salzburg
+20,2027-02-06,,LASK,Wolfsberger AC
+20,2027-02-06,,Wolfsberger AC,Hartberg
+21,2027-02-13,,Altach,LASK
+21,2027-02-13,,Austria Vienna,Hartberg
+21,2027-02-13,,Ried,A. Lustenau
+21,2027-02-13,,Salzburg,Tirol
+21,2027-02-13,,Sturm Graz,SK Rapid
+21,2027-02-13,,Tirol,SK Rapid
+22,2027-02-20,,A. Lustenau,Austria Vienna
+22,2027-02-20,,Grazer AK,LASK
+22,2027-02-20,,Hartberg,Tirol
+22,2027-02-20,,Ried,Sturm Graz
+22,2027-02-20,,SK Rapid,Salzburg
+22,2027-02-20,,Wolfsberger AC,Grazer AK
+23,2027-02-27,,Altach,SK Rapid
+23,2027-02-27,,Austria Vienna,Ried
+23,2027-02-27,,LASK,A. Lustenau
+23,2027-02-27,,Salzburg,Grazer AK
+23,2027-02-27,,Sturm Graz,Hartberg
+23,2027-02-27,,Wolfsberger AC,Altach

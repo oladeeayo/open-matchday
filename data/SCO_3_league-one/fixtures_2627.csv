@@ -1,1 +1,106 @@
 gw,date,time,home,away
+10,2026-10-10,,Alloa,Hamilton
+10,2026-10-10,,Cove Rangers,East Fife
+10,2026-10-10,,East Kilbride,Airdrieonians
+10,2026-10-10,,Montrose,Ross County
+11,2026-10-17,,East Fife,Alloa
+11,2026-10-17,,East Kilbride,Montrose
+11,2026-10-17,,Peterhead,Queen of South
+11,2026-10-17,,Peterhead,Cove Rangers
+11,2026-10-17,,Queen of South,Ross County
+12,2026-10-24,,Airdrieonians,Hamilton
+12,2026-10-24,,Alloa,Queen of South
+12,2026-10-24,,Cove Rangers,East Kilbride
+12,2026-10-24,,Hamilton,East Fife
+12,2026-10-24,,Montrose,Peterhead
+13,2026-10-27,,Ross County,Airdrieonians
+13,2026-10-31,,Airdrieonians,Cove Rangers
+13,2026-10-31,,East Fife,Queen of South
+13,2026-10-31,,East Kilbride,Ross County
+13,2026-10-31,,Hamilton,Montrose
+13,2026-10-31,,Ross County,Hamilton
+14,2026-11-07,,Alloa,Airdrieonians
+14,2026-11-07,,Cove Rangers,Hamilton
+14,2026-11-07,,Montrose,East Fife
+14,2026-11-07,,Peterhead,Alloa
+14,2026-11-07,,Queen of South,East Kilbride
+15,2026-11-14,,Airdrieonians,Queen of South
+15,2026-11-14,,Cove Rangers,Montrose
+15,2026-11-14,,East Fife,Peterhead
+15,2026-11-14,,East Kilbride,Alloa
+15,2026-11-14,,Ross County,Peterhead
+16,2026-11-21,,East Fife,Airdrieonians
+16,2026-11-21,,Hamilton,Ross County
+16,2026-11-21,,Peterhead,East Kilbride
+16,2026-11-21,,Queen of South,Hamilton
+16,2026-11-21,,Ross County,Cove Rangers
+17,2026-12-05,,Airdrieonians,Peterhead
+17,2026-12-05,,Alloa,Cove Rangers
+17,2026-12-05,,Hamilton,East Kilbride
+17,2026-12-05,,Montrose,Alloa
+17,2026-12-05,,Queen of South,Montrose
+18,2026-12-12,,Alloa,Ross County
+18,2026-12-12,,Cove Rangers,Queen of South
+18,2026-12-12,,East Kilbride,East Fife
+18,2026-12-12,,Montrose,Airdrieonians
+18,2026-12-12,,Ross County,East Fife
+19,2026-12-19,,Airdrieonians,Ross County
+19,2026-12-19,,East Fife,Cove Rangers
+19,2026-12-19,,Hamilton,Alloa
+19,2026-12-19,,Montrose,East Kilbride
+19,2026-12-19,,Peterhead,Hamilton
+20,2026-12-23,,Alloa,East Fife
+20,2026-12-23,,Queen of South,Peterhead
+20,2026-12-26,,Cove Rangers,Peterhead
+20,2026-12-26,,East Kilbride,Queen of South
+20,2026-12-26,,Ross County,Montrose
+21,2027-01-02,,Airdrieonians,East Kilbride
+21,2027-01-02,,East Fife,Hamilton
+21,2027-01-02,,Hamilton,Airdrieonians
+21,2027-01-02,,Montrose,Cove Rangers
+21,2027-01-02,,Peterhead,Ross County
+22,2027-01-09,,Alloa,Peterhead
+22,2027-01-09,,Cove Rangers,Airdrieonians
+22,2027-01-09,,East Fife,Montrose
+22,2027-01-09,,Hamilton,Queen of South
+22,2027-01-09,,Queen of South,Alloa
+23,2027-01-23,,Airdrieonians,Alloa
+23,2027-01-23,,East Kilbride,Cove Rangers
+23,2027-01-23,,Montrose,Hamilton
+23,2027-01-23,,Peterhead,East Fife
+23,2027-01-23,,Ross County,East Kilbride
+24,2027-01-30,,Alloa,Montrose
+24,2027-01-30,,Cove Rangers,Ross County
+24,2027-01-30,,East Fife,East Kilbride
+24,2027-01-30,,Hamilton,Peterhead
+24,2027-01-30,,Ross County,Queen of South
+25,2027-02-13,,Airdrieonians,East Fife
+25,2027-02-13,,East Kilbride,Hamilton
+25,2027-02-13,,Peterhead,Montrose
+25,2027-02-13,,Queen of South,Airdrieonians
+25,2027-02-13,,Queen of South,Cove Rangers
+26,2027-02-20,,Alloa,East Kilbride
+26,2027-02-20,,East Fife,Ross County
+26,2027-02-20,,Hamilton,Cove Rangers
+26,2027-02-20,,Montrose,Queen of South
+26,2027-02-20,,Ross County,Alloa
+27,2027-02-27,,Airdrieonians,Montrose
+27,2027-02-27,,Cove Rangers,Alloa
+27,2027-02-27,,East Kilbride,Peterhead
+27,2027-02-27,,Peterhead,Airdrieonians
+27,2027-02-27,,Queen of South,East Fife
+28,2027-03-06,,Alloa,Hamilton
+28,2027-03-06,,Cove Rangers,East Fife
+28,2027-03-06,,East Kilbride,Airdrieonians
+28,2027-03-06,,Montrose,Ross County
+28,2027-03-06,,Ross County,Hamilton
+29,2027-03-13,,Airdrieonians,Cove Rangers
+29,2027-03-13,,East Fife,Alloa
+29,2027-03-13,,Hamilton,Montrose
+29,2027-03-13,,Peterhead,Queen of South
+29,2027-03-13,,Queen of South,East Kilbride
+30,2027-03-20,,Airdrieonians,Hamilton
+30,2027-03-20,,Alloa,Queen of South
+30,2027-03-20,,East Kilbride,Ross County
+30,2027-03-20,,Montrose,East Fife
+30,2027-03-20,,Ross County,Peterhead
