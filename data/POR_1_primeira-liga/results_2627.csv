@@ -61,3 +61,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-09-20,18:00,Estoril Praia,Casa Pia AC,1,2,A,0,0,D,14,11,6,3,7,11,7,4,3,2,0,0,,fixturedl
 7,2026-09-20,18:00,Santa Clara,SC Braga,0,0,D,0,0,D,10,8,1,1,13,13,5,5,4,3,0,0,,fixturedl
 7,2026-09-20,20:30,FC Porto,SL Benfica,3,1,H,1,0,H,20,12,7,3,17,12,3,3,3,3,0,1,,fixturedl
+8,2026-10-09,18:45,Moreirense FC,Gil Vicente FC,0.0,1.0,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,20:15,SC Braga,Sporting CP,1.0,3.0,A,,,,,,,,,,,,,,,,,fixturedl

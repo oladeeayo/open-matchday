@@ -1,0 +1,104 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-31,,Barry,Cambrian United,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-31,,Briton Ferry,Ammanford,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-31,,Colwyn Bay,Trefelin,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-31,,Llandudno,Flint,3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,Cardiff Metropolitan,Holywell,6,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,Haverfordwest,Airbus,0,1,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Connahs Q.,Caernarfon,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Penybont,TNS,0,0,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Airbus,Cardiff Metropolitan,0,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Ammanford,Colwyn Bay,2,2,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Caernarfon,Penybont,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Cambrian United,Briton Ferry,1,1,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Flint,Barry,2,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Holywell,Connahs Q.,1,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,TNS,Haverfordwest,2,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-07,,Trefelin,Llandudno,0,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Airbus,Ammanford,2,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Cambrian United,Flint,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Connahs Q.,Trefelin,6,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Haverfordwest,Penybont,0,3,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Llandudno,Holywell,3,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,TNS,Briton Ferry,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Barry,Cardiff Metropolitan,1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Caernarfon,Colwyn Bay,3,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Cardiff Metropolitan,TNS,0,5,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Colwyn Bay,Airbus,1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Flint,Briton Ferry,0,1,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Haverfordwest,Cambrian United,0,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Holywell,Barry,1,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Penybont,Llandudno,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Trefelin,Caernarfon,0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-22,,Ammanford,Connahs Q.,0,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Barry,Airbus,4,2,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Cardiff Metropolitan,Briton Ferry,3,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Connahs Q.,Cambrian United,3,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Holywell,Caernarfon,3,5,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Llandudno,Haverfordwest,2,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Penybont,Flint,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,TNS,Colwyn Bay,5,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-28,,Trefelin,Ammanford,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Airbus,Holywell,6,2,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Ammanford,Cardiff Metropolitan,0,5,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Briton Ferry,Barry,1,4,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Caernarfon,TNS,2,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Cambrian United,Penybont,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Colwyn Bay,Llandudno,2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Flint,Connahs Q.,1,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-31,,Haverfordwest,Trefelin,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Briton Ferry,Airbus,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Caernarfon,Flint,3,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Cardiff Metropolitan,Cambrian United,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Connahs Q.,Haverfordwest,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Holywell,Trefelin,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Llandudno,Ammanford,2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-05,,Penybont,Colwyn Bay,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-05,,TNS,Barry,1,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Airbus,TNS,0,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Ammanford,Caernarfon,0,5,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Barry,Llandudno,4,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Cambrian United,Holywell,2,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Flint,Cardiff Metropolitan,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Haverfordwest,Briton Ferry,3,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-11,,Trefelin,Penybont,0,1,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-12,,Colwyn Bay,Connahs Q.,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Barry,Ammanford,2,2,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Connahs Q.,Airbus,3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Holywell,Colwyn Bay,0,5,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Llandudno,Caernarfon,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Penybont,Briton Ferry,3,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,TNS,Flint,5,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-15,,Trefelin,Cambrian United,0,4,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Airbus,Flint,4,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Ammanford,Penybont,1,5,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Briton Ferry,Trefelin,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Caernarfon,Cambrian United,9,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Colwyn Bay,Barry,5,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Connahs Q.,Cardiff Metropolitan,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Haverfordwest,Holywell,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-19,,TNS,Llandudno,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Barry,Connahs Q.,1,4,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Cambrian United,Llandudno,4,3,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Cardiff Metropolitan,Caernarfon,2,2,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Colwyn Bay,Haverfordwest,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Flint,Ammanford,3,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Holywell,Briton Ferry,1,1,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Penybont,Airbus,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-26,,Trefelin,TNS,1,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-09-29,,Cardiff Metropolitan,Haverfordwest,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Airbus,Trefelin,3,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Ammanford,Holywell,2,1,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Briton Ferry,Colwyn Bay,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Caernarfon,Barry,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Connahs Q.,Penybont,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Haverfordwest,Flint,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,Llandudno,Cardiff Metropolitan,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-03,,TNS,Cambrian United,9,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Briton Ferry,Connahs Q.,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Cambrian United,Ammanford,0,1,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Cardiff Metropolitan,Trefelin,1,3,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Haverfordwest,Caernarfon,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Holywell,TNS,1,6,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Llandudno,Airbus,1,4,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-09,,Penybont,Barry,3,1,H,,,,,,,,,,,,,,,,,soccerway

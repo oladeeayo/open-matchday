@@ -1,0 +1,107 @@
+gw,date,time,home,away
+6,2026-08-31,,Cardiff Draconians,Pontardawe
+10,2026-10-10,,Aberystwyth,Caerau Ely
+10,2026-10-10,,Baglan Dragons,Pontypridd
+10,2026-10-10,,Cardiff Draconians,Carmarthen Town
+10,2026-10-10,,Llantwit Major,Pontardawe
+10,2026-10-10,,Treowen,Trethomas Bluebirds
+11,2026-10-23,,Caerau Ely,Llantwit Major
+11,2026-10-23,,Carmarthen Town,Caerphilly
+11,2026-10-23,,Llanelli,Afan Lido
+11,2026-10-23,,Newport City,Pontypridd
+11,2026-10-23,,Ynyshir Albions,Llanelli
+11,2026-10-24,,Baglan Dragons,Aberystwyth
+11,2026-10-24,,Pontardawe,Ynyshir Albions
+11,2026-10-24,,Trethomas Bluebirds,Cardiff Draconians
+12,2026-10-28,,Pure Swansea,Treowen
+12,2026-10-30,,Baglan Dragons,Treowen
+12,2026-10-30,,Pontypridd,Llanelli
+12,2026-10-30,,Pure Swansea,Carmarthen Town
+12,2026-10-31,,Caerphilly,Caerau Ely
+12,2026-10-31,,Cardiff Draconians,Afan Lido
+12,2026-10-31,,Llantwit Major,Newport City
+12,2026-10-31,,Pontardawe,Carmarthen Town
+12,2026-10-31,,Ynyshir Albions,Pure Swansea
+13,2026-11-06,,Aberystwyth,Trethomas Bluebirds
+13,2026-11-06,,Afan Lido,Caerphilly
+13,2026-11-06,,Baglan Dragons,Ynyshir Albions
+13,2026-11-06,,Llanelli,Pontardawe
+13,2026-11-06,,Newport City,Treowen
+13,2026-11-07,,Caerau Ely,Pontypridd
+13,2026-11-07,,Carmarthen Town,Aberystwyth
+13,2026-11-07,,Pure Swansea,Cardiff Draconians
+14,2026-11-14,,Trethomas Bluebirds,Llantwit Major
+15,2026-11-20,,Caerau Ely,Newport City
+15,2026-11-20,,Llantwit Major,Cardiff Draconians
+15,2026-11-20,,Pontypridd,Carmarthen Town
+15,2026-11-20,,Pure Swansea,Trethomas Bluebirds
+15,2026-11-21,,Caerphilly,Llanelli
+15,2026-11-21,,Cardiff Draconians,Aberystwyth
+15,2026-11-21,,Pontardawe,Baglan Dragons
+15,2026-11-21,,Treowen,Afan Lido
+16,2026-11-27,,Afan Lido,Caerau Ely
+16,2026-11-27,,Carmarthen Town,Pure Swansea
+16,2026-11-27,,Llanelli,Cardiff Draconians
+16,2026-11-27,,Newport City,Pontardawe
+16,2026-11-27,,Ynyshir Albions,Llantwit Major
+16,2026-11-28,,Caerphilly,Baglan Dragons
+16,2026-11-28,,Llantwit Major,Treowen
+16,2026-11-28,,Trethomas Bluebirds,Ynyshir Albions
+17,2026-12-04,,Aberystwyth,Pontypridd
+17,2026-12-04,,Caerau Ely,Carmarthen Town
+17,2026-12-04,,Newport City,Cardiff Draconians
+17,2026-12-04,,Pontypridd,Baglan Dragons
+17,2026-12-05,,Caerphilly,Pure Swansea
+17,2026-12-05,,Llantwit Major,Aberystwyth
+17,2026-12-05,,Pontardawe,Trethomas Bluebirds
+17,2026-12-05,,Treowen,Llanelli
+18,2026-12-12,,Ynyshir Albions,Afan Lido
+19,2026-12-18,,Afan Lido,Carmarthen Town
+19,2026-12-18,,Baglan Dragons,Cardiff Draconians
+19,2026-12-18,,Llanelli,Llantwit Major
+19,2026-12-18,,Newport City,Caerphilly
+19,2026-12-18,,Pontypridd,Ynyshir Albions
+19,2026-12-18,,Pure Swansea,Caerau Ely
+19,2026-12-18,,Ynyshir Albions,Aberystwyth
+19,2026-12-19,,Trethomas Bluebirds,Treowen
+20,2026-12-26,,Afan Lido,Baglan Dragons
+20,2026-12-26,,Caerau Ely,Cardiff Draconians
+20,2026-12-26,,Carmarthen Town,Pontardawe
+20,2026-12-26,,Llanelli,Pure Swansea
+20,2026-12-26,,Llantwit Major,Pontypridd
+20,2026-12-26,,Pontardawe,Aberystwyth
+20,2026-12-26,,Treowen,Aberystwyth
+20,2026-12-27,,Ynyshir Albions,Newport City
+21,2027-01-02,,Baglan Dragons,Llantwit Major
+21,2027-01-02,,Caerphilly,Trethomas Bluebirds
+21,2027-01-02,,Cardiff Draconians,Caerphilly
+21,2027-01-02,,Pontardawe,Llanelli
+21,2027-01-02,,Pontypridd,Treowen
+21,2027-01-02,,Pure Swansea,Afan Lido
+21,2027-01-02,,Trethomas Bluebirds,Newport City
+21,2027-01-02,,Ynyshir Albions,Caerau Ely
+22,2027-01-22,,Aberystwyth,Carmarthen Town
+22,2027-01-22,,Afan Lido,Cardiff Draconians
+22,2027-01-22,,Caerau Ely,Trethomas Bluebirds
+22,2027-01-22,,Carmarthen Town,Pontypridd
+22,2027-01-22,,Llanelli,Aberystwyth
+22,2027-01-22,,Newport City,Llantwit Major
+22,2027-01-22,,Pure Swansea,Ynyshir Albions
+22,2027-01-22,,Treowen,Baglan Dragons
+23,2027-01-30,,Caerphilly,Pontardawe
+24,2027-02-05,,Ynyshir Albions,Pontypridd
+24,2027-02-06,,Cardiff Draconians,Pure Swansea
+24,2027-02-06,,Llantwit Major,Caerau Ely
+24,2027-02-06,,Pontardawe,Afan Lido
+24,2027-02-06,,Pontypridd,Caerphilly
+24,2027-02-06,,Treowen,Newport City
+24,2027-02-06,,Trethomas Bluebirds,Llanelli
+24,2027-02-06,,Ynyshir Albions,Carmarthen Town
+25,2027-02-12,,Aberystwyth,Baglan Dragons
+25,2027-02-12,,Afan Lido,Trethomas Bluebirds
+25,2027-02-12,,Caerau Ely,Baglan Dragons
+25,2027-02-12,,Llanelli,Pontypridd
+25,2027-02-12,,Pure Swansea,Llantwit Major
+25,2027-02-13,,Caerphilly,Treowen
+25,2027-02-13,,Carmarthen Town,Cardiff Draconians
+25,2027-02-13,,Newport City,Aberystwyth

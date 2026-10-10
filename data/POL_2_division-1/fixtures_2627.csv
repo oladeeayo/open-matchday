@@ -1,0 +1,117 @@
+gw,date,time,home,away
+7,2026-09-06,,Pogon Siedlce,Puszcza
+10,2026-10-10,,Arka Gdynia,Polonia Warszawa
+10,2026-10-10,,Chrobry Glogow,Grodzisk M.
+10,2026-10-11,,LKS Lodz,Ruch Chorzow
+10,2026-10-11,,Puszcza,Polonia Bytom
+10,2026-10-11,,Skierniewice,Termalica B-B.
+10,2026-10-11,,Stal Mielec,Warta Poznan
+11,2026-10-12,,Odra Opole,Legnica
+11,2026-10-15,,S. Rzeszow,Lechia Gdansk
+11,2026-10-16,,Warta Poznan,Skierniewice
+11,2026-10-17,,Grodzisk M.,Polonia Warszawa
+11,2026-10-17,,Legnica,Stal Mielec
+11,2026-10-17,,Ruch Chorzow,Odra Opole
+11,2026-10-18,,LKS Lodz,Podbeskidzie
+11,2026-10-18,,Pogon Siedlce,S. Rzeszow
+11,2026-10-18,,Polonia Bytom,Chrobry Glogow
+12,2026-10-19,,Lechia Gdansk,Arka Gdynia
+12,2026-10-23,,Termalica B-B.,Puszcza
+12,2026-10-24,,Arka Gdynia,Termalica B-B.
+12,2026-10-24,,Polonia Warszawa,Legnica
+12,2026-10-24,,Skierniewice,Polonia Bytom
+12,2026-10-24,,Stal Mielec,Chrobry Glogow
+12,2026-10-25,,Odra Opole,Pogon Siedlce
+12,2026-10-25,,Puszcza,Lechia Gdansk
+12,2026-10-25,,Ruch Chorzow,Grodzisk M.
+13,2026-10-26,,Podbeskidzie,S. Rzeszow
+13,2026-10-30,,Warta Poznan,LKS Lodz
+13,2026-10-31,,Grodzisk M.,Stal Mielec
+13,2026-10-31,,Lechia Gdansk,Skierniewice
+13,2026-10-31,,Legnica,Termalica B-B.
+14,2026-11-02,,LKS Lodz,Polonia Warszawa
+14,2026-11-02,,Podbeskidzie,Warta Poznan
+14,2026-11-02,,Polonia Bytom,Odra Opole
+14,2026-11-03,,Chrobry Glogow,Arka Gdynia
+14,2026-11-03,,S. Rzeszow,Puszcza
+14,2026-11-06,,Pogon Siedlce,Ruch Chorzow
+14,2026-11-06,,Puszcza,Legnica
+14,2026-11-07,,Arka Gdynia,Podbeskidzie
+14,2026-11-07,,Odra Opole,Skierniewice
+14,2026-11-07,,Termalica B-B.,Chrobry Glogow
+14,2026-11-08,,LKS Lodz,S. Rzeszow
+14,2026-11-08,,Pogon Siedlce,Grodzisk M.
+14,2026-11-08,,Polonia Bytom,Lechia Gdansk
+14,2026-11-08,,Warta Poznan,Polonia Warszawa
+15,2026-11-21,,Chrobry Glogow,Puszcza
+15,2026-11-21,,Grodzisk M.,Arka Gdynia
+15,2026-11-21,,Lechia Gdansk,Odra Opole
+15,2026-11-21,,Legnica,LKS Lodz
+15,2026-11-21,,Podbeskidzie,Termalica B-B.
+15,2026-11-21,,Polonia Warszawa,Stal Mielec
+15,2026-11-21,,Ruch Chorzow,Warta Poznan
+15,2026-11-21,,Skierniewice,Pogon Siedlce
+15,2026-11-21,,Stal Mielec,Ruch Chorzow
+16,2026-11-28,,Arka Gdynia,Ruch Chorzow
+16,2026-11-28,,Chrobry Glogow,Skierniewice
+16,2026-11-28,,LKS Lodz,Lechia Gdansk
+16,2026-11-28,,Legnica,Polonia Bytom
+16,2026-11-28,,Odra Opole,Polonia Warszawa
+16,2026-11-28,,Podbeskidzie,Grodzisk M.
+16,2026-11-28,,Puszcza,Stal Mielec
+16,2026-11-28,,S. Rzeszow,Polonia Bytom
+16,2026-11-28,,Termalica B-B.,S. Rzeszow
+17,2026-12-05,,Grodzisk M.,Odra Opole
+17,2026-12-05,,Lechia Gdansk,Chrobry Glogow
+17,2026-12-05,,Pogon Siedlce,Legnica
+17,2026-12-05,,Polonia Bytom,Termalica B-B.
+17,2026-12-05,,Polonia Warszawa,Podbeskidzie
+17,2026-12-05,,Ruch Chorzow,Puszcza
+17,2026-12-05,,S. Rzeszow,Warta Poznan
+17,2026-12-05,,Skierniewice,LKS Lodz
+17,2026-12-05,,Warta Poznan,Pogon Siedlce
+18,2026-12-12,,Arka Gdynia,Odra Opole
+18,2026-12-12,,Chrobry Glogow,S. Rzeszow
+18,2026-12-12,,Grodzisk M.,Lechia Gdansk
+18,2026-12-12,,LKS Lodz,Pogon Siedlce
+18,2026-12-12,,Podbeskidzie,Legnica
+18,2026-12-12,,Polonia Warszawa,Puszcza
+18,2026-12-12,,Ruch Chorzow,Termalica B-B.
+18,2026-12-12,,Stal Mielec,Arka Gdynia
+18,2026-12-12,,Stal Mielec,Skierniewice
+19,2027-02-06,,Legnica,Ruch Chorzow
+19,2027-02-06,,Odra Opole,Chrobry Glogow
+19,2027-02-06,,Podbeskidzie,Stal Mielec
+19,2027-02-06,,Polonia Bytom,LKS Lodz
+19,2027-02-06,,Puszcza,Grodzisk M.
+19,2027-02-06,,S. Rzeszow,Arka Gdynia
+19,2027-02-06,,Skierniewice,Polonia Warszawa
+19,2027-02-06,,Termalica B-B.,Pogon Siedlce
+19,2027-02-06,,Warta Poznan,Polonia Bytom
+20,2027-02-13,,Arka Gdynia,Skierniewice
+20,2027-02-13,,Chrobry Glogow,LKS Lodz
+20,2027-02-13,,Grodzisk M.,Legnica
+20,2027-02-13,,Lechia Gdansk,Podbeskidzie
+20,2027-02-13,,Odra Opole,Puszcza
+20,2027-02-13,,Pogon Siedlce,Polonia Bytom
+20,2027-02-13,,Ruch Chorzow,Polonia Warszawa
+20,2027-02-13,,S. Rzeszow,Stal Mielec
+20,2027-02-13,,Warta Poznan,Lechia Gdansk
+21,2027-02-20,,Lechia Gdansk,Ruch Chorzow
+21,2027-02-20,,Legnica,Skierniewice
+21,2027-02-20,,Podbeskidzie,Chrobry Glogow
+21,2027-02-20,,Polonia Bytom,Stal Mielec
+21,2027-02-20,,Polonia Warszawa,Pogon Siedlce
+21,2027-02-20,,Puszcza,Arka Gdynia
+21,2027-02-20,,S. Rzeszow,Grodzisk M.
+21,2027-02-20,,Termalica B-B.,LKS Lodz
+21,2027-02-20,,Warta Poznan,Termalica B-B.
+22,2027-02-27,,Arka Gdynia,Legnica
+22,2027-02-27,,Grodzisk M.,Polonia Bytom
+22,2027-02-27,,Odra Opole,Podbeskidzie
+22,2027-02-27,,Pogon Siedlce,Lechia Gdansk
+22,2027-02-27,,Polonia Warszawa,Termalica B-B.
+22,2027-02-27,,Ruch Chorzow,S. Rzeszow
+22,2027-02-27,,Skierniewice,Puszcza
+22,2027-02-27,,Stal Mielec,LKS Lodz
+22,2027-02-27,,Warta Poznan,Odra Opole

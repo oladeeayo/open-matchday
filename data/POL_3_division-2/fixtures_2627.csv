@@ -1,0 +1,116 @@
+gw,date,time,home,away
+11,2026-10-10,,Avia Swidnik,Swit Szczecin
+11,2026-10-10,,S. Wola,Slask Wroclaw II
+11,2026-10-11,,Kleczew,Hutnik Krakow
+11,2026-10-11,,Tychy,Leczna
+11,2026-10-11,,Zielona Gora,Legia II
+12,2026-10-12,,Zawisza,Pruszkow
+12,2026-10-14,,Ol. Grudziadz,R. Rzeszow
+12,2026-10-17,,Hutnik Krakow,Chojniczanka
+12,2026-10-17,,Leczna,S. Wola
+12,2026-10-17,,Legia II,Tychy
+12,2026-10-17,,Slask Wroclaw II,Legia II
+12,2026-10-18,,Podhale Nowy Targ,Zielona Gora
+12,2026-10-18,,Pruszkow,Bielsko-Biala
+12,2026-10-18,,R. Rzeszow,Kleczew
+12,2026-10-18,,Slask Wroclaw II,Avia Swidnik
+12,2026-10-18,,Swit Szczecin,Ol. Grudziadz
+13,2026-10-23,,Kleczew,Slask Wroclaw II
+13,2026-10-23,,Sandecja Nowy S.,Zawisza
+13,2026-10-24,,Bielsko-Biala,R. Rzeszow
+13,2026-10-24,,Chojniczanka,Legia II
+13,2026-10-24,,Hutnik Krakow,Ol. Grudziadz
+13,2026-10-24,,Zawisza,Swit Szczecin
+13,2026-10-24,,Zielona Gora,Leczna
+13,2026-10-25,,Avia Swidnik,Pruszkow
+13,2026-10-25,,S. Wola,Sandecja Nowy S.
+14,2026-10-30,,Tychy,Podhale Nowy Targ
+14,2026-10-31,,Hutnik Krakow,Bielsko-Biala
+14,2026-10-31,,Leczna,Pruszkow
+14,2026-10-31,,Legia II,R. Rzeszow
+14,2026-10-31,,Podhale Nowy Targ,Swit Szczecin
+14,2026-10-31,,Sandecja Nowy S.,Ol. Grudziadz
+14,2026-10-31,,Slask Wroclaw II,Zawisza
+14,2026-10-31,,Tychy,Zielona Gora
+15,2026-11-02,,S. Wola,Kleczew
+15,2026-11-06,,Chojniczanka,Avia Swidnik
+15,2026-11-07,,Avia Swidnik,Hutnik Krakow
+15,2026-11-07,,Kleczew,Sandecja Nowy S.
+15,2026-11-07,,Legia II,Ol. Grudziadz
+15,2026-11-07,,Pruszkow,Podhale Nowy Targ
+15,2026-11-07,,R. Rzeszow,Leczna
+15,2026-11-07,,Swit Szczecin,Slask Wroclaw II
+15,2026-11-08,,Bielsko-Biala,Chojniczanka
+15,2026-11-08,,Zielona Gora,S. Wola
+16,2026-11-14,,Chojniczanka,Zawisza
+16,2026-11-14,,Leczna,Hutnik Krakow
+16,2026-11-14,,Legia II,Sandecja Nowy S.
+16,2026-11-14,,Podhale Nowy Targ,Avia Swidnik
+16,2026-11-14,,Pruszkow,Kleczew
+16,2026-11-14,,R. Rzeszow,Swit Szczecin
+16,2026-11-14,,S. Wola,Ol. Grudziadz
+16,2026-11-14,,Slask Wroclaw II,Zielona Gora
+16,2026-11-14,,Zawisza,Tychy
+17,2026-11-21,,Avia Swidnik,Legia II
+17,2026-11-21,,Bielsko-Biala,Slask Wroclaw II
+17,2026-11-21,,Hutnik Krakow,R. Rzeszow
+17,2026-11-21,,Kleczew,Tychy
+17,2026-11-21,,Ol. Grudziadz,Leczna
+17,2026-11-21,,Sandecja Nowy S.,Pruszkow
+17,2026-11-21,,Swit Szczecin,S. Wola
+17,2026-11-21,,Tychy,Bielsko-Biala
+17,2026-11-21,,Zielona Gora,Chojniczanka
+18,2026-11-28,,Bielsko-Biala,Zielona Gora
+18,2026-11-28,,Hutnik Krakow,Sandecja Nowy S.
+18,2026-11-28,,Kleczew,Zawisza
+18,2026-11-28,,Leczna,Swit Szczecin
+18,2026-11-28,,Ol. Grudziadz,Avia Swidnik
+18,2026-11-28,,R. Rzeszow,Pruszkow
+18,2026-11-28,,S. Wola,Legia II
+18,2026-11-28,,Slask Wroclaw II,Podhale Nowy Targ
+18,2026-11-28,,Zawisza,Podhale Nowy Targ
+19,2026-12-05,,Avia Swidnik,Leczna
+19,2026-12-05,,Chojniczanka,Sandecja Nowy S.
+19,2026-12-05,,Legia II,Pruszkow
+19,2026-12-05,,Ol. Grudziadz,Zielona Gora
+19,2026-12-05,,Podhale Nowy Targ,Kleczew
+19,2026-12-05,,Slask Wroclaw II,R. Rzeszow
+19,2026-12-05,,Swit Szczecin,Hutnik Krakow
+19,2026-12-05,,Tychy,Chojniczanka
+19,2026-12-05,,Tychy,S. Wola
+20,2027-02-20,,Hutnik Krakow,Podhale Nowy Targ
+20,2027-02-20,,Kleczew,Zielona Gora
+20,2027-02-20,,Leczna,Slask Wroclaw II
+20,2027-02-20,,Ol. Grudziadz,Tychy
+20,2027-02-20,,Pruszkow,Chojniczanka
+20,2027-02-20,,R. Rzeszow,Zawisza
+20,2027-02-20,,Sandecja Nowy S.,Avia Swidnik
+20,2027-02-20,,Swit Szczecin,Legia II
+20,2027-02-20,,Zawisza,Bielsko-Biala
+21,2027-02-27,,Avia Swidnik,S. Wola
+21,2027-02-27,,Bielsko-Biala,Kleczew
+21,2027-02-27,,Chojniczanka,Slask Wroclaw II
+21,2027-02-27,,Legia II,Hutnik Krakow
+21,2027-02-27,,Ol. Grudziadz,Pruszkow
+21,2027-02-27,,Podhale Nowy Targ,Leczna
+21,2027-02-27,,S. Wola,Bielsko-Biala
+21,2027-02-27,,Sandecja Nowy S.,Swit Szczecin
+21,2027-02-27,,Tychy,R. Rzeszow
+22,2027-03-06,,Hutnik Krakow,Zielona Gora
+22,2027-03-06,,Kleczew,Legia II
+22,2027-03-06,,Leczna,Sandecja Nowy S.
+22,2027-03-06,,Ol. Grudziadz,Bielsko-Biala
+22,2027-03-06,,R. Rzeszow,Podhale Nowy Targ
+22,2027-03-06,,S. Wola,Chojniczanka
+22,2027-03-06,,Slask Wroclaw II,Tychy
+22,2027-03-06,,Swit Szczecin,Pruszkow
+22,2027-03-06,,Zielona Gora,Zawisza
+23,2027-03-13,,Bielsko-Biala,Leczna
+23,2027-03-13,,Chojniczanka,Kleczew
+23,2027-03-13,,Legia II,Zawisza
+23,2027-03-13,,Podhale Nowy Targ,Ol. Grudziadz
+23,2027-03-13,,Pruszkow,Slask Wroclaw II
+23,2027-03-13,,S. Wola,Hutnik Krakow
+23,2027-03-13,,Sandecja Nowy S.,R. Rzeszow
+23,2027-03-13,,Tychy,Swit Szczecin
+23,2027-03-13,,Zawisza,Avia Swidnik

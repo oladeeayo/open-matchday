@@ -1,0 +1,118 @@
+gw,date,time,home,away
+6,2026-08-27,,GKS Katowice,Wieczysta Krakow
+10,2026-10-10,,Cracovia,Zaglebie
+10,2026-10-10,,Slask Wroclaw,Lech Poznan
+10,2026-10-11,,Jagiellonia,Gornik Zabrze
+10,2026-10-11,,Piast Gliwice,Widzew Lodz
+10,2026-10-11,,Pogon Szczecin,Korona Kielce
+11,2026-10-12,,Legia,Wisla
+11,2026-10-12,,Radomiak Radom,Motor Lublin
+11,2026-10-16,,Wieczysta Krakow,Rakow
+11,2026-10-17,,GKS Katowice,Pogon Szczecin
+11,2026-10-17,,Motor Lublin,Slask Wroclaw
+11,2026-10-17,,Widzew Lodz,Wisla
+11,2026-10-18,,Cracovia,Legia
+11,2026-10-18,,Gornik Zabrze,Piast Gliwice
+11,2026-10-18,,Zaglebie,Jagiellonia
+12,2026-10-19,,Lech Poznan,Korona Kielce
+12,2026-10-23,,Motor Lublin,Zaglebie
+12,2026-10-23,,Wisla Plock,Radomiak Radom
+12,2026-10-24,,Korona Kielce,GKS Katowice
+12,2026-10-24,,Piast Gliwice,Cracovia
+12,2026-10-24,,Pogon Szczecin,Radomiak Radom
+12,2026-10-24,,Widzew Lodz,Gornik Zabrze
+12,2026-10-25,,Jagiellonia,Wisla Plock
+12,2026-10-25,,Slask Wroclaw,Wieczysta Krakow
+12,2026-10-25,,Wisla,Rakow
+13,2026-10-30,,Cracovia,Motor Lublin
+13,2026-10-30,,Legia,Lech Poznan
+13,2026-10-31,,Gornik Zabrze,Legia
+13,2026-10-31,,Lech Poznan,Wisla
+13,2026-10-31,,Wieczysta Krakow,Jagiellonia
+13,2026-10-31,,Wisla Plock,Piast Gliwice
+14,2026-11-02,,GKS Katowice,Widzew Lodz
+14,2026-11-02,,Radomiak Radom,Slask Wroclaw
+14,2026-11-02,,Zaglebie,Korona Kielce
+14,2026-11-06,,Motor Lublin,Wisla Plock
+14,2026-11-06,,Rakow,Pogon Szczecin
+14,2026-11-07,,Gornik Zabrze,Wieczysta Krakow
+14,2026-11-07,,Korona Kielce,Radomiak Radom
+14,2026-11-07,,Slask Wroclaw,Piast Gliwice
+14,2026-11-07,,Wisla,Cracovia
+14,2026-11-08,,Jagiellonia,GKS Katowice
+14,2026-11-08,,Legia,Rakow
+14,2026-11-08,,Widzew Lodz,Pogon Szczecin
+15,2026-11-21,,Cracovia,Jagiellonia
+15,2026-11-21,,GKS Katowice,Lech Poznan
+15,2026-11-21,,Lech Poznan,Zaglebie
+15,2026-11-21,,Piast Gliwice,Korona Kielce
+15,2026-11-21,,Pogon Szczecin,Slask Wroclaw
+15,2026-11-21,,Radomiak Radom,Wisla
+15,2026-11-21,,Rakow,Widzew Lodz
+15,2026-11-21,,Wieczysta Krakow,Motor Lublin
+15,2026-11-21,,Wisla Plock,Legia
+16,2026-11-28,,Gornik Zabrze,Wisla Plock
+16,2026-11-28,,Jagiellonia,Radomiak Radom
+16,2026-11-28,,Korona Kielce,Cracovia
+16,2026-11-28,,Lech Poznan,Pogon Szczecin
+16,2026-11-28,,Legia,Wieczysta Krakow
+16,2026-11-28,,Rakow,Piast Gliwice
+16,2026-11-28,,Slask Wroclaw,GKS Katowice
+16,2026-11-28,,Widzew Lodz,Zaglebie
+16,2026-11-28,,Zaglebie,Gornik Zabrze
+17,2026-12-05,,Cracovia,Widzew Lodz
+17,2026-12-05,,GKS Katowice,Legia
+17,2026-12-05,,Motor Lublin,Lech Poznan
+17,2026-12-05,,Piast Gliwice,Jagiellonia
+17,2026-12-05,,Pogon Szczecin,Gornik Zabrze
+17,2026-12-05,,Radomiak Radom,Rakow
+17,2026-12-05,,Wieczysta Krakow,Korona Kielce
+17,2026-12-05,,Wisla,Motor Lublin
+17,2026-12-05,,Wisla Plock,Slask Wroclaw
+18,2026-12-12,,Cracovia,Lech Poznan
+18,2026-12-12,,GKS Katowice,Wisla
+18,2026-12-12,,Korona Kielce,Jagiellonia
+18,2026-12-12,,Legia,Pogon Szczecin
+18,2026-12-12,,Motor Lublin,Widzew Lodz
+18,2026-12-12,,Piast Gliwice,Zaglebie
+18,2026-12-12,,Slask Wroclaw,Gornik Zabrze
+18,2026-12-12,,Wieczysta Krakow,Radomiak Radom
+18,2026-12-12,,Zaglebie,Wisla
+19,2026-12-16,,Wisla Plock,Rakow
+19,2026-12-17,,Jagiellonia,Pogon Szczecin
+20,2027-01-30,,Gornik Zabrze,Korona Kielce
+20,2027-01-30,,Jagiellonia,Motor Lublin
+20,2027-01-30,,Lech Poznan,Wieczysta Krakow
+20,2027-01-30,,Pogon Szczecin,Cracovia
+20,2027-01-30,,Radomiak Radom,GKS Katowice
+20,2027-01-30,,Rakow,Slask Wroclaw
+20,2027-01-30,,Widzew Lodz,Wisla Plock
+20,2027-01-30,,Wisla,Piast Gliwice
+20,2027-01-30,,Wisla Plock,Lech Poznan
+21,2027-02-06,,Cracovia,Slask Wroclaw
+21,2027-02-06,,Gornik Zabrze,Radomiak Radom
+21,2027-02-06,,Legia,Korona Kielce
+21,2027-02-06,,Motor Lublin,Pogon Szczecin
+21,2027-02-06,,Piast Gliwice,Lech Poznan
+21,2027-02-06,,Widzew Lodz,Jagiellonia
+21,2027-02-06,,Wieczysta Krakow,GKS Katowice
+21,2027-02-06,,Wisla Plock,Wisla
+21,2027-02-06,,Zaglebie,Legia
+22,2027-02-13,,GKS Katowice,Motor Lublin
+22,2027-02-13,,Korona Kielce,Widzew Lodz
+22,2027-02-13,,Lech Poznan,Wisla Plock
+22,2027-02-13,,Pogon Szczecin,Jagiellonia
+22,2027-02-13,,Radomiak Radom,Legia
+22,2027-02-13,,Rakow,Cracovia
+22,2027-02-13,,Slask Wroclaw,Zaglebie
+22,2027-02-13,,Wieczysta Krakow,Piast Gliwice
+22,2027-02-13,,Zaglebie,Rakow
+23,2027-02-20,,Gornik Zabrze,Rakow
+23,2027-02-20,,Jagiellonia,Lech Poznan
+23,2027-02-20,,Legia,Piast Gliwice
+23,2027-02-20,,Motor Lublin,Korona Kielce
+23,2027-02-20,,Widzew Lodz,Slask Wroclaw
+23,2027-02-20,,Wieczysta Krakow,Cracovia
+23,2027-02-20,,Wisla,Gornik Zabrze
+23,2027-02-20,,Wisla,Pogon Szczecin
+23,2027-02-20,,Wisla Plock,GKS Katowice

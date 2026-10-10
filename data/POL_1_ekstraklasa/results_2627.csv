@@ -1,0 +1,81 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-24,,Pogon Szczecin,Legia,0,1,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-24,,Radomiak Radom,Wieczysta Krakow,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Gornik Zabrze,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Jagiellonia,Korona Kielce,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Lech Poznan,Cracovia,0,0,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Rakow,Wisla Plock,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Widzew Lodz,Motor Lublin,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Wisla,GKS Katowice,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-27,,Zaglebie,Piast Gliwice,2,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-31,,Motor Lublin,Jagiellonia,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-31,,Wisla Plock,Widzew Lodz,0,0,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Piast Gliwice,Wisla,4,3,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Wieczysta Krakow,Lech Poznan,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,GKS Katowice,Radomiak Radom,3,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Legia,Zaglebie,3,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Slask Wroclaw,Rakow,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-03,,Cracovia,Pogon Szczecin,0,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-07,,Wisla,Wisla Plock,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Korona Kielce,Legia,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Pogon Szczecin,Motor Lublin,3,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Radomiak Radom,Gornik Zabrze,1,3,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Jagiellonia,Widzew Lodz,0,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Lech Poznan,Piast Gliwice,3,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Slask Wroclaw,Cracovia,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-14,,Legia,Radomiak Radom,5,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Piast Gliwice,Wieczysta Krakow,3,4,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Widzew Lodz,Korona Kielce,1,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Zaglebie,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Cracovia,Rakow,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Gornik Zabrze,Wisla,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Motor Lublin,GKS Katowice,1,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-21,,Cracovia,Wieczysta Krakow,3,2,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Korona Kielce,Motor Lublin,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Piast Gliwice,Legia,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Slask Wroclaw,Widzew Lodz,3,3,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,GKS Katowice,Wisla Plock,5,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Pogon Szczecin,Wisla,2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Radomiak Radom,Zaglebie,0,0,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-28,,Legia,Slask Wroclaw,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-28,,Wisla Plock,Korona Kielce,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Motor Lublin,Piast Gliwice,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Radomiak Radom,Cracovia,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Wisla,Wieczysta Krakow,2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Zaglebie,Pogon Szczecin,0,0,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Gornik Zabrze,GKS Katowice,2,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Rakow,Jagiellonia,2,5,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Widzew Lodz,Lech Poznan,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-03,,Lech Poznan,Jagiellonia,2,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-03,,Rakow,Gornik Zabrze,1,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-04,,Piast Gliwice,GKS Katowice,3,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Korona Kielce,Wisla,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Motor Lublin,Legia,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Widzew Lodz,Radomiak Radom,0,0,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Cracovia,Gornik Zabrze,0,1,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Jagiellonia,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Lech Poznan,Rakow,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-07,,Pogon Szczecin,Wisla Plock,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-07,,Wieczysta Krakow,Zaglebie,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-11,,Rakow,Motor Lublin,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-11,,Wisla,Jagiellonia,2,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Gornik Zabrze,Lech Poznan,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Slask Wroclaw,Korona Kielce,1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Zaglebie,GKS Katowice,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Legia,Widzew Lodz,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Pogon Szczecin,Wieczysta Krakow,2,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Wisla Plock,Cracovia,3,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-14,,Radomiak Radom,Piast Gliwice,0,2,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-15,,Korona Kielce,Gornik Zabrze,0,2,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-15,,Rakow,Zaglebie,2,3,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-18,,Widzew Lodz,Wieczysta Krakow,2,2,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-18,,Wisla,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,GKS Katowice,Cracovia,3,2,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Korona Kielce,Rakow,3,2,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Motor Lublin,Gornik Zabrze,0,0,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Jagiellonia,Legia,1,3,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Lech Poznan,Radomiak Radom,5,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Piast Gliwice,Pogon Szczecin,1,2,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Zaglebie,Wisla Plock,0,2,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-09,,Rakow,GKS Katowice,1,4,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-09,,Wieczysta Krakow,Wisla Plock,3,0,H,,,,,,,,,,,,,,,,,soccerway

@@ -1,0 +1,38 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+,,,CK United,Villa,3,3,D,,,,,,,,,,,,,,,,,soccerway
+,,,CK United,Newbridge Town,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Bonagee,Home Farm,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Killarney Celtic,University College Cork,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Mayo FC,St Francis,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Mervue United,Cockhill,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Salthill,Letterkenny Rovers,4,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Cockhill,Home Farm,0,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Letterkenny Rovers,Mayo FC,3,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Lucan Utd,Mervue United,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Newbridge Town,Villa,1,5,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,TU Dublin,Salthill,2,2,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-06,,Mervue United,Home Farm,1,6,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Bonagee,Lucan Utd,0,1,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,CK United,Villa,3,3,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Killarney Celtic,CK United,2,3,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Mayo FC,TU Dublin,2,3,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,St Francis,Letterkenny Rovers,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Villa,University College Cork,3,2,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Lucan Utd,Cockhill,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Mervue United,Bonagee,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Newbridge Town,Killarney Celtic,2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Salthill,Mayo FC,2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,TU Dublin,St Francis,1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,University College Cork,CK United,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,CK United,Killarney Celtic,3,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,Home Farm,Cockhill,4,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,Letterkenny Rovers,TU Dublin,6,3,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,Mervue United,Lucan Utd,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,St Francis,Salthill,4,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-26,,Villa,Newbridge Town,5,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Bonagee,Mervue United,1,6,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Lucan Utd,Home Farm,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Mayo FC,Letterkenny Rovers,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Newbridge Town,University College Cork,1,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,TU Dublin,Salthill,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Villa,CK United,4,0,H,,,,,,,,,,,,,,,,,soccerway

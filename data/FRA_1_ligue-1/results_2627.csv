@@ -44,3 +44,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-09-20,14:00,AJ Auxerre,Stade Brestois 29,2,1,H,0,1,A,11,8,4,2,19,13,8,3,1,1,0,0,"23,46,83",fixturedl
 5,2026-09-20,16:15,OGC Nice,LOSC Lille,2,1,H,1,0,H,10,21,4,8,16,9,3,7,3,1,0,0,"22,67,79",fixturedl
 5,2026-09-20,19:45,Olympique de Marseille,Paris Saint-Germain,1,2,A,0,0,D,12,31,4,10,9,3,3,7,2,1,1,0,"72,74",fixturedl
+6,2026-10-09,19:45,RC Lens,Olympique Lyonnais,2.0,1.0,H,,,,,,,,,,,,,,,,"36,85",fixturedl

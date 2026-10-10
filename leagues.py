@@ -67,6 +67,19 @@ OTHERS = [
     League("NOR_1_eliteserien",   "Eliteserien",          "Norway",      soccerway="norway/eliteserien"),
     League("ROU_1_liga-1",        "Liga I",               "Romania",     soccerway="romania/superliga"),
     League("RUS_1_premier-liga",  "Russian Premier Liga", "Russia",      soccerway="russia/premier-league"),
+    # Ireland
+    League("IRE_2_first-division",  "League of Ireland First Division",  "Ireland", soccerway="ireland/division-1"),
+    League("IRE_3_national-league", "League of Ireland National League", "Ireland", soccerway="ireland/national-league"),
+    # Poland
+    League("POL_1_ekstraklasa",  "Ekstraklasa", "Poland", soccerway="poland/ekstraklasa"),
+    League("POL_2_division-1",   "I Liga",      "Poland", soccerway="poland/division-1"),
+    League("POL_3_division-2",   "II Liga",     "Poland", soccerway="poland/division-2"),
+    # Belgium
+    League("BEL_U21_pro-league", "Pro League U21", "Belgium", soccerway="belgium/pro-league-u21"),
+    # Wales
+    League("WAL_1_cymru-premier", "Cymru Premier", "Wales", soccerway="wales/cymru-premier"),
+    League("WAL_2_cymru-north",   "Cymru North",   "Wales", soccerway="wales/cymru-north"),
+    League("WAL_3_cymru-south",   "Cymru South",   "Wales", soccerway="wales/cymru-south"),
 ]
 
 ALL: list[League] = TOP5 + OTHERS

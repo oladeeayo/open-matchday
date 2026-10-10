@@ -1,0 +1,110 @@
+gw,date,time,home,away
+10,2026-10-10,,Brickfield,Mold Alexandra
+10,2026-10-10,,Gresford,Porthmadog
+10,2026-10-10,,Guilsfield,Denbigh
+10,2026-10-10,,Holyhead,Caersws FC
+10,2026-10-10,,Llanuwchllyn,Penrhyncoch
+11,2026-10-23,,Newtown,Bangor 1876
+11,2026-10-24,,Bangor 1876,Ruthin
+11,2026-10-24,,Buckley,Holyhead
+11,2026-10-24,,Caersws FC,Guilsfield
+11,2026-10-24,,Denbigh,Gresford
+11,2026-10-24,,Llanuwchllyn,Bala
+11,2026-10-24,,Penrhyncoch,Mold Alexandra
+11,2026-10-24,,Porthmadog,Brickfield
+12,2026-10-31,,Brickfield,Bala
+12,2026-10-31,,Caersws FC,Bangor 1876
+12,2026-10-31,,Gresford,Ruthin
+12,2026-10-31,,Guilsfield,Porthmadog
+12,2026-10-31,,Holyhead,Penrhyncoch
+12,2026-10-31,,Llanuwchllyn,Denbigh
+12,2026-10-31,,Mold Alexandra,Rhyl
+12,2026-10-31,,Rhyl,Newtown
+13,2026-11-06,,Bala,Guilsfield
+13,2026-11-06,,Bangor 1876,Gresford
+13,2026-11-06,,Denbigh,Mold Alexandra
+13,2026-11-06,,Newtown,Buckley
+13,2026-11-06,,Penrhyncoch,Caersws FC
+13,2026-11-07,,Buckley,Brickfield
+13,2026-11-07,,Rhyl,Holyhead
+13,2026-11-07,,Ruthin,Newtown
+14,2026-11-21,,Brickfield,Newtown
+14,2026-11-21,,Caersws FC,Denbigh
+14,2026-11-21,,Gresford,Buckley
+14,2026-11-21,,Guilsfield,Bangor 1876
+14,2026-11-21,,Holyhead,Bala
+14,2026-11-21,,Llanuwchllyn,Ruthin
+14,2026-11-21,,Mold Alexandra,Porthmadog
+14,2026-11-21,,Porthmadog,Llanuwchllyn
+15,2026-11-27,,Bala,Caersws FC
+15,2026-11-27,,Bangor 1876,Mold Alexandra
+15,2026-11-27,,Penrhyncoch,Rhyl
+15,2026-11-28,,Buckley,Llanuwchllyn
+15,2026-11-28,,Denbigh,Brickfield
+15,2026-11-28,,Newtown,Holyhead
+15,2026-11-28,,Rhyl,Gresford
+15,2026-11-28,,Ruthin,Guilsfield
+16,2026-12-05,,Brickfield,Bangor 1876
+16,2026-12-05,,Caersws FC,Porthmadog
+16,2026-12-05,,Gresford,Bala
+16,2026-12-05,,Guilsfield,Rhyl
+16,2026-12-05,,Holyhead,Denbigh
+16,2026-12-05,,Llanuwchllyn,Newtown
+16,2026-12-05,,Mold Alexandra,Ruthin
+16,2026-12-05,,Porthmadog,Penrhyncoch
+17,2026-12-18,,Bangor 1876,Holyhead
+17,2026-12-18,,Buckley,Caersws FC
+17,2026-12-18,,Newtown,Mold Alexandra
+17,2026-12-18,,Penrhyncoch,Buckley
+17,2026-12-19,,Bala,Penrhyncoch
+17,2026-12-19,,Denbigh,Guilsfield
+17,2026-12-19,,Rhyl,Llanuwchllyn
+17,2026-12-19,,Ruthin,Brickfield
+18,2026-12-26,,Bala,Llanuwchllyn
+18,2026-12-26,,Brickfield,Gresford
+18,2026-12-26,,Buckley,Mold Alexandra
+18,2026-12-26,,Denbigh,Ruthin
+18,2026-12-26,,Newtown,Caersws FC
+18,2026-12-26,,Penrhyncoch,Guilsfield
+18,2026-12-26,,Porthmadog,Gresford
+18,2026-12-26,,Rhyl,Bangor 1876
+19,2027-01-02,,Bala,Porthmadog
+19,2027-01-02,,Bangor 1876,Denbigh
+19,2027-01-02,,Caersws FC,Penrhyncoch
+19,2027-01-02,,Gresford,Llanuwchllyn
+19,2027-01-02,,Guilsfield,Newtown
+19,2027-01-02,,Holyhead,Rhyl
+19,2027-01-02,,Mold Alexandra,Brickfield
+19,2027-01-02,,Porthmadog,Holyhead
+20,2027-01-22,,Bala,Holyhead
+20,2027-01-22,,Buckley,Gresford
+20,2027-01-22,,Newtown,Brickfield
+20,2027-01-22,,Penrhyncoch,Llanuwchllyn
+20,2027-01-22,,Rhyl,Mold Alexandra
+20,2027-01-22,,Ruthin,Buckley
+20,2027-01-23,,Denbigh,Caersws FC
+20,2027-01-23,,Ruthin,Bangor 1876
+21,2027-02-06,,Bangor 1876,Newtown
+21,2027-02-06,,Brickfield,Buckley
+21,2027-02-06,,Caersws FC,Rhyl
+21,2027-02-06,,Gresford,Penrhyncoch
+21,2027-02-06,,Guilsfield,Bala
+21,2027-02-06,,Holyhead,Ruthin
+21,2027-02-06,,Llanuwchllyn,Porthmadog
+21,2027-02-06,,Porthmadog,Guilsfield
+22,2027-02-12,,Bala,Brickfield
+22,2027-02-12,,Mold Alexandra,Denbigh
+22,2027-02-13,,Buckley,Bangor 1876
+22,2027-02-13,,Gresford,Caersws FC
+22,2027-02-13,,Llanuwchllyn,Guilsfield
+22,2027-02-13,,Newtown,Ruthin
+22,2027-02-13,,Penrhyncoch,Holyhead
+22,2027-02-13,,Rhyl,Denbigh
+23,2027-02-19,,Porthmadog,Mold Alexandra
+23,2027-02-20,,Bangor 1876,Porthmadog
+23,2027-02-20,,Brickfield,Rhyl
+23,2027-02-20,,Caersws FC,Llanuwchllyn
+23,2027-02-20,,Denbigh,Newtown
+23,2027-02-20,,Gresford,Holyhead
+23,2027-02-20,,Guilsfield,Buckley
+23,2027-02-20,,Mold Alexandra,Penrhyncoch

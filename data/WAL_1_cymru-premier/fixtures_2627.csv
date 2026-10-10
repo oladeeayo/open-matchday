@@ -1,0 +1,113 @@
+gw,date,time,home,away
+12,2026-10-23,,Caernarfon,Briton Ferry
+12,2026-10-23,,Cambrian United,Airbus
+12,2026-10-23,,Colwyn Bay,Cardiff Metropolitan
+12,2026-10-23,,Flint,Colwyn Bay
+12,2026-10-23,,Holywell,Penybont
+12,2026-10-23,,TNS,Ammanford
+12,2026-10-24,,Connahs Q.,Llandudno
+12,2026-10-24,,Trefelin,Flint
+13,2026-10-30,,Airbus,Caernarfon
+13,2026-10-30,,Ammanford,Haverfordwest
+13,2026-10-30,,Barry,Haverfordwest
+13,2026-10-30,,Barry,Trefelin
+13,2026-10-30,,Briton Ferry,Llandudno
+13,2026-10-30,,Colwyn Bay,Cambrian United
+13,2026-10-31,,Cardiff Metropolitan,Penybont
+13,2026-10-31,,Flint,Holywell
+14,2026-11-06,,Ammanford,Briton Ferry
+14,2026-11-06,,Cambrian United,Barry
+14,2026-11-06,,Haverfordwest,Cardiff Metropolitan
+14,2026-11-06,,Holywell,Airbus
+14,2026-11-06,,Llandudno,TNS
+14,2026-11-06,,Penybont,Caernarfon
+14,2026-11-06,,TNS,Connahs Q.
+14,2026-11-06,,Trefelin,Colwyn Bay
+15,2026-11-20,,Airbus,Colwyn Bay
+15,2026-11-20,,Briton Ferry,Holywell
+15,2026-11-20,,Caernarfon,Connahs Q.
+15,2026-11-20,,Cardiff Metropolitan,Ammanford
+15,2026-11-20,,Connahs Q.,Flint
+15,2026-11-20,,Flint,Cambrian United
+15,2026-11-20,,Llandudno,Barry
+15,2026-11-20,,Penybont,Haverfordwest
+16,2026-11-27,,Barry,Caernarfon
+16,2026-11-27,,Briton Ferry,Penybont
+16,2026-11-27,,Cambrian United,Trefelin
+16,2026-11-27,,Cardiff Metropolitan,Airbus
+16,2026-11-27,,Colwyn Bay,Ammanford
+16,2026-11-27,,Flint,TNS
+16,2026-11-27,,TNS,Trefelin
+16,2026-11-28,,Haverfordwest,Connahs Q.
+17,2026-12-05,,Airbus,Briton Ferry
+17,2026-12-05,,Ammanford,Flint
+17,2026-12-05,,Barry,Colwyn Bay
+17,2026-12-05,,Caernarfon,Haverfordwest
+17,2026-12-05,,Connahs Q.,Holywell
+17,2026-12-05,,Holywell,Llandudno
+17,2026-12-05,,Llandudno,Cambrian United
+17,2026-12-05,,TNS,Penybont
+18,2026-12-18,,Airbus,Llandudno
+18,2026-12-18,,Ammanford,Barry
+18,2026-12-18,,Briton Ferry,Caernarfon
+18,2026-12-18,,Cardiff Metropolitan,Connahs Q.
+18,2026-12-18,,Colwyn Bay,TNS
+18,2026-12-18,,Flint,Trefelin
+18,2026-12-18,,Trefelin,Cardiff Metropolitan
+18,2026-12-19,,Penybont,Holywell
+19,2026-12-26,,Barry,Penybont
+19,2026-12-26,,Caernarfon,Airbus
+19,2026-12-26,,Cambrian United,Haverfordwest
+19,2026-12-26,,Cambrian United,Cardiff Metropolitan
+19,2026-12-26,,Connahs Q.,TNS
+19,2026-12-26,,Haverfordwest,Ammanford
+19,2026-12-26,,Holywell,Flint
+19,2026-12-26,,Trefelin,Briton Ferry
+20,2026-12-31,,Cardiff Metropolitan,Barry
+20,2026-12-31,,Llandudno,Colwyn Bay
+20,2027-01-01,,Airbus,Connahs Q.
+20,2027-01-01,,Ammanford,Trefelin
+20,2027-01-01,,Briton Ferry,Haverfordwest
+20,2027-01-01,,Flint,Llandudno
+20,2027-01-01,,Penybont,Cambrian United
+20,2027-01-01,,TNS,Holywell
+21,2027-01-22,,Barry,Flint
+21,2027-01-22,,Caernarfon,Cardiff Metropolitan
+21,2027-01-22,,Cambrian United,Colwyn Bay
+21,2027-01-22,,Colwyn Bay,Caernarfon
+21,2027-01-22,,Connahs Q.,Briton Ferry
+21,2027-01-22,,Haverfordwest,TNS
+21,2027-01-22,,Holywell,Ammanford
+21,2027-01-22,,Llandudno,Penybont
+22,2027-02-05,,Airbus,Barry
+22,2027-02-05,,Ammanford,Llandudno
+22,2027-02-05,,Briton Ferry,Cambrian United
+22,2027-02-05,,Caernarfon,Trefelin
+22,2027-02-05,,Colwyn Bay,Holywell
+22,2027-02-05,,Flint,Haverfordwest
+22,2027-02-05,,Penybont,Connahs Q.
+22,2027-02-05,,Trefelin,Airbus
+23,2027-02-12,,Airbus,Penybont
+23,2027-02-12,,Ammanford,TNS
+23,2027-02-12,,Barry,Holywell
+23,2027-02-12,,Cambrian United,Caernarfon
+23,2027-02-12,,Cardiff Metropolitan,Flint
+23,2027-02-12,,Connahs Q.,Colwyn Bay
+23,2027-02-12,,Llandudno,Briton Ferry
+23,2027-02-12,,TNS,Cardiff Metropolitan
+24,2027-02-19,,Briton Ferry,Cardiff Metropolitan
+24,2027-02-19,,Caernarfon,Ammanford
+24,2027-02-19,,Colwyn Bay,Flint
+24,2027-02-19,,Connahs Q.,Barry
+24,2027-02-19,,Haverfordwest,Llandudno
+24,2027-02-19,,Holywell,Cambrian United
+24,2027-02-19,,Penybont,Trefelin
+24,2027-02-19,,Trefelin,Haverfordwest
+25,2027-02-26,,Airbus,Haverfordwest
+25,2027-02-26,,Barry,Briton Ferry
+25,2027-02-26,,Cambrian United,TNS
+25,2027-02-26,,Cardiff Metropolitan,Colwyn Bay
+25,2027-02-26,,Flint,Caernarfon
+25,2027-02-26,,Llandudno,Connahs Q.
+25,2027-02-26,,Penybont,Ammanford
+25,2027-02-26,,TNS,Airbus
