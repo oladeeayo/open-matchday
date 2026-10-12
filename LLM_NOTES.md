@@ -152,10 +152,15 @@ each league. **Add a league there** and `build.py` picks it up.
     dates, so naive key×key diffs invent phantom changes. Also:
     - mid-season fixture growth is normal — sources publish the second half
       of the season later (+1/+2 rows per league, e.g. SVK/CRO/SCO);
-    - UEFA league-phase fixtures carry **name-variant duplicate rows**
-      ("Stuttgart v Atleti" + "Stuttgart v Atl. Madrid" from two sources) —
-      a pre-existing quirk, dates now aligned, dedupe does not collapse
-      different spellings. Do not treat as a regression;
+    - UEFA league-phase fixtures used to carry **name-variant duplicate
+      rows** ("Stuttgart v Atleti" + "Stuttgart v Atl. Madrid") because
+      dedupe did not collapse different spellings — fixed 2026-10-12 by
+      `_TEAM_ALIASES` entries (Atl. Madrid/Atleti, Paris/PSG/Paris
+      Saint-Germain, Man Utd/Manchester United, Crvena Zvezda/Red Star
+      Belgrade, København/Copenhagen, Nordsjælland/Nordsjaelland, AGF/
+      Aarhus, L. Red Imps/Lincoln Red Imps …). When adding an alias, reuse
+      the EXISTING canonical value for that club (check the table first —
+      conflicting canonicals cancel each other and break the merge);
     - changed dates in the 13/14-day range were the old neighbour-`AD` bug
       (#14); verify big movers against the live page's `leadAD` field.
 
@@ -172,7 +177,12 @@ each league. **Add a league there** and `build.py` picks it up.
 - UEFA club competitions (UEFA_1_*): fixturedl is the fixture authority,
   espn fills current-round results + goal minutes; soccerway blob supplies
   ET-aware scores (#14). Fixtures = league phase + knockout as draws land
-  (144/144/108 fixturedl rows for UCL/UEL/UECL).
+  (144/144/108 fixturedl rows for UCL/UEL/UECL). **Main round only** —
+  `League.main_round_from` (UCL 2026-09-08, UEL 2026-09-16, UECL
+  2026-10-15, the league-phase openers per ESPN+fixturedl) drops all
+  soccerway qualifying rows (and any undated row) after merge, so
+  results/tables never count qualifiers. Knockout rounds fall after the
+  cutoff and are kept.
 - Fixturedownload.com does NOT have feeds for tiers 6–7 (tried many slug
   variants — all 404). Only tiers 1–5 have fixturedl spines.
 - England tiers 6+ and Scotland 2–4 have no full-season fixture spine →
@@ -224,7 +234,9 @@ the daily run fails visibly — check `build_summary.json` in the run output.
 1. `python build.py` exits with every league `err=-`.
 2. Row sums: EPL/LaLiga/SerieA/3.Liga = 380; Bundesliga/2BL/Eredivisie/
    Primeira/Süper/Ligue 1 = 306; EFL leagues = 552 (±postponement extras).
-   No pairing should appear more than twice.
+   No pairing should appear more than twice. UEFA_1_* results+fixtures
+   combined = 144/144/108 (league phase only — qualifiers must never
+   appear; see `main_round_from`).
 3. **Every row of every `fixtures_*.csv` and `results_*.csv` must have a
    date** (and results must have FT scores). A blank date means a new
    undated-source case — see gotcha #11.

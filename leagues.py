@@ -28,6 +28,11 @@ class League:
     # Jan-Dec calendar-year season (MLS/BRA/ARG/MEX/CHN/JPN) — widen ESPN
     # month window so the WHOLE season is fetched, not just Aug-May.
     calendar_year: bool = False
+    # Drop everything (results + fixtures) dated BEFORE this ISO date, and
+    # drop undated rows too. Used by UEFA club comps to keep ONLY the main
+    # round (league phase) — qualifying-round rows from Soccerway pollute
+    # results/tables. Knockout rounds follow the league phase, so they pass.
+    main_round_from: str | None = None
 
 
 # --- top-5 leagues: full detail (goal minutes scraped) -----------------------
@@ -40,16 +45,21 @@ TOP5 = [
 ]
 
 # --- UEFA club competitions (league phase + knockout as draws land) ---------
+# main_round_from = first league-phase matchday (ESPN + fixturedl agree):
+# UCL 2026-09-08, UEL 2026-09-16, UECL 2026-10-15. Qualifiers are excluded.
 UEFA = [
     League("UEFA_1_champions-league", "UEFA Champions League", "UEFA",
            espn="uefa.champions", fixturedl="champions-league-2026",
-           soccerway="europe/champions-league", goal_minutes=True),
+           soccerway="europe/champions-league", goal_minutes=True,
+           main_round_from="2026-09-08"),
     League("UEFA_1_europa-league", "UEFA Europa League", "UEFA",
            espn="uefa.europa", fixturedl="europa-league-2026",
-           soccerway="europe/europa-league", goal_minutes=True),
+           soccerway="europe/europa-league", goal_minutes=True,
+           main_round_from="2026-09-16"),
     League("UEFA_1_conference-league", "UEFA Conference League", "UEFA",
            espn="uefa.europa.conf", fixturedl="conference-league-2026",
-           soccerway="europe/conference-league", goal_minutes=True),
+           soccerway="europe/conference-league", goal_minutes=True,
+           main_round_from="2026-10-15"),
 ]
 
 # --- domestic cups (added when a source actually has the fixtures) ----------

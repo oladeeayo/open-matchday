@@ -1,5 +1,4 @@
 gw,date,time,home,away
-11,2026-10-12,,Ol. Grudziadz,R. Rzeszow
 10,2026-10-14,,Slask Wroclaw II,Legia II
 12,2026-10-17,,Hutnik Krakow,Chojniczanka
 12,2026-10-17,,Leczna,S. Wola
@@ -109,3 +108,12 @@ gw,date,time,home,away
 23,2027-03-13,,Sandecja Nowy S.,R. Rzeszow
 23,2027-03-13,,Tychy,Swit Szczecin
 23,2027-03-13,,Zielona Gora,Avia Swidnik
+24,2027-03-20,,Avia Swidnik,Tychy
+24,2027-03-20,,Bielsko-Biala,Legia II
+23,2027-03-20,,Hutnik Krakow,Pruszkow
+24,2027-03-20,,Leczna,Kleczew
+24,2027-03-20,,Ol. Grudziadz,Slask Wroclaw II
+24,2027-03-20,,R. Rzeszow,Chojniczanka
+24,2027-03-20,,Sandecja Nowy S.,Podhale Nowy Targ
+24,2027-03-20,,Swit Szczecin,Zielona Gora
+24,2027-03-20,,Zawisza,S. Wola

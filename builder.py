@@ -191,6 +191,19 @@ _TEAM_ALIASES = {
     "clermont": "Clermont Foot 63", "clermontfoot63": "Clermont Foot 63",
     "nancylorraine": "AS Nancy Lorraine", "asnancylorraine": "AS Nancy Lorraine",
     "redstar": "Red Star FC", "redstarfc93": "Red Star FC",
+    # UEFA (spine = fixturedl spelling; ESPN/Soccerway variants)
+    "atlmadrid": "Atleti", "atlticomadrid": "Atleti",
+    "paris": "Paris Saint-Germain", "psg": "Paris Saint-Germain",
+    "manchestercity": "Manchester City",
+    "manchesterutd": "Manchester United",
+    "manchesterunited": "Manchester United",
+    "hapoelbeer": "H. Beer-Sheva",
+    "dinzagreb": "GNK Dinamo", "dinamozagreb": "GNK Dinamo",
+    "nec": "NEC Nijmegen", "lillestrom": "Lillestrøm",
+    "aarhus": "AGF", "redstarbelgrade": "Crvena Zvezda",
+    "lincolnredimps": "L. Red Imps", "fckbenhavn": "Copenhagen",
+    "nordsjaelland": "Nordsjælland", "kaunozalgiris": "Kauno Žalgiris",
+    "mjallby": "Mjällby",
 }
 
 # Tokens that alone must never confirm a match: two different clubs can share
@@ -568,6 +581,14 @@ def build_league(lg: League, season: str) -> dict:
             errors.append(f"soccerway: {e}")
 
     rows = merge(rows)
+    if lg.main_round_from:
+        # UEFA main-round-only: drop qualifying rows (dated before the
+        # league-phase opener) and any undated row (qualifier leftovers —
+        # every main-round match is dated by the fixturedl spine).
+        cutoff = dt.date.fromisoformat(lg.main_round_from)
+        rows = [r for r in rows
+                if (d := _parse_date(r.get("date"))) is not None
+                and d >= cutoff]
     rows = drop_undated_score_dupes(rows)
     rows, dup_fx = dedupe_fixtures(rows)
     rows, dup_rev = drop_reversed_fixture_dupes(rows)

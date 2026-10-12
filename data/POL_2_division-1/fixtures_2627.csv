@@ -1,5 +1,4 @@
 gw,date,time,home,away
-10,2026-10-12,,S. Rzeszow,Lechia Gdansk
 7,2026-10-15,,Pogon Siedlce,Puszcza
 11,2026-10-16,,Ruch Chorzow,Odra Opole
 11,2026-10-16,,Warta Poznan,Skierniewice
@@ -109,3 +108,12 @@ gw,date,time,home,away
 22,2027-02-27,,Skierniewice,Puszcza
 22,2027-02-27,,Stal Mielec,LKS Lodz
 22,2027-02-27,,Warta Poznan,Chrobry Glogow
+23,2027-03-06,,LKS Lodz,Odra Opole
+23,2027-03-06,,Lechia Gdansk,Polonia Warszawa
+23,2027-03-06,,Podbeskidzie,Puszcza
+23,2027-03-06,,Polonia Bytom,Arka Gdynia
+23,2027-03-06,,Ruch Chorzow,Chrobry Glogow
+23,2027-03-06,,S. Rzeszow,Skierniewice
+23,2027-03-06,,Stal Mielec,Pogon Siedlce
+23,2027-03-06,,Termalica B-B.,Grodzisk M.
+23,2027-03-06,,Warta Poznan,Legnica

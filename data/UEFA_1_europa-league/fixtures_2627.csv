@@ -1,12 +1,9 @@
 gw,date,time,home,away
-2,2026-10-15,,Din. Zagreb,Anderlecht
 2,2026-10-15,17:45,AZ Alkmaar,H. Beer-Sheva
-10,2026-10-15,17:45,AZ Alkmaar,Hapoel Be'er
 2,2026-10-15,17:45,Celje,Omonia
 2,2026-10-15,17:45,Lech Poznan,Leverkusen
 2,2026-10-15,17:45,Lyon,Crystal Palace
 2,2026-10-15,17:45,Salzburg,Milan
-2,2026-10-15,17:45,Sparta Prague,Lillestrom
 2,2026-10-15,17:45,Sparta Praha,Lillestrøm
 2,2026-10-15,17:45,Torreense,Sunderland
 2,2026-10-15,17:45,Union SG,Real Sociedad
@@ -19,10 +16,8 @@ gw,date,time,home,away
 2,2026-10-15,20:00,Jagiellonia,Ararat-Armenia
 2,2026-10-15,20:00,Marseille,Olympiacos
 2,2026-10-15,20:00,N.E.C.,Levski Sofia
-2,2026-10-15,20:00,NEC Nijmegen,Levski Sofia
 2,2026-10-15,20:00,Rennes,OFI Crete
 3,2026-10-22,17:45,Ararat-Armenia,AZ Alkmaar
-3,2026-10-22,17:45,Dinamo Zagreb,NEC Nijmegen
 3,2026-10-22,17:45,Ferencváros,Torreense
 3,2026-10-22,17:45,GNK Dinamo,N.E.C.
 3,2026-10-22,17:45,Juventus,Rennes
@@ -30,27 +25,22 @@ gw,date,time,home,away
 3,2026-10-22,17:45,OFI Crete,Leverkusen
 3,2026-10-22,17:45,Sturm Graz,Marseille
 3,2026-10-22,17:45,Union SG,H. Beer-Sheva
-11,2026-10-22,17:45,Union St.-Gilloise,Hapoel Be'er
 3,2026-10-22,20:00,Besiktas,Crystal Palace
 3,2026-10-22,20:00,Bournemouth,Milan
 3,2026-10-22,20:00,Celje,Salzburg
 3,2026-10-22,20:00,Celtic,Celta
 3,2026-10-22,20:00,Hoffenheim,Lyon
 3,2026-10-22,20:00,Jagiellonia,Anderlecht
-3,2026-10-22,20:00,Lillestrom,Real Sociedad
 3,2026-10-22,20:00,Lillestrøm,Real Sociedad
 3,2026-10-22,20:00,Olympiacos,Sparta Praha
 3,2026-10-22,20:00,Omonia,Benfica
 3,2026-10-22,20:00,Viktoria Plzen,Levski Sofia
-4,2026-11-05,,Sunderland,Din. Zagreb
 4,2026-11-05,18:45,Anderlecht,Salzburg
 4,2026-11-05,18:45,Crystal Palace,Hoffenheim
 4,2026-11-05,18:45,Levski Sofia,Jagiellonia
-4,2026-11-05,18:45,Lillestrom,Viktoria Plzen
 4,2026-11-05,18:45,Lillestrøm,Viktoria Plzen
 4,2026-11-05,18:45,Milan,Ferencváros
 4,2026-11-05,18:45,N.E.C.,Omonia
-4,2026-11-05,18:45,NEC Nijmegen,Omonia Nicosia
 4,2026-11-05,18:45,Real Sociedad,Lyon
 4,2026-11-05,18:45,Rennes,Olympiacos
 4,2026-11-05,18:45,Sparta Praha,Bournemouth
@@ -59,14 +49,11 @@ gw,date,time,home,away
 4,2026-11-05,21:00,Celta,Union SG
 4,2026-11-05,21:00,Celtic,Besiktas
 4,2026-11-05,21:00,H. Beer-Sheva,OFI Crete
-12,2026-11-05,21:00,Hapoel Be'er,OFI Crete
 4,2026-11-05,21:00,Leverkusen,Marseille
 4,2026-11-05,21:00,Sturm Graz,Celje
 4,2026-11-05,21:00,Sunderland,GNK Dinamo
 4,2026-11-05,21:00,Torreense,Ararat-Armenia
-5,2026-11-26,,Din. Zagreb,Bayer Leverkusen
 5,2026-11-26,18:45,Besiktas,H. Beer-Sheva
-13,2026-11-26,18:45,Besiktas,Hapoel Be'er
 5,2026-11-26,18:45,Celta,Bournemouth
 5,2026-11-26,18:45,GNK Dinamo,Leverkusen
 5,2026-11-26,18:45,Marseille,Levski Sofia
@@ -79,20 +66,15 @@ gw,date,time,home,away
 5,2026-11-26,21:00,Hoffenheim,Sturm Graz
 5,2026-11-26,21:00,Juventus,Omonia
 5,2026-11-26,21:00,Lyon,Lillestrøm
-5,2026-11-26,21:00,Lyon,Lillestrom
 5,2026-11-26,21:00,N.E.C.,Rennes
-5,2026-11-26,21:00,NEC Nijmegen,Stade Rennais
 5,2026-11-26,21:00,OFI Crete,Anderlecht
 5,2026-11-26,21:00,Sparta Praha,AZ Alkmaar
 5,2026-11-26,21:00,Sunderland,Jagiellonia
 5,2026-11-26,21:00,Torreense,Celtic
-6,2026-12-10,,Rennes,Din. Zagreb
 6,2026-12-10,18:45,AZ Alkmaar,Sturm Graz
 6,2026-12-10,18:45,Anderlecht,Hoffenheim
 6,2026-12-10,18:45,Ararat-Armenia,N.E.C.
-6,2026-12-10,18:45,Ararat-Armenia,NEC Nijmegen
 6,2026-12-10,18:45,H. Beer-Sheva,Juventus
-14,2026-12-10,18:45,Hapoel Be'er,Juventus
 6,2026-12-10,18:45,Jagiellonia,Crystal Palace
 6,2026-12-10,18:45,Marseille,Celta
 6,2026-12-10,18:45,Omonia,Celtic
@@ -103,20 +85,16 @@ gw,date,time,home,away
 6,2026-12-10,21:00,Lech Poznan,Ferencváros
 6,2026-12-10,21:00,Leverkusen,Besiktas
 6,2026-12-10,21:00,Levski Sofia,Lillestrøm
-6,2026-12-10,21:00,Levski Sofia,Lillestrom
 6,2026-12-10,21:00,Lyon,Union SG
 6,2026-12-10,21:00,Milan,Sunderland
 6,2026-12-10,21:00,Real Sociedad,Torreense
 6,2026-12-10,21:00,Salzburg,Sparta Praha
-7,2027-01-21,,AZ Alkmaar,Din. Zagreb
 7,2027-01-21,18:45,Ararat-Armenia,Celje
 7,2027-01-21,18:45,Besiktas,Union SG
 7,2027-01-21,18:45,Ferencváros,Juventus
 7,2027-01-21,18:45,Jagiellonia,Lyon
-7,2027-01-21,18:45,Lillestrom,AFC Bournemouth
 7,2027-01-21,18:45,Lillestrøm,Bournemouth
 7,2027-01-21,18:45,N.E.C.,Benfica
-7,2027-01-21,18:45,NEC Nijmegen,Benfica
 7,2027-01-21,18:45,Olympiacos,Hoffenheim
 7,2027-01-21,18:45,Real Sociedad,Viktoria Plzen
 7,2027-01-21,18:45,Sturm Graz,OFI Crete
@@ -125,25 +103,20 @@ gw,date,time,home,away
 7,2027-01-21,21:00,Celtic,Marseille
 7,2027-01-21,21:00,Crystal Palace,Sparta Praha
 7,2027-01-21,21:00,H. Beer-Sheva,Celta
-15,2027-01-21,21:00,Hapoel Be'er,Celta Vigo
 7,2027-01-21,21:00,Lech Poznan,Torreense
 7,2027-01-21,21:00,Leverkusen,Salzburg
 7,2027-01-21,21:00,Levski Sofia,Milan
 7,2027-01-21,21:00,Rennes,Omonia
-8,2027-01-28,,Din. Zagreb,Sturm Graz
-16,2027-01-28,21:00,AFC Bournemouth,Hapoel Be'er
 8,2027-01-28,21:00,Benfica,AZ Alkmaar
 8,2027-01-28,21:00,Bournemouth,H. Beer-Sheva
 8,2027-01-28,21:00,Celje,N.E.C.
 8,2027-01-28,21:00,Celta,Lillestrøm
-8,2027-01-28,21:00,Celta Vigo,Lillestrom
 8,2027-01-28,21:00,GNK Dinamo,Sturm Graz
 8,2027-01-28,21:00,Hoffenheim,Ferencváros
 8,2027-01-28,21:00,Juventus,Real Sociedad
 8,2027-01-28,21:00,Lyon,Leverkusen
 8,2027-01-28,21:00,Marseille,Anderlecht
 8,2027-01-28,21:00,Milan,Ararat-Armenia
-8,2027-01-28,21:00,NK Celje,NEC Nijmegen
 8,2027-01-28,21:00,OFI Crete,Lech Poznan
 8,2027-01-28,21:00,Omonia,Besiktas
 8,2027-01-28,21:00,Salzburg,Crystal Palace
