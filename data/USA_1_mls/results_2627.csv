@@ -1,0 +1,451 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-02-21,20:30,St. Louis CITY SC,Charlotte FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-21,22:45,FC Cincinnati,Atlanta United,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,01:30,D.C. United,Philadelphia Union,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,01:30,Orlando City,Red Bull New York,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,01:30,Vancouver Whitecaps FC,Real Salt Lake,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,02:30,Austin FC,Minnesota United FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,02:30,FC Dallas,Toronto FC,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,02:30,Houston Dynamo FC,Chicago Fire FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,02:30,Nashville SC,New England Revolution,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,03:30,LAFC,Inter Miami CF,3,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-22,03:30,Los Angeles Football Club,Inter Miami CF,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,04:30,Portland Timbers,Columbus Crew,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,04:30,San Diego FC,CF Montréal,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-22,04:30,San Jose Earthquakes,Sporting Kansas City,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-23,01:00,LA Galaxy,New York City Football Club,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-02-23,03:15,Seattle Sounders FC,Colorado Rapids,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-02-28,20:30,Chicago Fire FC,CF Montréal,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-02-28,20:30,Red Bull New York,New England Revolution,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-02-28,22:30,Colorado Rapids,Portland Timbers,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-02-28,22:30,Minnesota United FC,FC Cincinnati,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,01:30,Real Salt Lake,Seattle Sounders FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,01:30,San Jose Earthquakes,Atlanta United,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,02:30,FC Dallas,Nashville SC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,02:30,Houston Dynamo FC,Los Angeles Football Club,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,02:30,Houston Dynamo FC,LAFC,0,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-03-01,02:30,Sporting Kansas City,Columbus Crew,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,03:30,Vancouver Whitecaps FC,Toronto FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,04:30,LA Galaxy,Charlotte FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,20:30,Austin FC,D.C. United,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-01,22:30,Philadelphia Union,New York City Football Club,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-02,01:00,Orlando City,Inter Miami CF,2,4,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-03-02,03:15,San Diego FC,St. Louis CITY SC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-07,20:30,New York City Football Club,Orlando City,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-07,22:30,D.C. United,Inter Miami CF,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,00:00,FC Cincinnati,Toronto FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,01:30,Atlanta United,Real Salt Lake,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,01:30,Charlotte FC,Austin FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,01:30,Columbus Crew,Chicago Fire FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,01:30,Philadelphia Union,San Jose Earthquakes,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,02:30,Nashville SC,Minnesota United FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,02:30,Sporting Kansas City,San Diego FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,02:30,St. Louis CITY SC,Seattle Sounders FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,03:30,Colorado Rapids,LA Galaxy,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,04:30,LAFC,FC Dallas,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-08,04:30,Los Angeles Football Club,FC Dallas,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,04:30,Portland Timbers,Vancouver Whitecaps FC,1,4,A,,,,,,,,,,,,,,,,,fixturedl
+3,2026-03-08,21:30,Red Bull New York,CF Montréal,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,00:30,Charlotte FC,Inter Miami CF,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,00:30,New York City Football Club,Colorado Rapids,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,00:30,Orlando City,CF Montréal,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,18:00,Toronto FC,Red Bull New York,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,20:15,Atlanta United,Philadelphia Union,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-14,23:15,Columbus Crew,Nashville SC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,00:00,San Jose Earthquakes,Seattle Sounders FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,01:30,Chicago Fire FC,D.C. United,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,01:30,FC Dallas,San Diego FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,01:30,Houston Dynamo FC,Portland Timbers,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,02:30,LA Galaxy,Sporting Kansas City,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,02:30,Real Salt Lake,Austin FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,03:30,LAFC,St. Louis CITY SC,2,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-03-15,03:30,Los Angeles Football Club,St. Louis CITY SC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,19:30,New England Revolution,FC Cincinnati,6,1,H,,,,,,,,,,,,,,,,,fixturedl
+4,2026-03-15,21:30,Vancouver Whitecaps FC,Minnesota United FC,6,0,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-21,00:30,Atlanta United,D.C. United,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-21,00:30,Charlotte FC,Red Bull New York,6,1,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-21,18:00,Toronto FC,Columbus Crew,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-21,21:30,Philadelphia Union,Chicago Fire FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-21,23:15,Nashville SC,Orlando City,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,00:00,San Diego FC,Real Salt Lake,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,01:30,FC Dallas,Houston Dynamo FC,4,3,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,01:30,Sporting Kansas City,Colorado Rapids,1,4,A,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,01:30,St. Louis CITY SC,New England Revolution,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,01:45,Austin FC,Los Angeles Football Club,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,01:45,Austin FC,LAFC,0,0,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-22,03:30,Vancouver Whitecaps FC,San Jose Earthquakes,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,18:00,FC Cincinnati,CF Montréal,4,3,H,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,18:00,New York City Football Club,Inter Miami CF,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,19:30,Minnesota United FC,Seattle Sounders FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+5,2026-03-22,21:45,Portland Timbers,LA Galaxy,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,Atlanta United,Columbus Crew,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,Charlotte FC,Philadelphia Union,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,D.C. United,FC Dallas,0,4,A,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,Inter Miami CF,Austin FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,New York City Football Club,St. Louis CITY SC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,00:30,Red Bull New York,FC Cincinnati,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,18:00,Toronto FC,Colorado Rapids,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,21:30,New England Revolution,CF Montréal,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-04,21:30,Real Salt Lake,Sporting Kansas City,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,01:30,Chicago Fire FC,Nashville SC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,01:30,Houston Dynamo FC,Seattle Sounders FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,02:30,LAFC,Orlando City SC,6,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-04-05,02:30,Los Angeles Football Club,Orlando City,6,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,03:30,LA Galaxy,Minnesota United FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,03:30,San Jose Earthquakes,San Diego FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+6,2026-04-05,03:30,Vancouver Whitecaps FC,Portland Timbers,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,00:30,Charlotte FC,Nashville SC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,00:30,Inter Miami CF,Red Bull New York,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,00:30,New England Revolution,D.C. United,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,00:30,Vancouver Whitecaps FC,New York City Football Club,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,18:00,Toronto FC,FC Cincinnati,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,19:30,Austin FC,LA Galaxy,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,19:30,CF Montréal,Philadelphia Union,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,21:45,Portland Timbers,Los Angeles Football Club,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-11,21:45,Portland Timbers,LAFC,2,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-12,00:00,Columbus Crew,Orlando City,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-12,01:30,Chicago Fire FC,Atlanta United,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-12,01:30,FC Dallas,St. Louis CITY SC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-12,01:30,Sporting Kansas City,San Jose Earthquakes,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-12,02:30,Colorado Rapids,Houston Dynamo FC,6,2,H,,,,,,,,,,,,,,,,,fixturedl
+7,2026-04-12,03:30,San Diego FC,Minnesota United FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,Atlanta United,Nashville SC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,FC Cincinnati,Chicago Fire FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,New England Revolution,Columbus Crew,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,New York City Football Club,Charlotte FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,Orlando City,Houston Dynamo FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,00:30,Philadelphia Union,D.C. United,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,03:30,Vancouver Whitecaps FC,Sporting Kansas City,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,18:00,Toronto FC,Austin FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,19:30,CF Montréal,Red Bull New York,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-18,21:30,Colorado Rapids,Inter Miami CF,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-19,00:00,LAFC,San Jose Earthquakes,1,4,A,,,,,,,,,,,,,,,,,espn
+8,2026-04-19,00:00,Los Angeles Football Club,San Jose Earthquakes,1,4,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-19,01:30,FC Dallas,LA Galaxy,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-19,01:30,Minnesota United FC,Portland Timbers,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-19,02:30,Real Salt Lake,San Diego FC,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-04-19,02:30,Seattle Sounders FC,St. Louis CITY SC,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:30,Columbus Crew,LA Galaxy,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:30,New York City Football Club,FC Cincinnati,4,4,D,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:30,Orlando City,Charlotte FC,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:30,Red Bull New York,D.C. United,4,4,D,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:30,Toronto FC,Philadelphia Union,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-22,00:45,Atlanta United,New England Revolution,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-23,01:30,FC Dallas,Minnesota United FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-23,01:30,Houston Dynamo FC,San Diego FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-23,02:30,Real Salt Lake,Inter Miami CF,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-23,03:30,LAFC,Colorado Rapids,0,0,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-23,03:30,Los Angeles Football Club,Colorado Rapids,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-23,03:30,San Jose Earthquakes,Austin FC,5,1,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,00:30,Columbus Crew,Philadelphia Union,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,00:30,D.C. United,Orlando City,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,00:30,FC Cincinnati,Red Bull New York,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,00:30,Inter Miami CF,New England Revolution,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,18:00,Toronto FC,Atlanta United,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,19:30,CF Montréal,New York City Football Club,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-25,21:45,Minnesota United FC,Los Angeles Football Club,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+9,2026-04-25,21:45,Minnesota United FC,LAFC,0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-26,00:00,LA Galaxy,Real Salt Lake,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,01:30,Austin FC,Houston Dynamo FC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,01:30,Chicago Fire FC,Sporting Kansas City,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,01:30,Nashville SC,Charlotte FC,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,01:30,St. Louis CITY SC,San Jose Earthquakes,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,02:30,San Diego FC,Portland Timbers,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,03:30,Seattle Sounders FC,FC Dallas,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+10,2026-04-26,03:30,Vancouver Whitecaps FC,Colorado Rapids,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:15,Inter Miami CF,Orlando City,3,4,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:30,Atlanta United,CF Montréal,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:30,Columbus Crew,Minnesota United FC,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:30,New England Revolution,Charlotte FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:30,Philadelphia Union,Nashville SC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,00:30,Red Bull New York,FC Dallas,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,18:00,Toronto FC,San Jose Earthquakes,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,19:30,Sporting Kansas City,Seattle Sounders FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-02,21:45,Real Salt Lake,Portland Timbers,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-03,01:30,Chicago Fire FC,FC Cincinnati,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-03,01:30,Houston Dynamo FC,Colorado Rapids,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-03,02:30,San Diego FC,Los Angeles Football Club,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+10,2026-05-03,02:30,San Diego FC,LAFC,2,2,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-03,03:30,LA Galaxy,Vancouver Whitecaps FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-03,20:00,New York City Football Club,D.C. United,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-05-03,22:30,Austin FC,St. Louis CITY SC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,00:30,Atlanta United,LA Galaxy,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,00:30,Charlotte FC,FC Cincinnati,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,00:30,New England Revolution,Philadelphia Union,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,18:00,Toronto FC,Inter Miami CF,2,4,A,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,19:30,Chicago Fire FC,Red Bull New York,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-09,21:30,CF Montréal,Orlando City,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,00:00,Minnesota United FC,Austin FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,01:30,FC Dallas,Real Salt Lake,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,02:15,Nashville SC,D.C. United,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,02:30,Colorado Rapids,St. Louis CITY SC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,03:30,Portland Timbers,Sporting Kansas City,6,0,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,03:30,San Jose Earthquakes,Vancouver Whitecaps FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,03:30,Seattle Sounders FC,San Diego FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-10,21:30,New York City Football Club,Columbus Crew,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-11,02:00,LAFC,Houston Dynamo FC,1,4,A,,,,,,,,,,,,,,,,,espn
+12,2026-05-11,02:00,Los Angeles Football Club,Houston Dynamo FC,1,4,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:15,Charlotte FC,New York City Football Club,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,CF Montréal,Portland Timbers,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,D.C. United,Chicago Fire FC,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,FC Cincinnati,Inter Miami CF,3,5,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,New England Revolution,Nashville SC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,Orlando City,Philadelphia Union,4,3,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-13,00:30,Red Bull New York,Columbus Crew,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,01:30,FC Dallas,Vancouver Whitecaps FC,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,01:30,Minnesota United FC,Colorado Rapids,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,01:30,Sporting Kansas City,LA Galaxy,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,01:30,St. Louis CITY SC,Los Angeles Football Club,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+12,2026-05-14,01:30,St. Louis CITY SC,LAFC,2,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-14,02:30,Real Salt Lake,Houston Dynamo FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,02:30,San Diego FC,Austin FC,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-14,02:30,Seattle Sounders FC,San Jose Earthquakes,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,Charlotte FC,Toronto FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,D.C. United,St. Louis CITY SC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,New England Revolution,Minnesota United FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,Orlando City,Atlanta United,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,Philadelphia Union,Columbus Crew,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,00:30,Red Bull New York,New York City Football Club,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-16,21:30,CF Montréal,Chicago Fire FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,01:30,Austin FC,Sporting Kansas City,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,01:30,Houston Dynamo FC,Vancouver Whitecaps FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,02:15,Seattle Sounders FC,LA Galaxy,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,02:30,Real Salt Lake,Colorado Rapids,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,02:30,San Diego FC,FC Cincinnati,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,03:30,San Jose Earthquakes,FC Dallas,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-17,23:00,Inter Miami CF,Portland Timbers,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-18,01:00,Nashville SC,Los Angeles Football Club,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+13,2026-05-18,01:00,Nashville SC,LAFC,3,2,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,00:30,Charlotte FC,New England Revolution,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-23,00:30,D.C. United,CF Montréal,4,4,D,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-23,00:30,FC Cincinnati,Orlando City,6,2,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-23,19:45,St. Louis CITY SC,Austin FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-23,21:30,Minnesota United FC,Real Salt Lake,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,00:00,Inter Miami CF,Philadelphia Union,6,4,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,01:30,Chicago Fire FC,Toronto FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,01:30,Nashville SC,New York City Football Club,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,01:30,Sporting Kansas City,Red Bull New York,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,02:30,Colorado Rapids,FC Dallas,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,02:30,Portland Timbers,San Jose Earthquakes,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,02:30,San Diego FC,Vancouver Whitecaps FC,2,4,A,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,03:30,LA Galaxy,Houston Dynamo FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+15,2026-05-24,22:00,Columbus Crew,Atlanta United,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+14,2026-05-25,02:15,LAFC,Seattle Sounders FC,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-25,02:15,Los Angeles Football Club,Seattle Sounders FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-16,00:30,CF Montréal,Toronto FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-17,01:30,St. Louis CITY SC,Sporting Kansas City,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-17,03:30,Seattle Sounders FC,Portland Timbers,1,5,A,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-18,01:10,Nashville SC,Atlanta United,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-18,03:25,LA Galaxy,Los Angeles Football Club,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+15,2026-07-18,03:25,LA Galaxy,LAFC,0,3,A,,,,,,,,,,,,,,,,,espn
+17,2026-07-22,00:30,Columbus Crew,New York City Football Club,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-22,00:30,FC Cincinnati,Vancouver Whitecaps FC,4,3,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-22,00:30,Inter Miami CF,Chicago Fire FC,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-22,00:30,New England Revolution,Toronto FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-22,00:30,Philadelphia Union,Red Bull New York,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,01:15,Charlotte FC,Atlanta United,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,01:30,Houston Dynamo FC,D.C. United,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,01:30,Nashville SC,CF Montréal,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,01:30,Sporting Kansas City,Minnesota United FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,02:30,Austin FC,Seattle Sounders FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,02:30,Colorado Rapids,San Diego FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,03:30,LA Galaxy,St. Louis CITY SC,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-23,03:30,LAFC,Real Salt Lake,3,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-07-23,03:30,Los Angeles Football Club,Real Salt Lake,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,03:30,Portland Timbers,FC Dallas,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-23,03:30,San Jose Earthquakes,Orlando City,0,4,A,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:15,Columbus Crew,FC Cincinnati,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,CF Montréal,Inter Miami CF,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,D.C. United,Toronto FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,New England Revolution,Atlanta United,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,New York City Football Club,Chicago Fire FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,Orlando City,Nashville SC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,00:30,Philadelphia Union,Seattle Sounders FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-25,23:30,Red Bull New York,Charlotte FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,01:30,Houston Dynamo FC,Austin FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,01:30,Minnesota United FC,Vancouver Whitecaps FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,01:30,St. Louis CITY SC,Colorado Rapids,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,02:30,San Diego FC,FC Dallas,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+16,2026-07-26,03:30,LAFC,Sporting Kansas City,4,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-07-26,03:30,Los Angeles Football Club,Sporting Kansas City,4,0,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,03:30,Portland Timbers,Real Salt Lake,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+18,2026-07-26,03:30,San Jose Earthquakes,LA Galaxy,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+17,2026-07-30,01:00,MLS All-Stars,Liga MX All-Stars,4,3,H,,,,,,,,,,,,,,,,,espn
+19,2026-07-31,00:30,New York City Football Club,Toronto FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,CF Montréal,New England Revolution,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,D.C. United,Nashville SC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,FC Cincinnati,San Jose Earthquakes,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,Inter Miami CF,Columbus Crew,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,Philadelphia Union,Atlanta United,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-01,00:30,Red Bull New York,Orlando City,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+17,2026-08-01,00:30,Vancouver Whitecaps,LAFC,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-08-01,00:30,Vancouver Whitecaps FC,Los Angeles Football Club,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,01:30,Chicago Fire FC,Charlotte FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,01:30,Minnesota United FC,San Diego FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,01:30,Sporting Kansas City,Houston Dynamo FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,01:30,St. Louis CITY SC,Real Salt Lake,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,02:30,Colorado Rapids,Austin FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,03:30,LA Galaxy,FC Dallas,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-02,03:45,Portland Timbers,Seattle Sounders FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-08,21:30,New England Revolution,Houston Dynamo FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-15,00:30,Atlanta United,Red Bull New York,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-15,00:30,CF Montréal,D.C. United,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-15,00:30,Charlotte FC,Columbus Crew,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-15,00:30,Orlando City,FC Cincinnati,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-15,00:30,Toronto FC,New England Revolution,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,01:30,Houston Dynamo FC,LA Galaxy,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,01:30,Nashville SC,Inter Miami CF,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,02:30,Colorado Rapids,Sporting Kansas City,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,02:30,Real Salt Lake,Minnesota United FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+19,2026-08-16,03:30,LAFC,San Diego FC,0,1,A,,,,,,,,,,,,,,,,,espn
+20,2026-08-16,03:30,Los Angeles Football Club,San Diego FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,03:30,San Jose Earthquakes,St. Louis CITY SC,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,23:00,Chicago Fire FC,Portland Timbers,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-16,23:00,New York City Football Club,Philadelphia Union,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-17,01:30,Austin FC,FC Dallas,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-17,03:30,Seattle Sounders FC,Vancouver Whitecaps FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,Columbus Crew,CF Montréal,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,D.C. United,New England Revolution,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,FC Cincinnati,New York City Football Club,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,Orlando City,Chicago Fire FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,Philadelphia Union,Inter Miami CF,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,Red Bull New York,Nashville SC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-19,00:30,Toronto FC,Charlotte FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,01:00,Sporting Kansas City,St. Louis CITY SC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,01:30,Minnesota United FC,Atlanta United,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,02:30,Colorado Rapids,Los Angeles Football Club,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-20,02:30,Colorado Rapids,LAFC,1,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-20,02:30,Real Salt Lake,FC Dallas,3,4,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,02:30,Seattle Sounders FC,Austin FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,03:30,LA Galaxy,San Jose Earthquakes,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,03:30,Portland Timbers,San Diego FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-20,03:30,Vancouver Whitecaps FC,Houston Dynamo FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,CF Montréal,LA Galaxy,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,Charlotte FC,D.C. United,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,FC Cincinnati,Seattle Sounders FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,Inter Miami CF,Toronto FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,Orlando City,Real Salt Lake,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-22,00:30,Red Bull New York,Chicago Fire FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,00:00,Atlanta United,Sporting Kansas City,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,01:30,Nashville SC,Columbus Crew,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,01:30,St. Louis CITY SC,Houston Dynamo FC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,02:00,Austin FC,Philadelphia Union,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,02:30,Vancouver Whitecaps FC,FC Dallas,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+20,2026-08-23,03:30,LAFC,Portland Timbers,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-23,03:30,Los Angeles Football Club,Portland Timbers,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,03:30,San Diego FC,Colorado Rapids,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,03:30,San Jose Earthquakes,Minnesota United FC,1,5,A,,,,,,,,,,,,,,,,,fixturedl
+22,2026-08-23,21:30,New England Revolution,New York City Football Club,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-29,00:30,Atlanta United,Charlotte FC,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-29,00:30,D.C. United,Los Angeles Football Club,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+21,2026-08-29,00:30,D.C. United,LAFC,0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-08-29,00:30,Inter Miami CF,CF Montréal,7,1,H,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-29,00:30,Red Bull New York,Philadelphia Union,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-29,00:30,Toronto FC,New York City Football Club,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-29,21:30,Seattle Sounders FC,Chicago Fire FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,00:00,St. Louis CITY SC,FC Dallas,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,01:30,Houston Dynamo FC,San Jose Earthquakes,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,01:30,Minnesota United FC,Orlando City,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,01:30,Nashville SC,FC Cincinnati,4,0,H,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,01:30,Sporting Kansas City,Vancouver Whitecaps FC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,02:30,Colorado Rapids,Real Salt Lake,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,03:30,Portland Timbers,Austin FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,03:30,San Diego FC,LA Galaxy,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+23,2026-08-30,21:30,Columbus Crew,New England Revolution,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-04,00:30,New York City Football Club,Nashville SC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-05,00:30,Charlotte FC,Houston Dynamo FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-05,00:30,Columbus Crew,Colorado Rapids,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-05,00:30,Orlando City,San Diego FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-05,00:30,Philadelphia Union,CF Montréal,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-05,00:30,Toronto FC,Chicago Fire FC,4,4,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,01:30,Austin FC,San Jose Earthquakes,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,01:30,FC Dallas,Sporting Kansas City,4,3,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,01:30,Seattle Sounders FC,Red Bull New York,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,02:05,Inter Miami CF,Atlanta United,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,02:30,LA Galaxy,New England Revolution,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,02:30,Real Salt Lake,Los Angeles Football Club,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+22,2026-09-06,02:30,Real Salt Lake,LAFC,2,2,D,,,,,,,,,,,,,,,,,espn
+24,2026-09-06,03:30,Portland Timbers,Minnesota United FC,5,4,H,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-06,03:30,Vancouver Whitecaps FC,St. Louis CITY SC,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-09,00:30,Atlanta United,Orlando City,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-09,00:30,CF Montréal,Charlotte FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-09,00:30,D.C. United,Columbus Crew,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-09,00:30,Toronto FC,Nashville SC,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-09,00:45,Philadelphia Union,FC Cincinnati,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,01:00,New York City Football Club,New England Revolution,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,01:30,Austin FC,Colorado Rapids,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,01:30,Chicago Fire FC,Inter Miami CF,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,01:30,Houston Dynamo FC,Real Salt Lake,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,01:30,Minnesota United FC,FC Dallas,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+23,2026-09-10,03:30,LAFC,Red Bull New York,2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-09-10,03:30,Los Angeles Football Club,Red Bull New York,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,03:30,Portland Timbers,St. Louis CITY SC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,03:30,San Diego FC,San Jose Earthquakes,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-10,03:30,Vancouver Whitecaps FC,LA Galaxy,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-12,00:30,Columbus Crew,Red Bull New York,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-12,00:30,D.C. United,Atlanta United,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-12,00:30,FC Cincinnati,Charlotte FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-12,00:30,Inter Miami CF,Nashville SC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-12,00:30,Orlando City,Toronto FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,01:30,FC Dallas,Portland Timbers,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,01:30,Sporting Kansas City,Los Angeles Football Club,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+23,2026-09-13,01:30,Sporting Kansas City,LAFC,3,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,01:30,St. Louis CITY SC,Minnesota United FC,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,02:30,Colorado Rapids,CF Montréal,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,02:30,Real Salt Lake,New York City Football Club,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,03:30,LA Galaxy,Seattle Sounders FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,03:30,San Jose Earthquakes,Houston Dynamo FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,22:30,Chicago Fire FC,New England Revolution,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-13,23:30,Vancouver Whitecaps FC,Austin FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+26,2026-09-14,02:00,San Diego FC,Philadelphia Union,0,5,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-18,00:30,New York City Football Club,Red Bull New York,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-19,00:30,CF Montréal,Columbus Crew,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-19,00:30,D.C. United,Charlotte FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-19,00:30,New England Revolution,Orlando City,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-19,00:30,San Jose Earthquakes,Los Angeles Football Club,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+24,2026-09-19,00:30,San Jose Earthquakes,LAFC,2,2,D,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,00:00,Inter Miami CF,San Diego FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,01:30,FC Dallas,Austin FC,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,01:30,Houston Dynamo FC,FC Cincinnati,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,01:30,Minnesota United FC,LA Galaxy,2,3,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,01:30,Sporting Kansas City,Philadelphia Union,3,4,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,01:30,St. Louis CITY SC,Toronto FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,02:30,Colorado Rapids,Seattle Sounders FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,02:30,Nashville SC,Chicago Fire FC,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,02:30,Real Salt Lake,Vancouver Whitecaps FC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-20,03:30,Portland Timbers,Atlanta United,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+27,2026-09-24,02:30,Seattle Sounders FC,Real Salt Lake,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-26,00:30,Atlanta United,New York City Football Club,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-26,00:30,CF Montréal,FC Cincinnati,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-26,00:30,Charlotte FC,Chicago Fire FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-26,00:30,Philadelphia Union,Orlando City,4,2,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,00:00,Columbus Crew,Inter Miami CF,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,01:30,Austin FC,San Diego FC,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,01:30,FC Dallas,Los Angeles Football Club,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+25,2026-09-27,01:30,FC Dallas,LAFC,1,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-09-27,01:30,Houston Dynamo FC,Sporting Kansas City,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,01:30,Nashville SC,Toronto FC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,01:30,Seattle Sounders FC,Minnesota United FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,02:30,Real Salt Lake,New England Revolution,3,0,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,03:30,LA Galaxy,Colorado Rapids,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,03:30,San Jose Earthquakes,Portland Timbers,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-27,03:30,Vancouver Whitecaps FC,D.C. United,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+28,2026-09-30,00:30,Red Bull New York,St. Louis CITY SC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+28,2026-10-02,02:30,Seattle Sounders FC,Sporting Kansas City,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+28,2026-10-07,01:30,Chicago Fire FC,Vancouver Whitecaps FC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Atlanta United,FC Cincinnati,1,3,A,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Charlotte FC,FC Dallas,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Inter Miami CF,D.C. United,4,0,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,New England Revolution,Seattle Sounders FC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Orlando City,Columbus Crew,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Philadelphia Union,Real Salt Lake,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,00:30,Red Bull New York,San Diego FC,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,18:00,Toronto FC,CF Montréal,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-10,19:30,Chicago Fire FC,New York City Football Club,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-11,00:00,St. Louis CITY SC,LA Galaxy,6,2,H,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-11,01:30,Austin FC,Nashville SC,1,4,A,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-11,01:30,Minnesota United FC,Houston Dynamo FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-11,01:30,Sporting Kansas City,Portland Timbers,3,3,D,,,,,,,,,,,,,,,,,fixturedl
+29,2026-10-11,02:30,Colorado Rapids,San Jose Earthquakes,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+27,2026-10-11,03:30,LAFC,Vancouver Whitecaps,1,1,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,03:30,Los Angeles Football Club,Vancouver Whitecaps FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl

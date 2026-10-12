@@ -1,0 +1,75 @@
+gw,date,time,home,away
+11,2026-10-17,,Komarno,Ruzomberok
+11,2026-10-17,,Skalica,Trencin
+11,2026-10-17,,Trnava,Slovan Bratislava
+11,2026-10-18,,Banska Bystrica,Podbrezova
+11,2026-10-18,,Michalovce,Kosice
+11,2026-10-18,,Zilina,Dun. Streda
+12,2026-10-24,,Dun. Streda,Ruzomberok
+12,2026-10-24,,Michalovce,Podbrezova
+12,2026-10-24,,Skalica,Trnava
+12,2026-10-24,,Slovan Bratislava,Banska Bystrica
+12,2026-10-25,,Komarno,Trencin
+12,2026-10-25,,Kosice,Zilina
+3,2026-10-28,,Kosice,Dun. Streda
+3,2026-10-28,,Trencin,Slovan Bratislava
+13,2026-10-31,,Podbrezova,Slovan Bratislava
+13,2026-10-31,,Trencin,Kosice
+13,2026-10-31,,Trnava,Komarno
+13,2026-10-31,,Zilina,Michalovce
+13,2026-11-01,,Banska Bystrica,Dun. Streda
+13,2026-11-01,,Ruzomberok,Skalica
+14,2026-11-07,,Banska Bystrica,Trnava
+14,2026-11-07,,Dun. Streda,Kosice
+14,2026-11-07,,Skalica,Zilina
+14,2026-11-07,,Slovan Bratislava,Trencin
+14,2026-11-08,,Komarno,Michalovce
+14,2026-11-08,,Podbrezova,Ruzomberok
+15,2026-11-21,,Dun. Streda,Komarno
+15,2026-11-21,,Kosice,Skalica
+15,2026-11-21,,Michalovce,Trnava
+15,2026-11-21,,Ruzomberok,Slovan Bratislava
+15,2026-11-21,,Trencin,Podbrezova
+15,2026-11-21,,Zilina,Banska Bystrica
+16,2026-11-28,,Banska Bystrica,Ruzomberok
+16,2026-11-28,,Komarno,Zilina
+16,2026-11-28,,Podbrezova,Dun. Streda
+16,2026-11-28,,Skalica,Michalovce
+16,2026-11-28,,Slovan Bratislava,Kosice
+16,2026-11-28,,Trnava,Trencin
+17,2026-12-05,,Dun. Streda,Skalica
+17,2026-12-05,,Komarno,Banska Bystrica
+17,2026-12-05,,Kosice,Podbrezova
+17,2026-12-05,,Michalovce,Slovan Bratislava
+17,2026-12-05,,Ruzomberok,Trencin
+17,2026-12-05,,Zilina,Trnava
+18,2026-12-12,,Banska Bystrica,Kosice
+18,2026-12-12,,Podbrezova,Zilina
+18,2026-12-12,,Skalica,Komarno
+18,2026-12-12,,Slovan Bratislava,Dun. Streda
+18,2026-12-12,,Trencin,Michalovce
+18,2026-12-12,,Trnava,Ruzomberok
+19,2027-02-06,,Dun. Streda,Trencin
+19,2027-02-06,,Komarno,Podbrezova
+19,2027-02-06,,Kosice,Trnava
+19,2027-02-06,,Michalovce,Ruzomberok
+19,2027-02-06,,Skalica,Banska Bystrica
+19,2027-02-06,,Zilina,Slovan Bratislava
+20,2027-02-13,,Banska Bystrica,Michalovce
+20,2027-02-13,,Podbrezova,Skalica
+20,2027-02-13,,Ruzomberok,Kosice
+20,2027-02-13,,Slovan Bratislava,Komarno
+20,2027-02-13,,Trencin,Zilina
+20,2027-02-13,,Trnava,Dun. Streda
+21,2027-02-20,,Banska Bystrica,Trencin
+21,2027-02-20,,Dun. Streda,Michalovce
+21,2027-02-20,,Komarno,Kosice
+21,2027-02-20,,Slovan Bratislava,Skalica
+21,2027-02-20,,Trnava,Podbrezova
+21,2027-02-20,,Zilina,Ruzomberok
+22,2027-02-27,,Dun. Streda,Zilina
+22,2027-02-27,,Kosice,Michalovce
+22,2027-02-27,,Podbrezova,Banska Bystrica
+22,2027-02-27,,Ruzomberok,Komarno
+22,2027-02-27,,Slovan Bratislava,Trnava
+22,2027-02-27,,Trencin,Skalica

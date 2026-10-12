@@ -1,0 +1,321 @@
+gw,date,time,home,away
+7,2026-10-16,19:30,Hellas Verona,Catanzaro
+7,2026-10-17,14:00,Ascoli,Empoli
+7,2026-10-17,14:00,Benevento,Vicenza
+7,2026-10-17,14:00,Carrarese,Modena
+7,2026-10-17,14:00,Padova,Virtus Entella
+7,2026-10-17,16:15,Mantova,Palermo
+7,2026-10-17,18:30,Pisa,Cremonese
+7,2026-10-18,14:00,Juve Stabia,Sudtirol
+7,2026-10-18,16:15,Cesena,US Avellino
+7,2026-10-18,18:30,Sampdoria,Arezzo
+8,2026-10-23,19:30,Empoli,Vicenza
+8,2026-10-24,14:00,Cremonese,Juve Stabia
+8,2026-10-24,14:00,Modena,Cesena
+8,2026-10-24,14:00,Sudtirol,Sampdoria
+8,2026-10-24,14:00,US Avellino,Padova
+8,2026-10-24,14:00,Virtus Entella,Mantova
+8,2026-10-24,16:15,Catanzaro,Ascoli
+8,2026-10-24,18:30,Arezzo,Benevento
+8,2026-10-25,15:00,Palermo,Carrarese
+8,2026-10-25,17:15,Hellas Verona,Pisa
+9,2026-10-27,19:00,Benevento,Catanzaro
+9,2026-10-27,20:00,Ascoli,Sampdoria
+9,2026-10-27,20:00,Cesena,Empoli
+9,2026-10-27,20:00,Mantova,Cremonese
+9,2026-10-27,20:00,Padova,Sudtirol
+9,2026-10-27,20:00,Vicenza,Modena
+9,2026-10-27,20:00,Virtus Entella,US Avellino
+9,2026-10-28,19:00,Pisa,Palermo
+9,2026-10-28,20:00,Carrarese,Arezzo
+9,2026-10-28,20:00,Juve Stabia,Hellas Verona
+9,2026-10-31,15:00,Cremonese,Benevento
+9,2026-10-31,15:00,Modena,Mantova
+9,2026-10-31,15:00,Sudtirol,Cesena
+9,2026-10-31,17:15,Catanzaro,Padova
+9,2026-10-31,19:30,Sampdoria,Virtus Entella
+9,2026-11-01,15:00,Arezzo,Ascoli
+9,2026-11-01,15:00,Empoli,Juve Stabia
+9,2026-11-01,15:00,US Avellino,Pisa
+9,2026-11-01,17:15,Hellas Verona,Carrarese
+9,2026-11-01,19:30,Palermo,Vicenza
+10,2026-11-06,20:30,Ascoli,Palermo
+10,2026-11-07,15:00,Cesena,Catanzaro
+10,2026-11-07,15:00,Juve Stabia,Arezzo
+10,2026-11-07,15:00,Padova,Empoli
+10,2026-11-07,15:00,Pisa,Sudtirol
+10,2026-11-07,17:15,Mantova,Hellas Verona
+10,2026-11-07,19:30,Benevento,US Avellino
+10,2026-11-08,15:00,Virtus Entella,Modena
+10,2026-11-08,17:15,Carrarese,Sampdoria
+10,2026-11-08,19:30,Vicenza,Cremonese
+11,2026-11-20,20:30,Hellas Verona,Cesena
+11,2026-11-21,15:00,Ascoli,Vicenza
+11,2026-11-21,15:00,Carrarese,Virtus Entella
+11,2026-11-21,15:00,Modena,Juve Stabia
+11,2026-11-21,15:00,Sampdoria,Benevento
+11,2026-11-21,15:00,Sudtirol,Cremonese
+11,2026-11-21,17:15,Catanzaro,Palermo
+11,2026-11-21,19:30,Empoli,Pisa
+11,2026-11-22,15:00,US Avellino,Mantova
+11,2026-11-22,17:15,Arezzo,Padova
+12,2026-11-24,19:00,Juve Stabia,Catanzaro
+12,2026-11-24,20:00,Benevento,Empoli
+12,2026-11-24,20:00,Cesena,Ascoli
+12,2026-11-24,20:00,Palermo,Sudtirol
+12,2026-11-24,20:00,Vicenza,Carrarese
+12,2026-11-24,20:00,Virtus Entella,Hellas Verona
+12,2026-11-25,19:00,Cremonese,US Avellino
+12,2026-11-25,20:00,Mantova,Arezzo
+12,2026-11-25,20:00,Padova,Sampdoria
+12,2026-11-25,20:00,Pisa,Modena
+12,2026-11-28,15:00,Ascoli,Virtus Entella
+12,2026-11-28,15:00,Carrarese,Juve Stabia
+12,2026-11-28,15:00,Empoli,Hellas Verona
+12,2026-11-28,17:15,Vicenza,Cesena
+12,2026-11-28,19:30,Palermo,Benevento
+12,2026-11-29,15:00,Modena,Padova
+12,2026-11-29,15:00,Sudtirol,Mantova
+12,2026-11-29,17:15,Sampdoria,Cremonese
+12,2026-11-29,19:30,Arezzo,Pisa
+13,2026-11-30,20:30,Catanzaro,US Avellino
+13,2026-12-04,20:30,Pisa,Sampdoria
+13,2026-12-05,15:00,Cesena,Carrarese
+13,2026-12-05,15:00,Mantova,Ascoli
+13,2026-12-05,15:00,Modena,Arezzo
+13,2026-12-05,17:15,Padova,Vicenza
+13,2026-12-05,19:30,Juve Stabia,Benevento
+13,2026-12-06,15:00,Cremonese,Catanzaro
+13,2026-12-06,15:00,US Avellino,Sudtirol
+13,2026-12-06,17:15,Hellas Verona,Palermo
+13,2026-12-06,19:30,Virtus Entella,Empoli
+14,2026-12-08,12:30,Benevento,Padova
+14,2026-12-08,15:00,Carrarese,Pisa
+14,2026-12-08,15:00,Vicenza,Mantova
+14,2026-12-08,17:15,Ascoli,Juve Stabia
+14,2026-12-08,19:30,Sampdoria,Modena
+14,2026-12-09,19:00,Hellas Verona,US Avellino
+14,2026-12-09,20:00,Arezzo,Cesena
+14,2026-12-09,20:00,Catanzaro,Virtus Entella
+14,2026-12-09,20:00,Empoli,Sudtirol
+14,2026-12-09,20:00,Palermo,Cremonese
+14,2026-12-12,15:00,Juve Stabia,Padova
+14,2026-12-12,15:00,Mantova,Benevento
+14,2026-12-12,15:00,Pisa,Ascoli
+14,2026-12-12,17:15,Cesena,Palermo
+14,2026-12-12,19:30,Sampdoria,Vicenza
+14,2026-12-13,15:00,Cremonese,Carrarese
+14,2026-12-13,15:00,Sudtirol,Hellas Verona
+14,2026-12-13,15:00,Virtus Entella,Arezzo
+14,2026-12-13,17:15,US Avellino,Empoli
+14,2026-12-13,19:30,Modena,Catanzaro
+15,2026-12-18,20:30,Hellas Verona,Cremonese
+15,2026-12-19,15:00,Benevento,Pisa
+15,2026-12-19,15:00,Carrarese,US Avellino
+15,2026-12-19,15:00,Juve Stabia,Mantova
+15,2026-12-19,15:00,Padova,Cesena
+15,2026-12-19,15:00,Vicenza,Sudtirol
+15,2026-12-19,17:15,Empoli,Sampdoria
+15,2026-12-19,19:30,Ascoli,Modena
+15,2026-12-20,15:00,Catanzaro,Arezzo
+15,2026-12-20,17:15,Palermo,Virtus Entella
+16,2026-12-26,17:15,US Avellino,Juve Stabia
+16,2026-12-27,12:30,Modena,Palermo
+16,2026-12-27,15:00,Arezzo,Vicenza
+16,2026-12-27,15:00,Catanzaro,Empoli
+16,2026-12-27,15:00,Cremonese,Ascoli
+16,2026-12-27,15:00,Mantova,Padova
+16,2026-12-27,15:00,Sudtirol,Carrarese
+16,2026-12-27,15:00,Virtus Entella,Benevento
+16,2026-12-27,17:15,Cesena,Pisa
+16,2026-12-27,19:30,Sampdoria,Hellas Verona
+17,2027-01-09,15:00,Cesena,Modena
+17,2027-01-09,15:00,Juve Stabia,Sampdoria
+17,2027-01-09,15:00,Mantova,Carrarese
+17,2027-01-09,15:00,Padova,Cremonese
+17,2027-01-09,15:00,Sudtirol,Benevento
+17,2027-01-09,15:00,Vicenza,Virtus Entella
+17,2027-01-09,17:15,Palermo,Empoli
+17,2027-01-09,19:30,Arezzo,Hellas Verona
+17,2027-01-10,15:00,Ascoli,Catanzaro
+17,2027-01-10,17:15,Pisa,US Avellino
+18,2027-01-16,21:00,Ascoli,Sudtirol
+18,2027-01-16,21:00,Benevento,Arezzo
+18,2027-01-16,21:00,Carrarese,Padova
+18,2027-01-16,21:00,Catanzaro,Cesena
+18,2027-01-16,21:00,Cremonese,Vicenza
+18,2027-01-16,21:00,Empoli,Modena
+18,2027-01-16,21:00,Hellas Verona,Juve Stabia
+18,2027-01-16,21:00,Palermo,Pisa
+18,2027-01-16,21:00,Sampdoria,Mantova
+18,2027-01-16,21:00,US Avellino,Virtus Entella
+19,2027-01-23,21:00,Arezzo,Empoli
+19,2027-01-23,21:00,Cesena,Benevento
+19,2027-01-23,21:00,Juve Stabia,Cremonese
+19,2027-01-23,21:00,Mantova,US Avellino
+19,2027-01-23,21:00,Modena,Carrarese
+19,2027-01-23,21:00,Padova,Catanzaro
+19,2027-01-23,21:00,Pisa,Hellas Verona
+19,2027-01-23,21:00,Sudtirol,Palermo
+19,2027-01-23,21:00,Vicenza,Ascoli
+19,2027-01-23,21:00,Virtus Entella,Sampdoria
+20,2027-01-30,21:00,Ascoli,Padova
+20,2027-01-30,21:00,Benevento,Sampdoria
+20,2027-01-30,21:00,Carrarese,Vicenza
+20,2027-01-30,21:00,Catanzaro,Juve Stabia
+20,2027-01-30,21:00,Cremonese,Pisa
+20,2027-01-30,21:00,Empoli,Mantova
+20,2027-01-30,21:00,Hellas Verona,Modena
+20,2027-01-30,21:00,Palermo,Arezzo
+20,2027-01-30,21:00,US Avellino,Cesena
+20,2027-01-30,21:00,Virtus Entella,Sudtirol
+21,2027-02-06,21:00,Benevento,Cremonese
+21,2027-02-06,21:00,Cesena,Hellas Verona
+21,2027-02-06,21:00,Juve Stabia,Carrarese
+21,2027-02-06,21:00,Mantova,Catanzaro
+21,2027-02-06,21:00,Modena,Virtus Entella
+21,2027-02-06,21:00,Padova,Arezzo
+21,2027-02-06,21:00,Pisa,Empoli
+21,2027-02-06,21:00,Sampdoria,Ascoli
+21,2027-02-06,21:00,Sudtirol,US Avellino
+21,2027-02-06,21:00,Vicenza,Palermo
+22,2027-02-13,21:00,Arezzo,Sampdoria
+22,2027-02-13,21:00,Catanzaro,Hellas Verona
+22,2027-02-13,21:00,Cremonese,Cesena
+22,2027-02-13,21:00,Empoli,Benevento
+22,2027-02-13,21:00,Modena,Sudtirol
+22,2027-02-13,21:00,Palermo,Mantova
+22,2027-02-13,21:00,Pisa,Juve Stabia
+22,2027-02-13,21:00,US Avellino,Ascoli
+22,2027-02-13,21:00,Vicenza,Padova
+22,2027-02-13,21:00,Virtus Entella,Carrarese
+23,2027-02-20,21:00,Ascoli,Pisa
+23,2027-02-20,21:00,Benevento,Mantova
+23,2027-02-20,21:00,Carrarese,Catanzaro
+23,2027-02-20,21:00,Cesena,Vicenza
+23,2027-02-20,21:00,Cremonese,Palermo
+23,2027-02-20,21:00,Hellas Verona,Virtus Entella
+23,2027-02-20,21:00,Juve Stabia,Empoli
+23,2027-02-20,21:00,Padova,Modena
+23,2027-02-20,21:00,Sampdoria,US Avellino
+23,2027-02-20,21:00,Sudtirol,Arezzo
+24,2027-02-27,21:00,Arezzo,Carrarese
+24,2027-02-27,21:00,Catanzaro,Sudtirol
+24,2027-02-27,21:00,Empoli,Ascoli
+24,2027-02-27,21:00,Juve Stabia,Modena
+24,2027-02-27,21:00,Mantova,Cesena
+24,2027-02-27,21:00,Palermo,Hellas Verona
+24,2027-02-27,21:00,Pisa,Benevento
+24,2027-02-27,21:00,Sampdoria,Padova
+24,2027-02-27,21:00,Vicenza,US Avellino
+24,2027-02-27,21:00,Virtus Entella,Cremonese
+25,2027-03-02,21:00,Ascoli,Arezzo
+25,2027-03-02,21:00,Benevento,Juve Stabia
+25,2027-03-02,21:00,Carrarese,Palermo
+25,2027-03-02,21:00,Cesena,Virtus Entella
+25,2027-03-02,21:00,Cremonese,Sampdoria
+25,2027-03-02,21:00,Hellas Verona,Empoli
+25,2027-03-02,21:00,Modena,Pisa
+25,2027-03-02,21:00,Padova,Mantova
+25,2027-03-02,21:00,Sudtirol,Vicenza
+25,2027-03-02,21:00,US Avellino,Catanzaro
+25,2027-03-06,21:00,Arezzo,Juve Stabia
+25,2027-03-06,21:00,Catanzaro,Cremonese
+25,2027-03-06,21:00,Empoli,Carrarese
+25,2027-03-06,21:00,Mantova,Sudtirol
+25,2027-03-06,21:00,Padova,Benevento
+25,2027-03-06,21:00,Palermo,Modena
+25,2027-03-06,21:00,Pisa,Vicenza
+25,2027-03-06,21:00,Sampdoria,Cesena
+25,2027-03-06,21:00,US Avellino,Hellas Verona
+25,2027-03-06,21:00,Virtus Entella,Ascoli
+26,2027-03-13,21:00,Benevento,Virtus Entella
+26,2027-03-13,21:00,Carrarese,Sudtirol
+26,2027-03-13,21:00,Catanzaro,Pisa
+26,2027-03-13,21:00,Cesena,Padova
+26,2027-03-13,21:00,Cremonese,Mantova
+26,2027-03-13,21:00,Empoli,US Avellino
+26,2027-03-13,21:00,Hellas Verona,Sampdoria
+26,2027-03-13,21:00,Juve Stabia,Palermo
+26,2027-03-13,21:00,Modena,Ascoli
+26,2027-03-13,21:00,Vicenza,Arezzo
+27,2027-03-20,19:00,Arezzo,Modena
+27,2027-03-20,19:00,Ascoli,Cremonese
+27,2027-03-20,19:00,Carrarese,Cesena
+27,2027-03-20,19:00,Mantova,Juve Stabia
+27,2027-03-20,19:00,Padova,Palermo
+27,2027-03-20,19:00,Sampdoria,Empoli
+27,2027-03-20,19:00,Sudtirol,Pisa
+27,2027-03-20,19:00,US Avellino,Benevento
+27,2027-03-20,19:00,Vicenza,Hellas Verona
+27,2027-03-20,19:00,Virtus Entella,Catanzaro
+28,2027-04-03,19:00,Benevento,Ascoli
+28,2027-04-03,19:00,Catanzaro,Vicenza
+28,2027-04-03,19:00,Cesena,Sudtirol
+28,2027-04-03,19:00,Cremonese,Arezzo
+28,2027-04-03,19:00,Empoli,Padova
+28,2027-04-03,19:00,Hellas Verona,Mantova
+28,2027-04-03,19:00,Juve Stabia,Virtus Entella
+28,2027-04-03,19:00,Modena,Sampdoria
+28,2027-04-03,19:00,Palermo,US Avellino
+28,2027-04-03,19:00,Pisa,Carrarese
+29,2027-04-10,19:00,Arezzo,Catanzaro
+29,2027-04-10,19:00,Ascoli,Cesena
+29,2027-04-10,19:00,Carrarese,Hellas Verona
+29,2027-04-10,19:00,Mantova,Modena
+29,2027-04-10,19:00,Padova,Juve Stabia
+29,2027-04-10,19:00,Sampdoria,Palermo
+29,2027-04-10,19:00,Sudtirol,Empoli
+29,2027-04-10,19:00,US Avellino,Cremonese
+29,2027-04-10,19:00,Vicenza,Benevento
+29,2027-04-10,19:00,Virtus Entella,Pisa
+30,2027-04-17,19:00,Arezzo,Mantova
+30,2027-04-17,19:00,Catanzaro,Benevento
+30,2027-04-17,19:00,Cremonese,Sudtirol
+30,2027-04-17,19:00,Empoli,Virtus Entella
+30,2027-04-17,19:00,Hellas Verona,Padova
+30,2027-04-17,19:00,Juve Stabia,US Avellino
+30,2027-04-17,19:00,Modena,Vicenza
+30,2027-04-17,19:00,Palermo,Ascoli
+30,2027-04-17,19:00,Pisa,Cesena
+30,2027-04-17,19:00,Sampdoria,Carrarese
+31,2027-04-24,19:00,Ascoli,Mantova
+31,2027-04-24,19:00,Benevento,Carrarese
+31,2027-04-24,19:00,Catanzaro,Sampdoria
+31,2027-04-24,19:00,Cesena,Juve Stabia
+31,2027-04-24,19:00,Cremonese,Hellas Verona
+31,2027-04-24,19:00,Pisa,Arezzo
+31,2027-04-24,19:00,Sudtirol,Padova
+31,2027-04-24,19:00,US Avellino,Modena
+31,2027-04-24,19:00,Vicenza,Empoli
+31,2027-04-24,19:00,Virtus Entella,Palermo
+32,2027-05-01,19:00,Arezzo,US Avellino
+32,2027-05-01,19:00,Carrarese,Ascoli
+32,2027-05-01,19:00,Empoli,Cesena
+32,2027-05-01,19:00,Hellas Verona,Benevento
+32,2027-05-01,19:00,Juve Stabia,Vicenza
+32,2027-05-01,19:00,Mantova,Virtus Entella
+32,2027-05-01,19:00,Modena,Cremonese
+32,2027-05-01,19:00,Padova,Pisa
+32,2027-05-01,19:00,Palermo,Catanzaro
+32,2027-05-01,19:00,Sampdoria,Sudtirol
+33,2027-05-08,19:00,Ascoli,Hellas Verona
+33,2027-05-08,19:00,Benevento,Palermo
+33,2027-05-08,19:00,Catanzaro,Modena
+33,2027-05-08,19:00,Cesena,Arezzo
+33,2027-05-08,19:00,Cremonese,Empoli
+33,2027-05-08,19:00,Pisa,Mantova
+33,2027-05-08,19:00,Sudtirol,Juve Stabia
+33,2027-05-08,19:00,US Avellino,Carrarese
+33,2027-05-08,19:00,Vicenza,Sampdoria
+33,2027-05-08,19:00,Virtus Entella,Padova
+34,2027-05-14,19:00,Arezzo,Virtus Entella
+34,2027-05-14,19:00,Carrarese,Cremonese
+34,2027-05-14,19:00,Empoli,Catanzaro
+34,2027-05-14,19:00,Hellas Verona,Sudtirol
+34,2027-05-14,19:00,Juve Stabia,Ascoli
+34,2027-05-14,19:00,Mantova,Vicenza
+34,2027-05-14,19:00,Modena,Benevento
+34,2027-05-14,19:00,Padova,US Avellino
+34,2027-05-14,19:00,Palermo,Cesena
+34,2027-05-14,19:00,Sampdoria,Pisa

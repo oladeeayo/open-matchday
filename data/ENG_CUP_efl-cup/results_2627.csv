@@ -1,0 +1,77 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-01,15:00,Tranmere Rovers,Rochdale,2,2,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-03,19:30,York City,Crawley Town,0,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-06,19:45,Bristol City,Walsall,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-07,19:45,Wolverhampton Wanderers,Port Vale,3,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-07,19:45,Wycombe Wanderers,Stevenage,1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-07,20:00,Middlesbrough,Wrexham,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,13:00,Cambridge United,Barnet,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,14:00,Queens Park Rangers,Millwall,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,AFC Wimbledon,Newport County,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Barnsley,Wigan Athletic,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Bradford City,Rochdale,2,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Bristol Rovers,Peterborough United,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Bromley,Reading,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Burnley,Notts County,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Burton Albion,Blackburn Rovers,1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Cardiff City,Swindon Town,3,2,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Crewe Alexandra,Accrington Stanley,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Derby County,Lincoln City,1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Fleetwood Town,Chesterfield,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Gillingham,Luton Town,0,3,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Grimsby Town,Blackpool,1,3,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Leicester City,Northampton Town,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Leyton Orient,Oxford United,2,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Norwich City,Milton Keynes Dons,4,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Preston North End,Huddersfield Town,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Salford City,Shrewsbury Town,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Sheffield Wednesday,Bolton Wanderers,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Stockport County,Doncaster Rovers,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Stoke City,Oldham Athletic,2,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Swansea City,Birmingham City,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,Watford,Crawley Town,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,15:00,West Ham United,Portsmouth,3,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,17:30,Cheltenham Town,Charlton Athletic,1,3,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,17:30,Colchester United,Southampton,0,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-08,17:30,Rotherham United,West Bromwich Albion,1,4,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-09,16:00,Mansfield Town,Sheffield United,0,3,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-10,20:00,Plymouth Argyle,Exeter City,2,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:00,Cardiff City,Norwich City,1,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:30,Doncaster Rovers,Middlesbrough,1,3,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Barnsley,Crewe Alexandra,3,2,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Blackburn Rovers,Sheffield United,1,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Blackpool,Lincoln City,1,4,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Cambridge United,Millwall,0,1,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Fleetwood Town,Shrewsbury Town,4,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Ipswich Town,Leicester City,3,1,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Plymouth Argyle,Coventry City,2,4,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Sheffield Wednesday,Wolverhampton Wanderers,0,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Southampton,West Ham United,1,4,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Stevenage,Reading,0,3,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Stoke City,Hull City,1,1,D,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Walsall,Leyton Orient,0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,19:45,Watford,Peterborough United,1,5,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,20:00,Birmingham City,Brentford,1,6,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-25,20:00,Nottingham Forest,Leeds United,0,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-26,19:45,Bradford City,Burnley,0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-08-26,19:45,Newcastle United,West Bromwich Albion,3,2,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-26,19:45,Tottenham Hotspur,Charlton Athletic,5,1,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-26,20:00,Preston North End,Everton,0,4,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-27,19:30,Chelsea,Luton Town,2,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-08-27,20:00,Fulham,AFC Wimbledon,3,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-08,19:45,AFC Bournemouth,Lincoln City,4,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-08,19:45,Crystal Palace,Middlesbrough,3,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-08,19:45,Leyton Orient,Bradford City,1,3,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-08,19:45,Sunderland,Hull City,1,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-08,20:00,Millwall,Newcastle United,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-09,20:15,Chelsea,Leeds United,6,3,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-15,19:30,Peterborough United,Barnsley,3,3,D,,,,,,,,,,,,,,,,,espn
+6,2026-09-15,19:45,West Ham United,Fulham,2,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-15,20:00,Ipswich Town,Arsenal,2,4,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-15,20:00,Liverpool,Tottenham Hotspur,3,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-15,20:00,Reading,Brentford,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-16,19:45,Everton,Wolverhampton Wanderers,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-16,19:45,Fleetwood Town,Sheffield United,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-16,20:00,Coventry City,Aston Villa,1,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-16,20:00,Manchester United,Brighton & Hove Albion,2,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-17,19:30,Manchester City,Norwich City,5,0,H,,,,,,,,,,,,,,,,,espn

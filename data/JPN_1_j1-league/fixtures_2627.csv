@@ -1,0 +1,110 @@
+gw,date,time,home,away
+27,2026-10-17,05:00,Shimizu S-Pulse,Gamba Osaka
+27,2026-10-17,06:00,JEF United Ichihara-Chiba,Yokohama F. Marinos
+27,2026-10-17,06:00,Sanfrecce Hiroshima,Kyoto Sanga
+27,2026-10-17,06:00,Tokyo Verdy 1969,FC Tokyo
+27,2026-10-17,07:00,Cerezo Osaka,Kawasaki Frontale
+27,2026-10-17,07:00,Kashima Antlers,V-Varen Nagasaki
+27,2026-10-17,08:00,Mito Hollyhock,Urawa Red Diamonds
+27,2026-10-17,11:00,Kashiwa Reysol,Nagoya Grampus
+27,2026-10-18,05:55,Fagiano Okayama,Vissel Kobe
+27,2026-10-18,08:00,Machida Zelvia,Avispa Fukuoka
+28,2026-10-21,11:00,Avispa Fukuoka,Gamba Osaka
+28,2026-10-21,11:00,FC Tokyo,Kashiwa Reysol
+28,2026-10-21,11:00,Fagiano Okayama,Mito Hollyhock
+28,2026-10-21,11:00,Kawasaki Frontale,Vissel Kobe
+28,2026-10-21,11:00,Kyoto Sanga,Kashima Antlers
+28,2026-10-21,11:00,Nagoya Grampus,Cerezo Osaka
+28,2026-10-21,11:00,Shimizu S-Pulse,Machida Zelvia
+28,2026-10-21,11:00,V-Varen Nagasaki,Sanfrecce Hiroshima
+28,2026-10-21,11:00,Yokohama F. Marinos,Tokyo Verdy 1969
+28,2026-10-21,11:30,Urawa Red Diamonds,JEF United Ichihara-Chiba
+28,2026-10-24,06:00,Sanfrecce Hiroshima,Shimizu S-Pulse
+28,2026-10-24,07:00,Kashima Antlers,Kashiwa Reysol
+28,2026-10-24,07:00,Tokyo Verdy 1969,Avispa Fukuoka
+28,2026-10-24,07:00,Vissel Kobe,Machida Zelvia
+28,2026-10-24,08:00,Gamba Osaka,Kyoto Sanga
+28,2026-10-25,06:00,Nagoya Grampus,Yokohama F. Marinos
+28,2026-10-25,07:00,Cerezo Osaka,JEF United Ichihara-Chiba
+28,2026-10-25,07:00,Urawa Red Diamonds,V-Varen Nagasaki
+28,2026-10-25,08:00,FC Tokyo,Mito Hollyhock
+28,2026-10-25,08:00,Kawasaki Frontale,Fagiano Okayama
+29,2026-10-31,06:00,Fagiano Okayama,FC Tokyo
+29,2026-10-31,06:00,Kyoto Sanga,Shimizu S-Pulse
+29,2026-10-31,06:00,Mito Hollyhock,Sanfrecce Hiroshima
+29,2026-10-31,07:00,Kashima Antlers,Cerezo Osaka
+29,2026-10-31,07:00,Vissel Kobe,Nagoya Grampus
+29,2026-10-31,08:00,Kashiwa Reysol,Urawa Red Diamonds
+29,2026-11-01,05:00,Yokohama F. Marinos,Kawasaki Frontale
+29,2026-11-01,06:00,JEF United Ichihara-Chiba,Avispa Fukuoka
+29,2026-11-01,06:00,V-Varen Nagasaki,Tokyo Verdy 1969
+29,2026-11-01,07:00,Machida Zelvia,Gamba Osaka
+30,2026-11-07,05:00,Shimizu S-Pulse,Tokyo Verdy 1969
+30,2026-11-07,06:00,Nagoya Grampus,Kyoto Sanga
+30,2026-11-07,06:00,Yokohama F. Marinos,Fagiano Okayama
+30,2026-11-07,07:00,Avispa Fukuoka,V-Varen Nagasaki
+30,2026-11-07,07:00,FC Tokyo,Kashima Antlers
+30,2026-11-07,08:00,Kashiwa Reysol,Kawasaki Frontale
+30,2026-11-08,06:00,Machida Zelvia,Sanfrecce Hiroshima
+30,2026-11-08,06:00,Vissel Kobe,Urawa Red Diamonds
+30,2026-11-08,07:00,Gamba Osaka,Cerezo Osaka
+30,2026-11-08,09:00,JEF United Ichihara-Chiba,Mito Hollyhock
+31,2026-11-20,11:00,Kashima Antlers,Shimizu S-Pulse
+31,2026-11-20,11:00,Kashiwa Reysol,JEF United Ichihara-Chiba
+31,2026-11-20,11:00,Vissel Kobe,Mito Hollyhock
+31,2026-11-21,06:00,Kyoto Sanga,Urawa Red Diamonds
+31,2026-11-21,06:00,Machida Zelvia,V-Varen Nagasaki
+31,2026-11-21,06:00,Sanfrecce Hiroshima,Yokohama F. Marinos
+31,2026-11-21,06:00,Tokyo Verdy 1969,Nagoya Grampus
+31,2026-11-21,07:00,Cerezo Osaka,FC Tokyo
+31,2026-11-21,07:00,Kawasaki Frontale,Avispa Fukuoka
+31,2026-11-21,08:00,Gamba Osaka,Fagiano Okayama
+32,2026-11-25,11:00,Avispa Fukuoka,Yokohama F. Marinos
+32,2026-11-25,11:00,FC Tokyo,Sanfrecce Hiroshima
+32,2026-11-25,11:00,Fagiano Okayama,Shimizu S-Pulse
+32,2026-11-25,11:00,JEF United Ichihara-Chiba,Nagoya Grampus
+32,2026-11-25,11:00,Mito Hollyhock,Tokyo Verdy 1969
+32,2026-11-25,11:00,V-Varen Nagasaki,Kawasaki Frontale
+32,2026-11-25,11:30,Urawa Red Diamonds,Cerezo Osaka
+32,2026-11-28,06:00,Kyoto Sanga,Cerezo Osaka
+32,2026-11-28,06:00,Shimizu S-Pulse,Urawa Red Diamonds
+32,2026-11-28,07:00,Kashima Antlers,Fagiano Okayama
+32,2026-11-28,07:00,Vissel Kobe,JEF United Ichihara-Chiba
+32,2026-11-28,08:00,Kashiwa Reysol,Sanfrecce Hiroshima
+32,2026-11-29,06:00,Mito Hollyhock,V-Varen Nagasaki
+32,2026-11-29,06:00,Yokohama F. Marinos,FC Tokyo
+32,2026-11-29,07:00,Kawasaki Frontale,Gamba Osaka
+32,2026-11-29,07:00,Nagoya Grampus,Avispa Fukuoka
+32,2026-11-29,08:00,Machida Zelvia,Tokyo Verdy 1969
+33,2026-12-04,10:30,FC Tokyo,Kawasaki Frontale
+33,2026-12-05,05:00,JEF United Ichihara-Chiba,Kashima Antlers
+33,2026-12-05,06:00,Tokyo Verdy 1969,Kyoto Sanga
+33,2026-12-05,06:00,Urawa Red Diamonds,Nagoya Grampus
+33,2026-12-05,07:00,Cerezo Osaka,Mito Hollyhock
+33,2026-12-05,07:00,V-Varen Nagasaki,Shimizu S-Pulse
+33,2026-12-06,06:00,Sanfrecce Hiroshima,Vissel Kobe
+33,2026-12-06,07:00,Gamba Osaka,Yokohama F. Marinos
+33,2026-12-06,08:00,Kashiwa Reysol,Avispa Fukuoka
+33,2026-12-06,08:00,Machida Zelvia,Fagiano Okayama
+34,2026-12-12,06:00,Cerezo Osaka,Machida Zelvia
+34,2026-12-12,06:00,Shimizu S-Pulse,Vissel Kobe
+34,2026-12-12,08:00,Gamba Osaka,Tokyo Verdy 1969
+34,2026-12-13,05:00,Yokohama F. Marinos,V-Varen Nagasaki
+34,2026-12-13,06:00,Fagiano Okayama,Kashiwa Reysol
+34,2026-12-13,06:00,Kyoto Sanga,JEF United Ichihara-Chiba
+34,2026-12-13,06:00,Sanfrecce Hiroshima,Kashima Antlers
+34,2026-12-13,07:00,Avispa Fukuoka,FC Tokyo
+34,2026-12-13,07:00,Nagoya Grampus,Mito Hollyhock
+34,2026-12-13,07:00,Urawa Red Diamonds,Kawasaki Frontale
+35,2026-12-16,11:00,Gamba Osaka,Kashiwa Reysol
+35,2026-12-16,11:00,Kashima Antlers,Machida Zelvia
+35,2026-12-19,05:00,JEF United Ichihara-Chiba,Cerezo Osaka
+35,2026-12-19,05:00,Kyoto Sanga,Fagiano Okayama
+35,2026-12-19,06:00,Mito Hollyhock,FC Tokyo
+35,2026-12-19,06:00,Nagoya Grampus,Sanfrecce Hiroshima
+35,2026-12-19,06:30,Avispa Fukuoka,Shimizu S-Pulse
+35,2026-12-19,06:30,V-Varen Nagasaki,Urawa Red Diamonds
+35,2026-12-19,07:00,Kashima Antlers,Tokyo Verdy 1969
+35,2026-12-19,07:00,Vissel Kobe,Yokohama F. Marinos
+35,2026-12-19,08:00,Gamba Osaka,Machida Zelvia
+35,2026-12-19,08:00,Kawasaki Frontale,Kashiwa Reysol

@@ -1,0 +1,35 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-28,,Krasava,Omonia 29th May,0,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-28,,Ol. Nicosia,Nea Salamis,3,3,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,AEK Larnaca,APOEL,3,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Aris,Apollon,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,AEL Limassol,Anorthosis,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Karmiotissa,Pafos,0,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-31,,Omonia,Omonia Aradippou,0,0,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-04,,Omonia 29th May,Karmiotissa,2,2,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Apollon,Anorthosis,3,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-05,,Omonia Aradippou,Krasava,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-06,,APOEL,AEL Limassol,6,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-06,,Nea Salamis,AEK Larnaca,1,4,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-07,,Aris,Omonia,1,4,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-07,,Pafos,Ol. Nicosia,0,0,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-11,,AEL Limassol,Nea Salamis,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Anorthosis,APOEL,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Karmiotissa,Omonia Aradippou,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-12,,Omonia,Apollon,0,0,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-13,,AEK Larnaca,Pafos,0,1,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-13,,Ol. Nicosia,Omonia 29th May,3,3,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-09-14,,Krasava,Aris,0,1,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-18,,Omonia 29th May,AEK Larnaca,1,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-18,,Pafos,AEL Limassol,0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Apollon,APOEL,2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-19,,Nea Salamis,Anorthosis,3,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-20,,Aris,Karmiotissa,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-20,,Omonia,Krasava,4,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-20,,Omonia Aradippou,Ol. Nicosia,1,1,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-09,,Karmiotissa,Omonia,0,3,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-10,,APOEL,Nea Salamis,2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-10,,Krasava,Apollon,1,3,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-11,,AEL Limassol,Omonia 29th May,2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-11,,Anorthosis,Pafos,1,3,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-10-11,,Ol. Nicosia,Aris,1,2,A,,,,,,,,,,,,,,,,,soccerway

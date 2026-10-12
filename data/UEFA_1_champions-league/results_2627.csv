@@ -1,0 +1,113 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-07,,Ararat-Armenia (Arm),Riga FC (Lat),2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Borac Banja Luka (Bih),Levski Sofia (Bul),1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Floriana (Mlt),Shamrock Rovers (Irl),2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Kauno Zalgiris (Ltu),Drita (Kos),1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Klaksvik (Fai),Bissen (Lux),2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Lincoln Red Imps (Gib),Inter Escaldes (And),3,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Sabah Baku (Aze),TNS (Wal),2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Tre Fiori (San),Larne (Nir),0,1,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Vardar (Mkd),KuPS (Fin),0,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-07,,Vikingur Reykjavik (Ice),Gyor (Hun),1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-08,,Flora (Est),Iberia 1999 (Geo),2,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-08,,Kairat Almaty (Kaz),Sutjeska (Mne),2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-08,,ML Vitebsk (Blr),Univ. Craiova (Rou),1,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-08,,Petrocub (Mda),Egnatia (Alb),1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Drita (Kos),Kauno Zalgiris (Ltu),2,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Gyor (Hun),Vikingur Reykjavik (Ice),2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Iberia 1999 (Geo),Flora (Est),2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Inter Escaldes (And),Lincoln Red Imps (Gib),1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,KuPS (Fin),Vardar (Mkd),2,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Larne (Nir),Tre Fiori (San),2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Levski Sofia (Bul),Borac Banja Luka (Bih),4,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Riga FC (Lat),Ararat-Armenia (Arm),3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,Shamrock Rovers (Irl),Floriana (Mlt),5,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-14,,TNS (Wal),Sabah Baku (Aze),1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-15,,Bissen (Lux),Klaksvik (Fai),1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-15,,Egnatia (Alb),Petrocub (Mda),6,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-15,,Sutjeska (Mne),Kairat Almaty (Kaz),0,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-15,,Univ. Craiova (Rou),ML Vitebsk (Blr),1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Aarhus (Den),Lech Poznan (Pol),1,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Ararat-Armenia (Arm),Shamrock Rovers (Irl),2,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Fenerbahce (Tur),Gornik Zabrze (Pol),1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Iberia 1999 (Geo),Slovan Bratislava (Svk),0,2,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Klaksvik (Fai),Kauno Zalgiris (Ltu),0,0,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Larne (Nir),Crvena zvezda (Srb),0,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Mjallby (Swe),Lincoln Red Imps (Gib),3,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Sabah Baku (Aze),KuPS (Fin),1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Sturm Graz (Aut),Hearts (Sco),4,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Thun (Sui),Din. Zagreb (Cro),1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-21,,Vikingur Reykjavik (Ice),H. Beer Sheva (Isr),2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-22,,Egnatia (Alb),Celje (Slo),3,3,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-22,,Levski Sofia (Bul),Univ. Craiova (Rou),1,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-07-22,,Omonia (Cyp),Kairat Almaty (Kaz),1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,Celje (Slo),Egnatia (Alb),2,2,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,Din. Zagreb (Cro),Thun (Sui),3,2,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,Hearts (Sco),Sturm Graz (Aut),0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,KuPS (Fin),Sabah Baku (Aze),0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,Lincoln Red Imps (Gib),Mjallby (Swe),0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-28,,Shamrock Rovers (Irl),Ararat-Armenia (Arm),2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Crvena zvezda (Srb),Larne (Nir),5,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Gornik Zabrze (Pol),Fenerbahce (Tur),1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,H. Beer Sheva (Isr),Vikingur Reykjavik (Ice),2,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Kairat Almaty (Kaz),Omonia (Cyp),1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Kauno Zalgiris (Ltu),Klaksvik (Fai),1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Lech Poznan (Pol),Aarhus (Den),1,4,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Slovan Bratislava (Svk),Iberia 1999 (Geo),1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-07-29,,Univ. Craiova (Rou),Levski Sofia (Bul),2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Ararat-Armenia (Arm),Celje (Slo),2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Din. Zagreb (Cro),Kauno Zalgiris (Ltu),5,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,H. Beer Sheva (Isr),Crvena zvezda (Srb),1,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Levski Sofia (Bul),Kairat Almaty (Kaz),1,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Mjallby (Swe),Slovan Bratislava (Svk),1,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Olympiacos Piraeus (Gre),Nijmegen (Ned),0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Royale Union SG (Bel),Bodo/Glimt (Nor),3,3,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-04,,Sparta Prague (Cze),Lyon (Fra),2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-05,,Aarhus (Den),Sabah Baku (Aze),2,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-05,,Fenerbahce (Tur),Sturm Graz (Aut),2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Bodo/Glimt (Nor),Royale Union SG (Bel),3,2,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Celje (Slo),Ararat-Armenia (Arm),2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Crvena zvezda (Srb),H. Beer Sheva (Isr),0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Kairat Almaty (Kaz),Levski Sofia (Bul),0,1,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Kauno Zalgiris (Ltu),Din. Zagreb (Cro),1,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Lyon (Fra),Sparta Prague (Cze),3,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Nijmegen (Ned),Olympiacos Piraeus (Gre),2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Sabah Baku (Aze),Aarhus (Den),4,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Slovan Bratislava (Svk),Mjallby (Swe),2,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-11,,Sturm Graz (Aut),Fenerbahce (Tur),0,1,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-18,,Din. Zagreb (Cro),Viking (Nor),2,2,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-18,,Fenerbahce (Tur),Lyon (Fra),1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-18,,Levski Sofia (Bul),AEK Athens (Gre),0,0,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-19,,Celtic (Sco),LASK (Aut),3,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-19,,H. Beer Sheva (Isr),Sabah Baku (Aze),2,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-19,,Nijmegen (Ned),Bodo/Glimt (Nor),1,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-08-19,,Slovan Bratislava (Svk),Celje (Slo),1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-25,,Bodo/Glimt (Nor),Nijmegen (Ned),3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-25,,LASK (Aut),Celtic (Sco),5,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-25,,Sabah Baku (Aze),H. Beer Sheva (Isr),5,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-26,,AEK Athens (Gre),Levski Sofia (Bul),4,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-26,,Celje (Slo),Slovan Bratislava (Svk),1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-26,,Lyon (Fra),Fenerbahce (Tur),1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-08-26,,Viking (Nor),Din. Zagreb (Cro),3,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-08,17:45,AEK Athens,LASK,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-09-08,17:45,Club Brugge,Aston Villa,2,3,A,,,,,,,,,,,,,,,,"11,19,22,43,61",fixturedl
+1,2026-09-08,20:00,B. Dortmund,Villarreal,3,2,H,,,,,,,,,,,,,,,,"53,80,85,93",fixturedl
+1,2026-09-08,20:00,Lille,Real Betis,2,3,A,,,,,,,,,,,,,,,,53,fixturedl
+1,2026-09-08,20:00,Porto,Man City,0,2,A,,,,,,,,,,,,,,,,91,fixturedl
+1,2026-09-08,20:00,Real Madrid,Inter,2,1,H,,,,,,,,,,,,,,,,"14,23,77",fixturedl
+1,2026-09-09,,Liverpool,Atl. Madrid,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-09,,PSG,Slovan Bratislava,6,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-09,17:45,Barcelona,Feyenoord,5,1,H,,,,,,,,,,,,,,,,"3,22,57,82",fixturedl
+1,2026-09-09,17:45,Stuttgart,Viking,3,1,H,,,,,,,,,,,,,,,,"20,22,26",fixturedl
+1,2026-09-09,20:00,Liverpool,Atleti,2,1,H,,,,,,,,,,,,,,,,"17,40,50",fixturedl
+1,2026-09-09,20:00,Napoli,Arsenal,0,1,A,,,,,,,,,,,,,,,,75,fixturedl
+1,2026-09-09,20:00,Paris,S. Bratislava,6,1,H,,,,,,,,,,,,,,,,,fixturedl
+9,2026-09-09,20:00,Paris Saint-Germain,Slovan Bratislava,6,1,H,,,,,,,,,,,,,,,,"17,31,47,57,58,87",espn
+1,2026-09-09,20:00,Sporting CP,Galatasaray,3,1,H,,,,,,,,,,,,,,,,"5,27,57",fixturedl
+1,2026-09-10,,Manchester Utd,Sabah Baku,4,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-10,17:45,Fenerbahçe,Roma,1,1,D,,,,,,,,,,,,,,,,"39,48",fixturedl
+1,2026-09-10,17:45,PSV,Shakhtar,1,1,D,,,,,,,,,,,,,,,,"46,48",fixturedl
+1,2026-09-10,20:00,Bayern München,Bodø/Glimt,5,0,H,,,,,,,,,,,,,,,,"47,77,83,92",fixturedl
+1,2026-09-10,20:00,Como,Leipzig,4,1,H,,,,,,,,,,,,,,,,"15,38,54,58,90",fixturedl
+1,2026-09-10,20:00,Man Utd,Sabah,4,0,H,,,,,,,,,,,,,,,,"42,45,68",fixturedl
+1,2026-09-10,20:00,Slavia Praha,Lens,2,3,A,,,,,,,,,,,,,,,,"51,73,88,93",fixturedl

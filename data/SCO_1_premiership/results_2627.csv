@@ -41,3 +41,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-09-19,15:00,St. Mirren,Dundee United,0,3,A,0,3,A,10,13,0,9,13,13,4,7,2,2,0,0,,fixturedl
 7,2026-09-19,17:45,Kilmarnock,Heart of Midlothian,1,1,D,1,0,H,4,17,0,3,13,17,2,6,2,2,0,0,,fixturedl
 7,2026-09-20,12:00,Celtic,Rangers,0,1,A,0,1,A,5,15,1,8,16,19,8,4,2,3,0,0,,fixturedl
+8,2026-10-10,15:00,Dundee United,Hibernian,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,15:00,Falkirk,Dundee,1,2,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,15:00,Heart of Midlothian,St. Mirren,5,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,15:00,Rangers,Kilmarnock,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-11,12:00,Motherwell,Celtic,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-11,14:00,Aberdeen,St. Johnstone,0,1,A,,,,,,,,,,,,,,,,,fixturedl

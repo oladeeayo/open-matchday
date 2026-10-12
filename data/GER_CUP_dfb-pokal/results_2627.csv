@@ -1,0 +1,35 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-21,17:00,Preußen Münster,Karlsruher SC,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-21,17:00,SC St. Tönis,Eintracht Frankfurt,0,11,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-21,17:00,SV Waldhof Mannheim,Kaiserslautern,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-21,19:45,Hansa Rostock,VfB Stuttgart,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,,Aue,Hoffenheim,0,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-22,,Grossaspach,Arminia Bielefeld,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-22,12:00,Energie Cottbus,FC Augsburg,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,12:00,SV Wehen Wiesbaden,Bayer Leverkusen,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,FC Erzgebirge Aue,TSG Hoffenheim,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,Hemelingen,Hannover 96,1,9,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,Lüneburger SK Hansa,Werder Bremen,0,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,MSV Duisburg,SV Elversberg,1,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,Saarbrücken,Hertha Berlin,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,14:30,Viktoria Köln,1. FC Nürnberg,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,17:00,Eintracht Trier,RB Leipzig,0,6,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,17:00,SG Sonnenhof Großaspach,Arminia Bielefeld,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,17:00,TSV 1860 Munich,Holstein Kiel,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,12:00,SSV Jeddeloh II,1. FC Heidenheim 1846,5,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,12:00,SpVgg Greuther Fürth,VfL Bochum,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,Bahlinger SC 1929,1. FC Magdeburg,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,FC Carl Zeiss Jena,SV Darmstadt 98,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,Schott,Borussia Mönchengladbach,0,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,TSV Eintracht Braunschweig,1. FC Union Berlin,2,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,VFB Krieschow,Mainz,0,9,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,14:30,Westfalia Rhynern,Dynamo Dresden,0,6,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,17:00,1. FC Phönix Lübeck,SC Paderborn 07,2,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,17:00,Fortuna Düsseldorf,SC Freiburg,1,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,17:00,Rot-Weiss Essen,St. Pauli,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-08-24,17:00,SC Verl 1924,Hamburg SV,0,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-24,17:00,VSG Altglienicke,VfL Wolfsburg,3,3,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-24,17:00,Würzburger Kickers,FC Cologne,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-24,19:45,Hallescher FC,Schalke 04,2,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:45,HEBC Hamburg,Borussia Dortmund,0,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:45,VfL Osnabruck,Bayern Munich,1,4,A,,,,,,,,,,,,,,,,,espn

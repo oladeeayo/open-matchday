@@ -1,0 +1,281 @@
+gw,date,time,home,away
+11,2026-10-16,19:00,FC Den Bosch,TOP Oss
+11,2026-10-16,19:00,FC Eindhoven,Vitesse
+11,2026-10-16,19:00,Helmond Sport,NAC Breda
+11,2026-10-16,19:00,VVV-Venlo,Jong AZ
+11,2026-10-17,15:30,FC Emmen,Almere City
+11,2026-10-18,11:15,RKC Waalwijk,FC Volendam
+11,2026-10-18,15:45,MVV Maastricht,Heracles Almelo
+12,2026-10-19,19:00,Jong Ajax,De Graafschap
+12,2026-10-19,19:00,Jong FC Utrecht,Roda JC Kerkrade
+12,2026-10-19,19:00,Jong PSV,FC Dordrecht
+12,2026-10-23,19:00,Almere City,Roda JC Kerkrade
+12,2026-10-23,19:00,De Graafschap,RKC Waalwijk
+12,2026-10-23,19:00,FC Den Bosch,MVV Maastricht
+12,2026-10-23,19:00,FC Eindhoven,Jong PSV
+12,2026-10-23,19:00,FC Volendam,Jong FC Utrecht
+12,2026-10-23,19:00,Jong AZ,Helmond Sport
+12,2026-10-23,19:00,NAC Breda,Heracles Almelo
+12,2026-10-23,19:00,TOP Oss,Jong Ajax
+12,2026-10-23,19:00,Vitesse,FC Emmen
+12,2026-10-24,15:30,FC Dordrecht,VVV-Venlo
+13,2026-10-30,20:00,FC Volendam,De Graafschap
+13,2026-10-30,20:00,Helmond Sport,FC Eindhoven
+13,2026-10-30,20:00,RKC Waalwijk,Almere City
+13,2026-10-30,20:00,Roda JC Kerkrade,Jong AZ
+13,2026-10-31,16:30,MVV Maastricht,VVV-Venlo
+13,2026-11-01,14:30,FC Emmen,FC Den Bosch
+14,2026-11-02,20:00,Heracles Almelo,TOP Oss
+14,2026-11-02,20:00,Jong Ajax,Vitesse
+14,2026-11-02,20:00,Jong FC Utrecht,FC Dordrecht
+14,2026-11-02,20:00,Jong PSV,NAC Breda
+14,2026-11-06,20:00,FC Dordrecht,NAC Breda
+14,2026-11-06,20:00,FC Eindhoven,Jong Ajax
+14,2026-11-06,20:00,Helmond Sport,FC Volendam
+14,2026-11-06,20:00,Heracles Almelo,Roda JC Kerkrade
+14,2026-11-06,20:00,Jong AZ,Almere City
+14,2026-11-06,20:00,TOP Oss,RKC Waalwijk
+14,2026-11-06,20:00,VVV-Venlo,Jong PSV
+14,2026-11-07,16:30,FC Den Bosch,Jong FC Utrecht
+14,2026-11-08,12:15,Vitesse,De Graafschap
+14,2026-11-08,16:45,FC Emmen,MVV Maastricht
+15,2026-11-14,16:30,NAC Breda,FC Emmen
+15,2026-11-14,20:00,Almere City,Helmond Sport
+15,2026-11-14,20:00,De Graafschap,TOP Oss
+15,2026-11-14,20:00,FC Dordrecht,Heracles Almelo
+15,2026-11-14,20:00,RKC Waalwijk,FC Den Bosch
+15,2026-11-14,20:00,Roda JC Kerkrade,FC Volendam
+15,2026-11-14,20:00,VVV-Venlo,FC Eindhoven
+15,2026-11-15,14:30,MVV Maastricht,Vitesse
+16,2026-11-20,20:00,Almere City,NAC Breda
+16,2026-11-20,20:00,De Graafschap,MVV Maastricht
+16,2026-11-20,20:00,FC Den Bosch,VVV-Venlo
+16,2026-11-20,20:00,FC Volendam,Jong Ajax
+16,2026-11-20,20:00,Helmond Sport,FC Dordrecht
+16,2026-11-20,20:00,Heracles Almelo,Jong PSV
+16,2026-11-20,20:00,Jong FC Utrecht,FC Emmen
+16,2026-11-20,20:00,TOP Oss,Roda JC Kerkrade
+16,2026-11-20,20:00,Vitesse,Jong AZ
+16,2026-11-21,16:30,FC Eindhoven,RKC Waalwijk
+17,2026-11-23,20:00,Jong Ajax,Jong AZ
+17,2026-11-23,20:00,Jong PSV,Jong FC Utrecht
+17,2026-11-27,20:00,FC Dordrecht,Vitesse
+17,2026-11-27,20:00,Jong AZ,TOP Oss
+17,2026-11-27,20:00,Jong Ajax,Heracles Almelo
+17,2026-11-27,20:00,Jong FC Utrecht,Almere City
+17,2026-11-27,20:00,MVV Maastricht,Jong PSV
+17,2026-11-27,20:00,NAC Breda,FC Den Bosch
+17,2026-11-27,20:00,VVV-Venlo,RKC Waalwijk
+17,2026-11-28,16:30,FC Emmen,Helmond Sport
+17,2026-11-29,12:15,FC Volendam,FC Eindhoven
+17,2026-11-29,16:45,Roda JC Kerkrade,De Graafschap
+18,2026-12-04,20:00,FC Den Bosch,Jong Ajax
+18,2026-12-04,20:00,Helmond Sport,Jong FC Utrecht
+18,2026-12-04,20:00,Heracles Almelo,FC Emmen
+18,2026-12-04,20:00,MVV Maastricht,FC Dordrecht
+18,2026-12-04,20:00,RKC Waalwijk,Jong AZ
+18,2026-12-04,20:00,TOP Oss,Almere City
+18,2026-12-04,20:00,Vitesse,VVV-Venlo
+18,2026-12-06,12:15,FC Eindhoven,Roda JC Kerkrade
+18,2026-12-06,16:45,NAC Breda,FC Volendam
+19,2026-12-07,20:00,Jong PSV,De Graafschap
+19,2026-12-11,20:00,Almere City,VVV-Venlo
+19,2026-12-11,20:00,De Graafschap,FC Dordrecht
+19,2026-12-11,20:00,FC Emmen,Jong PSV
+19,2026-12-11,20:00,Heracles Almelo,FC Volendam
+19,2026-12-11,20:00,Jong AZ,NAC Breda
+19,2026-12-11,20:00,Jong Ajax,MVV Maastricht
+19,2026-12-11,20:00,Jong FC Utrecht,RKC Waalwijk
+19,2026-12-11,20:00,Roda JC Kerkrade,FC Den Bosch
+19,2026-12-11,20:00,TOP Oss,FC Eindhoven
+19,2026-12-11,20:00,Vitesse,Helmond Sport
+20,2026-12-18,20:00,Almere City,Vitesse
+20,2026-12-18,20:00,De Graafschap,Heracles Almelo
+20,2026-12-18,20:00,FC Dordrecht,FC Den Bosch
+20,2026-12-18,20:00,FC Volendam,FC Emmen
+20,2026-12-18,20:00,Helmond Sport,Jong AZ
+20,2026-12-18,20:00,MVV Maastricht,TOP Oss
+20,2026-12-18,20:00,NAC Breda,Roda JC Kerkrade
+20,2026-12-18,20:00,RKC Waalwijk,Jong Ajax
+20,2026-12-19,16:30,VVV-Venlo,Jong FC Utrecht
+21,2026-12-21,20:00,Jong PSV,FC Eindhoven
+22,2027-01-08,20:00,FC Den Bosch,De Graafschap
+22,2027-01-08,20:00,FC Eindhoven,Jong AZ
+22,2027-01-08,20:00,FC Volendam,Helmond Sport
+22,2027-01-08,20:00,Roda JC Kerkrade,VVV-Venlo
+22,2027-01-09,16:30,FC Emmen,RKC Waalwijk
+22,2027-01-10,12:15,Heracles Almelo,NAC Breda
+22,2027-01-10,16:45,TOP Oss,Vitesse
+23,2027-01-11,20:00,Jong Ajax,FC Dordrecht
+23,2027-01-11,20:00,Jong FC Utrecht,MVV Maastricht
+23,2027-01-11,20:00,Jong PSV,Almere City
+23,2027-01-15,20:00,De Graafschap,FC Eindhoven
+23,2027-01-15,20:00,FC Dordrecht,Jong FC Utrecht
+23,2027-01-15,20:00,Helmond Sport,TOP Oss
+23,2027-01-15,20:00,MVV Maastricht,FC Den Bosch
+23,2027-01-15,20:00,NAC Breda,Jong PSV
+23,2027-01-15,20:00,RKC Waalwijk,Roda JC Kerkrade
+23,2027-01-15,20:00,VVV-Venlo,FC Volendam
+23,2027-01-15,20:00,Vitesse,Jong Ajax
+23,2027-01-16,16:30,Almere City,FC Emmen
+24,2027-01-18,20:00,Jong AZ,Heracles Almelo
+24,2027-01-22,20:00,FC Eindhoven,Almere City
+24,2027-01-22,20:00,FC Emmen,NAC Breda
+24,2027-01-22,20:00,Heracles Almelo,Helmond Sport
+24,2027-01-22,20:00,Roda JC Kerkrade,FC Dordrecht
+24,2027-01-22,20:00,TOP Oss,VVV-Venlo
+24,2027-01-22,20:00,Vitesse,MVV Maastricht
+24,2027-01-23,16:30,FC Den Bosch,RKC Waalwijk
+25,2027-01-25,20:00,Jong AZ,Jong PSV
+25,2027-01-25,20:00,Jong Ajax,FC Volendam
+25,2027-01-25,20:00,Jong FC Utrecht,De Graafschap
+25,2027-01-29,20:00,Almere City,Jong FC Utrecht
+25,2027-01-29,20:00,De Graafschap,Helmond Sport
+25,2027-01-29,20:00,FC Eindhoven,FC Den Bosch
+25,2027-01-29,20:00,FC Emmen,Jong Ajax
+25,2027-01-29,20:00,FC Volendam,Jong AZ
+25,2027-01-29,20:00,MVV Maastricht,RKC Waalwijk
+25,2027-01-29,20:00,NAC Breda,TOP Oss
+25,2027-01-29,20:00,VVV-Venlo,FC Dordrecht
+25,2027-01-30,16:30,Roda JC Kerkrade,Heracles Almelo
+26,2027-02-01,20:00,Jong PSV,Vitesse
+26,2027-02-05,20:00,FC Den Bosch,Jong PSV
+26,2027-02-05,20:00,FC Dordrecht,MVV Maastricht
+26,2027-02-05,20:00,FC Volendam,Almere City
+26,2027-02-05,20:00,Helmond Sport,FC Emmen
+26,2027-02-05,20:00,Heracles Almelo,VVV-Venlo
+26,2027-02-05,20:00,RKC Waalwijk,De Graafschap
+26,2027-02-06,16:30,Vitesse,FC Eindhoven
+27,2027-02-08,20:00,Jong AZ,Roda JC Kerkrade
+27,2027-02-08,20:00,Jong Ajax,NAC Breda
+27,2027-02-08,20:00,Jong FC Utrecht,TOP Oss
+27,2027-02-12,20:00,Almere City,FC Den Bosch
+27,2027-02-12,20:00,De Graafschap,FC Emmen
+27,2027-02-12,20:00,FC Eindhoven,FC Volendam
+27,2027-02-12,20:00,NAC Breda,FC Dordrecht
+27,2027-02-12,20:00,RKC Waalwijk,Heracles Almelo
+27,2027-02-12,20:00,Roda JC Kerkrade,Jong FC Utrecht
+27,2027-02-12,20:00,TOP Oss,Jong AZ
+27,2027-02-12,20:00,VVV-Venlo,Vitesse
+27,2027-02-13,16:30,MVV Maastricht,Jong Ajax
+28,2027-02-15,20:00,Jong PSV,Helmond Sport
+28,2027-02-19,20:00,FC Dordrecht,De Graafschap
+28,2027-02-19,20:00,FC Emmen,FC Eindhoven
+28,2027-02-19,20:00,FC Volendam,NAC Breda
+28,2027-02-19,20:00,TOP Oss,Heracles Almelo
+28,2027-02-19,20:00,VVV-Venlo,Almere City
+28,2027-02-19,20:00,Vitesse,Roda JC Kerkrade
+28,2027-02-20,16:30,Helmond Sport,MVV Maastricht
+29,2027-02-22,20:00,Jong AZ,RKC Waalwijk
+29,2027-02-22,20:00,Jong Ajax,FC Den Bosch
+29,2027-02-22,20:00,Jong FC Utrecht,Jong PSV
+29,2027-02-26,20:00,Almere City,MVV Maastricht
+29,2027-02-26,20:00,De Graafschap,Jong Ajax
+29,2027-02-26,20:00,FC Den Bosch,FC Volendam
+29,2027-02-26,20:00,FC Dordrecht,TOP Oss
+29,2027-02-26,20:00,Heracles Almelo,Jong FC Utrecht
+29,2027-02-26,20:00,Jong AZ,FC Emmen
+29,2027-02-26,20:00,Jong PSV,VVV-Venlo
+29,2027-02-26,20:00,NAC Breda,Vitesse
+29,2027-02-26,20:00,RKC Waalwijk,Helmond Sport
+29,2027-02-26,20:00,Roda JC Kerkrade,FC Eindhoven
+30,2027-03-05,20:00,FC Eindhoven,Jong FC Utrecht
+30,2027-03-05,20:00,FC Emmen,FC Dordrecht
+30,2027-03-05,20:00,FC Volendam,RKC Waalwijk
+30,2027-03-05,20:00,MVV Maastricht,Jong AZ
+30,2027-03-05,20:00,NAC Breda,Helmond Sport
+30,2027-03-05,20:00,VVV-Venlo,Jong Ajax
+30,2027-03-06,16:30,Roda JC Kerkrade,TOP Oss
+30,2027-03-07,12:15,Vitesse,FC Den Bosch
+30,2027-03-07,16:45,Almere City,De Graafschap
+31,2027-03-08,20:00,Jong PSV,Heracles Almelo
+31,2027-03-12,20:00,De Graafschap,FC Volendam
+31,2027-03-12,20:00,FC Den Bosch,FC Emmen
+31,2027-03-12,20:00,FC Dordrecht,FC Eindhoven
+31,2027-03-12,20:00,Helmond Sport,Roda JC Kerkrade
+31,2027-03-12,20:00,Heracles Almelo,MVV Maastricht
+31,2027-03-12,20:00,RKC Waalwijk,Vitesse
+31,2027-03-13,16:30,TOP Oss,Jong PSV
+32,2027-03-15,20:00,Jong AZ,VVV-Venlo
+32,2027-03-15,20:00,Jong Ajax,Almere City
+32,2027-03-15,20:00,Jong FC Utrecht,NAC Breda
+32,2027-03-19,20:00,Almere City,FC Dordrecht
+32,2027-03-19,20:00,FC Den Bosch,Heracles Almelo
+32,2027-03-19,20:00,FC Eindhoven,Helmond Sport
+32,2027-03-19,20:00,FC Emmen,VVV-Venlo
+32,2027-03-19,20:00,FC Volendam,Jong PSV
+32,2027-03-19,20:00,NAC Breda,Jong AZ
+32,2027-03-19,20:00,RKC Waalwijk,TOP Oss
+32,2027-03-19,20:00,Roda JC Kerkrade,Jong Ajax
+32,2027-03-19,20:00,Vitesse,Jong FC Utrecht
+32,2027-03-20,16:30,MVV Maastricht,De Graafschap
+33,2027-04-02,19:00,FC Dordrecht,FC Volendam
+33,2027-04-02,19:00,Helmond Sport,Almere City
+33,2027-04-02,19:00,MVV Maastricht,FC Emmen
+33,2027-04-02,19:00,TOP Oss,FC Den Bosch
+33,2027-04-02,19:00,VVV-Venlo,NAC Breda
+33,2027-04-03,15:30,Heracles Almelo,FC Eindhoven
+33,2027-04-04,15:45,De Graafschap,Roda JC Kerkrade
+34,2027-04-05,19:00,Jong AZ,Vitesse
+34,2027-04-05,19:00,Jong Ajax,Jong FC Utrecht
+34,2027-04-05,19:00,Jong PSV,RKC Waalwijk
+34,2027-04-09,19:00,Almere City,RKC Waalwijk
+34,2027-04-09,19:00,De Graafschap,VVV-Venlo
+34,2027-04-09,19:00,FC Den Bosch,NAC Breda
+34,2027-04-09,19:00,FC Dordrecht,Helmond Sport
+34,2027-04-09,19:00,FC Eindhoven,TOP Oss
+34,2027-04-09,19:00,FC Emmen,Vitesse
+34,2027-04-10,15:30,FC Volendam,Heracles Almelo
+34,2027-04-11,15:45,Roda JC Kerkrade,MVV Maastricht
+35,2027-04-12,19:00,Jong Ajax,Jong PSV
+35,2027-04-12,19:00,Jong FC Utrecht,Jong AZ
+35,2027-04-16,19:00,Helmond Sport,FC Den Bosch
+35,2027-04-16,19:00,Heracles Almelo,Jong Ajax
+35,2027-04-16,19:00,NAC Breda,Almere City
+35,2027-04-16,19:00,RKC Waalwijk,FC Eindhoven
+35,2027-04-16,19:00,TOP Oss,FC Emmen
+35,2027-04-16,19:00,Vitesse,FC Dordrecht
+35,2027-04-17,15:30,VVV-Venlo,MVV Maastricht
+36,2027-04-19,19:00,Jong AZ,De Graafschap
+36,2027-04-19,19:00,Jong FC Utrecht,FC Volendam
+36,2027-04-19,19:00,Jong PSV,Roda JC Kerkrade
+36,2027-04-23,19:00,Almere City,TOP Oss
+36,2027-04-23,19:00,FC Den Bosch,Jong AZ
+36,2027-04-23,19:00,FC Dordrecht,Jong PSV
+36,2027-04-23,19:00,FC Eindhoven,VVV-Venlo
+36,2027-04-23,19:00,FC Emmen,Heracles Almelo
+36,2027-04-23,19:00,FC Volendam,Roda JC Kerkrade
+36,2027-04-23,19:00,MVV Maastricht,NAC Breda
+36,2027-04-24,15:30,Helmond Sport,Jong Ajax
+36,2027-04-25,11:15,De Graafschap,Vitesse
+36,2027-04-25,15:45,RKC Waalwijk,Jong FC Utrecht
+37,2027-04-30,19:00,Heracles Almelo,Almere City
+37,2027-04-30,19:00,NAC Breda,RKC Waalwijk
+37,2027-04-30,19:00,Roda JC Kerkrade,FC Emmen
+37,2027-04-30,19:00,TOP Oss,De Graafschap
+37,2027-04-30,19:00,Vitesse,FC Volendam
+37,2027-05-01,15:30,VVV-Venlo,Helmond Sport
+38,2027-05-03,19:00,Jong AZ,FC Dordrecht
+38,2027-05-03,19:00,Jong Ajax,FC Eindhoven
+38,2027-05-03,19:00,Jong FC Utrecht,FC Den Bosch
+38,2027-05-03,19:00,Jong PSV,MVV Maastricht
+38,2027-05-07,19:00,Almere City,Jong AZ
+38,2027-05-07,19:00,De Graafschap,Jong PSV
+38,2027-05-07,19:00,FC Den Bosch,Roda JC Kerkrade
+38,2027-05-07,19:00,FC Eindhoven,NAC Breda
+38,2027-05-07,19:00,FC Emmen,Jong FC Utrecht
+38,2027-05-07,19:00,FC Volendam,MVV Maastricht
+38,2027-05-07,19:00,Helmond Sport,Vitesse
+38,2027-05-07,19:00,Heracles Almelo,FC Dordrecht
+38,2027-05-07,19:00,Jong Ajax,TOP Oss
+38,2027-05-07,19:00,RKC Waalwijk,VVV-Venlo
+39,2027-05-14,19:00,FC Dordrecht,RKC Waalwijk
+39,2027-05-14,19:00,Jong AZ,Jong Ajax
+39,2027-05-14,19:00,Jong FC Utrecht,Helmond Sport
+39,2027-05-14,19:00,Jong PSV,FC Emmen
+39,2027-05-14,19:00,MVV Maastricht,FC Eindhoven
+39,2027-05-14,19:00,NAC Breda,De Graafschap
+39,2027-05-14,19:00,Roda JC Kerkrade,Almere City
+39,2027-05-14,19:00,TOP Oss,FC Volendam
+39,2027-05-14,19:00,VVV-Venlo,FC Den Bosch
+39,2027-05-14,19:00,Vitesse,Heracles Almelo

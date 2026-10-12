@@ -1,0 +1,56 @@
+gw,date,time,home,away
+30,2026-10-12,20:00,Fortaleza,CRB
+30,2026-10-12,23:00,Novorizontino,Ponte Preta
+30,2026-10-12,23:30,Criciúma,América Mineiro
+30,2026-10-13,01:00,Botafogo-SP,Ceará
+30,2026-10-13,23:30,Athletic,Londrina
+30,2026-10-16,00:30,Sport,Fortaleza
+30,2026-10-16,23:30,Ponte Preta,Atlético Goianiense
+30,2026-10-17,20:30,Ceará,Juventude
+30,2026-10-17,22:30,América Mineiro,Operário PR
+30,2026-10-18,20:00,Avaí,Athletic
+30,2026-10-18,20:00,CRB,Botafogo-SP
+30,2026-10-18,20:00,São Bernardo,Criciúma
+30,2026-10-18,22:00,Vila Nova,Novorizontino
+31,2026-10-19,23:30,Goiás,Náutico
+31,2026-10-20,23:30,Londrina,Cuiabá
+31,2026-10-23,23:30,Operário PR,Athletic
+31,2026-10-24,01:00,Sport,Criciúma
+31,2026-10-24,20:00,Avaí,Botafogo-SP
+31,2026-10-24,20:30,Atlético Goianiense,Novorizontino
+31,2026-10-24,20:30,São Bernardo,Vila Nova
+31,2026-10-24,22:30,CRB,Londrina
+31,2026-10-24,22:30,Ponte Preta,Fortaleza
+32,2026-10-26,00:30,Juventude,Náutico
+32,2026-10-26,23:30,América Mineiro,Cuiabá
+32,2026-10-27,00:00,Ceará,Goiás
+32,2026-10-30,23:30,Criciúma,Ponte Preta
+32,2026-10-31,20:00,Botafogo-SP,Sport
+32,2026-10-31,22:00,Vila Nova,Juventude
+32,2026-10-31,23:30,Náutico,Avaí
+32,2026-11-01,20:00,Londrina,América Mineiro
+32,2026-11-01,22:30,Cuiabá,São Bernardo
+32,2026-11-01,22:30,Novorizontino,Operário PR
+33,2026-11-02,00:30,Goiás,CRB
+33,2026-11-02,20:00,Fortaleza,Atlético Goianiense
+33,2026-11-02,22:00,Athletic,Ceará
+33,2026-11-06,00:30,Vila Nova,Criciúma
+33,2026-11-06,23:30,Botafogo-SP,Londrina
+33,2026-11-06,23:30,Operário PR,Sport
+33,2026-11-07,01:30,Cuiabá,Juventude
+33,2026-11-07,20:00,Avaí,São Bernardo
+33,2026-11-07,20:10,Novorizontino,Fortaleza
+33,2026-11-08,01:30,Náutico,CRB
+33,2026-11-08,20:00,Athletic,Atlético Goianiense
+33,2026-11-08,23:15,Ceará,América Mineiro
+33,2026-11-08,23:15,Goiás,Ponte Preta
+34,2026-11-14,20:30,América Mineiro,Avaí
+34,2026-11-14,20:30,Atlético Goianiense,Cuiabá
+34,2026-11-14,20:30,CRB,Ceará
+34,2026-11-14,20:30,Criciúma,Novorizontino
+34,2026-11-14,20:30,Fortaleza,Vila Nova
+34,2026-11-14,20:30,Juventude,Botafogo-SP
+34,2026-11-14,20:30,Londrina,Náutico
+34,2026-11-14,20:30,Ponte Preta,Operário PR
+34,2026-11-14,20:30,Sport,Goiás
+34,2026-11-14,20:30,São Bernardo,Athletic

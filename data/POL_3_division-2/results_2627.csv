@@ -8,10 +8,10 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-07-25,,Zielona Gora,Bielsko-Biala,1,1,D,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Avia Swidnik,Ol. Grudziadz,4,1,H,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Chojniczanka,Tychy,0,1,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-07-31,,Kleczew,Podhale Nowy Targ,0,0,D,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,Pruszkow,Legia II,2,1,H,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,S. Wola,Tychy,1,2,A,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Hutnik Krakow,Swit Szczecin,3,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Kleczew,Podhale Nowy Targ,0,0,D,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Leczna,Avia Swidnik,0,1,A,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,R. Rzeszow,Slask Wroclaw II,1,5,A,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Zielona Gora,Ol. Grudziadz,2,2,D,,,,,,,,,,,,,,,,,soccerway
@@ -90,3 +90,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-04,,Zawisza,Ol. Grudziadz,1,2,A,,,,,,,,,,,,,,,,,soccerway
 11,2026-10-09,,Bielsko-Biala,Sandecja Nowy S.,1,1,D,,,,,,,,,,,,,,,,,soccerway
 11,2026-10-09,,Chojniczanka,Podhale Nowy Targ,2,2,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-10,,Avia Swidnik,Swit Szczecin,1,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-10,,S. Wola,Slask Wroclaw II,3,2,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-10,,Zielona Gora,Legia II,0,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-11,,Kleczew,Hutnik Krakow,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-11,,Tychy,Leczna,3,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-11,,Zawisza,Pruszkow,0,1,A,,,,,,,,,,,,,,,,,soccerway

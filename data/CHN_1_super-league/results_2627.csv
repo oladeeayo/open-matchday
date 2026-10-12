@@ -1,0 +1,217 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-03-06,12:35,Chengdu Rongcheng,Shenzhen Xinpengcheng,5,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-03-07,08:30,Shandong Taishan,Liaoning Tieren,3,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-03-07,08:30,Tianjin Jinmen Tiger,Chongqing Tonglianglong,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-03-07,10:00,Shanghai Shenhua,Dalian Yingbo,5,3,H,,,,,,,,,,,,,,,,,espn
+1,2026-03-07,12:35,Shanghai Port,Henan,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-03-07,12:35,Yunnan Yukun,Qingdao Hainiu,3,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-03-08,09:30,Zhejiang Professional FC,Qingdao West Coast,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-03-08,12:00,Wuhan Three Towns,Beijing Guoan,0,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-03-13,12:35,Wuhan Three Towns,Dalian Yingbo,4,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-14,08:30,Shandong Taishan,Beijing Guoan,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-14,08:30,Zhejiang Professional FC,Shanghai Shenhua,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-03-14,12:35,Chongqing Tonglianglong,Liaoning Tieren,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-14,13:00,Shenzhen Xinpengcheng,Tianjin Jinmen Tiger,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-15,08:30,Henan,Yunnan Yukun,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-15,12:00,Shanghai Port,Qingdao West Coast,4,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-03-15,12:35,Chengdu Rongcheng,Qingdao Hainiu,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-20,12:00,Dalian Yingbo,Shanghai Port,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-20,12:35,Qingdao Hainiu,Zhejiang Professional FC,1,4,A,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,08:30,Beijing Guoan,Shanghai Shenhua,1,1,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,08:30,Liaoning Tieren,Tianjin Jinmen Tiger,3,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,12:00,Henan,Wuhan Three Towns,1,1,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,12:35,Chongqing Tonglianglong,Chengdu Rongcheng,3,3,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,12:35,Qingdao West Coast,Shenzhen Xinpengcheng,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-21,13:00,Yunnan Yukun,Shandong Taishan,4,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-03,12:35,Chengdu Rongcheng,Qingdao West Coast,5,1,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-04,08:30,Liaoning Tieren,Beijing Guoan,2,1,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-04,08:30,Qingdao Hainiu,Henan,1,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-04,12:00,Shandong Taishan,Dalian Yingbo,1,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-04-04,12:35,Shanghai Port,Yunnan Yukun,2,1,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-05,08:30,Zhejiang Professional FC,Chongqing Tonglianglong,0,1,A,,,,,,,,,,,,,,,,,espn
+4,2026-04-05,12:00,Shenzhen Xinpengcheng,Wuhan Three Towns,5,2,H,,,,,,,,,,,,,,,,,espn
+4,2026-04-05,12:35,Tianjin Jinmen Tiger,Shanghai Shenhua,2,3,A,,,,,,,,,,,,,,,,,espn
+5,2026-04-10,12:35,Dalian Yingbo,Zhejiang Professional FC,3,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-04-11,12:00,Chongqing Tonglianglong,Wuhan Three Towns,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-04-11,12:00,Qingdao West Coast,Liaoning Tieren,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-04-11,12:35,Henan,Shandong Taishan,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-04-11,12:35,Shanghai Shenhua,Shanghai Port,1,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-04-12,12:00,Tianjin Jinmen Tiger,Qingdao Hainiu,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-04-12,12:35,Beijing Guoan,Chengdu Rongcheng,1,2,A,,,,,,,,,,,,,,,,,espn
+5,2026-04-12,13:00,Shenzhen Xinpengcheng,Yunnan Yukun,3,4,A,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,12:00,Qingdao Hainiu,Qingdao West Coast,0,0,D,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,12:35,Chongqing Tonglianglong,Shenzhen Xinpengcheng,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,12:35,Shandong Taishan,Shanghai Port,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,13:00,Wuhan Three Towns,Chengdu Rongcheng,0,1,A,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,13:00,Yunnan Yukun,Tianjin Jinmen Tiger,0,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-04-17,13:00,Zhejiang Professional FC,Beijing Guoan,0,0,D,,,,,,,,,,,,,,,,,espn
+6,2026-04-18,12:00,Dalian Yingbo,Henan,2,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-04-18,13:00,Shanghai Shenhua,Liaoning Tieren,3,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-21,12:00,Shenzhen Xinpengcheng,Beijing Guoan,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-21,12:35,Chengdu Rongcheng,Yunnan Yukun,2,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-21,12:35,Wuhan Three Towns,Zhejiang Professional FC,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-21,13:00,Shanghai Port,Chongqing Tonglianglong,1,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-21,13:00,Tianjin Jinmen Tiger,Shandong Taishan,1,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-22,12:35,Liaoning Tieren,Dalian Yingbo,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-22,12:35,Qingdao West Coast,Henan,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-04-22,13:00,Shanghai Shenhua,Qingdao Hainiu,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-25,12:00,Chengdu Rongcheng,Zhejiang Professional FC,4,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-25,12:35,Beijing Guoan,Tianjin Jinmen Tiger,2,4,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-25,13:00,Shanghai Port,Wuhan Three Towns,4,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-26,10:00,Qingdao Hainiu,Shandong Taishan,4,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-26,12:00,Chongqing Tonglianglong,Qingdao West Coast,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-04-26,12:00,Shenzhen Xinpengcheng,Liaoning Tieren,1,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-04-26,12:35,Dalian Yingbo,Yunnan Yukun,1,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-04-26,13:00,Henan,Shanghai Shenhua,0,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-05-01,12:00,Dalian Yingbo,Chongqing Tonglianglong,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-05-01,12:00,Henan,Liaoning Tieren,4,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-05-01,12:35,Shandong Taishan,Qingdao West Coast,1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-05-01,12:35,Tianjin Jinmen Tiger,Wuhan Three Towns,2,2,D,,,,,,,,,,,,,,,,,espn
+8,2026-05-01,13:00,Shanghai Shenhua,Chengdu Rongcheng,2,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-05-02,12:00,Qingdao Hainiu,Shanghai Port,3,1,H,,,,,,,,,,,,,,,,,espn
+8,2026-05-02,12:35,Zhejiang Professional FC,Shenzhen Xinpengcheng,2,1,H,,,,,,,,,,,,,,,,,espn
+8,2026-05-02,13:00,Yunnan Yukun,Beijing Guoan,3,3,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-05,12:00,Qingdao West Coast,Tianjin Jinmen Tiger,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-05,12:35,Liaoning Tieren,Chengdu Rongcheng,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-05-05,12:35,Shandong Taishan,Shanghai Shenhua,4,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-05-05,13:00,Chongqing Tonglianglong,Henan,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-06,12:00,Wuhan Three Towns,Qingdao Hainiu,1,3,A,,,,,,,,,,,,,,,,,espn
+9,2026-05-06,12:35,Beijing Guoan,Dalian Yingbo,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-05-06,12:35,Shanghai Port,Shenzhen Xinpengcheng,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-06,13:00,Yunnan Yukun,Zhejiang Professional FC,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-05-09,12:35,Shanghai Shenhua,Chongqing Tonglianglong,2,2,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-09,13:00,Chengdu Rongcheng,Henan,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,10:30,Qingdao West Coast,Wuhan Three Towns,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,11:00,Shenzhen Xinpengcheng,Shandong Taishan,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,12:00,Liaoning Tieren,Yunnan Yukun,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,12:35,Beijing Guoan,Shanghai Port,2,2,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,12:35,Zhejiang Professional FC,Tianjin Jinmen Tiger,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-05-10,13:00,Qingdao Hainiu,Dalian Yingbo,3,1,H,,,,,,,,,,,,,,,,,espn
+10,2026-05-15,12:35,Henan,Shenzhen Xinpengcheng,1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-05-15,12:35,Shanghai Port,Zhejiang Professional FC,2,2,D,,,,,,,,,,,,,,,,,espn
+10,2026-05-15,12:35,Tianjin Jinmen Tiger,Chengdu Rongcheng,1,2,A,,,,,,,,,,,,,,,,,espn
+10,2026-05-15,13:00,Beijing Guoan,Qingdao Hainiu,4,2,H,,,,,,,,,,,,,,,,,espn
+10,2026-05-15,13:00,Dalian Yingbo,Qingdao West Coast,2,3,A,,,,,,,,,,,,,,,,,espn
+10,2026-05-16,12:00,Wuhan Three Towns,Liaoning Tieren,2,2,D,,,,,,,,,,,,,,,,,espn
+10,2026-05-16,12:35,Shandong Taishan,Chongqing Tonglianglong,3,1,H,,,,,,,,,,,,,,,,,espn
+10,2026-05-16,13:00,Yunnan Yukun,Shanghai Shenhua,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-05-19,12:35,Shenzhen Xinpengcheng,Dalian Yingbo,1,1,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-19,12:35,Tianjin Jinmen Tiger,Henan,1,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-19,13:00,Chengdu Rongcheng,Shanghai Port,0,1,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-19,13:00,Qingdao West Coast,Beijing Guoan,1,1,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-20,12:00,Liaoning Tieren,Qingdao Hainiu,2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-05-20,12:35,Shanghai Shenhua,Wuhan Three Towns,2,2,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-20,13:00,Chongqing Tonglianglong,Yunnan Yukun,0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-20,13:00,Zhejiang Professional FC,Shandong Taishan,4,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-05-23,12:00,Shanghai Port,Tianjin Jinmen Tiger,1,1,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-23,12:35,Beijing Guoan,Henan,1,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-23,13:00,Dalian Yingbo,Chengdu Rongcheng,2,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-05-24,10:00,Qingdao Hainiu,Chongqing Tonglianglong,0,1,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-24,12:00,Yunnan Yukun,Qingdao West Coast,2,3,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-24,12:35,Shandong Taishan,Wuhan Three Towns,3,3,D,,,,,,,,,,,,,,,,,espn
+11,2026-05-24,12:35,Zhejiang Professional FC,Liaoning Tieren,0,5,A,,,,,,,,,,,,,,,,,espn
+11,2026-05-24,13:00,Shanghai Shenhua,Shenzhen Xinpengcheng,1,2,A,,,,,,,,,,,,,,,,,espn
+12,2026-05-29,12:35,Liaoning Tieren,Shanghai Port,0,0,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-30,11:00,Qingdao West Coast,Shanghai Shenhua,2,2,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-30,12:00,Henan,Zhejiang Professional FC,0,2,A,,,,,,,,,,,,,,,,,espn
+12,2026-05-30,12:35,Chengdu Rongcheng,Shandong Taishan,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-30,13:00,Chongqing Tonglianglong,Beijing Guoan,2,3,A,,,,,,,,,,,,,,,,,espn
+12,2026-05-30,13:00,Shenzhen Xinpengcheng,Qingdao Hainiu,3,2,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-31,12:00,Tianjin Jinmen Tiger,Dalian Yingbo,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-31,12:35,Wuhan Three Towns,Yunnan Yukun,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-06-26,12:35,Qingdao Hainiu,Yunnan Yukun,4,2,H,,,,,,,,,,,,,,,,,espn
+13,2026-06-27,12:00,Liaoning Tieren,Shandong Taishan,1,5,A,,,,,,,,,,,,,,,,,espn
+13,2026-06-27,12:35,Henan,Shanghai Port,1,2,A,,,,,,,,,,,,,,,,,espn
+13,2026-06-27,12:35,Shenzhen Xinpengcheng,Chengdu Rongcheng,2,3,A,,,,,,,,,,,,,,,,,espn
+13,2026-06-27,13:00,Beijing Guoan,Wuhan Three Towns,1,0,H,,,,,,,,,,,,,,,,,espn
+13,2026-06-27,13:00,Chongqing Tonglianglong,Tianjin Jinmen Tiger,1,0,H,,,,,,,,,,,,,,,,,espn
+13,2026-06-28,11:00,Qingdao West Coast,Zhejiang Professional FC,3,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-06-28,12:00,Dalian Yingbo,Shanghai Shenhua,1,4,A,,,,,,,,,,,,,,,,,espn
+14,2026-07-03,13:00,Yunnan Yukun,Henan,2,1,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-04,12:00,Liaoning Tieren,Chongqing Tonglianglong,3,1,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-04,12:00,Qingdao West Coast,Shanghai Port,2,1,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-04,12:35,Beijing Guoan,Shandong Taishan,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-04,12:35,Dalian Yingbo,Wuhan Three Towns,3,2,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-04,13:00,Tianjin Jinmen Tiger,Shenzhen Xinpengcheng,3,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-07-05,12:00,Qingdao Hainiu,Chengdu Rongcheng,1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-07-05,12:35,Shanghai Shenhua,Zhejiang Professional FC,3,2,H,,,,,,,,,,,,,,,,,espn
+15,2026-07-10,12:35,Shandong Taishan,Yunnan Yukun,4,3,H,,,,,,,,,,,,,,,,,espn
+15,2026-07-11,12:35,Shenzhen Xinpengcheng,Qingdao West Coast,3,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-07-11,13:00,Chengdu Rongcheng,Chongqing Tonglianglong,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-07-14,12:35,Zhejiang Professional FC,Qingdao Hainiu,3,2,H,,,,,,,,,,,,,,,,,espn
+16,2026-07-17,12:00,Qingdao West Coast,Chengdu Rongcheng,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-07-17,12:35,Beijing Guoan,Liaoning Tieren,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-07-17,12:35,Henan,Qingdao Hainiu,5,1,H,,,,,,,,,,,,,,,,,espn
+16,2026-07-17,13:00,Yunnan Yukun,Shanghai Port,2,2,D,,,,,,,,,,,,,,,,,espn
+16,2026-07-18,12:00,Chongqing Tonglianglong,Zhejiang Professional FC,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-07-18,12:35,Dalian Yingbo,Shandong Taishan,3,1,H,,,,,,,,,,,,,,,,,espn
+16,2026-07-18,12:35,Shanghai Shenhua,Tianjin Jinmen Tiger,0,2,A,,,,,,,,,,,,,,,,,espn
+16,2026-07-18,13:00,Wuhan Three Towns,Shenzhen Xinpengcheng,2,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-07-25,10:30,Qingdao Hainiu,Tianjin Jinmen Tiger,0,2,A,,,,,,,,,,,,,,,,,espn
+17,2026-07-25,12:35,Liaoning Tieren,Qingdao West Coast,0,1,A,,,,,,,,,,,,,,,,,espn
+17,2026-07-25,12:35,Shanghai Port,Shanghai Shenhua,2,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-07-25,13:00,Wuhan Three Towns,Chongqing Tonglianglong,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-07-26,12:00,Yunnan Yukun,Shenzhen Xinpengcheng,4,3,H,,,,,,,,,,,,,,,,,espn
+17,2026-07-26,12:35,Chengdu Rongcheng,Beijing Guoan,2,2,D,,,,,,,,,,,,,,,,,espn
+17,2026-07-26,12:35,Shandong Taishan,Henan,1,2,A,,,,,,,,,,,,,,,,,espn
+17,2026-07-26,13:00,Zhejiang Professional FC,Dalian Yingbo,3,2,H,,,,,,,,,,,,,,,,,espn
+18,2026-07-31,12:35,Henan,Dalian Yingbo,1,1,D,,,,,,,,,,,,,,,,,espn
+18,2026-08-01,12:00,Tianjin Jinmen Tiger,Yunnan Yukun,3,2,H,,,,,,,,,,,,,,,,,espn
+18,2026-08-01,12:35,Beijing Guoan,Zhejiang Professional FC,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-08-01,12:35,Shanghai Port,Shandong Taishan,0,1,A,,,,,,,,,,,,,,,,,espn
+18,2026-08-01,13:00,Chengdu Rongcheng,Wuhan Three Towns,1,1,D,,,,,,,,,,,,,,,,,espn
+18,2026-08-02,11:00,Qingdao West Coast,Qingdao Hainiu,2,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-08-02,12:35,Liaoning Tieren,Shanghai Shenhua,3,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-08-02,13:00,Shenzhen Xinpengcheng,Chongqing Tonglianglong,2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-08-07,12:35,Beijing Guoan,Shenzhen Xinpengcheng,4,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,12:00,Qingdao Hainiu,Shanghai Shenhua,0,1,A,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,12:35,Dalian Yingbo,Liaoning Tieren,1,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,13:00,Yunnan Yukun,Chengdu Rongcheng,1,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-08-09,12:00,Henan,Qingdao West Coast,0,0,D,,,,,,,,,,,,,,,,,espn
+19,2026-08-09,12:35,Chongqing Tonglianglong,Shanghai Port,2,3,A,,,,,,,,,,,,,,,,,espn
+19,2026-08-09,13:00,Shandong Taishan,Tianjin Jinmen Tiger,2,1,H,,,,,,,,,,,,,,,,,espn
+20,2026-08-14,12:35,Shandong Taishan,Qingdao Hainiu,3,1,H,,,,,,,,,,,,,,,,,espn
+20,2026-08-14,12:35,Wuhan Three Towns,Shanghai Port,2,3,A,,,,,,,,,,,,,,,,,espn
+20,2026-08-14,13:00,Qingdao West Coast,Chongqing Tonglianglong,0,0,D,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,12:00,Liaoning Tieren,Shenzhen Xinpengcheng,1,2,A,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,12:35,Tianjin Jinmen Tiger,Beijing Guoan,2,4,A,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,12:35,Zhejiang Professional FC,Chengdu Rongcheng,2,3,A,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,13:00,Shanghai Shenhua,Henan,4,1,H,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,13:00,Yunnan Yukun,Dalian Yingbo,3,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-18,12:35,Shanghai Shenhua,Beijing Guoan,0,3,A,,,,,,,,,,,,,,,,,espn
+21,2026-08-19,12:35,Shanghai Port,Dalian Yingbo,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,12:00,Wuhan Three Towns,Tianjin Jinmen Tiger,0,0,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,12:35,Chengdu Rongcheng,Shanghai Shenhua,4,5,A,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,12:35,Shenzhen Xinpengcheng,Zhejiang Professional FC,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,13:00,Beijing Guoan,Yunnan Yukun,3,3,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,13:00,Qingdao West Coast,Shandong Taishan,2,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-23,12:00,Liaoning Tieren,Henan,4,4,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-23,12:35,Shanghai Port,Qingdao Hainiu,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-23,13:00,Chongqing Tonglianglong,Dalian Yingbo,0,1,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-28,12:35,Dalian Yingbo,Beijing Guoan,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-28,12:35,Shanghai Shenhua,Shandong Taishan,2,3,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-28,13:00,Shenzhen Xinpengcheng,Shanghai Port,0,1,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,10:00,Qingdao Hainiu,Wuhan Three Towns,1,5,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,12:00,Tianjin Jinmen Tiger,Qingdao West Coast,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,12:00,Zhejiang Professional FC,Yunnan Yukun,6,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,12:35,Chengdu Rongcheng,Liaoning Tieren,2,1,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,13:00,Henan,Chongqing Tonglianglong,1,1,D,,,,,,,,,,,,,,,,,espn
+23,2026-09-05,12:00,Wuhan Three Towns,Qingdao West Coast,2,2,D,,,,,,,,,,,,,,,,,espn
+23,2026-09-05,12:35,Dalian Yingbo,Qingdao Hainiu,2,1,H,,,,,,,,,,,,,,,,,espn
+23,2026-09-05,12:35,Shanghai Port,Beijing Guoan,0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-09-05,13:00,Shandong Taishan,Shenzhen Xinpengcheng,1,1,D,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,12:00,Chongqing Tonglianglong,Shanghai Shenhua,1,3,A,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,12:35,Henan,Chengdu Rongcheng,0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,12:35,Yunnan Yukun,Liaoning Tieren,5,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,13:00,Tianjin Jinmen Tiger,Zhejiang Professional FC,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,12:00,Tianjin Jinmen Tiger,Liaoning Tieren,1,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,12:35,Wuhan Three Towns,Henan,1,1,D,,,,,,,,,,,,,,,,,espn
+25,2026-09-18,12:35,Zhejiang Professional FC,Wuhan Three Towns,4,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-10-09,12:35,Qingdao Hainiu,Beijing Guoan,0,3,A,,,,,,,,,,,,,,,,,espn
+26,2026-10-09,12:35,Shenzhen Xinpengcheng,Henan,2,2,D,,,,,,,,,,,,,,,,,espn
+26,2026-10-09,13:00,Zhejiang Professional FC,Shanghai Port,2,4,A,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,12:35,Chengdu Rongcheng,Tianjin Jinmen Tiger,0,1,A,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,12:35,Shanghai Shenhua,Yunnan Yukun,7,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,11:00,Qingdao West Coast,Dalian Yingbo,0,4,A,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,12:35,Chongqing Tonglianglong,Shandong Taishan,1,1,D,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,12:35,Liaoning Tieren,Wuhan Three Towns,1,1,D,,,,,,,,,,,,,,,,,espn

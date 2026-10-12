@@ -1,0 +1,111 @@
+gw,date,time,home,away
+12,2026-10-16,,Aluminij,O. Ljubljana
+12,2026-10-17,,Bravo,Radomlje
+12,2026-10-17,,Mura,Nafta
+12,2026-10-18,,Koper,Grosuplje
+12,2026-10-18,,Maribor,Celje
+13,2026-10-27,,Koper,Maribor
+13,2026-10-27,,Radomlje,Mura
+13,2026-10-28,,Nafta,Aluminij
+13,2026-10-28,,O. Ljubljana,Celje
+13,2026-10-29,,Grosuplje,Bravo
+14,2026-10-31,,Aluminij,Radomlje
+14,2026-10-31,,Maribor,O. Ljubljana
+14,2026-11-01,,Celje,Nafta
+14,2026-11-01,,Mura,Grosuplje
+14,2026-11-02,,Bravo,Koper
+15,2026-11-07,,Bravo,Maribor
+15,2026-11-07,,Grosuplje,Aluminij
+15,2026-11-07,,Koper,Mura
+15,2026-11-07,,Nafta,O. Ljubljana
+15,2026-11-07,,Radomlje,Celje
+16,2026-11-21,,Celje,Grosuplje
+16,2026-11-21,,Koper,Aluminij
+16,2026-11-21,,Maribor,Nafta
+16,2026-11-21,,Mura,Bravo
+16,2026-11-21,,O. Ljubljana,Radomlje
+17,2026-11-28,,Bravo,Aluminij
+17,2026-11-28,,Grosuplje,O. Ljubljana
+17,2026-11-28,,Koper,Celje
+17,2026-11-28,,Mura,Maribor
+17,2026-11-28,,Radomlje,Nafta
+18,2026-12-05,,Aluminij,Mura
+18,2026-12-05,,Celje,Bravo
+18,2026-12-05,,Maribor,Radomlje
+18,2026-12-05,,Nafta,Grosuplje
+18,2026-12-05,,O. Ljubljana,Koper
+19,2027-01-30,,Aluminij,Maribor
+19,2027-01-30,,Celje,Mura
+19,2027-01-30,,Nafta,Koper
+19,2027-01-30,,O. Ljubljana,Bravo
+19,2027-01-30,,Radomlje,Grosuplje
+20,2027-02-06,,Aluminij,Celje
+20,2027-02-06,,Bravo,Nafta
+20,2027-02-06,,Koper,Radomlje
+20,2027-02-06,,Maribor,Grosuplje
+20,2027-02-06,,Mura,O. Ljubljana
+21,2027-02-10,,Celje,Maribor
+21,2027-02-10,,Grosuplje,Koper
+21,2027-02-10,,Nafta,Mura
+21,2027-02-10,,O. Ljubljana,Aluminij
+21,2027-02-10,,Radomlje,Bravo
+22,2027-02-13,,Aluminij,Nafta
+22,2027-02-13,,Bravo,Grosuplje
+22,2027-02-13,,Celje,O. Ljubljana
+22,2027-02-13,,Maribor,Koper
+22,2027-02-13,,Mura,Radomlje
+23,2027-02-20,,Grosuplje,Mura
+23,2027-02-20,,Koper,Bravo
+23,2027-02-20,,Nafta,Celje
+23,2027-02-20,,O. Ljubljana,Maribor
+23,2027-02-20,,Radomlje,Aluminij
+24,2027-02-27,,Aluminij,Grosuplje
+24,2027-02-27,,Celje,Radomlje
+24,2027-02-27,,Maribor,Bravo
+24,2027-02-27,,Mura,Koper
+24,2027-02-27,,O. Ljubljana,Nafta
+25,2027-03-06,,Bravo,Mura
+25,2027-03-06,,Grosuplje,Celje
+25,2027-03-06,,Koper,Aluminij
+25,2027-03-06,,Nafta,Maribor
+25,2027-03-06,,Radomlje,O. Ljubljana
+26,2027-03-13,,Aluminij,Bravo
+26,2027-03-13,,Celje,Koper
+26,2027-03-13,,Maribor,Mura
+26,2027-03-13,,Nafta,Radomlje
+26,2027-03-13,,O. Ljubljana,Grosuplje
+27,2027-03-20,,Bravo,Celje
+27,2027-03-20,,Grosuplje,Nafta
+27,2027-03-20,,Koper,O. Ljubljana
+27,2027-03-20,,Mura,Aluminij
+27,2027-03-20,,Radomlje,Maribor
+28,2027-04-03,,Bravo,O. Ljubljana
+28,2027-04-03,,Grosuplje,Radomlje
+28,2027-04-03,,Koper,Nafta
+28,2027-04-03,,Maribor,Aluminij
+28,2027-04-03,,Mura,Celje
+29,2027-04-10,,Celje,Aluminij
+29,2027-04-10,,Grosuplje,Maribor
+29,2027-04-10,,Nafta,Bravo
+29,2027-04-10,,O. Ljubljana,Mura
+29,2027-04-10,,Radomlje,Koper
+30,2027-04-14,,Aluminij,O. Ljubljana
+30,2027-04-14,,Bravo,Radomlje
+30,2027-04-14,,Koper,Grosuplje
+30,2027-04-14,,Maribor,Celje
+30,2027-04-14,,Mura,Nafta
+31,2027-04-17,,Grosuplje,Bravo
+31,2027-04-17,,Koper,Maribor
+31,2027-04-17,,Nafta,Aluminij
+31,2027-04-17,,O. Ljubljana,Celje
+31,2027-04-17,,Radomlje,Mura
+32,2027-04-24,,Aluminij,Radomlje
+32,2027-04-24,,Bravo,Koper
+32,2027-04-24,,Celje,Nafta
+32,2027-04-24,,Maribor,O. Ljubljana
+32,2027-04-24,,Mura,Grosuplje
+33,2027-05-01,,Bravo,Maribor
+33,2027-05-01,,Grosuplje,Aluminij
+33,2027-05-01,,Koper,Mura
+33,2027-05-01,,Nafta,O. Ljubljana
+33,2027-05-01,,Radomlje,Celje

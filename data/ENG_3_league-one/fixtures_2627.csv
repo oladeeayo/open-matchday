@@ -7,18 +7,6 @@ gw,date,time,home,away
 9,2026-10-03,15:00,Bromley,Wycombe Wanderers
 9,2026-10-03,15:00,Peterborough United,Notts County
 9,2026-10-03,15:00,Wigan Athletic,Mansfield Town
-10,2026-10-10,12:30,Notts County,Oxford United
-10,2026-10-10,12:30,Plymouth Argyle,AFC Wimbledon
-10,2026-10-10,15:00,Bradford City,Leyton Orient
-10,2026-10-10,15:00,Cambridge United,Blackpool
-10,2026-10-10,15:00,Doncaster Rovers,Burton Albion
-10,2026-10-10,15:00,Huddersfield Town,Sheffield Wednesday
-10,2026-10-10,15:00,Leicester City,Peterborough United
-10,2026-10-10,15:00,MK Dons,Reading
-10,2026-10-10,15:00,Mansfield Town,Bromley
-10,2026-10-10,15:00,Stevenage,Wigan Athletic
-10,2026-10-10,15:00,Stockport County,Barnsley
-10,2026-10-10,15:00,Wycombe Wanderers,Luton Town
 11,2026-10-15,20:00,Mansfield Town,Oxford United
 11,2026-10-17,12:30,MK Dons,Luton Town
 11,2026-10-17,12:30,Peterborough United,Burton Albion
@@ -112,13 +100,13 @@ gw,date,time,home,away
 17,2026-11-28,16:00,Stockport County,Leyton Orient
 17,2026-11-28,16:00,Wigan Athletic,Plymouth Argyle
 17,2026-11-28,16:00,Wycombe Wanderers,Bradford City
+18,2026-12-01,20:00,Leyton Orient,Peterborough United
 18,2026-12-01,20:45,Barnsley,Wycombe Wanderers
 18,2026-12-01,20:45,Blackpool,Luton Town
 18,2026-12-01,20:45,Bradford City,MK Dons
 18,2026-12-01,20:45,Burton Albion,Wigan Athletic
 18,2026-12-01,20:45,Cambridge United,Leicester City
 18,2026-12-01,20:45,Huddersfield Town,Stevenage
-18,2026-12-01,20:45,Leyton Orient,Peterborough United
 18,2026-12-01,20:45,Mansfield Town,Stockport County
 18,2026-12-01,20:45,Notts County,AFC Wimbledon
 18,2026-12-01,20:45,Oxford United,Sheffield Wednesday

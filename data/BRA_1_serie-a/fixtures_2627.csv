@@ -1,0 +1,85 @@
+gw,date,time,home,away
+20,2026-07-29,19:00,Chapecoense,Vasco da Gama
+30,2026-10-12,20:00,Coritiba,Botafogo
+30,2026-10-12,23:30,Chapecoense,Athletico-PR
+30,2026-10-13,01:00,Red Bull Bragantino,Cruzeiro
+30,2026-10-16,00:00,Mirassol,Internacional
+30,2026-10-17,22:00,Botafogo,Chapecoense
+30,2026-10-17,22:30,Atlético-MG,Coritiba
+30,2026-10-17,23:30,Athletico-PR,Palmeiras
+30,2026-10-18,01:00,São Paulo,Vasco da Gama
+30,2026-10-18,20:00,Fluminense,Santos
+30,2026-10-18,20:00,Grêmio,Cruzeiro
+30,2026-10-18,22:30,Bahia,Flamengo
+30,2026-10-18,23:30,Remo,Red Bull Bragantino
+31,2026-10-19,00:00,Corinthians,Vitória
+31,2026-10-23,00:00,Cruzeiro,Remo
+31,2026-10-24,20:30,Internacional,Botafogo
+31,2026-10-24,20:30,Mirassol,São Paulo
+31,2026-10-24,20:30,Vitória,Athletico-PR
+31,2026-10-24,22:30,Palmeiras,Red Bull Bragantino
+31,2026-10-24,22:30,Vasco da Gama,Corinthians
+31,2026-10-24,23:30,Chapecoense,Fluminense
+31,2026-10-25,01:00,Santos,Bahia
+32,2026-10-26,00:00,Flamengo,Atlético-MG
+32,2026-10-26,23:30,Coritiba,Grêmio
+32,2026-10-28,23:30,Fluminense,Internacional
+32,2026-10-28,23:30,Red Bull Bragantino,Chapecoense
+32,2026-10-28,23:30,Santos,Palmeiras
+32,2026-10-29,00:00,Vasco da Gama,Flamengo
+32,2026-10-29,01:30,Bahia,São Paulo
+32,2026-10-29,01:30,Remo,Botafogo
+32,2026-10-29,23:30,Atlético-MG,Cruzeiro
+32,2026-10-29,23:30,Coritiba,Vitória
+32,2026-10-30,00:00,Corinthians,Mirassol
+32,2026-10-30,01:30,Grêmio,Athletico-PR
+33,2026-11-02,00:00,Red Bull Bragantino,Santos
+33,2026-11-03,23:30,Chapecoense,Mirassol
+33,2026-11-04,01:30,Internacional,Coritiba
+33,2026-11-04,23:30,Athletico-PR,Vasco da Gama
+33,2026-11-04,23:30,Flamengo,Grêmio
+33,2026-11-05,01:30,Botafogo,Atlético-MG
+33,2026-11-05,01:30,São Paulo,Corinthians
+33,2026-11-05,23:30,Palmeiras,Remo
+33,2026-11-06,00:00,Vitória,Fluminense
+33,2026-11-06,01:30,Cruzeiro,Bahia
+34,2026-11-18,21:00,Corinthians,Botafogo
+34,2026-11-18,21:00,Coritiba,Santos
+34,2026-11-18,21:00,Cruzeiro,Palmeiras
+34,2026-11-18,21:00,Flamengo,Athletico-PR
+34,2026-11-18,21:00,Grêmio,Bahia
+34,2026-11-18,21:00,Mirassol,Atlético-MG
+34,2026-11-18,21:00,Remo,Chapecoense
+34,2026-11-18,21:00,São Paulo,Fluminense
+34,2026-11-18,21:00,Vasco da Gama,Internacional
+34,2026-11-18,21:00,Vitória,Red Bull Bragantino
+34,2026-11-21,21:00,Athletico-PR,Remo
+34,2026-11-21,21:00,Atlético-MG,Corinthians
+34,2026-11-21,21:00,Bahia,Coritiba
+34,2026-11-21,21:00,Botafogo,São Paulo
+34,2026-11-21,21:00,Chapecoense,Cruzeiro
+34,2026-11-21,21:00,Fluminense,Mirassol
+34,2026-11-21,21:00,Internacional,Vitória
+34,2026-11-21,21:00,Palmeiras,Flamengo
+34,2026-11-21,21:00,Red Bull Bragantino,Vasco da Gama
+34,2026-11-21,21:00,Santos,Grêmio
+35,2026-11-28,21:00,Atlético-MG,Vasco da Gama
+35,2026-11-28,21:00,Botafogo,Bahia
+35,2026-11-28,21:00,Chapecoense,Palmeiras
+35,2026-11-28,21:00,Corinthians,Grêmio
+35,2026-11-28,21:00,Coritiba,Flamengo
+35,2026-11-28,21:00,Fluminense,Cruzeiro
+35,2026-11-28,21:00,Internacional,Red Bull Bragantino
+35,2026-11-28,21:00,Mirassol,Athletico-PR
+35,2026-11-28,21:00,São Paulo,Remo
+35,2026-11-28,21:00,Vitória,Santos
+36,2026-12-02,21:00,Athletico-PR,São Paulo
+36,2026-12-02,21:00,Bahia,Atlético-MG
+36,2026-12-02,21:00,Cruzeiro,Internacional
+36,2026-12-02,21:00,Flamengo,Chapecoense
+36,2026-12-02,21:00,Grêmio,Mirassol
+36,2026-12-02,21:00,Palmeiras,Coritiba
+36,2026-12-02,21:00,Red Bull Bragantino,Fluminense
+36,2026-12-02,21:00,Remo,Corinthians
+36,2026-12-02,21:00,Santos,Botafogo
+36,2026-12-02,21:00,Vasco da Gama,Vitória

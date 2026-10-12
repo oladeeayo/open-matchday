@@ -1,0 +1,62 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-31,,FK Zorya Luhansk,Kolos Kovalivka,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,FC Kharkiv,Veres-Rivne,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,Kryvbas,Karpaty Lviv,1,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Ch. Odesa,Polissya Zhytomyr,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Epitsentr,Obolon,3,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-03,,Bukovyna,LNZ Cherkasy,0,0,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-03,,Shakhtar Donetsk,Kudrivka,5,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-08,,Bukovyna,Obolon,0,0,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-08,,Livyi Bereg,Kudrivka,0,0,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-09,,Epitsentr,Shakhtar Donetsk,0,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-09,,FK Zorya Luhansk,Kryvbas,1,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-09,,Veres-Rivne,Dyn. Kyiv,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-10,,Karpaty Lviv,LNZ Cherkasy,3,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-10,,Polissya Zhytomyr,FC Kharkiv,3,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Epitsentr,Veres-Rivne,0,0,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Karpaty Lviv,Bukovyna,3,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Kryvbas,Livyi Bereg,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Kudrivka,Obolon,0,0,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-16,,Dyn. Kyiv,Kolos Kovalivka,2,1,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-16,,FC Kharkiv,Shakhtar Donetsk,0,1,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-16,,LNZ Cherkasy,Ch. Odesa,2,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-17,,Polissya Zhytomyr,FK Zorya Luhansk,1,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-28,,Kolos Kovalivka,Obolon,0,0,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-29,,Kudrivka,Epitsentr,0,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-29,,Livyi Bereg,Karpaty Lviv,1,1,D,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-29,,Shakhtar Donetsk,Polissya Zhytomyr,0,2,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-30,,Ch. Odesa,Kryvbas,1,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-30,,LNZ Cherkasy,Veres-Rivne,0,1,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-31,,Bukovyna,Dyn. Kyiv,3,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-31,,FK Zorya Luhansk,FC Kharkiv,0,3,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-04,,Ch. Odesa,Livyi Bereg,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-04,,Polissya Zhytomyr,Kudrivka,5,1,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-05,,FC Kharkiv,Obolon,5,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-05,,Karpaty Lviv,Shakhtar Donetsk,1,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-05,,Kryvbas,Kolos Kovalivka,2,2,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-06,,Dyn. Kyiv,LNZ Cherkasy,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-06,,Epitsentr,Bukovyna,0,0,D,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-06,,Veres-Rivne,FK Zorya Luhansk,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-11,,Kolos Kovalivka,Karpaty Lviv,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-12,,LNZ Cherkasy,Obolon,3,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-13,,Bukovyna,FK Zorya Luhansk,1,1,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-13,,Polissya Zhytomyr,Livyi Bereg,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-14,,Dyn. Kyiv,Epitsentr,3,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-14,,Shakhtar Donetsk,Ch. Odesa,2,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-18,,Ch. Odesa,Obolon,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-18,,Polissya Zhytomyr,Kryvbas,1,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-19,,Epitsentr,Livyi Bereg,0,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-19,,FC Kharkiv,Bukovyna,2,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-19,,FK Zorya Luhansk,Dyn. Kyiv,0,2,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-20,,Karpaty Lviv,Veres-Rivne,1,1,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-20,,Kudrivka,Kolos Kovalivka,2,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-20,,Shakhtar Donetsk,LNZ Cherkasy,3,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-03,,Veres-Rivne,Kudrivka,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-09,,Veres-Rivne,Shakhtar Donetsk,0,3,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-10,,Ch. Odesa,FC Kharkiv,1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-10,,Kolos Kovalivka,Epitsentr,3,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-10,,Obolon,Kryvbas,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-11,,Bukovyna,Polissya Zhytomyr,2,2,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-11,,Dyn. Kyiv,Karpaty Lviv,1,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-11,,LNZ Cherkasy,Kudrivka,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-10-12,,Livyi Bereg,FK Zorya Luhansk,1,3,A,,,,,,,,,,,,,,,,,soccerway

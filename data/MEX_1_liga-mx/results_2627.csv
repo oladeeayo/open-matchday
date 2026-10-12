@@ -1,0 +1,98 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-17,02:00,Necaxa,Atlante,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-07-17,04:10,Tijuana,Tigres UANL,3,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-07-18,00:00,Pumas UNAM,Pachuca,0,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-07-18,02:00,Atlético de San Luis,Cruz Azul,2,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-07-18,02:00,León,Atlas,2,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-07-18,04:00,FC Juárez,Puebla,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-07-19,02:05,Monterrey,Santos,3,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-07-19,02:07,Guadalajara,Toluca,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-07-19,04:10,Querétaro,América,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-07-22,02:00,Cruz Azul,Puebla,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-07-22,04:05,Toluca,Pumas UNAM,1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-07-25,00:07,Guadalajara,FC Juárez,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-07-25,04:00,Atlante,América,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-07-25,04:00,Tijuana,León,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-07-26,00:00,Necaxa,Monterrey,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-07-26,04:00,Santos,Atlas,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-07-26,04:00,Tigres UANL,Atlético de San Luis,2,2,D,,,,,,,,,,,,,,,,,espn
+3,2026-07-27,02:06,Pachuca,Querétaro,1,2,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-01,00:00,Querétaro,Tigres UANL,3,2,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-01,02:00,Puebla,Guadalajara,1,1,D,,,,,,,,,,,,,,,,,espn
+3,2026-08-01,04:00,Atlético de San Luis,Tijuana,0,0,D,,,,,,,,,,,,,,,,,espn
+3,2026-08-01,04:00,FC Juárez,Pumas UNAM,1,5,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-02,00:00,América,Santos,3,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-02,02:05,Atlas,Monterrey,0,2,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-02,02:06,León,Pachuca,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-02,04:00,Cruz Azul,Atlante,2,3,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-03,02:05,Toluca,Necaxa,3,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-08-15,00:00,Atlante,Toluca,0,0,D,,,,,,,,,,,,,,,,,espn
+5,2026-08-16,00:00,América,Atlético de San Luis,3,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-08-16,02:10,Monterrey,FC Juárez,6,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-08-16,04:10,Atlas,Tigres UANL,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-08-16,19:00,Pumas UNAM,Querétaro,0,0,D,,,,,,,,,,,,,,,,,espn
+6,2026-08-17,02:10,Santos,Guadalajara,0,1,A,,,,,,,,,,,,,,,,,espn
+6,2026-08-17,04:00,Tijuana,Cruz Azul,2,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-08-18,02:00,Necaxa,León,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-08-18,04:06,Pachuca,Puebla,2,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-08-22,00:07,Guadalajara,Tijuana,5,2,H,,,,,,,,,,,,,,,,,espn
+6,2026-08-22,02:00,León,Monterrey,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-08-22,02:00,Tigres UANL,Atlante,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-08-22,04:10,FC Juárez,América,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-08-22,04:10,Querétaro,Toluca,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-08-23,00:00,Atlético de San Luis,Pachuca,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-08-23,02:00,Puebla,Santos,3,2,H,,,,,,,,,,,,,,,,,espn
+6,2026-08-23,04:00,Cruz Azul,Atlas,0,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-08-24,02:00,Pumas UNAM,Necaxa,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-08-29,00:00,Atlas,Querétaro,1,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-08-29,00:00,Pachuca,Guadalajara,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-08-29,02:00,Atlante,León,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-08-29,02:00,Necaxa,Cruz Azul,1,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-08-29,04:10,Tijuana,Pumas UNAM,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-08-30,02:05,América,Puebla,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-08-30,04:10,Santos,Tigres UANL,0,0,D,,,,,,,,,,,,,,,,,espn
+8,2026-08-31,01:00,Toluca,FC Juárez,4,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-08-31,03:10,Monterrey,Atlético de San Luis,1,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-09-05,00:00,Atlético de San Luis,Guadalajara,0,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-09-05,04:00,FC Juárez,Pachuca,0,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-09-06,00:00,Cruz Azul,Santos,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-09-06,02:00,Tigres UANL,Necaxa,1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-09-06,04:00,Atlas,Atlante,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-09-11,04:05,Pumas UNAM,León,3,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-09-12,00:05,Toluca,Atlas,5,2,H,,,,,,,,,,,,,,,,,espn
+9,2026-09-12,02:00,Necaxa,Puebla,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-09-12,04:00,Atlante,Pachuca,0,3,A,,,,,,,,,,,,,,,,,espn
+9,2026-09-12,04:10,Tijuana,Querétaro,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-09-13,02:10,Monterrey,Tigres UANL,0,0,D,,,,,,,,,,,,,,,,,espn
+9,2026-09-13,04:15,Cruz Azul,América,4,3,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-14,02:00,Santos,FC Juárez,2,1,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-14,02:07,Guadalajara,Pumas UNAM,3,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-15,02:00,León,Atlético de San Luis,2,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-16,02:00,Puebla,Toluca,0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-09-19,00:00,Atlas,Pumas UNAM,1,1,D,,,,,,,,,,,,,,,,,espn
+10,2026-09-19,00:00,Atlético de San Luis,Necaxa,3,1,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-19,02:00,Puebla,Atlante,1,1,D,,,,,,,,,,,,,,,,,espn
+10,2026-09-19,04:00,FC Juárez,Tigres UANL,2,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-20,02:10,Monterrey,Cruz Azul,1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-09-20,04:15,América,Guadalajara,2,2,D,,,,,,,,,,,,,,,,,espn
+11,2026-09-21,01:00,Pachuca,Tijuana,2,2,D,,,,,,,,,,,,,,,,,espn
+11,2026-09-21,01:00,Toluca,Santos,2,3,A,,,,,,,,,,,,,,,,,espn
+11,2026-09-21,03:10,Querétaro,León,1,1,D,,,,,,,,,,,,,,,,,espn
+11,2026-09-26,00:07,Guadalajara,Querétaro,0,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-09-26,02:00,Atlante,Monterrey,4,2,H,,,,,,,,,,,,,,,,,espn
+11,2026-09-26,04:00,Tijuana,Atlas,2,3,A,,,,,,,,,,,,,,,,,espn
+11,2026-09-26,23:50,Cruz Azul,Toluca,3,3,D,,,,,,,,,,,,,,,,,espn
+11,2026-09-27,04:05,Santos,Pachuca,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-09-27,04:10,Tigres UANL,Puebla,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-09-27,19:00,Pumas UNAM,Atlético de San Luis,2,3,A,,,,,,,,,,,,,,,,,espn
+12,2026-09-28,02:00,León,FC Juárez,2,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-09-28,04:10,Necaxa,América,2,4,A,,,,,,,,,,,,,,,,,espn
+13,2026-10-10,00:00,FC Juárez,Tijuana,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-10-10,00:00,Querétaro,Atlante,2,0,H,,,,,,,,,,,,,,,,,espn
+13,2026-10-10,02:00,Puebla,León,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-10-10,04:00,Tigres UANL,Toluca,3,2,H,,,,,,,,,,,,,,,,,espn
+13,2026-10-11,00:00,Atlético de San Luis,Santos,1,2,A,,,,,,,,,,,,,,,,,espn
+13,2026-10-11,00:10,Pachuca,Necaxa,3,3,D,,,,,,,,,,,,,,,,,espn
+13,2026-10-11,02:00,Atlas,Guadalajara,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-10-11,04:10,América,Monterrey,1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-10-12,02:15,Pumas UNAM,Cruz Azul,3,3,D,,,,,,,,,,,,,,,,,espn

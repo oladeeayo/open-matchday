@@ -68,4 +68,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-09-20,17:30,RC Deportivo,Real Betis,1,1,D,0,1,A,24,11,7,4,6,9,11,5,1,1,0,0,43,fixturedl
 7,2026-09-20,17:30,Villarreal CF,Levante UD,3,1,H,1,1,D,21,6,7,1,9,10,7,1,1,1,0,0,"41,42,54,86",fixturedl
 7,2026-09-20,20:00,Valencia CF,Real Sociedad,2,3,A,0,1,A,22,21,5,6,9,12,7,5,2,1,0,1,"26,57,75,84,91",fixturedl
-8,2026-10-09,20:00,Málaga CF,RCD Espanyol de Barcelona,1.0,1.0,D,,,,,,,,,,,,,,,,13,fixturedl
+8,2026-10-09,20:00,Málaga CF,RCD Espanyol de Barcelona,1,1,D,,,,,,,,,,,,,,,,13,fixturedl
+8,2026-10-10,15:15,Deportivo Alavés,Atlético de Madrid,1,2,A,,,,,,,,,,,,,,,,"33,51",fixturedl
+8,2026-10-10,17:30,FC Barcelona,Getafe CF,3,0,H,,,,,,,,,,,,,,,,"2,30,73",fixturedl
+8,2026-10-10,20:00,Real Madrid,Villarreal CF,1,0,H,,,,,,,,,,,,,,,,62,fixturedl
+8,2026-10-11,13:00,Elche CF,Celta,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-11,15:15,Real Sociedad,RC Deportivo,3,2,H,,,,,,,,,,,,,,,,"34,54,61,69",fixturedl
+8,2026-10-11,17:30,Real Betis,CA Osasuna,5,2,H,,,,,,,,,,,,,,,,"10,31,48,51,67,96",fixturedl
+8,2026-10-11,20:00,R. Racing Club,Valencia CF,2,2,D,,,,,,,,,,,,,,,,"2,32,65",fixturedl

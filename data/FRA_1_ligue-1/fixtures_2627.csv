@@ -1,12 +1,4 @@
 gw,date,time,home,away
-6,2026-10-10,16:15,LOSC Lille,Havre Athletic Club
-6,2026-10-10,19:45,AS Monaco,Toulouse FC
-6,2026-10-10,19:45,FC Lorient,Paris FC
-6,2026-10-10,19:45,Paris Saint-Germain,Le Mans FC
-6,2026-10-10,19:45,Stade Brestois 29,Angers SCO
-6,2026-10-11,14:00,OGC Nice,RC Strasbourg Alsace
-6,2026-10-11,16:15,Stade Rennais FC,AJ Auxerre
-6,2026-10-11,19:45,Estac Troyes,Olympique de Marseille
 7,2026-10-16,19:45,Le Mans FC,Toulouse FC
 7,2026-10-17,16:15,RC Strasbourg Alsace,Paris Saint-Germain
 7,2026-10-17,19:45,Estac Troyes,RC Lens
@@ -158,7 +150,6 @@ gw,date,time,home,away
 23,2027-03-05,00:00,LOSC Lille,Olympique de Marseille
 23,2027-03-05,00:00,Paris FC,Stade Brestois 29
 23,2027-03-05,00:00,RC Lens,RC Strasbourg Alsace
-23,2027-03-05,00:00,Stade Rennais FC,Paris Saint-Germain
 23,2027-03-05,00:00,Toulouse FC,Le Mans FC
 23,2027-03-06,21:00,Paris Saint-Germain,Stade Rennais
 24,2027-03-12,00:00,AJ Auxerre,Paris Saint-Germain

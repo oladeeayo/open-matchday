@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -180,7 +180,25 @@ gw,date,home,away,minute,score_home,score_away,scorer
 6,2026-09-20,Hannover 96,VfL Bochum,77,2,1,  T. Meyer
 7,2026-10-09,Eintracht Braunschweig,Holstein Kiel,11,1,0,J. Urbich
 7,2026-10-10,1. FC Magdeburg,Hannover 96,3,1,0,M. Kwarteng
-7,2026-10-10,1. FC Magdeburg,Hannover 96,30,2,0,M. Zukowski
+7,2026-10-10,1. FC Magdeburg,Hannover 96,30,2,0,E. Iyoha
+7,2026-10-10,1. FC Magdeburg,Hannover 96,86,3,0,M. Zukowski
 7,2026-10-10,SV Darmstadt 98,Energie Cottbus,4,0,1,J. Butler
 7,2026-10-10,SV Darmstadt 98,Energie Cottbus,36,1,1,Noah Weißhaupt
+7,2026-10-10,SV Darmstadt 98,Energie Cottbus,77,2,1,A. Vukotic
+7,2026-10-10,SV Darmstadt 98,Energie Cottbus,88,3,1,Y. Lührs
 7,2026-10-10,VfL Osnabrück,Dynamo Dresden,38,0,1,N. Hauptmann
+7,2026-10-10,VfL Osnabrück,Dynamo Dresden,87,1,1,R. Fabinski
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,12,0,1,H. Wahl
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,29,0,2,M. Damar
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,52,1,2,P. Scobel
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,59,2,2,P. Scobel
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,63,3,2,Mohamed Alì Zoma
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,91,3,3,A. Besio
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,96,4,3,I. Masouras
+7,2026-10-10,1. FC Nürnberg,VfL Wolfsburg,99,4,4,A. Besio
+7,2026-10-11,FC St. Pauli,Karlsruher SC,32,1,0,A. Ceesay
+7,2026-10-11,FC St. Pauli,Karlsruher SC,51,2,0,L. Ritzka
+7,2026-10-11,Hertha BSC,SpVgg Greuther Fürth,65,1,0,Mads Pedersen
+7,2026-10-11,Hertha BSC,SpVgg Greuther Fürth,80,2,0,P. Seguin
+7,2026-10-11,Hertha BSC,SpVgg Greuther Fürth,90,2,1,J. Heuer
+7,2026-10-11,VfL Bochum,DSC Arminia Bielefeld,78,0,1,Benjamin Boakye

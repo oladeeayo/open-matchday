@@ -1,0 +1,297 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-01-28,00:00,Chapecoense,Santos,4,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,00:00,Corinthians,Bahia,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,23:00,Atlético-MG,Palmeiras,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,23:00,Coritiba,Red Bull Bragantino,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,23:00,Internacional,Athletico-PR,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,23:00,Vitória,Remo,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-01-28,23:30,Fluminense,Grêmio,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-01-29,00:00,Mirassol,Vasco da Gama,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-01-29,01:30,São Paulo,Flamengo,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-01-30,01:30,Botafogo,Cruzeiro,4,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-04,00:00,Remo,Mirassol,2,2,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-04,00:00,Santos,São Paulo,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-04,23:00,Flamengo,Internacional,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-04,23:00,Red Bull Bragantino,Atlético-MG,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-05,00:00,Vasco da Gama,Chapecoense,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-05,01:30,Grêmio,Botafogo,5,3,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-05,01:30,Palmeiras,Vitória,5,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-05,23:00,Bahia,Fluminense,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-06,01:30,Cruzeiro,Coritiba,1,2,A,,,,,,,,,,,,,,,,,espn
+3,2026-02-11,00:00,Atlético-MG,Remo,3,3,D,,,,,,,,,,,,,,,,,espn
+3,2026-02-11,01:30,Vitória,Flamengo,1,2,A,,,,,,,,,,,,,,,,,espn
+3,2026-02-11,23:00,Chapecoense,Coritiba,3,3,D,,,,,,,,,,,,,,,,,espn
+3,2026-02-11,23:00,Mirassol,Cruzeiro,2,2,D,,,,,,,,,,,,,,,,,espn
+3,2026-02-12,00:00,Corinthians,Red Bull Bragantino,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-12,01:30,São Paulo,Grêmio,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-12,01:30,Vasco da Gama,Bahia,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-02-12,23:00,Athletico-PR,Santos,2,1,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-12,23:30,Fluminense,Botafogo,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-13,01:30,Internacional,Palmeiras,1,3,A,,,,,,,,,,,,,,,,,espn
+4,2026-02-19,23:30,Athletico-PR,Corinthians,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-02-25,00:00,Cruzeiro,Corinthians,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-02-25,23:00,Red Bull Bragantino,Athletico-PR,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-02-25,23:00,Remo,Internacional,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-02-25,23:30,Coritiba,São Paulo,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-02-26,01:30,Grêmio,Atlético-MG,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-02-26,01:30,Palmeiras,Fluminense,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-02-26,23:00,Santos,Vasco da Gama,2,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-11,00:00,Bahia,Vitória,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-11,01:30,Mirassol,Santos,2,2,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-11,23:00,Atlético-MG,Internacional,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-12,00:00,São Paulo,Chapecoense,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-12,01:30,Corinthians,Coritiba,0,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-12,01:30,Flamengo,Cruzeiro,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-12,23:00,Remo,Fluminense,0,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-12,23:30,Vasco da Gama,Palmeiras,2,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-13,01:30,Grêmio,Red Bull Bragantino,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,00:30,Botafogo,Flamengo,0,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,22:30,Vitória,Atlético-MG,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,00:30,Cruzeiro,Vasco da Gama,3,3,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,00:30,Red Bull Bragantino,São Paulo,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,20:00,Fluminense,Athletico-PR,3,2,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,20:00,Internacional,Bahia,0,1,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,20:00,Santos,Corinthians,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,22:30,Coritiba,Remo,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,22:30,Palmeiras,Mirassol,1,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-16,00:00,Chapecoense,Grêmio,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,00:00,Atlético-MG,São Paulo,1,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,00:00,Mirassol,Coritiba,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,23:00,Bahia,Red Bull Bragantino,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,23:00,Palmeiras,Botafogo,2,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,23:30,Athletico-PR,Cruzeiro,2,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-19,00:00,Flamengo,Remo,3,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-19,01:30,Santos,Internacional,1,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-19,01:30,Vasco da Gama,Fluminense,3,2,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-19,23:00,Grêmio,Vitória,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-20,01:30,Chapecoense,Corinthians,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-21,20:00,Red Bull Bragantino,Botafogo,1,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-21,22:30,Fluminense,Atlético-MG,1,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,00:30,Corinthians,Flamengo,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,01:00,São Paulo,Palmeiras,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,20:00,Athletico-PR,Coritiba,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,20:00,Cruzeiro,Santos,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,20:00,Remo,Bahia,4,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,20:00,Vasco da Gama,Grêmio,2,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,22:30,Internacional,Chapecoense,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,22:30,Vitória,Mirassol,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-03-29,23:30,Athletico-PR,Botafogo,4,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,00:00,Bahia,Athletico-PR,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,00:00,Cruzeiro,Vitória,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,00:30,Coritiba,Vasco da Gama,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,23:30,Botafogo,Mirassol,3,2,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,23:30,Internacional,São Paulo,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-02,01:30,Fluminense,Corinthians,3,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-02,23:00,Chapecoense,Atlético-MG,0,4,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-02,23:00,Santos,Remo,2,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-03,01:30,Palmeiras,Grêmio,2,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-03,01:30,Red Bull Bragantino,Flamengo,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,00:30,Coritiba,Fluminense,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,22:30,São Paulo,Cruzeiro,4,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,00:00,Mirassol,Red Bull Bragantino,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,00:30,Grêmio,Remo,0,0,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,01:00,Vasco da Gama,Botafogo,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,20:00,Chapecoense,Vitória,1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,21:30,Atlético-MG,Athletico-PR,2,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,21:30,Flamengo,Santos,3,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,23:30,Bahia,Palmeiras,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,23:30,Corinthians,Internacional,0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,00:00,Santos,Atlético-MG,1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,00:30,Internacional,Grêmio,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,20:30,Remo,Vasco da Gama,1,1,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,20:30,Vitória,São Paulo,2,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,22:30,Mirassol,Bahia,1,2,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,15:00,Athletico-PR,Chapecoense,2,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,20:00,Botafogo,Coritiba,2,2,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,22:00,Fluminense,Flamengo,1,2,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,22:30,Corinthians,Palmeiras,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,22:30,Cruzeiro,Red Bull Bragantino,2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,00:00,Vitória,Corinthians,0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,00:30,Cruzeiro,Grêmio,2,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,22:30,Chapecoense,Botafogo,1,4,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,22:30,Vasco da Gama,São Paulo,2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,15:00,Internacional,Mirassol,1,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,20:00,Coritiba,Atlético-MG,2,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,20:00,Santos,Fluminense,2,3,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,22:30,Palmeiras,Athletico-PR,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,22:30,Red Bull Bragantino,Remo,4,2,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,23:30,Flamengo,Bahia,2,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,22:30,Bahia,Santos,2,2,D,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,22:30,Botafogo,Internacional,2,2,D,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,22:30,Remo,Cruzeiro,0,1,A,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,00:30,Atlético-MG,Flamengo,0,4,A,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,00:30,Fluminense,Chapecoense,2,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,01:00,São Paulo,Mirassol,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,20:00,Corinthians,Vasco da Gama,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,20:00,Grêmio,Coritiba,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,22:30,Athletico-PR,Vitória,3,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-04-26,22:30,Red Bull Bragantino,Palmeiras,0,1,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,00:30,Athletico-PR,Grêmio,0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,20:00,Botafogo,Remo,1,2,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,22:30,Palmeiras,Santos,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,22:30,Vitória,Coritiba,4,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,00:30,Mirassol,Corinthians,2,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,01:00,Cruzeiro,Atlético-MG,1,3,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,20:00,Flamengo,Vasco da Gama,2,2,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,20:00,São Paulo,Bahia,2,2,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,22:30,Chapecoense,Red Bull Bragantino,1,2,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,22:30,Internacional,Fluminense,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-09,20:00,Coritiba,Internacional,2,2,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-09,22:00,Fluminense,Vitória,2,2,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,00:30,Vasco da Gama,Athletico-PR,1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,01:00,Bahia,Cruzeiro,1,2,A,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,20:00,Atlético-MG,Botafogo,1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,20:00,Remo,Palmeiras,1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,22:30,Corinthians,São Paulo,3,2,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,22:30,Mirassol,Chapecoense,1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,22:30,Santos,Red Bull Bragantino,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,23:30,Grêmio,Flamengo,0,1,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,22:30,Atlético-MG,Mirassol,3,1,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,22:30,Internacional,Vasco da Gama,4,1,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,23:00,Fluminense,São Paulo,2,1,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,01:00,Palmeiras,Cruzeiro,1,1,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,15:00,Santos,Coritiba,0,3,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,20:00,Bahia,Grêmio,1,1,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,20:00,Botafogo,Corinthians,3,1,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,22:30,Chapecoense,Remo,2,3,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,22:30,Red Bull Bragantino,Vitória,2,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,23:30,Athletico-PR,Flamengo,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,21:00,São Paulo,Botafogo,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,21:00,Vitória,Internacional,2,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,23:00,Grêmio,Santos,3,2,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,23:00,Mirassol,Fluminense,1,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,00:30,Vasco da Gama,Red Bull Bragantino,0,3,A,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,01:00,Flamengo,Palmeiras,0,3,A,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,20:00,Cruzeiro,Chapecoense,2,1,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,20:00,Remo,Athletico-PR,1,2,A,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,22:30,Corinthians,Atlético-MG,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-25,00:00,Coritiba,Bahia,3,2,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,00:00,Santos,Vitória,3,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,20:00,Athletico-PR,Mirassol,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,20:00,Flamengo,Coritiba,3,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,21:30,Bahia,Botafogo,2,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,21:30,Grêmio,Corinthians,1,3,A,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,00:30,Cruzeiro,Fluminense,1,1,D,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,00:30,Remo,São Paulo,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,15:00,Red Bull Bragantino,Internacional,3,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,20:00,Palmeiras,Chapecoense,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,20:00,Vasco da Gama,Atlético-MG,0,1,A,,,,,,,,,,,,,,,,,espn
+18,2026-07-16,23:30,Botafogo,Santos,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-07-16,23:30,Vitória,Vasco da Gama,1,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-07-17,00:00,Fluminense,Red Bull Bragantino,1,1,D,,,,,,,,,,,,,,,,,espn
+18,2026-07-17,00:00,Mirassol,Grêmio,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-07-17,23:30,Bahia,Chapecoense,2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-07-21,23:30,Atlético-MG,Bahia,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-22,23:30,Coritiba,Palmeiras,1,3,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,01:30,Chapecoense,Flamengo,0,4,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,01:30,Internacional,Cruzeiro,1,2,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,01:30,São Paulo,Athletico-PR,1,2,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,23:30,Botafogo,Vitória,0,0,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,23:30,Corinthians,Remo,3,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,00:30,Vasco da Gama,Mirassol,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,22:30,Athletico-PR,Internacional,2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,22:30,Santos,Chapecoense,2,2,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,20:00,Bahia,Corinthians,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,20:00,Cruzeiro,Botafogo,0,1,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,22:30,Flamengo,São Paulo,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,22:30,Grêmio,Fluminense,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,22:30,Red Bull Bragantino,Coritiba,0,0,D,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,23:30,Palmeiras,Atlético-MG,1,2,A,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,23:30,Remo,Vitória,2,0,H,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,23:30,Internacional,Flamengo,1,1,D,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,23:30,Mirassol,Remo,2,1,H,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,01:30,Fluminense,Bahia,0,0,D,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,01:30,Vitória,Palmeiras,0,4,A,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,23:30,Corinthians,Athletico-PR,0,0,D,,,,,,,,,,,,,,,,,espn
+20,2026-07-31,01:30,Coritiba,Cruzeiro,0,1,A,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,00:30,Coritiba,Chapecoense,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,20:00,Grêmio,São Paulo,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,22:30,Remo,Atlético-MG,2,2,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,01:00,Botafogo,Fluminense,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,15:00,Cruzeiro,Mirassol,3,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,20:00,Bahia,Vasco da Gama,0,0,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,20:00,Palmeiras,Internacional,0,0,D,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,22:30,Red Bull Bragantino,Corinthians,0,2,A,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,22:30,Santos,Athletico-PR,0,2,A,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,23:30,Flamengo,Vitória,2,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,20:30,Fluminense,Palmeiras,3,2,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,22:30,Athletico-PR,Red Bull Bragantino,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,01:00,São Paulo,Coritiba,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,15:00,Chapecoense,Bahia,3,3,D,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,20:00,Atlético-MG,Grêmio,3,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,20:00,Vasco da Gama,Santos,0,3,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,22:30,Mirassol,Flamengo,1,5,A,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,22:30,Vitória,Botafogo,1,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,23:30,Corinthians,Cruzeiro,1,2,A,,,,,,,,,,,,,,,,,espn
+23,2026-08-17,00:00,Internacional,Remo,1,1,D,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,00:30,Cruzeiro,Flamengo,2,1,H,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,20:00,Fluminense,Remo,2,1,H,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,22:30,Internacional,Atlético-MG,0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,20:00,Palmeiras,Vasco da Gama,4,1,H,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,20:00,Red Bull Bragantino,Grêmio,1,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,20:00,Vitória,Bahia,0,2,A,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,22:30,Chapecoense,São Paulo,1,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,22:30,Santos,Mirassol,1,1,D,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,23:30,Coritiba,Corinthians,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-24,00:00,Botafogo,Athletico-PR,2,3,A,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,00:00,São Paulo,Red Bull Bragantino,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,22:30,Atlético-MG,Vitória,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,01:20,Vasco da Gama,Cruzeiro,3,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,15:00,Athletico-PR,Fluminense,3,3,D,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,20:00,Corinthians,Santos,0,1,A,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,20:00,Flamengo,Botafogo,3,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,22:30,Grêmio,Chapecoense,3,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,22:30,Mirassol,Palmeiras,1,1,D,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,23:30,Bahia,Internacional,3,2,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-31,00:00,Remo,Coritiba,2,3,A,,,,,,,,,,,,,,,,,espn
+25,2026-09-02,23:30,Flamengo,Mirassol,2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,20:00,Red Bull Bragantino,Bahia,2,3,A,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,22:30,São Paulo,Atlético-MG,2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,01:00,Fluminense,Vasco da Gama,1,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,15:00,Coritiba,Mirassol,1,2,A,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,20:00,Cruzeiro,Athletico-PR,3,1,H,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,20:00,Internacional,Santos,2,3,A,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,20:00,Remo,Flamengo,0,1,A,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,22:30,Botafogo,Palmeiras,0,0,D,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,23:30,Corinthians,Chapecoense,1,2,A,,,,,,,,,,,,,,,,,espn
+26,2026-09-07,00:00,Vitória,Grêmio,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,00:30,Botafogo,Red Bull Bragantino,1,1,D,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,01:00,Coritiba,Athletico-PR,3,3,D,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,20:00,Atlético-MG,Fluminense,3,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,20:00,Grêmio,Vasco da Gama,1,2,A,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,21:00,Chapecoense,Internacional,1,2,A,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,22:30,Palmeiras,São Paulo,2,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,01:00,Santos,Cruzeiro,2,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,20:00,Mirassol,Vitória,2,2,D,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,21:30,Flamengo,Corinthians,2,1,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-14,00:00,Bahia,Remo,2,1,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-16,23:30,Botafogo,Grêmio,3,2,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,00:30,Vasco da Gama,Coritiba,5,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,20:00,Atlético-MG,Chapecoense,1,1,D,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,21:00,Mirassol,Botafogo,2,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,22:30,Remo,Santos,1,2,A,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,01:00,São Paulo,Internacional,1,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,15:00,Grêmio,Palmeiras,0,0,D,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,20:00,Corinthians,Fluminense,1,3,A,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,20:00,Vitória,Cruzeiro,1,3,A,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,22:30,Flamengo,Red Bull Bragantino,2,1,H,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,23:30,Athletico-PR,Bahia,2,1,H,,,,,,,,,,,,,,,,,espn
+28,2026-10-02,00:00,São Paulo,Santos,1,2,A,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,22:30,Atlético-MG,Red Bull Bragantino,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,00:00,Vitória,Chapecoense,4,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,00:30,Botafogo,Vasco da Gama,1,2,A,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,23:30,Internacional,Corinthians,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,23:30,Red Bull Bragantino,Mirassol,1,1,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,23:30,Remo,Grêmio,1,1,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-08,00:00,Athletico-PR,Atlético-MG,2,2,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-08,01:30,Cruzeiro,São Paulo,2,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-08,23:30,Santos,Flamengo,2,2,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-09,01:30,Fluminense,Coritiba,4,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-09,01:30,Palmeiras,Bahia,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-10,22:00,Vasco da Gama,Remo,0,0,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,01:00,São Paulo,Vitória,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,20:00,Atlético-MG,Santos,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,21:30,Flamengo,Fluminense,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,21:30,Grêmio,Internacional,1,1,D,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,21:30,Palmeiras,Corinthians,4,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,23:30,Bahia,Mirassol,1,0,H,,,,,,,,,,,,,,,,,espn

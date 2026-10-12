@@ -1,0 +1,114 @@
+gw,date,time,home,away
+6,2026-10-14,,Bohemians,Mlada Boleslav
+11,2026-10-17,,Artis Brno,Bohemians
+11,2026-10-17,,FK Pardubice,Zlin
+11,2026-10-17,,Mlada Boleslav,Teplice
+11,2026-10-17,,Sigma Olomouc,Liberec
+11,2026-10-17,,Slavia Prague,Hradec Kralove
+11,2026-10-18,,Jablonec,Plzen
+11,2026-10-18,,Ostrava,Sparta Prague
+11,2026-10-18,,Slovacko,Brno
+12,2026-10-24,,Brno,Bohemians
+12,2026-10-24,,Liberec,Ostrava
+12,2026-10-24,,Slavia Prague,Mlada Boleslav
+12,2026-10-24,,Teplice,Artis Brno
+12,2026-10-24,,Zlin,Sigma Olomouc
+12,2026-10-25,,Hradec Kralove,Jablonec
+12,2026-10-25,,Plzen,FK Pardubice
+12,2026-10-25,,Sparta Prague,Slovacko
+13,2026-10-31,,Artis Brno,Zlin
+13,2026-10-31,,FK Pardubice,Liberec
+13,2026-10-31,,Jablonec,Slavia Prague
+13,2026-10-31,,Sigma Olomouc,Brno
+13,2026-10-31,,Slovacko,Teplice
+13,2026-11-01,,Bohemians,Sparta Prague
+13,2026-11-01,,Mlada Boleslav,Hradec Kralove
+13,2026-11-01,,Ostrava,Plzen
+14,2026-11-07,,Brno,Ostrava
+14,2026-11-07,,Hradec Kralove,Sigma Olomouc
+14,2026-11-07,,Liberec,Bohemians
+14,2026-11-07,,Zlin,Slovacko
+14,2026-11-08,,Jablonec,Mlada Boleslav
+14,2026-11-08,,Plzen,Sparta Prague
+14,2026-11-08,,Slavia Prague,Artis Brno
+14,2026-11-08,,Teplice,FK Pardubice
+15,2026-11-21,,Artis Brno,Jablonec
+15,2026-11-21,,Bohemians,Plzen
+15,2026-11-21,,Mlada Boleslav,Zlin
+15,2026-11-21,,Ostrava,Teplice
+15,2026-11-21,,Sigma Olomouc,Slavia Prague
+15,2026-11-22,,FK Pardubice,Brno
+15,2026-11-22,,Slovacko,Hradec Kralove
+15,2026-11-22,,Sparta Prague,Liberec
+16,2026-11-27,,Artis Brno,Slovacko
+16,2026-11-28,,Hradec Kralove,Bohemians
+16,2026-11-28,,Mlada Boleslav,Sigma Olomouc
+16,2026-11-28,,Teplice,Liberec
+16,2026-11-29,,Brno,Plzen
+16,2026-11-29,,Jablonec,FK Pardubice
+16,2026-11-29,,Slavia Prague,Ostrava
+16,2026-11-29,,Zlin,Sparta Prague
+17,2026-12-04,,FK Pardubice,Slavia Prague
+17,2026-12-05,,Liberec,Brno
+17,2026-12-05,,Sigma Olomouc,Artis Brno
+17,2026-12-05,,Slovacko,Jablonec
+17,2026-12-05,,Sparta Prague,Mlada Boleslav
+17,2026-12-06,,Bohemians,Zlin
+17,2026-12-06,,Ostrava,Hradec Kralove
+17,2026-12-06,,Plzen,Teplice
+18,2026-12-12,,Artis Brno,Ostrava
+18,2026-12-12,,Hradec Kralove,Brno
+18,2026-12-12,,Mlada Boleslav,FK Pardubice
+18,2026-12-13,,Jablonec,Bohemians
+18,2026-12-13,,Sigma Olomouc,Slovacko
+18,2026-12-13,,Slavia Prague,Liberec
+18,2026-12-14,,Teplice,Sparta Prague
+18,2026-12-14,,Zlin,Plzen
+19,2027-01-30,,Bohemians,Slavia Prague
+19,2027-01-30,,Brno,Teplice
+19,2027-01-30,,FK Pardubice,Sigma Olomouc
+19,2027-01-30,,Liberec,Zlin
+19,2027-01-30,,Ostrava,Jablonec
+19,2027-01-30,,Plzen,Hradec Kralove
+19,2027-01-30,,Slovacko,Mlada Boleslav
+19,2027-01-30,,Sparta Prague,Artis Brno
+20,2027-02-06,,Artis Brno,FK Pardubice
+20,2027-02-06,,Hradec Kralove,Liberec
+20,2027-02-06,,Jablonec,Teplice
+20,2027-02-06,,Mlada Boleslav,Bohemians
+20,2027-02-06,,Sigma Olomouc,Ostrava
+20,2027-02-06,,Slavia Prague,Sparta Prague
+20,2027-02-06,,Slovacko,Plzen
+20,2027-02-06,,Zlin,Brno
+21,2027-02-13,,Bohemians,Sigma Olomouc
+21,2027-02-13,,Brno,Slavia Prague
+21,2027-02-13,,FK Pardubice,Slovacko
+21,2027-02-13,,Liberec,Jablonec
+21,2027-02-13,,Ostrava,Mlada Boleslav
+21,2027-02-13,,Plzen,Artis Brno
+21,2027-02-13,,Sparta Prague,Hradec Kralove
+21,2027-02-13,,Teplice,Zlin
+22,2027-02-20,,Artis Brno,Brno
+22,2027-02-20,,FK Pardubice,Ostrava
+22,2027-02-20,,Hradec Kralove,Zlin
+22,2027-02-20,,Jablonec,Sparta Prague
+22,2027-02-20,,Mlada Boleslav,Liberec
+22,2027-02-20,,Sigma Olomouc,Plzen
+22,2027-02-20,,Slavia Prague,Teplice
+22,2027-02-20,,Slovacko,Bohemians
+23,2027-02-27,,Bohemians,FK Pardubice
+23,2027-02-27,,Brno,Mlada Boleslav
+23,2027-02-27,,Liberec,Artis Brno
+23,2027-02-27,,Ostrava,Slovacko
+23,2027-02-27,,Plzen,Slavia Prague
+23,2027-02-27,,Sparta Prague,Sigma Olomouc
+23,2027-02-27,,Teplice,Hradec Kralove
+23,2027-02-27,,Zlin,Jablonec
+24,2027-03-06,,Artis Brno,Hradec Kralove
+24,2027-03-06,,FK Pardubice,Sparta Prague
+24,2027-03-06,,Jablonec,Brno
+24,2027-03-06,,Mlada Boleslav,Plzen
+24,2027-03-06,,Ostrava,Bohemians
+24,2027-03-06,,Sigma Olomouc,Teplice
+24,2027-03-06,,Slavia Prague,Zlin
+24,2027-03-06,,Slovacko,Liberec

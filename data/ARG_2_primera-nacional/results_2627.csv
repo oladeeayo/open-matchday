@@ -1,0 +1,592 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-02-13,21:30,San Miguel,Central Norte,1,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,00:00,Colón (Santa Fe),Deportivo Madryn,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,01:00,Atletico Rafaela,Almagro,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,01:30,Godoy Cruz Antonio Tomba,Ciudad de Bolívar,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,02:00,Gimnasia y Tiro (Salta),Colegiales,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,21:00,Acassuso,Chaco For Ever,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,21:00,All Boys,Mitre (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,21:00,Deportivo Morón,Defensores de Belgrano,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,21:00,San Telmo,Ferro Carril Oeste,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,22:00,Agropecuario,Deportivo Maipú,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-14,23:00,Tristán Suárez,Temperley,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-15,21:00,Chacarita Juniors,San Martín (San Juan),1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-15,21:00,Güemes,Nueva Chicago,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-02-15,21:30,Los Andes,Almirante Brown,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-02-15,23:00,Racing (Córdoba),Estudiantes (Buenos Aires),1,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-02-15,23:00,San Martín (Tucumán),Patronato,0,0,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-16,21:00,Atlanta,Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-16,21:00,Gimnasia y Esgrima (Jujuy),Midland,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,00:00,Deportivo Maipú,Atletico Rafaela,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,00:00,Patronato,Gimnasia y Tiro (Salta),1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,00:00,Quilmes,Midland,0,0,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,00:00,San Martín (San Juan),Güemes,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,21:00,Acassuso,Racing (Córdoba),3,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,21:00,Almagro,San Martín (Tucumán),0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,21:00,Nueva Chicago,Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,23:00,Deportivo Madryn,Deportivo Morón,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-21,23:00,Ferro Carril Oeste,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,00:00,Colegiales,Atlanta,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,00:00,Temperley,Agropecuario,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,01:00,Chaco For Ever,San Telmo,2,2,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,21:00,Almirante Brown,All Boys,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,21:00,Chacarita Juniors,Gimnasia y Esgrima (Jujuy),3,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,21:00,Ciudad de Bolívar,Los Andes,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,21:00,Defensores de Belgrano,Godoy Cruz Antonio Tomba,1,1,D,,,,,,,,,,,,,,,,,espn
+2,2026-02-22,22:00,Central Norte,Colón (Santa Fe),0,0,D,,,,,,,,,,,,,,,,,espn
+3,2026-02-23,14:45,Mitre (Santiago del Estero),Estudiantes (Buenos Aires),1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-28,00:30,Agropecuario,Nueva Chicago,0,2,A,,,,,,,,,,,,,,,,,espn
+3,2026-02-28,00:30,Colón (Santa Fe),Ferro Carril Oeste,1,1,D,,,,,,,,,,,,,,,,,espn
+3,2026-02-28,02:00,Gimnasia y Tiro (Salta),Almagro,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-02-28,21:00,Los Andes,Defensores de Belgrano,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-02-28,21:00,San Miguel,Chaco For Ever,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,00:30,Atletico Rafaela,Temperley,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,00:30,Estudiantes (Buenos Aires),Almirante Brown,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,00:30,Tristán Suárez,San Martín (San Juan),2,1,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,All Boys,Ciudad de Bolívar,0,0,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,Deportivo Morón,Central Norte,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,Gimnasia y Esgrima (Jujuy),Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,Godoy Cruz Antonio Tomba,Deportivo Madryn,0,0,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,Güemes,Chacarita Juniors,2,1,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,Midland,Colegiales,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:00,San Telmo,Acassuso,2,3,A,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,21:30,San Martín (Tucumán),Deportivo Maipú,2,2,D,,,,,,,,,,,,,,,,,espn
+3,2026-03-01,22:00,Racing (Córdoba),Mitre (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-03-03,01:00,Atlanta,Patronato,0,0,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,00:00,Colón (Santa Fe),Acassuso,1,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,00:00,Quilmes,Patronato,3,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,01:00,Atletico Rafaela,San Martín (San Juan),1,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,01:00,Racing (Córdoba),Almirante Brown,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,18:00,Los Andes,Central Norte,0,0,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,20:00,All Boys,Deportivo Madryn,1,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,20:00,Deportivo Morón,Chaco For Ever,3,2,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,20:00,Estudiantes (Buenos Aires),Defensores de Belgrano,0,2,A,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,20:00,San Miguel,San Telmo,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,22:00,Godoy Cruz Antonio Tomba,Ferro Carril Oeste,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-14,23:00,Tristán Suárez,Güemes,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,20:00,Agropecuario,Chacarita Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,20:00,Gimnasia y Tiro (Salta),Temperley,0,0,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,20:00,Midland,Almagro,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,21:00,Gimnasia y Esgrima (Jujuy),Colegiales,2,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,21:00,Mitre (Santiago del Estero),Ciudad de Bolívar,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-03-15,22:00,San Martín (Tucumán),Nueva Chicago,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-17,01:00,Atlanta,Deportivo Maipú,3,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,01:30,San Martín (San Juan),San Martín (Tucumán),1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,18:00,Almagro,Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,20:00,Acassuso,Deportivo Morón,0,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,20:00,Defensores de Belgrano,Mitre (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,20:00,San Miguel,Racing (Córdoba),1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,21:00,Ciudad de Bolívar,Almirante Brown,0,0,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,23:00,Deportivo Madryn,Estudiantes (Buenos Aires),3,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,23:00,Ferro Carril Oeste,Los Andes,0,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-21,23:00,Tristán Suárez,Gimnasia y Esgrima (Jujuy),3,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,01:00,Chaco For Ever,Godoy Cruz Antonio Tomba,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,20:00,Chacarita Juniors,Atletico Rafaela,0,1,A,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,20:00,Patronato,Colegiales,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,20:00,San Telmo,Colón (Santa Fe),3,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,20:00,Temperley,Atlanta,2,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,21:00,Central Norte,All Boys,1,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,21:00,Güemes,Agropecuario,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-03-22,23:00,Deportivo Maipú,Midland,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-23,20:00,Nueva Chicago,Gimnasia y Tiro (Salta),3,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-27,22:15,Ciudad de Bolívar,Agropecuario,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,00:00,Colegiales,San Miguel,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,02:10,Chaco For Ever,Gimnasia y Esgrima (Jujuy),1,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,02:10,San Martín (San Juan),Racing (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,17:00,Atlanta,Ferro Carril Oeste,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,19:30,Almagro,Deportivo Morón,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-03-28,20:00,Almirante Brown,Tristán Suárez,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,19:00,Los Andes,Temperley,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,19:30,Nueva Chicago,All Boys,0,0,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,20:00,Chacarita Juniors,Estudiantes (Buenos Aires),0,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,20:00,Deportivo Madryn,San Martín (Tucumán),1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,20:00,Patronato,Colón (Santa Fe),0,2,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,20:00,San Telmo,Quilmes,0,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,21:00,Deportivo Maipú,Godoy Cruz Antonio Tomba,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,21:00,Güemes,Mitre (Santiago del Estero),2,2,D,,,,,,,,,,,,,,,,,espn
+7,2026-03-29,21:30,Gimnasia y Tiro (Salta),Central Norte,0,1,A,,,,,,,,,,,,,,,,,espn
+8,2026-03-30,20:00,Defensores de Belgrano,Atletico Rafaela,1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,02:00,Gimnasia y Tiro (Salta),San Martín (San Juan),1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,19:30,All Boys,Ferro Carril Oeste,0,0,D,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,20:00,Agropecuario,Tristán Suárez,0,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,20:00,Colegiales,Almagro,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,20:00,Estudiantes (Buenos Aires),Central Norte,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,20:00,Midland,Temperley,0,0,D,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,20:30,Godoy Cruz Antonio Tomba,Acassuso,2,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,21:30,San Martín (Tucumán),Chacarita Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-04-04,23:00,Colón (Santa Fe),San Miguel,3,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,00:00,Atletico Rafaela,Güemes,1,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,19:00,Los Andes,Chaco For Ever,2,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,19:30,Almirante Brown,Defensores de Belgrano,0,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,19:30,Deportivo Morón,San Telmo,1,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,21:00,Gimnasia y Esgrima (Jujuy),Patronato,2,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,21:00,Quilmes,Deportivo Maipú,2,1,H,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,21:00,Racing (Córdoba),Ciudad de Bolívar,0,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-04-05,23:00,Mitre (Santiago del Estero),Deportivo Madryn,1,3,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-08,00:00,Midland,Acassuso,1,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-08,01:00,Atlanta,Nueva Chicago,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-11,19:30,Almagro,Patronato,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-11,19:30,San Miguel,Deportivo Morón,2,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-11,19:30,San Telmo,Godoy Cruz Antonio Tomba,2,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,19:00,Acassuso,Los Andes,0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,19:00,Chacarita Juniors,Gimnasia y Tiro (Salta),2,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,19:00,Defensores de Belgrano,Ciudad de Bolívar,0,0,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,19:00,Ferro Carril Oeste,Estudiantes (Buenos Aires),0,1,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,19:00,Temperley,Quilmes,3,3,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,20:00,Agropecuario,Gimnasia y Esgrima (Jujuy),1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,20:00,Deportivo Madryn,Almirante Brown,2,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,21:00,Central Norte,Mitre (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,21:00,Chaco For Ever,All Boys,2,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,21:00,Güemes,San Martín (Tucumán),0,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,22:30,Deportivo Maipú,Colegiales,3,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-04-12,23:00,Colón (Santa Fe),Racing (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-13,00:00,Tristán Suárez,Atletico Rafaela,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-13,23:00,Nueva Chicago,Midland,2,2,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-14,01:30,San Martín (San Juan),Atlanta,1,2,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,00:00,Ciudad de Bolívar,Deportivo Madryn,1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,00:00,Patronato,Deportivo Maipú,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,19:00,Los Andes,San Telmo,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,19:00,Midland,San Martín (San Juan),0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,19:30,All Boys,Acassuso,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,19:30,Deportivo Morón,Colón (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,20:30,Godoy Cruz Antonio Tomba,San Miguel,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-18,20:30,Quilmes,Nueva Chicago,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,00:00,Gimnasia y Tiro (Salta),Güemes,1,1,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,00:00,Racing (Córdoba),Defensores de Belgrano,3,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,18:00,Colegiales,Temperley,1,1,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,19:00,Almirante Brown,Central Norte,1,0,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,19:00,Estudiantes (Buenos Aires),Chaco For Ever,0,0,D,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,19:00,Mitre (Santiago del Estero),Ferro Carril Oeste,0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,19:30,Gimnasia y Esgrima (Jujuy),Almagro,6,1,H,,,,,,,,,,,,,,,,,espn
+10,2026-04-19,23:00,San Martín (Tucumán),Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-20,00:00,Atletico Rafaela,Agropecuario,4,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-21,01:00,Atlanta,Chacarita Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-25,19:30,San Miguel,Los Andes,0,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-25,19:30,San Telmo,All Boys,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-25,19:30,Temperley,Patronato,0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-25,21:30,San Martín (San Juan),Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-25,22:00,Atletico Rafaela,Gimnasia y Esgrima (Jujuy),0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,19:00,Deportivo Morón,Racing (Córdoba),2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,19:00,Nueva Chicago,Colegiales,0,0,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,19:00,Tristán Suárez,Gimnasia y Tiro (Salta),2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,19:30,Acassuso,Estudiantes (Buenos Aires),0,1,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,19:30,Chacarita Juniors,Midland,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,20:00,Agropecuario,San Martín (Tucumán),2,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,20:00,Deportivo Madryn,Defensores de Belgrano,2,1,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,21:00,Central Norte,Ciudad de Bolívar,0,1,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,21:00,Chaco For Ever,Mitre (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,21:00,Güemes,Atlanta,0,2,A,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,22:00,Deportivo Maipú,Almagro,1,0,H,,,,,,,,,,,,,,,,,espn
+11,2026-04-26,23:00,Colón (Santa Fe),Godoy Cruz Antonio Tomba,0,0,D,,,,,,,,,,,,,,,,,espn
+12,2026-04-28,23:30,Ferro Carril Oeste,Almirante Brown,0,1,A,,,,,,,,,,,,,,,,,espn
+12,2026-04-30,00:30,All Boys,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-02,00:00,San Martín (Tucumán),Atletico Rafaela,2,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-02,19:30,Defensores de Belgrano,Central Norte,1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-02,19:30,Estudiantes (Buenos Aires),San Telmo,1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-02,19:30,Los Andes,Colón (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,17:00,Atlanta,Tristán Suárez,3,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,19:00,Almagro,Temperley,1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,19:00,Colegiales,San Martín (San Juan),2,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,19:00,Mitre (Santiago del Estero),Acassuso,2,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,19:30,Almirante Brown,Chaco For Ever,1,0,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,19:30,Gimnasia y Esgrima (Jujuy),Deportivo Maipú,1,1,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,20:00,Ciudad de Bolívar,Ferro Carril Oeste,2,4,A,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,20:00,Patronato,Nueva Chicago,2,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,20:30,Godoy Cruz Antonio Tomba,Deportivo Morón,2,2,D,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,20:30,Midland,Güemes,2,1,H,,,,,,,,,,,,,,,,,espn
+12,2026-05-03,21:00,Racing (Córdoba),Deportivo Madryn,2,2,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-04,00:00,Quilmes,Chacarita Juniors,0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-05,01:30,Gimnasia y Tiro (Salta),Agropecuario,2,3,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,19:00,Deportivo Morón,Los Andes,0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,19:00,San Telmo,Mitre (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,19:00,Tristán Suárez,Midland,1,3,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,19:30,San Miguel,Estudiantes (Buenos Aires),1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,19:30,Temperley,Deportivo Maipú,0,5,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,20:30,San Martín (San Juan),Patronato,1,1,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-09,22:00,Atletico Rafaela,Gimnasia y Tiro (Salta),1,0,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,19:30,Acassuso,Almirante Brown,0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,19:30,Chacarita Juniors,Colegiales,2,0,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,20:00,Agropecuario,Atlanta,0,0,D,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,20:00,Güemes,Quilmes,2,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,20:30,Chaco For Ever,Ciudad de Bolívar,0,1,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,20:30,Godoy Cruz Antonio Tomba,Racing (Córdoba),2,1,H,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,21:00,Central Norte,Deportivo Madryn,2,3,A,,,,,,,,,,,,,,,,,espn
+13,2026-05-10,22:00,Colón (Santa Fe),All Boys,3,2,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-11,23:00,Ferro Carril Oeste,Defensores de Belgrano,2,1,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-11,23:30,Nueva Chicago,Almagro,1,2,A,,,,,,,,,,,,,,,,,espn
+14,2026-05-13,01:10,San Martín (Tucumán),Gimnasia y Esgrima (Jujuy),2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,01:00,Racing (Córdoba),Central Norte,1,2,A,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,17:00,Atlanta,Atletico Rafaela,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,19:00,Los Andes,Godoy Cruz Antonio Tomba,1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,19:30,Almirante Brown,San Telmo,0,0,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,19:30,Estudiantes (Buenos Aires),Colón (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,20:00,Ciudad de Bolívar,Acassuso,1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-16,20:00,Colegiales,Güemes,4,1,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,19:00,Deportivo Madryn,Ferro Carril Oeste,0,1,A,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,19:30,Almagro,San Martín (San Juan),1,2,A,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,19:30,Gimnasia y Esgrima (Jujuy),Temperley,1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,20:00,Mitre (Santiago del Estero),San Miguel,4,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,20:00,Patronato,Chacarita Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,20:30,Midland,Agropecuario,2,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,21:00,Deportivo Maipú,Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,21:00,Gimnasia y Tiro (Salta),San Martín (Tucumán),1,0,H,,,,,,,,,,,,,,,,,espn
+14,2026-05-17,21:00,Quilmes,Tristán Suárez,0,1,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-18,00:00,All Boys,Deportivo Morón,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-18,19:30,Defensores de Belgrano,Chaco For Ever,0,0,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,19:00,Los Andes,Racing (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,19:00,San Telmo,Ciudad de Bolívar,0,1,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,19:00,Tristán Suárez,Colegiales,0,0,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,19:30,San Miguel,Almirante Brown,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,20:00,Nueva Chicago,Temperley,1,1,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,20:30,Atletico Rafaela,Midland,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-23,20:30,San Martín (San Juan),Deportivo Maipú,2,1,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,18:00,Acassuso,Defensores de Belgrano,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,19:00,Deportivo Morón,Estudiantes (Buenos Aires),2,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,19:30,Chacarita Juniors,Almagro,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,20:00,Agropecuario,Quilmes,0,0,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,20:00,Chaco For Ever,Deportivo Madryn,1,2,A,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,20:00,Ferro Carril Oeste,Central Norte,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,20:30,Godoy Cruz Antonio Tomba,All Boys,4,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,22:00,Colón (Santa Fe),Mitre (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,22:30,Gimnasia y Tiro (Salta),Gimnasia y Esgrima (Jujuy),1,1,D,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,22:30,Güemes,Patronato,1,0,H,,,,,,,,,,,,,,,,,espn
+15,2026-05-24,23:00,San Martín (Tucumán),Atlanta,0,1,A,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,01:00,Racing (Córdoba),Ferro Carril Oeste,0,0,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,19:00,Colegiales,Agropecuario,0,0,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,19:00,Estudiantes (Buenos Aires),Godoy Cruz Antonio Tomba,1,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,19:30,All Boys,Los Andes,0,0,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,19:30,Almirante Brown,Colón (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-30,19:30,Defensores de Belgrano,San Telmo,1,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,17:30,Atlanta,Gimnasia y Tiro (Salta),1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,19:00,Deportivo Madryn,Acassuso,0,0,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,19:30,Almagro,Güemes,2,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:00,Ciudad de Bolívar,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:00,Midland,San Martín (Tucumán),2,0,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:00,Mitre (Santiago del Estero),Deportivo Morón,1,3,A,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:00,Patronato,Tristán Suárez,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:00,Temperley,San Martín (San Juan),2,1,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,20:30,Central Norte,Chaco For Ever,1,1,D,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,21:00,Deportivo Maipú,Chacarita Juniors,3,2,H,,,,,,,,,,,,,,,,,espn
+16,2026-05-31,21:00,Quilmes,Atletico Rafaela,2,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,01:30,Gimnasia y Tiro (Salta),Midland,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,18:00,Atlanta,Gimnasia y Esgrima (Jujuy),3,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,19:00,Los Andes,Estudiantes (Buenos Aires),0,0,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,19:30,Acassuso,Central Norte,2,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,19:30,San Miguel,Defensores de Belgrano,0,0,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,20:30,Atletico Rafaela,Colegiales,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-06,23:00,Tristán Suárez,Almagro,0,0,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,19:00,Deportivo Morón,Almirante Brown,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,19:00,San Telmo,Deportivo Madryn,0,0,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,19:30,All Boys,Racing (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,19:30,Chacarita Juniors,Temperley,0,1,A,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,20:00,Agropecuario,Patronato,1,1,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,20:00,Chaco For Ever,Ferro Carril Oeste,1,2,A,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,20:00,Güemes,Deportivo Maipú,1,0,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,20:30,Godoy Cruz Antonio Tomba,Mitre (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,21:00,Colón (Santa Fe),Ciudad de Bolívar,0,0,D,,,,,,,,,,,,,,,,,espn
+17,2026-06-07,21:30,San Martín (Tucumán),Quilmes,0,0,D,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,00:00,Gimnasia y Esgrima (Jujuy),San Martín (San Juan),2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,18:30,Midland,Atlanta,1,2,A,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,19:00,Colegiales,San Martín (Tucumán),2,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,19:30,Almagro,Agropecuario,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,19:30,Defensores de Belgrano,Colón (Santa Fe),0,3,A,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,19:30,Nueva Chicago,Chacarita Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,20:00,Ciudad de Bolívar,Deportivo Morón,1,2,A,,,,,,,,,,,,,,,,,espn
+18,2026-06-13,21:00,Quilmes,Gimnasia y Tiro (Salta),1,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,18:30,Almirante Brown,Godoy Cruz Antonio Tomba,1,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,19:00,Deportivo Madryn,San Miguel,2,2,D,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,19:00,Estudiantes (Buenos Aires),All Boys,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,19:30,Ferro Carril Oeste,Acassuso,2,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,19:30,Patronato,Atletico Rafaela,0,0,D,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,20:00,Mitre (Santiago del Estero),Los Andes,0,3,A,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,20:00,Racing (Córdoba),Chaco For Ever,2,0,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,20:00,Temperley,Güemes,4,1,H,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,20:30,Central Norte,San Telmo,0,0,D,,,,,,,,,,,,,,,,,espn
+18,2026-06-14,20:30,Deportivo Maipú,Tristán Suárez,0,1,A,,,,,,,,,,,,,,,,,espn
+19,2026-06-17,19:00,Gimnasia y Esgrima (Jujuy),Nueva Chicago,4,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,19:00,Almagro,Atlanta,2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,19:00,Ciudad de Bolívar,Estudiantes (Buenos Aires),1,2,A,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,19:00,Colegiales,Quilmes,3,1,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,19:00,San Telmo,Racing (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,19:30,Acassuso,San Miguel,0,2,A,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,20:00,Chaco For Ever,Colón (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,20:00,San Martín (San Juan),Agropecuario,2,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-20,20:00,Temperley,San Martín (Tucumán),1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:00,Deportivo Madryn,Los Andes,2,1,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:30,Almirante Brown,Mitre (Santiago del Estero),3,1,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:30,Chacarita Juniors,Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:30,Defensores de Belgrano,All Boys,0,1,A,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:30,Ferro Carril Oeste,Deportivo Morón,1,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,19:30,Patronato,Midland,1,1,D,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,20:30,Central Norte,Godoy Cruz Antonio Tomba,1,0,H,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,20:30,Deportivo Maipú,Gimnasia y Tiro (Salta),0,0,D,,,,,,,,,,,,,,,,,espn
+19,2026-06-21,21:00,Güemes,Gimnasia y Esgrima (Jujuy),1,3,A,,,,,,,,,,,,,,,,,espn
+20,2026-06-23,22:30,Nueva Chicago,Atletico Rafaela,0,0,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:00,Colegiales,Gimnasia y Tiro (Salta),1,2,A,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:30,Almagro,Atletico Rafaela,1,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:30,Almirante Brown,Los Andes,1,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:30,Defensores de Belgrano,Deportivo Morón,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:30,Nueva Chicago,Güemes,2,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,19:30,Temperley,Tristán Suárez,1,0,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,20:00,Ciudad de Bolívar,Godoy Cruz Antonio Tomba,3,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-04,22:00,Quilmes,Atlanta,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,19:00,Deportivo Madryn,Colón (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,19:00,Estudiantes (Buenos Aires),Racing (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,19:30,Chaco For Ever,Acassuso,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,19:30,Ferro Carril Oeste,San Telmo,2,1,H,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,19:30,Patronato,San Martín (Tucumán),0,1,A,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,20:00,Midland,Gimnasia y Esgrima (Jujuy),1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,20:00,Mitre (Santiago del Estero),All Boys,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,20:00,San Martín (San Juan),Chacarita Juniors,0,1,A,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,20:30,Central Norte,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+21,2026-07-05,20:30,Deportivo Maipú,Agropecuario,2,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,All Boys,Almirante Brown,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,Atletico Rafaela,Deportivo Maipú,1,3,A,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,Deportivo Morón,Deportivo Madryn,2,2,D,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,Estudiantes (Buenos Aires),Mitre (Santiago del Estero),3,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,Los Andes,Ciudad de Bolívar,3,1,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,San Miguel,Ferro Carril Oeste,0,1,A,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,San Telmo,Chaco For Ever,1,3,A,,,,,,,,,,,,,,,,,espn
+22,2026-07-11,19:00,Tristán Suárez,Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,19:00,Gimnasia y Esgrima (Jujuy),Chacarita Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,19:30,Colón (Santa Fe),Central Norte,4,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,20:00,Agropecuario,Temperley,0,0,D,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,20:00,Güemes,San Martín (San Juan),0,2,A,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,20:00,Midland,Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,20:00,Racing (Córdoba),Acassuso,3,2,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,20:30,Godoy Cruz Antonio Tomba,Defensores de Belgrano,1,0,H,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,21:00,Gimnasia y Tiro (Salta),Patronato,1,1,D,,,,,,,,,,,,,,,,,espn
+22,2026-07-12,22:00,San Martín (Tucumán),Almagro,3,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-07-14,01:00,Atlanta,Colegiales,1,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,00:00,Ciudad de Bolívar,All Boys,0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,00:30,Temperley,Atletico Rafaela,2,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,19:00,Almirante Brown,Estudiantes (Buenos Aires),0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,19:00,Deportivo Maipú,San Martín (Tucumán),0,0,D,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,20:00,Mitre (Santiago del Estero),Racing (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,22:00,Nueva Chicago,Agropecuario,1,1,D,,,,,,,,,,,,,,,,,espn
+23,2026-07-17,23:30,Ferro Carril Oeste,Colón (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-25,19:00,Estudiantes (Buenos Aires),Ciudad de Bolívar,1,2,A,,,,,,,,,,,,,,,,,espn
+24,2026-07-25,19:00,Tristán Suárez,Chacarita Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-25,20:00,Atletico Rafaela,Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-25,23:00,San Martín (Tucumán),Temperley,1,2,A,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:00,Agropecuario,San Martín (San Juan),2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:00,All Boys,Defensores de Belgrano,0,0,D,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:00,Los Andes,Deportivo Madryn,0,0,D,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:30,Colón (Santa Fe),Chaco For Ever,0,1,A,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:30,Deportivo Morón,Ferro Carril Oeste,4,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,19:30,San Miguel,Acassuso,0,0,D,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,20:00,Gimnasia y Esgrima (Jujuy),Güemes,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,20:00,Midland,Patronato,1,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,20:00,Mitre (Santiago del Estero),Almirante Brown,0,0,D,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,20:00,Racing (Córdoba),San Telmo,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,20:30,Godoy Cruz Antonio Tomba,Central Norte,2,1,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,22:00,Gimnasia y Tiro (Salta),Deportivo Maipú,1,0,H,,,,,,,,,,,,,,,,,espn
+24,2026-07-26,23:00,Quilmes,Colegiales,0,1,A,,,,,,,,,,,,,,,,,espn
+25,2026-07-27,00:00,Atlanta,Almagro,1,3,A,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,18:30,Nueva Chicago,San Martín (Tucumán),2,1,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:00,Acassuso,Colón (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:00,Almagro,Midland,1,1,D,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:00,Colegiales,Gimnasia y Esgrima (Jujuy),2,1,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:00,Defensores de Belgrano,Estudiantes (Buenos Aires),1,1,D,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:00,Ferro Carril Oeste,Godoy Cruz Antonio Tomba,1,3,A,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:30,Patronato,Quilmes,3,3,D,,,,,,,,,,,,,,,,,espn
+25,2026-08-01,19:30,San Martín (San Juan),Atletico Rafaela,1,1,D,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:00,Almirante Brown,Racing (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:00,Chacarita Juniors,Agropecuario,2,1,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:00,Ciudad de Bolívar,Mitre (Santiago del Estero),0,2,A,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:00,San Telmo,San Miguel,1,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:30,Deportivo Maipú,Atlanta,4,2,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,19:30,Temperley,Gimnasia y Tiro (Salta),1,2,A,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,20:00,Chaco For Ever,Deportivo Morón,2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,20:00,Deportivo Madryn,All Boys,2,0,H,,,,,,,,,,,,,,,,,espn
+25,2026-08-02,20:30,Central Norte,Los Andes,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-05,19:00,Almagro,Gimnasia y Tiro (Salta),0,2,A,,,,,,,,,,,,,,,,,espn
+26,2026-08-05,23:00,Quilmes,Gimnasia y Esgrima (Jujuy),2,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-07,00:00,Midland,Deportivo Maipú,2,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-08,19:00,Agropecuario,Güemes,3,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-08,19:00,Almirante Brown,Ciudad de Bolívar,2,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-08,19:00,Estudiantes (Buenos Aires),Deportivo Madryn,0,1,A,,,,,,,,,,,,,,,,,espn
+26,2026-08-08,20:00,Atletico Rafaela,Chacarita Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,18:00,Atlanta,Temperley,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,18:30,Los Andes,Ferro Carril Oeste,1,2,A,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,19:00,Colegiales,Patronato,2,2,D,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,19:00,Deportivo Morón,Acassuso,4,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,19:30,Colón (Santa Fe),San Telmo,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,20:00,Mitre (Santiago del Estero),Defensores de Belgrano,2,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,20:00,Racing (Córdoba),San Miguel,1,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,20:30,Godoy Cruz Antonio Tomba,Chaco For Ever,2,1,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,21:00,Quilmes,Almagro,1,1,D,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,21:30,Gimnasia y Tiro (Salta),Nueva Chicago,2,0,H,,,,,,,,,,,,,,,,,espn
+26,2026-08-09,22:00,San Martín (Tucumán),San Martín (San Juan),1,1,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-10,19:00,All Boys,Central Norte,1,1,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-10,19:00,Gimnasia y Esgrima (Jujuy),Tristán Suárez,0,2,A,,,,,,,,,,,,,,,,,espn
+27,2026-08-14,00:30,Atletico Rafaela,Defensores de Belgrano,0,0,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-14,19:00,Acassuso,Midland,1,1,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,19:00,Agropecuario,Ciudad de Bolívar,1,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,19:00,Deportivo Morón,Almagro,2,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,19:00,Ferro Carril Oeste,Atlanta,3,1,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,19:00,San Miguel,Colegiales,2,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,20:00,Mitre (Santiago del Estero),Güemes,1,1,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,20:30,Colón (Santa Fe),Patronato,3,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,22:00,Godoy Cruz Antonio Tomba,Deportivo Maipú,1,2,A,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,23:00,Estudiantes (Buenos Aires),Chacarita Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-15,23:00,Quilmes,San Telmo,3,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,19:00,Tristán Suárez,Almirante Brown,3,1,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,20:00,Gimnasia y Esgrima (Jujuy),Chaco For Ever,1,0,H,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,21:00,Central Norte,Gimnasia y Tiro (Salta),0,0,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,21:00,Racing (Córdoba),San Martín (San Juan),0,0,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,21:00,San Martín (Tucumán),Deportivo Madryn,2,2,D,,,,,,,,,,,,,,,,,espn
+27,2026-08-16,22:00,Temperley,Los Andes,3,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-17,19:00,All Boys,Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-19,19:00,Chacarita Juniors,Güemes,0,0,D,,,,,,,,,,,,,,,,,espn
+28,2026-08-21,19:00,Acassuso,Godoy Cruz Antonio Tomba,0,1,A,,,,,,,,,,,,,,,,,espn
+28,2026-08-21,19:30,San Telmo,Deportivo Morón,2,2,D,,,,,,,,,,,,,,,,,espn
+28,2026-08-21,23:00,Deportivo Madryn,Mitre (Santiago del Estero),4,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:00,Tristán Suárez,Agropecuario,2,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,Almagro,Colegiales,0,0,D,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,Defensores de Belgrano,Almirante Brown,0,2,A,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,Nueva Chicago,Atlanta,0,1,A,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,Patronato,Gimnasia y Esgrima (Jujuy),3,3,D,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,San Martín (San Juan),Gimnasia y Tiro (Salta),3,1,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,19:30,San Miguel,Colón (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,espn
+28,2026-08-22,20:00,Chaco For Ever,Los Andes,1,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-23,02:00,Central Norte,Estudiantes (Buenos Aires),2,1,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-23,19:00,Chacarita Juniors,San Martín (Tucumán),1,2,A,,,,,,,,,,,,,,,,,espn
+28,2026-08-23,19:30,Ciudad de Bolívar,Racing (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
+28,2026-08-23,19:30,Deportivo Maipú,Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+28,2026-08-23,20:00,Temperley,Midland,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-24,00:00,Ferro Carril Oeste,All Boys,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-24,20:00,Güemes,Atletico Rafaela,0,0,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-25,23:00,Deportivo Madryn,Godoy Cruz Antonio Tomba,2,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-26,19:00,Acassuso,San Telmo,1,2,A,,,,,,,,,,,,,,,,,espn
+29,2026-08-26,19:00,Chaco For Ever,San Miguel,3,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-26,19:00,San Martín (San Juan),Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-26,19:30,Patronato,Atlanta,2,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-27,01:30,Central Norte,Deportivo Morón,0,0,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-29,02:00,Gimnasia y Tiro (Salta),Chacarita Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-29,19:00,Colegiales,Deportivo Maipú,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-29,20:00,Atletico Rafaela,Tristán Suárez,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-29,20:00,Ciudad de Bolívar,Defensores de Belgrano,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-29,20:30,Midland,Nueva Chicago,2,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:00,Almirante Brown,Deportivo Madryn,1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:00,Mitre (Santiago del Estero),Central Norte,2,2,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:30,All Boys,Chaco For Ever,0,0,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:30,Atlanta,San Martín (San Juan),0,1,A,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:30,Deportivo Morón,San Miguel,2,1,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:30,Estudiantes (Buenos Aires),Ferro Carril Oeste,2,2,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,19:30,Patronato,Almagro,0,1,A,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,21:00,Racing (Córdoba),Colón (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,22:00,Godoy Cruz Antonio Tomba,San Telmo,3,0,H,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,22:30,San Martín (Tucumán),Güemes,1,1,D,,,,,,,,,,,,,,,,,espn
+29,2026-08-30,23:00,Quilmes,Temperley,0,1,A,,,,,,,,,,,,,,,,,espn
+30,2026-08-31,23:00,Los Andes,Acassuso,0,0,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-01,01:00,Gimnasia y Esgrima (Jujuy),Agropecuario,1,1,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-02,00:00,Colegiales,Midland,3,0,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-04,00:00,Ferro Carril Oeste,Mitre (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-04,19:30,Defensores de Belgrano,Racing (Córdoba),3,0,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-05,19:00,San Telmo,Los Andes,0,0,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-05,19:00,Tristán Suárez,San Martín (Tucumán),2,0,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-05,19:30,Acassuso,All Boys,0,1,A,,,,,,,,,,,,,,,,,espn
+30,2026-09-05,19:30,Chacarita Juniors,Atlanta,0,1,A,,,,,,,,,,,,,,,,,espn
+30,2026-09-05,21:00,Colón (Santa Fe),Deportivo Morón,1,2,A,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,19:00,Agropecuario,Atletico Rafaela,2,0,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,19:00,San Miguel,Godoy Cruz Antonio Tomba,1,2,A,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,19:30,Almagro,Gimnasia y Esgrima (Jujuy),1,2,A,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,19:30,San Martín (San Juan),Midland,3,2,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,20:00,Chaco For Ever,Estudiantes (Buenos Aires),1,0,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,20:00,Deportivo Madryn,Ciudad de Bolívar,3,1,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,20:00,Deportivo Maipú,Patronato,0,0,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,20:00,Temperley,Colegiales,3,1,H,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,21:00,Central Norte,Almirante Brown,0,0,D,,,,,,,,,,,,,,,,,espn
+30,2026-09-06,21:00,Güemes,Gimnasia y Tiro (Salta),1,3,A,,,,,,,,,,,,,,,,,espn
+31,2026-09-07,21:00,Nueva Chicago,Quilmes,1,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-09,19:30,Defensores de Belgrano,Los Andes,1,1,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,02:00,Gimnasia y Tiro (Salta),Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,19:00,Atlanta,Güemes,2,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,19:00,Colegiales,Nueva Chicago,1,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,19:30,All Boys,San Telmo,0,1,A,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,19:30,Almagro,Deportivo Maipú,2,2,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,20:00,Ciudad de Bolívar,Central Norte,0,0,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-12,21:00,Quilmes,San Martín (San Juan),1,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,19:00,Los Andes,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,19:30,Almirante Brown,Ferro Carril Oeste,0,0,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,19:30,Estudiantes (Buenos Aires),Acassuso,1,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,19:30,Patronato,Temperley,0,0,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,20:00,Gimnasia y Esgrima (Jujuy),Atletico Rafaela,2,1,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,20:00,Mitre (Santiago del Estero),Chaco For Ever,0,0,D,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,20:00,Racing (Córdoba),Deportivo Morón,1,2,A,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,20:30,Midland,Chacarita Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,22:00,Godoy Cruz Antonio Tomba,Colón (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
+31,2026-09-13,22:30,San Martín (Tucumán),Agropecuario,3,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-14,19:30,Defensores de Belgrano,Deportivo Madryn,2,1,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-16,19:00,San Martín (San Juan),Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,19:00,Acassuso,Mitre (Santiago del Estero),2,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,19:30,Ferro Carril Oeste,Ciudad de Bolívar,1,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,19:30,San Miguel,All Boys,1,1,D,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,19:30,San Telmo,Estudiantes (Buenos Aires),0,1,A,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,20:00,Atletico Rafaela,San Martín (Tucumán),4,2,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-19,20:00,Temperley,Almagro,3,1,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,19:00,Agropecuario,Gimnasia y Tiro (Salta),1,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,19:00,Chacarita Juniors,Quilmes,3,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,19:00,Deportivo Morón,Godoy Cruz Antonio Tomba,1,2,A,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,20:00,Deportivo Madryn,Racing (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,20:30,Colón (Santa Fe),Los Andes,3,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,20:30,Deportivo Maipú,Gimnasia y Esgrima (Jujuy),1,1,D,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,21:00,Central Norte,Defensores de Belgrano,0,1,A,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,21:00,Chaco For Ever,Almirante Brown,1,0,H,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,21:00,Güemes,Midland,0,2,A,,,,,,,,,,,,,,,,,espn
+32,2026-09-20,21:00,San Martín (San Juan),Colegiales,2,0,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-21,19:00,Tristán Suárez,Atlanta,0,0,D,,,,,,,,,,,,,,,,,espn
+33,2026-09-21,23:00,Nueva Chicago,Patronato,1,1,D,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,00:00,Colegiales,Chacarita Juniors,2,1,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,19:30,Almirante Brown,Acassuso,0,1,A,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,19:30,Estudiantes (Buenos Aires),San Miguel,2,1,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,20:00,All Boys,Colón (Santa Fe),0,0,D,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,20:00,Ciudad de Bolívar,Chaco For Ever,2,1,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,20:00,Quilmes,Güemes,2,0,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-26,23:00,Deportivo Madryn,Central Norte,0,0,D,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,19:30,Almagro,Nueva Chicago,0,1,A,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,19:30,Atlanta,Agropecuario,1,0,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,19:30,Defensores de Belgrano,Ferro Carril Oeste,0,1,A,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,19:30,Los Andes,Deportivo Morón,2,1,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,20:00,Mitre (Santiago del Estero),San Telmo,0,2,A,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,20:00,Patronato,San Martín (San Juan),3,0,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,20:30,Deportivo Maipú,Temperley,1,0,H,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,20:30,Midland,Tristán Suárez,0,1,A,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,21:00,Racing (Córdoba),Godoy Cruz Antonio Tomba,2,2,D,,,,,,,,,,,,,,,,,espn
+33,2026-09-27,22:00,Gimnasia y Tiro (Salta),Atletico Rafaela,1,0,H,,,,,,,,,,,,,,,,,espn
+34,2026-09-28,01:00,Gimnasia y Esgrima (Jujuy),San Martín (Tucumán),2,2,D,,,,,,,,,,,,,,,,,espn
+34,2026-10-02,23:00,Ferro Carril Oeste,Deportivo Madryn,0,2,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,Acassuso,Ciudad de Bolívar,0,1,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,Colón (Santa Fe),Estudiantes (Buenos Aires),1,0,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,Deportivo Morón,All Boys,2,1,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,San Miguel,Mitre (Santiago del Estero),0,2,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,Temperley,Gimnasia y Esgrima (Jujuy),2,1,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-03,19:00,Tristán Suárez,Quilmes,0,0,D,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,19:00,Agropecuario,Midland,0,0,D,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,19:30,Chacarita Juniors,Patronato,1,0,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,19:30,San Telmo,Almirante Brown,3,2,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,20:30,Central Norte,Racing (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,21:00,Güemes,Colegiales,0,1,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,21:00,San Martín (San Juan),Almagro,1,2,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,21:20,Chaco For Ever,Defensores de Belgrano,2,2,D,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,21:30,Atletico Rafaela,Atlanta,2,3,A,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,22:00,Godoy Cruz Antonio Tomba,Los Andes,2,1,H,,,,,,,,,,,,,,,,,espn
+34,2026-10-04,22:30,San Martín (Tucumán),Gimnasia y Tiro (Salta),1,0,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-05,21:00,Nueva Chicago,Deportivo Maipú,0,1,A,,,,,,,,,,,,,,,,,espn
+35,2026-10-10,19:00,Colegiales,Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-10,19:30,Almagro,Chacarita Juniors,2,1,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-10,20:00,Quilmes,Agropecuario,0,1,A,,,,,,,,,,,,,,,,,espn
+35,2026-10-10,20:30,Midland,Atletico Rafaela,4,0,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,19:00,Atlanta,San Martín (Tucumán),1,0,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,19:00,Deportivo Madryn,Chaco For Ever,1,2,A,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,19:30,Almirante Brown,San Miguel,1,1,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,19:30,Defensores de Belgrano,Acassuso,0,3,A,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,19:30,Estudiantes (Buenos Aires),Deportivo Morón,2,0,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,20:00,Gimnasia y Esgrima (Jujuy),Gimnasia y Tiro (Salta),2,2,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,20:00,Mitre (Santiago del Estero),Colón (Santa Fe),0,0,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,20:00,Patronato,Güemes,2,0,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,20:00,Temperley,Nueva Chicago,2,1,H,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,21:00,Central Norte,Ferro Carril Oeste,1,1,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,21:00,Deportivo Maipú,San Martín (San Juan),1,1,D,,,,,,,,,,,,,,,,,espn
+35,2026-10-11,23:30,Ciudad de Bolívar,San Telmo,1,0,H,,,,,,,,,,,,,,,,,espn

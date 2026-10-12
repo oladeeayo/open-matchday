@@ -1,0 +1,356 @@
+gw,date,time,home,away
+10,2026-10-12,15:15,Burgos,Granada
+10,2026-10-12,17:30,Real Oviedo,Eibar
+10,2026-10-12,20:00,Tenerife,Girona
+10,2026-10-16,19:30,Leganés,Córdoba
+10,2026-10-17,13:00,Real Sociedad II,Almería
+10,2026-10-17,15:15,Eibar,Mallorca
+10,2026-10-17,17:30,Sporting Gijón,Albacete
+10,2026-10-17,20:00,Las Palmas,Castellón
+10,2026-10-18,13:00,Ceuta,Real Oviedo
+10,2026-10-18,15:15,Granada,Cádiz
+10,2026-10-18,17:30,Girona,FC Andorra
+10,2026-10-18,17:30,Real Valladolid,Eldense
+10,2026-10-18,20:00,Burgos,CD Sabadell
+11,2026-10-19,19:30,RC Celta Fortuna,Tenerife
+11,2026-10-23,19:30,Granada,Real Valladolid
+11,2026-10-24,13:00,Córdoba,Eibar
+11,2026-10-24,15:15,Leganés,Mallorca
+11,2026-10-24,17:30,Girona,RC Celta Fortuna
+11,2026-10-24,17:30,Las Palmas,Real Sociedad II
+11,2026-10-24,20:00,Almería,Real Oviedo
+11,2026-10-25,14:00,CD Sabadell,Tenerife
+11,2026-10-25,16:15,Albacete,Eldense
+11,2026-10-25,16:15,Cádiz,Ceuta
+11,2026-10-25,18:30,Castellón,Sporting Gijón
+12,2026-10-26,20:30,FC Andorra,Burgos
+12,2026-10-31,14:00,Real Sociedad II,Girona
+12,2026-10-31,16:15,Eibar,Almería
+12,2026-10-31,18:30,RC Celta Fortuna,Córdoba
+12,2026-10-31,21:00,Albacete,CD Sabadell
+12,2026-11-01,14:00,Eldense,Granada
+12,2026-11-01,16:15,Ceuta,Sporting Gijón
+12,2026-11-01,18:30,Burgos,Castellón
+12,2026-11-01,21:00,Tenerife,FC Andorra
+13,2026-11-02,16:15,Real Oviedo,Las Palmas
+13,2026-11-02,18:30,Real Valladolid,Leganés
+13,2026-11-02,21:00,Mallorca,Cádiz
+13,2026-11-08,21:00,Burgos,RC Celta Fortuna
+13,2026-11-08,21:00,CD Sabadell,Real Sociedad II
+13,2026-11-08,21:00,Castellón,Eibar
+13,2026-11-08,21:00,Cádiz,Real Oviedo
+13,2026-11-08,21:00,Córdoba,Ceuta
+13,2026-11-08,21:00,FC Andorra,Mallorca
+13,2026-11-08,21:00,Girona,Almería
+13,2026-11-08,21:00,Granada,Tenerife
+13,2026-11-08,21:00,Las Palmas,Eldense
+13,2026-11-08,21:00,Leganés,Albacete
+13,2026-11-08,21:00,Sporting Gijón,Real Valladolid
+14,2026-11-15,21:00,Albacete,RC Celta Fortuna
+14,2026-11-15,21:00,Almería,FC Andorra
+14,2026-11-15,21:00,Eibar,Cádiz
+14,2026-11-15,21:00,Eldense,CD Sabadell
+14,2026-11-15,21:00,Granada,Las Palmas
+14,2026-11-15,21:00,Leganés,Burgos
+14,2026-11-15,21:00,Mallorca,Córdoba
+14,2026-11-15,21:00,Real Oviedo,Girona
+14,2026-11-15,21:00,Real Sociedad II,Sporting Gijón
+14,2026-11-15,21:00,Real Valladolid,Castellón
+14,2026-11-15,21:00,Tenerife,Ceuta
+15,2026-11-22,21:00,Burgos,Albacete
+15,2026-11-22,21:00,CD Sabadell,Granada
+15,2026-11-22,21:00,Castellón,Eldense
+15,2026-11-22,21:00,Ceuta,Almería
+15,2026-11-22,21:00,Córdoba,Real Oviedo
+15,2026-11-22,21:00,FC Andorra,Leganés
+15,2026-11-22,21:00,Girona,Eibar
+15,2026-11-22,21:00,RC Celta Fortuna,Real Valladolid
+15,2026-11-22,21:00,Real Sociedad II,Cádiz
+15,2026-11-22,21:00,Sporting Gijón,Las Palmas
+15,2026-11-22,21:00,Tenerife,Mallorca
+16,2026-11-29,21:00,Albacete,Tenerife
+16,2026-11-29,21:00,Almería,Sporting Gijón
+16,2026-11-29,21:00,Cádiz,Córdoba
+16,2026-11-29,21:00,Eibar,Burgos
+16,2026-11-29,21:00,Eldense,Girona
+16,2026-11-29,21:00,Granada,Ceuta
+16,2026-11-29,21:00,Las Palmas,FC Andorra
+16,2026-11-29,21:00,Leganés,CD Sabadell
+16,2026-11-29,21:00,Mallorca,Castellón
+16,2026-11-29,21:00,Real Oviedo,RC Celta Fortuna
+16,2026-11-29,21:00,Real Valladolid,Real Sociedad II
+17,2026-12-06,21:00,Burgos,Cádiz
+17,2026-12-06,21:00,CD Sabadell,Eibar
+17,2026-12-06,21:00,Castellón,Almería
+17,2026-12-06,21:00,Ceuta,Albacete
+17,2026-12-06,21:00,Córdoba,Las Palmas
+17,2026-12-06,21:00,FC Andorra,Real Oviedo
+17,2026-12-06,21:00,Girona,Real Valladolid
+17,2026-12-06,21:00,RC Celta Fortuna,Mallorca
+17,2026-12-06,21:00,Real Sociedad II,Leganés
+17,2026-12-06,21:00,Sporting Gijón,Granada
+17,2026-12-06,21:00,Tenerife,Eldense
+18,2026-12-13,21:00,Almería,Albacete
+18,2026-12-13,21:00,Cádiz,CD Sabadell
+18,2026-12-13,21:00,Córdoba,Castellón
+18,2026-12-13,21:00,Eibar,Sporting Gijón
+18,2026-12-13,21:00,Eldense,FC Andorra
+18,2026-12-13,21:00,Granada,Girona
+18,2026-12-13,21:00,Las Palmas,RC Celta Fortuna
+18,2026-12-13,21:00,Leganés,Ceuta
+18,2026-12-13,21:00,Mallorca,Burgos
+18,2026-12-13,21:00,Real Oviedo,Real Sociedad II
+18,2026-12-13,21:00,Real Valladolid,Tenerife
+19,2026-12-20,21:00,Albacete,Mallorca
+19,2026-12-20,21:00,Almería,Real Valladolid
+19,2026-12-20,21:00,Burgos,Girona
+19,2026-12-20,21:00,CD Sabadell,Las Palmas
+19,2026-12-20,21:00,Castellón,Granada
+19,2026-12-20,21:00,Ceuta,Eibar
+19,2026-12-20,21:00,FC Andorra,Cádiz
+19,2026-12-20,21:00,RC Celta Fortuna,Eldense
+19,2026-12-20,21:00,Real Sociedad II,Córdoba
+19,2026-12-20,21:00,Sporting Gijón,Leganés
+19,2026-12-20,21:00,Tenerife,Real Oviedo
+20,2027-01-03,21:00,Cádiz,Albacete
+20,2027-01-03,21:00,Córdoba,FC Andorra
+20,2027-01-03,21:00,Eibar,Real Sociedad II
+20,2027-01-03,21:00,Eldense,Ceuta
+20,2027-01-03,21:00,Girona,CD Sabadell
+20,2027-01-03,21:00,Granada,Almería
+20,2027-01-03,21:00,Las Palmas,Tenerife
+20,2027-01-03,21:00,Leganés,RC Celta Fortuna
+20,2027-01-03,21:00,Mallorca,Sporting Gijón
+20,2027-01-03,21:00,Real Oviedo,Castellón
+20,2027-01-03,21:00,Real Valladolid,Burgos
+21,2027-01-10,21:00,Albacete,FC Andorra
+21,2027-01-10,21:00,Almería,Las Palmas
+21,2027-01-10,21:00,CD Sabadell,Real Valladolid
+21,2027-01-10,21:00,Castellón,Cádiz
+21,2027-01-10,21:00,Ceuta,Girona
+21,2027-01-10,21:00,Leganés,Eibar
+21,2027-01-10,21:00,Mallorca,Real Oviedo
+21,2027-01-10,21:00,RC Celta Fortuna,Granada
+21,2027-01-10,21:00,Real Sociedad II,Eldense
+21,2027-01-10,21:00,Sporting Gijón,Córdoba
+21,2027-01-10,21:00,Tenerife,Burgos
+22,2027-01-17,21:00,Burgos,Sporting Gijón
+22,2027-01-17,21:00,Castellón,Leganés
+22,2027-01-17,21:00,Cádiz,Mallorca
+22,2027-01-17,21:00,Córdoba,CD Sabadell
+22,2027-01-17,21:00,Eibar,RC Celta Fortuna
+22,2027-01-17,21:00,Eldense,Albacete
+22,2027-01-17,21:00,FC Andorra,Tenerife
+22,2027-01-17,21:00,Granada,Real Sociedad II
+22,2027-01-17,21:00,Las Palmas,Girona
+22,2027-01-17,21:00,Real Oviedo,Almería
+22,2027-01-17,21:00,Real Valladolid,Ceuta
+23,2027-01-24,21:00,Albacete,Granada
+23,2027-01-24,21:00,Almería,Córdoba
+23,2027-01-24,21:00,CD Sabadell,Ceuta
+23,2027-01-24,21:00,Cádiz,Eldense
+23,2027-01-24,21:00,Girona,Real Oviedo
+23,2027-01-24,21:00,Leganés,Real Valladolid
+23,2027-01-24,21:00,Mallorca,FC Andorra
+23,2027-01-24,21:00,RC Celta Fortuna,Burgos
+23,2027-01-24,21:00,Real Sociedad II,Las Palmas
+23,2027-01-24,21:00,Sporting Gijón,Castellón
+23,2027-01-24,21:00,Tenerife,Eibar
+24,2027-01-31,21:00,Burgos,Leganés
+24,2027-01-31,21:00,Ceuta,Tenerife
+24,2027-01-31,21:00,Córdoba,Mallorca
+24,2027-01-31,21:00,Eibar,Albacete
+24,2027-01-31,21:00,Eldense,Castellón
+24,2027-01-31,21:00,FC Andorra,Almería
+24,2027-01-31,21:00,Girona,Real Sociedad II
+24,2027-01-31,21:00,Granada,CD Sabadell
+24,2027-01-31,21:00,Las Palmas,Sporting Gijón
+24,2027-01-31,21:00,Real Oviedo,Cádiz
+24,2027-01-31,21:00,Real Valladolid,RC Celta Fortuna
+25,2027-02-07,21:00,Albacete,Real Valladolid
+25,2027-02-07,21:00,Almería,Eibar
+25,2027-02-07,21:00,CD Sabadell,Burgos
+25,2027-02-07,21:00,Castellón,Las Palmas
+25,2027-02-07,21:00,Córdoba,Cádiz
+25,2027-02-07,21:00,Leganés,Real Oviedo
+25,2027-02-07,21:00,Mallorca,Eldense
+25,2027-02-07,21:00,RC Celta Fortuna,Girona
+25,2027-02-07,21:00,Real Sociedad II,FC Andorra
+25,2027-02-07,21:00,Sporting Gijón,Ceuta
+25,2027-02-07,21:00,Tenerife,Granada
+26,2027-02-14,21:00,Albacete,Castellón
+26,2027-02-14,21:00,Burgos,Almería
+26,2027-02-14,21:00,Ceuta,Mallorca
+26,2027-02-14,21:00,Cádiz,Real Sociedad II
+26,2027-02-14,21:00,Eldense,Tenerife
+26,2027-02-14,21:00,FC Andorra,RC Celta Fortuna
+26,2027-02-14,21:00,Girona,Córdoba
+26,2027-02-14,21:00,Granada,Leganés
+26,2027-02-14,21:00,Las Palmas,Eibar
+26,2027-02-14,21:00,Real Oviedo,CD Sabadell
+26,2027-02-14,21:00,Real Valladolid,Sporting Gijón
+27,2027-02-21,21:00,Almería,Ceuta
+27,2027-02-21,21:00,CD Sabadell,Eldense
+27,2027-02-21,21:00,Castellón,Girona
+27,2027-02-21,21:00,Córdoba,Burgos
+27,2027-02-21,21:00,Eibar,Real Oviedo
+27,2027-02-21,21:00,Leganés,Cádiz
+27,2027-02-21,21:00,Mallorca,Granada
+27,2027-02-21,21:00,RC Celta Fortuna,Las Palmas
+27,2027-02-21,21:00,Real Sociedad II,Real Valladolid
+27,2027-02-21,21:00,Sporting Gijón,FC Andorra
+27,2027-02-21,21:00,Tenerife,Albacete
+28,2027-02-28,21:00,Albacete,Burgos
+28,2027-02-28,21:00,Castellón,FC Andorra
+28,2027-02-28,21:00,Ceuta,Leganés
+28,2027-02-28,21:00,Cádiz,Almería
+28,2027-02-28,21:00,Eldense,RC Celta Fortuna
+28,2027-02-28,21:00,Girona,Sporting Gijón
+28,2027-02-28,21:00,Granada,Córdoba
+28,2027-02-28,21:00,Las Palmas,CD Sabadell
+28,2027-02-28,21:00,Mallorca,Real Sociedad II
+28,2027-02-28,21:00,Real Oviedo,Tenerife
+28,2027-02-28,21:00,Real Valladolid,Eibar
+29,2027-03-07,21:00,Almería,Castellón
+29,2027-03-07,21:00,Burgos,Mallorca
+29,2027-03-07,21:00,CD Sabadell,Albacete
+29,2027-03-07,21:00,Córdoba,Real Valladolid
+29,2027-03-07,21:00,Eibar,Eldense
+29,2027-03-07,21:00,FC Andorra,Girona
+29,2027-03-07,21:00,Las Palmas,Granada
+29,2027-03-07,21:00,Leganés,Tenerife
+29,2027-03-07,21:00,RC Celta Fortuna,Real Oviedo
+29,2027-03-07,21:00,Real Sociedad II,Ceuta
+29,2027-03-07,21:00,Sporting Gijón,Cádiz
+30,2027-03-14,19:00,Albacete,Las Palmas
+30,2027-03-14,19:00,Castellón,RC Celta Fortuna
+30,2027-03-14,19:00,Ceuta,FC Andorra
+30,2027-03-14,19:00,Cádiz,Granada
+30,2027-03-14,19:00,Eldense,Sporting Gijón
+30,2027-03-14,19:00,Girona,Burgos
+30,2027-03-14,19:00,Mallorca,Leganés
+30,2027-03-14,19:00,Real Oviedo,Córdoba
+30,2027-03-14,19:00,Real Sociedad II,Eibar
+30,2027-03-14,19:00,Real Valladolid,Almería
+30,2027-03-14,19:00,Tenerife,CD Sabadell
+31,2027-03-21,19:00,Almería,Real Sociedad II
+31,2027-03-21,19:00,Burgos,Tenerife
+31,2027-03-21,19:00,CD Sabadell,RC Celta Fortuna
+31,2027-03-21,19:00,Córdoba,Eldense
+31,2027-03-21,19:00,Eibar,Ceuta
+31,2027-03-21,19:00,FC Andorra,Albacete
+31,2027-03-21,19:00,Granada,Castellón
+31,2027-03-21,19:00,Las Palmas,Real Oviedo
+31,2027-03-21,19:00,Leganés,Girona
+31,2027-03-21,19:00,Real Valladolid,Cádiz
+31,2027-03-21,19:00,Sporting Gijón,Mallorca
+32,2027-03-28,19:00,Albacete,Almería
+32,2027-03-28,19:00,CD Sabadell,Mallorca
+32,2027-03-28,19:00,Castellón,Córdoba
+32,2027-03-28,19:00,Ceuta,Granada
+32,2027-03-28,19:00,Eibar,FC Andorra
+32,2027-03-28,19:00,Eldense,Leganés
+32,2027-03-28,19:00,Girona,Cádiz
+32,2027-03-28,19:00,RC Celta Fortuna,Sporting Gijón
+32,2027-03-28,19:00,Real Oviedo,Real Valladolid
+32,2027-03-28,19:00,Real Sociedad II,Burgos
+32,2027-03-28,19:00,Tenerife,Las Palmas
+33,2027-04-04,19:00,Burgos,Real Oviedo
+33,2027-04-04,19:00,Cádiz,Castellón
+33,2027-04-04,19:00,Córdoba,RC Celta Fortuna
+33,2027-04-04,19:00,FC Andorra,Eldense
+33,2027-04-04,19:00,Granada,Eibar
+33,2027-04-04,19:00,Las Palmas,Ceuta
+33,2027-04-04,19:00,Leganés,Almería
+33,2027-04-04,19:00,Mallorca,Girona
+33,2027-04-04,19:00,Real Sociedad II,Albacete
+33,2027-04-04,19:00,Real Valladolid,CD Sabadell
+33,2027-04-04,19:00,Sporting Gijón,Tenerife
+34,2027-04-11,19:00,Albacete,Ceuta
+34,2027-04-11,19:00,Almería,Tenerife
+34,2027-04-11,19:00,CD Sabadell,Leganés
+34,2027-04-11,19:00,Castellón,Burgos
+34,2027-04-11,19:00,Eibar,Córdoba
+34,2027-04-11,19:00,FC Andorra,Real Valladolid
+34,2027-04-11,19:00,Girona,Granada
+34,2027-04-11,19:00,Las Palmas,Mallorca
+34,2027-04-11,19:00,RC Celta Fortuna,Cádiz
+34,2027-04-11,19:00,Real Oviedo,Eldense
+34,2027-04-11,19:00,Sporting Gijón,Real Sociedad II
+35,2027-04-18,19:00,CD Sabadell,Sporting Gijón
+35,2027-04-18,19:00,Ceuta,Castellón
+35,2027-04-18,19:00,Cádiz,FC Andorra
+35,2027-04-18,19:00,Córdoba,Albacete
+35,2027-04-18,19:00,Eldense,Burgos
+35,2027-04-18,19:00,Granada,Real Oviedo
+35,2027-04-18,19:00,Leganés,Las Palmas
+35,2027-04-18,19:00,Mallorca,Eibar
+35,2027-04-18,19:00,RC Celta Fortuna,Almería
+35,2027-04-18,19:00,Real Valladolid,Girona
+35,2027-04-18,19:00,Tenerife,Real Sociedad II
+36,2027-04-25,19:00,Albacete,Leganés
+36,2027-04-25,19:00,Almería,Granada
+36,2027-04-25,19:00,Burgos,Real Valladolid
+36,2027-04-25,19:00,Castellón,Mallorca
+36,2027-04-25,19:00,Ceuta,Eldense
+36,2027-04-25,19:00,Eibar,CD Sabadell
+36,2027-04-25,19:00,FC Andorra,Córdoba
+36,2027-04-25,19:00,Girona,Tenerife
+36,2027-04-25,19:00,Las Palmas,Cádiz
+36,2027-04-25,19:00,Real Sociedad II,RC Celta Fortuna
+36,2027-04-25,19:00,Sporting Gijón,Real Oviedo
+37,2027-05-02,19:00,CD Sabadell,Girona
+37,2027-05-02,19:00,Cádiz,Eibar
+37,2027-05-02,19:00,Córdoba,Real Sociedad II
+37,2027-05-02,19:00,Eldense,Almería
+37,2027-05-02,19:00,FC Andorra,Las Palmas
+37,2027-05-02,19:00,Granada,Burgos
+37,2027-05-02,19:00,Leganés,Sporting Gijón
+37,2027-05-02,19:00,RC Celta Fortuna,Ceuta
+37,2027-05-02,19:00,Real Oviedo,Albacete
+37,2027-05-02,19:00,Real Valladolid,Mallorca
+37,2027-05-02,19:00,Tenerife,Castellón
+38,2027-05-09,19:00,Albacete,Girona
+38,2027-05-09,19:00,Almería,CD Sabadell
+38,2027-05-09,19:00,Burgos,FC Andorra
+38,2027-05-09,19:00,Castellón,Real Valladolid
+38,2027-05-09,19:00,Ceuta,Cádiz
+38,2027-05-09,19:00,Eibar,Leganés
+38,2027-05-09,19:00,Eldense,Las Palmas
+38,2027-05-09,19:00,Granada,Sporting Gijón
+38,2027-05-09,19:00,Mallorca,RC Celta Fortuna
+38,2027-05-09,19:00,Real Sociedad II,Real Oviedo
+38,2027-05-09,19:00,Tenerife,Córdoba
+39,2027-05-16,19:00,Castellón,Real Sociedad II
+39,2027-05-16,19:00,Cádiz,Burgos
+39,2027-05-16,19:00,Córdoba,Leganés
+39,2027-05-16,19:00,FC Andorra,CD Sabadell
+39,2027-05-16,19:00,Girona,Eldense
+39,2027-05-16,19:00,Las Palmas,Almería
+39,2027-05-16,19:00,Mallorca,Tenerife
+39,2027-05-16,19:00,RC Celta Fortuna,Albacete
+39,2027-05-16,19:00,Real Oviedo,Ceuta
+39,2027-05-16,19:00,Real Valladolid,Granada
+39,2027-05-16,19:00,Sporting Gijón,Eibar
+40,2027-05-23,19:00,Albacete,Sporting Gijón
+40,2027-05-23,19:00,Almería,Girona
+40,2027-05-23,19:00,Burgos,Las Palmas
+40,2027-05-23,19:00,CD Sabadell,Cádiz
+40,2027-05-23,19:00,Ceuta,Córdoba
+40,2027-05-23,19:00,Eibar,Castellón
+40,2027-05-23,19:00,Eldense,Real Sociedad II
+40,2027-05-23,19:00,Granada,RC Celta Fortuna
+40,2027-05-23,19:00,Leganés,FC Andorra
+40,2027-05-23,19:00,Real Oviedo,Mallorca
+40,2027-05-23,19:00,Tenerife,Real Valladolid
+41,2027-05-30,19:00,Burgos,Eibar
+41,2027-05-30,19:00,Castellón,Real Oviedo
+41,2027-05-30,19:00,Cádiz,Tenerife
+41,2027-05-30,19:00,Eldense,Real Valladolid
+41,2027-05-30,19:00,FC Andorra,Granada
+41,2027-05-30,19:00,Girona,Ceuta
+41,2027-05-30,19:00,Las Palmas,Córdoba
+41,2027-05-30,19:00,Mallorca,Albacete
+41,2027-05-30,19:00,RC Celta Fortuna,Leganés
+41,2027-05-30,19:00,Real Sociedad II,CD Sabadell
+41,2027-05-30,19:00,Sporting Gijón,Almería

@@ -1,0 +1,13 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-14,,Kilmarnock,Ayr,3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Aberdeen,Dundee FC,3,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Dundee Utd,Celtic,0,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Dunfermline,Ross County,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Hearts,Inverness,6,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Hibernian,Partick Thistle,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Rangers,St. Mirren,5,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Stenhousemuir,Motherwell,1,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-11,,Stenhousemuir,Hearts,0,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-12,,Kilmarnock,Aberdeen,1,1,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-12,,Ross County,Hibernian,0,3,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-13,,Rangers,Celtic,3,0,H,,,,,,,,,,,,,,,,,soccerway

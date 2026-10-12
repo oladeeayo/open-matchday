@@ -1,0 +1,154 @@
+gw,date,time,home,away
+2,2026-10-13,,Atl. Madrid,Manchester Utd
+2,2026-10-13,17:45,Lens,Sporting CP
+2,2026-10-13,17:45,Sabah,Slavia Praha
+2,2026-10-13,20:00,Arsenal,Lille
+2,2026-10-13,20:00,Atleti,Man Utd
+2,2026-10-13,20:00,Galatasaray,Barcelona
+2,2026-10-13,20:00,Inter,Club Brugge
+2,2026-10-13,20:00,Leipzig,PSV
+2,2026-10-13,20:00,Viking,Bayern München
+2,2026-10-13,20:00,Villarreal,Napoli
+2,2026-10-14,,Manchester City,PSG
+2,2026-10-14,17:45,Feyenoord,Como
+2,2026-10-14,17:45,LASK,Liverpool
+2,2026-10-14,20:00,Aston Villa,Fenerbahçe
+2,2026-10-14,20:00,Bodø/Glimt,B. Dortmund
+2,2026-10-14,20:00,Man City,Paris
+10,2026-10-14,20:00,Manchester City,Paris Saint-Germain
+2,2026-10-14,20:00,Real Betis,Porto
+2,2026-10-14,20:00,Roma,Real Madrid
+2,2026-10-14,20:00,S. Bratislava,Stuttgart
+2,2026-10-14,20:00,Shakhtar,AEK Athens
+3,2026-10-20,,PSG,Barcelona
+3,2026-10-20,,Stuttgart,Atl. Madrid
+3,2026-10-20,17:45,Fenerbahçe,Slavia Praha
+3,2026-10-20,17:45,Sabah,B. Dortmund
+3,2026-10-20,20:00,Liverpool,Villarreal
+3,2026-10-20,20:00,Man City,AEK Athens
+3,2026-10-20,20:00,Napoli,Bodø/Glimt
+3,2026-10-20,20:00,Paris,Barcelona
+11,2026-10-20,20:00,Paris Saint-Germain,Barcelona
+3,2026-10-20,20:00,Porto,PSV
+3,2026-10-20,20:00,Roma,S. Bratislava
+3,2026-10-20,20:00,Stuttgart,Atleti
+3,2026-10-21,,Como,Manchester Utd
+3,2026-10-21,17:45,Como,Man Utd
+3,2026-10-21,17:45,Lille,Galatasaray
+3,2026-10-21,20:00,Aston Villa,Viking
+3,2026-10-21,20:00,Bayern München,Arsenal
+3,2026-10-21,20:00,Club Brugge,Lens
+3,2026-10-21,20:00,Inter,Shakhtar
+3,2026-10-21,20:00,Real Betis,Feyenoord
+3,2026-10-21,20:00,Real Madrid,Leipzig
+3,2026-10-21,20:00,Sporting CP,LASK
+4,2026-11-03,,Atl. Madrid,Bayern Munich
+4,2026-11-03,,Manchester Utd,AS Roma
+4,2026-11-03,,Villarreal,PSG
+4,2026-11-03,18:45,Galatasaray,Stuttgart
+4,2026-11-03,18:45,Shakhtar,Sporting CP
+4,2026-11-03,21:00,Atleti,Bayern München
+4,2026-11-03,21:00,Barcelona,Aston Villa
+4,2026-11-03,21:00,Bodø/Glimt,Lille
+4,2026-11-03,21:00,Feyenoord,Inter
+4,2026-11-03,21:00,LASK,S. Bratislava
+4,2026-11-03,21:00,Man Utd,Roma
+4,2026-11-03,21:00,Villarreal,Paris
+12,2026-11-03,21:00,Villarreal,Paris Saint-Germain
+4,2026-11-04,18:45,AEK Athens,Real Madrid
+4,2026-11-04,18:45,Fenerbahçe,Liverpool
+4,2026-11-04,21:00,B. Dortmund,Real Betis
+4,2026-11-04,21:00,Leipzig,Man City
+4,2026-11-04,21:00,Lens,Como
+4,2026-11-04,21:00,PSV,Club Brugge
+4,2026-11-04,21:00,Porto,Napoli
+4,2026-11-04,21:00,Slavia Praha,Arsenal
+4,2026-11-04,21:00,Viking,Sabah
+5,2026-11-24,18:45,Bodø/Glimt,LASK
+5,2026-11-24,18:45,Galatasaray,Aston Villa
+5,2026-11-24,21:00,Arsenal,B. Dortmund
+5,2026-11-24,21:00,Como,AEK Athens
+5,2026-11-24,21:00,Feyenoord,Porto
+5,2026-11-24,21:00,Leipzig,Lens
+5,2026-11-24,21:00,Man City,Napoli
+5,2026-11-24,21:00,Real Madrid,PSV
+5,2026-11-24,21:00,S. Bratislava,Real Betis
+5,2026-11-25,,Atl. Madrid,Viking
+5,2026-11-25,,PSG,AS Roma
+5,2026-11-25,,Sporting CP,Manchester Utd
+5,2026-11-25,18:45,Sabah,Barcelona
+5,2026-11-25,18:45,Slavia Praha,Villarreal
+5,2026-11-25,21:00,Atleti,Viking
+5,2026-11-25,21:00,Club Brugge,Liverpool
+5,2026-11-25,21:00,Inter,Stuttgart
+5,2026-11-25,21:00,Lille,Bayern München
+5,2026-11-25,21:00,Paris,Roma
+13,2026-11-25,21:00,Paris Saint-Germain,AS Roma
+5,2026-11-25,21:00,Shakhtar,Fenerbahçe
+5,2026-11-25,21:00,Sporting CP,Man Utd
+6,2026-12-08,,Aston Villa,PSG
+6,2026-12-08,,Manchester Utd,RB Leipzig
+6,2026-12-08,18:45,Viking,Feyenoord
+6,2026-12-08,18:45,Villarreal,Sabah
+6,2026-12-08,21:00,AEK Athens,Galatasaray
+6,2026-12-08,21:00,Aston Villa,Paris
+14,2026-12-08,21:00,Aston Villa,Paris Saint-Germain
+6,2026-12-08,21:00,Barcelona,Man City
+6,2026-12-08,21:00,Bayern München,Slavia Praha
+6,2026-12-08,21:00,Man Utd,Leipzig
+6,2026-12-08,21:00,Napoli,Club Brugge
+6,2026-12-08,21:00,Roma,Sporting CP
+6,2026-12-09,,PSV,Atl. Madrid
+6,2026-12-09,18:45,Real Betis,Como
+6,2026-12-09,18:45,S. Bratislava,Shakhtar
+6,2026-12-09,21:00,Arsenal,Real Madrid
+6,2026-12-09,21:00,B. Dortmund,Inter
+6,2026-12-09,21:00,LASK,Fenerbahçe
+6,2026-12-09,21:00,Lens,Bodø/Glimt
+6,2026-12-09,21:00,Liverpool,Porto
+6,2026-12-09,21:00,PSV,Atleti
+6,2026-12-09,21:00,Stuttgart,Lille
+7,2027-01-19,,Bodo/Glimt,Atl. Madrid
+7,2027-01-19,18:45,Bodø/Glimt,Atleti
+7,2027-01-19,18:45,Galatasaray,Feyenoord
+7,2027-01-19,21:00,AEK Athens,Roma
+7,2027-01-19,21:00,Aston Villa,B. Dortmund
+7,2027-01-19,21:00,Inter,Liverpool
+7,2027-01-19,21:00,Lille,S. Bratislava
+7,2027-01-19,21:00,Porto,Slavia Praha
+7,2027-01-19,21:00,Real Madrid,LASK
+7,2027-01-19,21:00,Stuttgart,Club Brugge
+7,2027-01-20,,Como,PSG
+7,2027-01-20,,Manchester Utd,Bayern Munich
+7,2027-01-20,18:45,Fenerbahçe,Villarreal
+7,2027-01-20,18:45,Sabah,Napoli
+7,2027-01-20,21:00,Como,Paris
+15,2027-01-20,21:00,Como,Paris Saint-Germain
+7,2027-01-20,21:00,Leipzig,Shakhtar
+7,2027-01-20,21:00,Lens,Man City
+7,2027-01-20,21:00,Man Utd,Bayern München
+7,2027-01-20,21:00,Real Betis,Arsenal
+7,2027-01-20,21:00,Sporting CP,Barcelona
+7,2027-01-20,21:00,Viking,PSV
+8,2027-01-27,,Atl. Madrid,Fenerbahce
+8,2027-01-27,,PSG,Galatasaray
+8,2027-01-27,,Villarreal,Manchester Utd
+8,2027-01-27,21:00,Arsenal,Sabah
+8,2027-01-27,21:00,Atleti,Fenerbahçe
+8,2027-01-27,21:00,B. Dortmund,AEK Athens
+8,2027-01-27,21:00,Barcelona,Como
+8,2027-01-27,21:00,Bayern München,Real Betis
+8,2027-01-27,21:00,Club Brugge,Bodø/Glimt
+8,2027-01-27,21:00,Feyenoord,Leipzig
+8,2027-01-27,21:00,LASK,Porto
+8,2027-01-27,21:00,Liverpool,Lens
+8,2027-01-27,21:00,Man City,Sporting CP
+8,2027-01-27,21:00,Napoli,Viking
+8,2027-01-27,21:00,PSV,Stuttgart
+8,2027-01-27,21:00,Paris,Galatasaray
+16,2027-01-27,21:00,Paris Saint-Germain,Galatasaray
+8,2027-01-27,21:00,Roma,Lille
+8,2027-01-27,21:00,S. Bratislava,Inter
+8,2027-01-27,21:00,Shakhtar,Real Madrid
+8,2027-01-27,21:00,Slavia Praha,Aston Villa
+8,2027-01-27,21:00,Villarreal,Man Utd

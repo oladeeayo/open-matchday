@@ -1,0 +1,97 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-14,19:30,Real Sociedad II,Castellón,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-15,16:00,FC Andorra,Ceuta,5,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-08-15,18:00,Cádiz,RC Celta Fortuna,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-15,18:00,Real Oviedo,Granada,0,0,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-15,20:30,Mallorca,Real Valladolid,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-08-16,16:00,Eibar,Tenerife,1,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-08-16,18:00,Burgos,Córdoba,3,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-08-16,18:00,Girona,Leganés,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-08-16,20:30,Las Palmas,Albacete,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-17,18:00,Sporting Gijón,CD Sabadell,0,0,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-17,20:30,Almería,Eldense,3,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-21,20:00,Córdoba,Girona,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-22,16:00,Real Oviedo,Leganés,0,1,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-22,18:00,Albacete,Real Sociedad II,1,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-22,18:00,Ceuta,Las Palmas,0,2,A,,,,,,,,,,,,,,,,,espn
+2,2026-08-22,20:30,Eldense,Cádiz,2,2,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-23,16:00,Eibar,Real Valladolid,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-23,18:00,Castellón,CD Sabadell,0,0,D,,,,,,,,,,,,,,,,,espn
+2,2026-08-23,18:00,Sporting Gijón,Burgos,1,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-08-23,20:30,Tenerife,Almería,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-24,18:00,RC Celta Fortuna,FC Andorra,4,2,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-24,20:30,Granada,Mallorca,2,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-28,20:00,Tenerife,Sporting Gijón,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-29,16:00,CD Sabadell,Almería,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-29,18:00,Albacete,Real Oviedo,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-29,18:00,Leganés,Eldense,1,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-29,20:30,Girona,Las Palmas,5,2,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-30,16:00,FC Andorra,Eibar,0,1,A,,,,,,,,,,,,,,,,,espn
+3,2026-08-30,18:00,Cádiz,Real Valladolid,1,1,D,,,,,,,,,,,,,,,,,espn
+3,2026-08-30,18:00,Mallorca,Ceuta,3,0,H,,,,,,,,,,,,,,,,,espn
+3,2026-08-30,20:30,Córdoba,Granada,1,3,A,,,,,,,,,,,,,,,,,espn
+4,2026-08-31,18:00,Burgos,Real Sociedad II,2,2,D,,,,,,,,,,,,,,,,,espn
+4,2026-08-31,20:30,RC Celta Fortuna,Castellón,1,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-09-04,19:30,Las Palmas,Leganés,0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-09-05,13:00,Real Sociedad II,Tenerife,1,1,D,,,,,,,,,,,,,,,,,espn
+4,2026-09-05,15:15,Sporting Gijón,Girona,0,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-09-05,17:30,Ceuta,RC Celta Fortuna,0,2,A,,,,,,,,,,,,,,,,,espn
+4,2026-09-05,17:30,Real Valladolid,FC Andorra,1,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-09-05,20:00,Eldense,Mallorca,0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-09-06,13:00,Eibar,Granada,3,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-09-06,15:15,Real Oviedo,Burgos,0,0,D,,,,,,,,,,,,,,,,,espn
+4,2026-09-06,17:30,Castellón,Albacete,2,0,H,,,,,,,,,,,,,,,,,espn
+4,2026-09-06,20:00,Almería,Cádiz,3,2,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-07,19:30,CD Sabadell,Córdoba,3,2,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-11,19:30,Burgos,Ceuta,3,1,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-12,13:00,FC Andorra,Real Sociedad II,1,3,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-12,15:15,Cádiz,Las Palmas,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-12,17:30,Girona,Castellón,1,2,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-12,17:30,Granada,Albacete,1,1,D,,,,,,,,,,,,,,,,,espn
+5,2026-09-12,20:00,Córdoba,Almería,0,2,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-13,13:00,Sporting Gijón,Eldense,0,1,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-13,15:15,Real Valladolid,Real Oviedo,0,3,A,,,,,,,,,,,,,,,,,espn
+5,2026-09-13,17:30,Mallorca,CD Sabadell,2,0,H,,,,,,,,,,,,,,,,,espn
+5,2026-09-13,20:00,Tenerife,Leganés,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-14,19:30,RC Celta Fortuna,Eibar,0,4,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-18,19:30,Albacete,Córdoba,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-19,13:00,Real Sociedad II,Mallorca,0,1,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-19,15:15,FC Andorra,Sporting Gijón,1,3,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-19,17:30,Castellón,Tenerife,5,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-19,17:30,Eldense,Eibar,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-19,20:00,Cádiz,Girona,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-20,13:00,CD Sabadell,Real Oviedo,3,1,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-20,15:15,Ceuta,Real Valladolid,1,1,D,,,,,,,,,,,,,,,,,espn
+6,2026-09-20,17:30,Almería,RC Celta Fortuna,2,0,H,,,,,,,,,,,,,,,,,espn
+6,2026-09-20,17:30,Las Palmas,Burgos,1,2,A,,,,,,,,,,,,,,,,,espn
+6,2026-09-20,20:00,Leganés,Granada,3,2,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-25,19:30,Girona,Albacete,2,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-26,13:00,Ceuta,Real Sociedad II,3,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-26,15:15,Granada,FC Andorra,2,3,A,,,,,,,,,,,,,,,,,espn
+7,2026-09-26,17:30,RC Celta Fortuna,CD Sabadell,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-09-26,17:30,Tenerife,Cádiz,1,1,D,,,,,,,,,,,,,,,,,espn
+7,2026-09-27,13:00,Real Valladolid,Córdoba,3,1,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-27,15:15,Mallorca,Almería,0,1,A,,,,,,,,,,,,,,,,,espn
+7,2026-09-27,17:30,Burgos,Eldense,1,0,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-27,17:30,Eibar,Las Palmas,3,2,H,,,,,,,,,,,,,,,,,espn
+7,2026-09-27,20:00,Real Oviedo,Sporting Gijón,2,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-09-28,19:30,Leganés,Castellón,0,2,A,,,,,,,,,,,,,,,,,espn
+8,2026-10-02,19:30,Eldense,Real Oviedo,4,1,H,,,,,,,,,,,,,,,,,espn
+8,2026-10-03,13:00,Albacete,Eibar,1,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-10-03,15:15,Almería,Burgos,2,1,H,,,,,,,,,,,,,,,,,espn
+8,2026-10-03,17:30,Cádiz,Leganés,4,0,H,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,13:00,Real Sociedad II,Granada,2,3,A,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,15:15,Sporting Gijón,RC Celta Fortuna,3,2,H,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,17:30,Castellón,Ceuta,1,1,D,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,17:30,Las Palmas,Real Valladolid,2,2,D,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,20:00,CD Sabadell,FC Andorra,0,0,D,,,,,,,,,,,,,,,,,espn
+8,2026-10-04,20:00,Girona,Mallorca,0,0,D,,,,,,,,,,,,,,,,,espn
+9,2026-10-05,19:30,Córdoba,Tenerife,3,2,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-10,15:15,Ceuta,CD Sabadell,1,2,A,,,,,,,,,,,,,,,,,espn
+9,2026-10-10,17:30,Eldense,Córdoba,2,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-10,20:00,RC Celta Fortuna,Real Sociedad II,4,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-11,13:00,FC Andorra,Castellón,1,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-11,15:15,Almería,Leganés,3,0,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-11,17:30,Mallorca,Las Palmas,3,1,H,,,,,,,,,,,,,,,,,espn
+9,2026-10-11,20:00,Cádiz,Sporting Gijón,0,1,A,,,,,,,,,,,,,,,,,espn
+10,2026-10-12,13:00,Real Valladolid,Albacete,5,0,H,,,,,,,,,,,,,,,,,espn

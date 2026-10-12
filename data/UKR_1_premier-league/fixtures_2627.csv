@@ -1,0 +1,115 @@
+gw,date,time,home,away
+9,2026-10-16,,Obolon,Veres-Rivne
+9,2026-10-17,,FK Zorya Luhansk,Ch. Odesa
+9,2026-10-17,,Kudrivka,Bukovyna
+9,2026-10-17,,Shakhtar Donetsk,Kolos Kovalivka
+9,2026-10-18,,Karpaty Lviv,Epitsentr
+9,2026-10-18,,Kryvbas,LNZ Cherkasy
+9,2026-10-18,,Polissya Zhytomyr,Dyn. Kyiv
+9,2026-10-19,,FC Kharkiv,Livyi Bereg
+10,2026-10-23,,Dyn. Kyiv,Kudrivka
+10,2026-10-23,,Polissya Zhytomyr,Obolon
+10,2026-10-23,,Veres-Rivne,Kolos Kovalivka
+10,2026-10-24,,Epitsentr,FC Kharkiv
+10,2026-10-24,,Livyi Bereg,LNZ Cherkasy
+10,2026-10-24,,Shakhtar Donetsk,FK Zorya Luhansk
+10,2026-10-25,,Bukovyna,Kryvbas
+10,2026-10-25,,Ch. Odesa,Karpaty Lviv
+11,2026-10-31,,FK Zorya Luhansk,Epitsentr
+11,2026-10-31,,Karpaty Lviv,Kudrivka
+11,2026-10-31,,Kolos Kovalivka,Polissya Zhytomyr
+11,2026-10-31,,Kryvbas,Dyn. Kyiv
+11,2026-10-31,,LNZ Cherkasy,FC Kharkiv
+11,2026-10-31,,Livyi Bereg,Bukovyna
+11,2026-10-31,,Shakhtar Donetsk,Obolon
+11,2026-10-31,,Veres-Rivne,Ch. Odesa
+12,2026-11-07,,Bukovyna,Kolos Kovalivka
+12,2026-11-07,,Epitsentr,Kryvbas
+12,2026-11-07,,FC Kharkiv,Karpaty Lviv
+12,2026-11-07,,FK Zorya Luhansk,LNZ Cherkasy
+12,2026-11-07,,Kudrivka,Ch. Odesa
+12,2026-11-07,,Obolon,Livyi Bereg
+12,2026-11-07,,Polissya Zhytomyr,Veres-Rivne
+12,2026-11-07,,Shakhtar Donetsk,Dyn. Kyiv
+13,2026-11-21,,Ch. Odesa,Epitsentr
+13,2026-11-21,,Dyn. Kyiv,Obolon
+13,2026-11-21,,Karpaty Lviv,FK Zorya Luhansk
+13,2026-11-21,,Kolos Kovalivka,FC Kharkiv
+13,2026-11-21,,Kryvbas,Kudrivka
+13,2026-11-21,,LNZ Cherkasy,Polissya Zhytomyr
+13,2026-11-21,,Livyi Bereg,Shakhtar Donetsk
+13,2026-11-21,,Veres-Rivne,Bukovyna
+6,2026-11-25,,Kryvbas,FC Kharkiv
+14,2026-11-28,,Dyn. Kyiv,Ch. Odesa
+14,2026-11-28,,Epitsentr,LNZ Cherkasy
+14,2026-11-28,,Karpaty Lviv,Polissya Zhytomyr
+14,2026-11-28,,Kryvbas,Veres-Rivne
+14,2026-11-28,,Kudrivka,FC Kharkiv
+14,2026-11-28,,Livyi Bereg,Kolos Kovalivka
+14,2026-11-28,,Obolon,FK Zorya Luhansk
+14,2026-11-28,,Shakhtar Donetsk,Bukovyna
+1,2026-12-02,,Dyn. Kyiv,Livyi Bereg
+15,2026-12-05,,Bukovyna,Ch. Odesa
+15,2026-12-05,,FC Kharkiv,Dyn. Kyiv
+15,2026-12-05,,FK Zorya Luhansk,Kudrivka
+15,2026-12-05,,LNZ Cherkasy,Kolos Kovalivka
+15,2026-12-05,,Obolon,Karpaty Lviv
+15,2026-12-05,,Polissya Zhytomyr,Epitsentr
+15,2026-12-05,,Shakhtar Donetsk,Kryvbas
+15,2026-12-05,,Veres-Rivne,Livyi Bereg
+16,2026-12-12,,Karpaty Lviv,Kryvbas
+16,2026-12-12,,Kolos Kovalivka,FK Zorya Luhansk
+16,2026-12-12,,Kudrivka,Shakhtar Donetsk
+16,2026-12-12,,LNZ Cherkasy,Bukovyna
+16,2026-12-12,,Livyi Bereg,Dyn. Kyiv
+16,2026-12-12,,Obolon,Epitsentr
+16,2026-12-12,,Polissya Zhytomyr,Ch. Odesa
+16,2026-12-12,,Veres-Rivne,FC Kharkiv
+17,2027-02-27,,Dyn. Kyiv,Veres-Rivne
+17,2027-02-27,,FC Kharkiv,Polissya Zhytomyr
+17,2027-02-27,,Kolos Kovalivka,Ch. Odesa
+17,2027-02-27,,Kryvbas,FK Zorya Luhansk
+17,2027-02-27,,Kudrivka,Livyi Bereg
+17,2027-02-27,,LNZ Cherkasy,Karpaty Lviv
+17,2027-02-27,,Obolon,Bukovyna
+17,2027-02-27,,Shakhtar Donetsk,Epitsentr
+18,2027-03-06,,Bukovyna,Karpaty Lviv
+18,2027-03-06,,Ch. Odesa,LNZ Cherkasy
+18,2027-03-06,,FK Zorya Luhansk,Polissya Zhytomyr
+18,2027-03-06,,Kolos Kovalivka,Dyn. Kyiv
+18,2027-03-06,,Livyi Bereg,Kryvbas
+18,2027-03-06,,Obolon,Kudrivka
+18,2027-03-06,,Shakhtar Donetsk,FC Kharkiv
+18,2027-03-06,,Veres-Rivne,Epitsentr
+19,2027-03-13,,Dyn. Kyiv,Bukovyna
+19,2027-03-13,,Epitsentr,Kudrivka
+19,2027-03-13,,FC Kharkiv,FK Zorya Luhansk
+19,2027-03-13,,Karpaty Lviv,Livyi Bereg
+19,2027-03-13,,Kryvbas,Ch. Odesa
+19,2027-03-13,,Obolon,Kolos Kovalivka
+19,2027-03-13,,Polissya Zhytomyr,Shakhtar Donetsk
+19,2027-03-13,,Veres-Rivne,LNZ Cherkasy
+20,2027-03-20,,Bukovyna,Epitsentr
+20,2027-03-20,,FK Zorya Luhansk,Veres-Rivne
+20,2027-03-20,,Kolos Kovalivka,Kryvbas
+20,2027-03-20,,Kudrivka,Polissya Zhytomyr
+20,2027-03-20,,LNZ Cherkasy,Dyn. Kyiv
+20,2027-03-20,,Livyi Bereg,Ch. Odesa
+20,2027-03-20,,Obolon,FC Kharkiv
+20,2027-03-20,,Shakhtar Donetsk,Karpaty Lviv
+21,2027-04-03,,Ch. Odesa,Shakhtar Donetsk
+21,2027-04-03,,Epitsentr,Dyn. Kyiv
+21,2027-04-03,,FC Kharkiv,Kryvbas
+21,2027-04-03,,FK Zorya Luhansk,Bukovyna
+21,2027-04-03,,Karpaty Lviv,Kolos Kovalivka
+21,2027-04-03,,Kudrivka,Veres-Rivne
+21,2027-04-03,,Livyi Bereg,Polissya Zhytomyr
+21,2027-04-03,,Obolon,LNZ Cherkasy
+22,2027-04-10,,Bukovyna,FC Kharkiv
+22,2027-04-10,,Dyn. Kyiv,FK Zorya Luhansk
+22,2027-04-10,,Kolos Kovalivka,Kudrivka
+22,2027-04-10,,Kryvbas,Polissya Zhytomyr
+22,2027-04-10,,LNZ Cherkasy,Shakhtar Donetsk
+22,2027-04-10,,Livyi Bereg,Epitsentr
+22,2027-04-10,,Obolon,Ch. Odesa
+22,2027-04-10,,Veres-Rivne,Karpaty Lviv

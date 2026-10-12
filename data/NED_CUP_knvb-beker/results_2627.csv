@@ -1,0 +1,66 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-09-01,,Longa,HFC,0,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-01,,TEC,Almkerk,4,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-01,19:00,ADO '20,Excelsior Maassluis,1,1,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,AFC '34,VV Scherpenzeel,4,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Achilles Veen,SV Poortugaal,4,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Be Quick 1887,AFC,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Elinkwijk,Eemdijk,0,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,HZVV,LAC Frisia 1883,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Harkemase Boys,Excelsior '31,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Longa '30,Koninklijke HFC,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,NSVV Numansdorp,Kloetinge,2,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,SC Genemuiden,FC Lisse,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,Sportlust '46,SV Blauw Geel '38,3,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-01,19:00,TEC VV,VV Almkerk,4,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,,ACV Assen,Westlandia,6,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-02,,Mierlo-Hout,Groesbeek,2,2,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-02,,Purmersteijn,RKVV Zwaluw,4,3,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-02,,TOGB,Katwijk,3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-02,,USV Hercules,EVV,1,3,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-02,19:00,ACV,RKVV Westlandia,6,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,ATC '65,DVS '33 Ermelo,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,Dongen,JOS Watergraafsmeer,2,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,FC 's-Gravenzande,Gemert,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,FC Rijnvogels,Bennekom,5,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,FC Surhústerf,DOVO,1,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,GSV '28,RBC Roosendaal,0,4,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,HVV Hollandia,RKSV Halsteren,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,Hoogeveen,Sport Vereniging Zwaluwen Wierden,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,Purmersteijn,RKVV Zwalu VFC,4,3,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,RKSV Groene Ster,Heerjansdam,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,RKSV Mierlo-Hout,Germania,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,RKSV Spartaan'20,UDI 19,0,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,SV Lierop,Zwaluwen '30,0,7,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,Sparta Nijkerk,SV Venray,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,Tot Ons Genoegen Berkel,VV Katwijk,3,2,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,USV Hercules,EVV Echt,1,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,VV Goes,Noordwijk,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,VV Staphorst,UNA,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-02,19:00,VVSB,Ajax Amateurs,2,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,,ACV Assen,Hoogeveen,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-22,,EVV,Halsteren,3,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-22,,HFC,VV DOVO,3,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-22,19:00,ACV,Hoogeveen,2,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-09-22,19:00,EVV Echt,RKSV Halsteren,3,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,Eemdijk,RBC Roosendaal,2,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,Excelsior '31,AFC '34,4,3,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,FC Rijnvogels,VVSB,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,GVVV,DVS '33 Ermelo,4,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,HHC Hardenberg,BVV Barendrecht,0,1,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,Kloetinge,Achilles Veen,8,0,H,,,,,,,,,,,,,,,,,espn
+2,2026-09-22,19:00,Koninklijke HFC,DOVO,3,1,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,Noordwijk,LAC Frisia 1883,1,0,H,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,RKAV Volendam,Spakenburg,2,2,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,RKSV Groene Ster,AFC,1,6,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,Sportlust '46,Excelsior Maassluis,0,2,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-22,19:00,VV Staphorst,SC Genemuiden,2,3,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-23,,Groesbeek,Kozakken Boys,1,5,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-23,,TOGB,Raalte,4,6,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-23,,Watergraafsmeer,TEC,4,4,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-09-23,19:00,Germania,Kozakken Boys,1,5,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-23,19:00,IJsselmeervogels,Gemert,0,3,A,,,,,,,,,,,,,,,,,espn
+2,2026-09-23,19:00,JOS Watergraafsmeer,TEC VV,4,4,D,,,,,,,,,,,,,,,,,espn
+1,2026-09-23,19:00,Sparta Nijkerk,UDI 19,3,1,H,,,,,,,,,,,,,,,,,espn
+2,2026-09-23,19:00,Tot Ons Genoegen Berkel,ROHDA Raalte,4,6,A,,,,,,,,,,,,,,,,,espn
+1,2026-09-23,19:00,Zwaluwen '30,Purmersteijn,0,1,A,,,,,,,,,,,,,,,,,espn

@@ -1,0 +1,111 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+8,2026-05-23,,Ilves,Gnistan,2,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-05-23,,Inter Turku,TPS,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-05-23,,Jaro,Mariehamn,3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-05-23,,KuPS,Lahti,2,1,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-05-23,,SJK,AC Oulu,0,1,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-30,,Gnistan,SJK,3,2,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-30,,HJK,Mariehamn,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-30,,KuPS,Inter Turku,1,1,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-30,,Lahti,Ilves,5,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-30,,TPS,VPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-05-31,,AC Oulu,Jaro,2,1,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,Ilves,TPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,Inter Turku,AC Oulu,0,0,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,Jaro,HJK,2,5,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,Lahti,SJK,2,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,Mariehamn,Gnistan,0,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-06-13,,VPS,KuPS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-17,,Gnistan,Lahti,1,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-17,,HJK,Inter Turku,3,3,D,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-17,,Ilves,Jaro,5,0,H,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-17,,SJK,VPS,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-17,,TPS,KuPS,1,2,A,,,,,,,,,,,,,,,,,soccerway
+11,2026-06-18,,AC Oulu,Mariehamn,2,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,Inter Turku,SJK,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,Jaro,Gnistan,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,KuPS,Ilves,4,3,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,Lahti,TPS,0,0,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,Mariehamn,HJK,0,4,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-06-23,,VPS,AC Oulu,5,1,H,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,AC Oulu,Lahti,1,1,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,Gnistan,VPS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,HJK,KuPS,0,4,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,Ilves,SJK,2,2,D,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,Mariehamn,Inter Turku,0,2,A,,,,,,,,,,,,,,,,,soccerway
+13,2026-06-27,,TPS,Jaro,3,2,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-07-04,,Jaro,Ilves,2,1,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-07-04,,Lahti,Gnistan,1,0,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-07-04,,SJK,TPS,3,1,H,,,,,,,,,,,,,,,,,soccerway
+14,2026-07-04,,VPS,Mariehamn,4,0,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-07-10,,VPS,SJK,1,0,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-07-11,,Gnistan,Mariehamn,4,2,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-07-11,,Lahti,HJK,2,0,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-07-11,,TPS,AC Oulu,3,0,H,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-18,,AC Oulu,Gnistan,0,2,A,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-18,,HJK,VPS,2,1,H,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-18,,SJK,KuPS,0,2,A,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-19,,Jaro,Inter Turku,0,0,D,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-20,,Mariehamn,Lahti,0,2,A,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-20,,TPS,Ilves,1,3,A,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-24,,Jaro,SJK,2,1,H,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-25,,KuPS,VPS,3,1,H,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-25,,Mariehamn,AC Oulu,1,1,D,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-26,,HJK,TPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-26,,Ilves,Lahti,1,0,H,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-26,,Inter Turku,Gnistan,1,2,A,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-01,,Gnistan,KuPS,0,1,A,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-01,,Lahti,Jaro,2,0,H,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-01,,TPS,Mariehamn,3,0,H,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-02,,AC Oulu,Ilves,1,0,H,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-02,,VPS,Inter Turku,0,1,A,,,,,,,,,,,,,,,,,soccerway
+18,2026-08-03,,SJK,HJK,3,0,H,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-07,,SJK,Gnistan,2,2,D,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-08,,Jaro,VPS,1,3,A,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-09,,AC Oulu,HJK,0,1,A,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-09,,Ilves,Mariehamn,2,0,H,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-09,,Inter Turku,Lahti,0,0,D,,,,,,,,,,,,,,,,,soccerway
+19,2026-08-09,,KuPS,TPS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-14,,VPS,TPS,1,3,A,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-15,,Mariehamn,SJK,2,0,H,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-16,,AC Oulu,Inter Turku,2,3,A,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-16,,HJK,Jaro,3,0,H,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-16,,Lahti,KuPS,1,2,A,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-17,,Gnistan,Ilves,3,2,H,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-21,,SJK,Lahti,1,2,A,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-22,,Ilves,VPS,0,1,A,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-22,,Jaro,AC Oulu,0,1,A,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-23,,HJK,Gnistan,2,3,A,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-23,,KuPS,Mariehamn,2,4,A,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-23,,TPS,Inter Turku,0,0,D,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,AC Oulu,SJK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,Gnistan,TPS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,Ilves,HJK,1,2,A,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,Inter Turku,KuPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,Mariehamn,Jaro,2,0,H,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-31,,VPS,Lahti,0,1,A,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-08,,Gnistan,KuPS,1,1,D,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-08,,Ilves,Jaro,2,0,H,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-08,,Lahti,Mariehamn,2,1,H,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-08,,TPS,SJK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-08,,VPS,AC Oulu,1,0,H,,,,,,,,,,,,,,,,,soccerway
+23,2026-09-09,,HJK,Inter Turku,2,1,H,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-12,,AC Oulu,Gnistan,1,2,A,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-12,,Ilves,Lahti,3,1,H,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-12,,Jaro,SJK,1,1,D,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-12,,Mariehamn,TPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-13,,KuPS,HJK,0,0,D,,,,,,,,,,,,,,,,,soccerway
+24,2026-09-14,,Inter Turku,VPS,1,0,H,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-18,,AC Oulu,Inter Turku,0,1,A,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-18,,Gnistan,HJK,1,1,D,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-18,,Lahti,Jaro,1,1,D,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-18,,SJK,Mariehamn,2,1,H,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-19,,TPS,Ilves,0,3,A,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-19,,VPS,KuPS,0,2,A,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-07,,Gnistan,Inter Turku,0,0,D,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-08,,HJK,VPS,6,0,H,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-08,,KuPS,AC Oulu,0,1,A,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-09,,SJK,Lahti,1,0,H,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-10,,Mariehamn,Ilves,1,1,D,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-10,,TPS,Jaro,0,1,A,,,,,,,,,,,,,,,,,soccerway
+27,2026-10-11,,Inter Turku,KuPS,1,0,H,,,,,,,,,,,,,,,,,soccerway

@@ -1,0 +1,114 @@
+gw,date,time,home,away
+5,2026-10-12,,AEK Larnaca,Omonia Aradippou
+6,2026-10-17,,Apollon,Nea Salamis
+6,2026-10-17,,Krasava,Karmiotissa
+6,2026-10-18,,Aris,AEK Larnaca
+6,2026-10-18,,Omonia 29th May,Anorthosis
+6,2026-10-18,,Omonia Aradippou,AEL Limassol
+6,2026-10-19,,Omonia,Ol. Nicosia
+6,2026-10-19,,Pafos,APOEL
+7,2026-10-24,,Anorthosis,Omonia Aradippou
+7,2026-10-24,,Ol. Nicosia,Krasava
+7,2026-10-25,,AEL Limassol,Aris
+7,2026-10-25,,APOEL,Omonia 29th May
+7,2026-10-25,,Karmiotissa,Apollon
+7,2026-10-26,,AEK Larnaca,Omonia
+7,2026-10-26,,Nea Salamis,Pafos
+8,2026-10-30,,Karmiotissa,Ol. Nicosia
+8,2026-10-31,,Apollon,Pafos
+8,2026-10-31,,Krasava,AEK Larnaca
+8,2026-10-31,,Omonia,AEL Limassol
+8,2026-11-01,,Aris,Anorthosis
+8,2026-11-01,,Omonia 29th May,Nea Salamis
+8,2026-11-01,,Omonia Aradippou,APOEL
+9,2026-11-06,,AEK Larnaca,Karmiotissa
+9,2026-11-06,,Nea Salamis,Omonia Aradippou
+9,2026-11-07,,AEL Limassol,Krasava
+9,2026-11-07,,Ol. Nicosia,Apollon
+9,2026-11-08,,APOEL,Aris
+9,2026-11-08,,Anorthosis,Omonia
+9,2026-11-08,,Pafos,Omonia 29th May
+10,2026-11-21,,Aris,Nea Salamis
+10,2026-11-21,,Omonia,APOEL
+10,2026-11-21,,Omonia Aradippou,Pafos
+10,2026-11-22,,Apollon,Omonia 29th May
+10,2026-11-22,,Karmiotissa,AEL Limassol
+10,2026-11-22,,Ol. Nicosia,AEK Larnaca
+10,2026-11-23,,Krasava,Anorthosis
+11,2026-11-27,,AEK Larnaca,Apollon
+11,2026-11-27,,AEL Limassol,Ol. Nicosia
+11,2026-11-27,,Omonia 29th May,Omonia Aradippou
+11,2026-11-28,,APOEL,Krasava
+11,2026-11-28,,Anorthosis,Karmiotissa
+11,2026-11-29,,Pafos,Aris
+11,2026-11-30,,Nea Salamis,Omonia
+12,2026-12-01,,AEK Larnaca,AEL Limassol
+12,2026-12-02,,Apollon,Omonia Aradippou
+12,2026-12-02,,Karmiotissa,APOEL
+12,2026-12-02,,Ol. Nicosia,Anorthosis
+12,2026-12-03,,Aris,Omonia 29th May
+12,2026-12-03,,Krasava,Nea Salamis
+12,2026-12-03,,Omonia,Pafos
+13,2026-12-05,,APOEL,Ol. Nicosia
+13,2026-12-06,,AEL Limassol,Apollon
+13,2026-12-06,,Pafos,Krasava
+13,2026-12-07,,Anorthosis,AEK Larnaca
+13,2026-12-07,,Omonia 29th May,Omonia
+13,2026-12-07,,Omonia Aradippou,Aris
+13,2026-12-08,,Nea Salamis,Karmiotissa
+14,2026-12-12,,APOEL,AEK Larnaca
+14,2026-12-12,,Omonia 29th May,Krasava
+14,2026-12-13,,Anorthosis,AEL Limassol
+14,2026-12-13,,Apollon,Aris
+14,2026-12-13,,Nea Salamis,Ol. Nicosia
+14,2026-12-14,,Pafos,Karmiotissa
+14,2026-12-15,,Omonia Aradippou,Omonia
+15,2026-12-19,,Anorthosis,Apollon
+15,2026-12-19,,Karmiotissa,Omonia 29th May
+15,2026-12-20,,AEK Larnaca,Nea Salamis
+15,2026-12-20,,AEL Limassol,APOEL
+15,2026-12-20,,Omonia,Aris
+15,2026-12-21,,Krasava,Omonia Aradippou
+15,2026-12-21,,Ol. Nicosia,Pafos
+16,2027-01-02,,APOEL,Anorthosis
+16,2027-01-02,,Nea Salamis,AEL Limassol
+16,2027-01-02,,Pafos,AEK Larnaca
+16,2027-01-03,,Apollon,Omonia
+16,2027-01-03,,Omonia 29th May,Ol. Nicosia
+16,2027-01-03,,Omonia Aradippou,Karmiotissa
+16,2027-01-04,,Aris,Krasava
+17,2027-01-09,,AEK Larnaca,Omonia 29th May
+17,2027-01-09,,AEL Limassol,Pafos
+17,2027-01-09,,APOEL,Apollon
+17,2027-01-09,,Anorthosis,Nea Salamis
+17,2027-01-09,,Karmiotissa,Aris
+17,2027-01-09,,Krasava,Omonia
+17,2027-01-09,,Ol. Nicosia,Omonia Aradippou
+18,2027-01-12,,Apollon,Krasava
+18,2027-01-12,,Aris,Ol. Nicosia
+18,2027-01-12,,Nea Salamis,APOEL
+18,2027-01-12,,Omonia,Karmiotissa
+18,2027-01-12,,Omonia 29th May,AEL Limassol
+18,2027-01-12,,Omonia Aradippou,AEK Larnaca
+18,2027-01-12,,Pafos,Anorthosis
+19,2027-01-16,,AEK Larnaca,Aris
+19,2027-01-16,,AEL Limassol,Omonia Aradippou
+19,2027-01-16,,APOEL,Pafos
+19,2027-01-16,,Anorthosis,Omonia 29th May
+19,2027-01-16,,Karmiotissa,Krasava
+19,2027-01-16,,Nea Salamis,Apollon
+19,2027-01-16,,Ol. Nicosia,Omonia
+20,2027-01-23,,Apollon,Karmiotissa
+20,2027-01-23,,Aris,AEL Limassol
+20,2027-01-23,,Krasava,Ol. Nicosia
+20,2027-01-23,,Omonia,AEK Larnaca
+20,2027-01-23,,Omonia 29th May,APOEL
+20,2027-01-23,,Omonia Aradippou,Anorthosis
+20,2027-01-23,,Pafos,Nea Salamis
+21,2027-01-30,,AEK Larnaca,Krasava
+21,2027-01-30,,AEL Limassol,Omonia
+21,2027-01-30,,APOEL,Omonia Aradippou
+21,2027-01-30,,Anorthosis,Aris
+21,2027-01-30,,Nea Salamis,Omonia 29th May
+21,2027-01-30,,Ol. Nicosia,Karmiotissa
+21,2027-01-30,,Pafos,Apollon

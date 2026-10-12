@@ -1,0 +1,138 @@
+gw,date,time,home,away
+1,2026-10-15,,Hearts,Nordsjaelland
+1,2026-10-15,17:45,CSKA Sofia,Monaco
+1,2026-10-15,17:45,Egnatia,Midtjylland
+5,2026-10-15,17:45,FC Lugano,Red Star Belgrade
+1,2026-10-15,17:45,Gent,Aarhus
+1,2026-10-15,17:45,Hajduk Split,Ajax
+5,2026-10-15,17:45,KAA Gent,AGF
+1,2026-10-15,17:45,KuPS Kuopio,Trabzonspor
+1,2026-10-15,17:45,Lugano,Crvena Zvezda
+1,2026-10-15,17:45,Mjällby,Inter Escaldes
+1,2026-10-15,17:45,Panathinaikos,Borac
+1,2026-10-15,17:45,Riga,Kairat Almaty
+1,2026-10-15,17:45,U. Craiova,Getafe
+1,2026-10-15,20:00,Atalanta,Pafos
+1,2026-10-15,20:00,Brann,L. Red Imps
+1,2026-10-15,20:00,Brighton,Kauno Žalgiris
+1,2026-10-15,20:00,Copenhagen,Braga
+5,2026-10-15,20:00,F.C. København,Braga
+1,2026-10-15,20:00,Freiburg,Jablonec
+1,2026-10-15,20:00,Hearts,Nordsjælland
+1,2026-10-15,20:00,SK Brann,Lincoln Red Imps
+1,2026-10-15,20:00,Sint-Truidense,Iberia Tbilisi
+1,2026-10-15,20:00,Twente,Thun
+2,2026-10-22,,Nordsjaelland,CSKA Sofia
+2,2026-10-22,15:30,Kairat Almaty,Panathinaikos
+2,2026-10-22,17:45,Crvena Zvezda,Copenhagen
+2,2026-10-22,17:45,Getafe,Lugano
+2,2026-10-22,17:45,Iberia Tbilisi,Mjällby
+2,2026-10-22,17:45,Inter Escaldes,U. Craiova
+2,2026-10-22,17:45,Jablonec,Brighton
+2,2026-10-22,17:45,Kauno Žalgiris,Brann
+2,2026-10-22,17:45,Nordsjælland,CSKA Sofia
+2,2026-10-22,17:45,Pafos,Riga
+6,2026-10-22,17:45,Red Star Belgrade,F.C. København
+2,2026-10-22,17:45,Trabzonspor,Hearts
+6,2026-10-22,20:00,AGF,Egnatia
+2,2026-10-22,20:00,Aarhus,Egnatia
+2,2026-10-22,20:00,Ajax,Atalanta
+2,2026-10-22,20:00,Borac,KuPS Kuopio
+2,2026-10-22,20:00,Braga,Gent
+2,2026-10-22,20:00,L. Red Imps,Twente
+2,2026-10-22,20:00,Lincoln Red Imps,FC Twente
+2,2026-10-22,20:00,Midtjylland,Sint-Truidense
+2,2026-10-22,20:00,Monaco,Freiburg
+2,2026-10-22,20:00,Thun,Hajduk Split
+3,2026-11-05,,Monaco,Nordsjaelland
+7,2026-11-05,18:45,AGF,Braga
+3,2026-11-05,18:45,Aarhus,Braga
+3,2026-11-05,18:45,Atalanta,Kairat Almaty
+3,2026-11-05,18:45,Crvena Zvezda,Inter Escaldes
+3,2026-11-05,18:45,KuPS Kuopio,Gent
+3,2026-11-05,18:45,L. Red Imps,Hajduk Split
+3,2026-11-05,18:45,Lincoln Red Imps,Hajduk Split
+3,2026-11-05,18:45,Midtjylland,Ajax
+3,2026-11-05,18:45,Mjällby,Borac
+7,2026-11-05,18:45,Red Star Belgrade,Inter D'Escaldes
+3,2026-11-05,18:45,Thun,Hearts
+3,2026-11-05,18:45,Trabzonspor,Freiburg
+3,2026-11-05,21:00,Copenhagen,Iberia Tbilisi
+7,2026-11-05,21:00,F.C. København,Iberia 1999
+3,2026-11-05,21:00,Getafe,Brighton
+3,2026-11-05,21:00,Lugano,Kauno Žalgiris
+3,2026-11-05,21:00,Monaco,Nordsjælland
+3,2026-11-05,21:00,Panathinaikos,CSKA Sofia
+3,2026-11-05,21:00,Riga,Jablonec
+3,2026-11-05,21:00,Sint-Truidense,Brann
+3,2026-11-05,21:00,Twente,Pafos
+3,2026-11-05,21:00,U. Craiova,Egnatia
+4,2026-11-26,,Nordsjaelland,Panathinaikos
+4,2026-11-26,16:30,Kairat Almaty,Mjällby
+4,2026-11-26,18:45,Ajax,Thun
+4,2026-11-26,18:45,Brann,Aarhus
+4,2026-11-26,18:45,Brighton,U. Craiova
+4,2026-11-26,18:45,Egnatia,L. Red Imps
+4,2026-11-26,18:45,Egnatia,Lincoln Red Imps
+4,2026-11-26,18:45,Hearts,Monaco
+4,2026-11-26,18:45,Iberia Tbilisi,Getafe
+4,2026-11-26,18:45,Jablonec,Lugano
+4,2026-11-26,18:45,Kauno Žalgiris,Riga
+4,2026-11-26,18:45,Pafos,Midtjylland
+8,2026-11-26,18:45,SK Brann,AGF
+4,2026-11-26,21:00,Borac,Atalanta
+4,2026-11-26,21:00,Braga,KuPS Kuopio
+4,2026-11-26,21:00,CSKA Sofia,Trabzonspor
+4,2026-11-26,21:00,Freiburg,Twente
+4,2026-11-26,21:00,Gent,Crvena Zvezda
+4,2026-11-26,21:00,Hajduk Split,Sint-Truidense
+8,2026-11-26,21:00,Inter D'Escaldes,F.C. København
+4,2026-11-26,21:00,Inter Escaldes,Copenhagen
+8,2026-11-26,21:00,KAA Gent,Red Star Belgrade
+4,2026-11-26,21:00,Nordsjælland,Panathinaikos
+5,2026-12-10,,Hajduk Split,Nordsjaelland
+5,2026-12-10,16:30,Kairat Almaty,U. Craiova
+5,2026-12-10,18:45,Brann,Braga
+5,2026-12-10,18:45,Copenhagen,Lugano
+9,2026-12-10,18:45,F.C. København,FC Lugano
+5,2026-12-10,18:45,Freiburg,Panathinaikos
+5,2026-12-10,18:45,Getafe,Inter Escaldes
+9,2026-12-10,18:45,Iberia 1999,Red Star Belgrade
+5,2026-12-10,18:45,Iberia Tbilisi,Crvena Zvezda
+5,2026-12-10,18:45,KuPS Kuopio,CSKA Sofia
+5,2026-12-10,18:45,L. Red Imps,Midtjylland
+5,2026-12-10,18:45,Lincoln Red Imps,FC Midtjylland
+5,2026-12-10,18:45,Riga,Atalanta
+5,2026-12-10,18:45,Trabzonspor,Jablonec
+9,2026-12-10,21:00,AGF,FC Twente
+5,2026-12-10,21:00,Aarhus,Twente
+5,2026-12-10,21:00,Brighton,Monaco
+5,2026-12-10,21:00,Egnatia,Kauno Žalgiris
+5,2026-12-10,21:00,Hajduk Split,Nordsjælland
+5,2026-12-10,21:00,Hearts,Borac
+5,2026-12-10,21:00,Mjällby,Pafos
+5,2026-12-10,21:00,Sint-Truidense,Ajax
+5,2026-12-10,21:00,Thun,Gent
+6,2026-12-17,,Nordsjaelland,KuPS
+6,2026-12-17,21:00,AS Monaco,Lincoln Red Imps
+6,2026-12-17,21:00,Ajax,Getafe
+6,2026-12-17,21:00,Atalanta,Mjällby
+6,2026-12-17,21:00,Borac,Riga
+6,2026-12-17,21:00,Braga,Egnatia
+6,2026-12-17,21:00,CSKA Sofia,Thun
+10,2026-12-17,21:00,CSU Craiova,F.C. København
+6,2026-12-17,21:00,Crvena Zvezda,Trabzonspor
+6,2026-12-17,21:00,Gent,Brann
+10,2026-12-17,21:00,Inter D'Escaldes,AGF
+6,2026-12-17,21:00,Inter Escaldes,Aarhus
+6,2026-12-17,21:00,Jablonec,Iberia Tbilisi
+6,2026-12-17,21:00,Kauno Žalgiris,Freiburg
+6,2026-12-17,21:00,Lugano,Sint-Truidense
+6,2026-12-17,21:00,Midtjylland,Hajduk Split
+6,2026-12-17,21:00,Monaco,L. Red Imps
+6,2026-12-17,21:00,Nordsjælland,KuPS Kuopio
+6,2026-12-17,21:00,Pafos,Hearts
+6,2026-12-17,21:00,Panathinaikos,Brighton
+10,2026-12-17,21:00,Red Star Belgrade,Trabzonspor
+6,2026-12-17,21:00,Twente,Kairat Almaty
+6,2026-12-17,21:00,U. Craiova,Copenhagen

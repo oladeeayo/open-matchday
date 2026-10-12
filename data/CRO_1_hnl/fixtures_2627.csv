@@ -1,0 +1,106 @@
+gw,date,time,home,away
+10,2026-10-16,,Rudes,Rijeka
+10,2026-10-17,,Lok. Zagreb,Istra 1961
+10,2026-10-17,,Osijek,Gorica
+10,2026-10-18,,Hajduk Split,Varazdin
+10,2026-10-18,,Slaven Belupo,Din. Zagreb
+11,2026-10-24,,Din. Zagreb,Rijeka
+11,2026-10-24,,Gorica,Lok. Zagreb
+11,2026-10-24,,Istra 1961,Hajduk Split
+11,2026-10-24,,Osijek,Rudes
+11,2026-10-24,,Varazdin,Slaven Belupo
+12,2026-10-31,,Hajduk Split,Gorica
+12,2026-10-31,,Lok. Zagreb,Osijek
+12,2026-10-31,,Rijeka,Varazdin
+12,2026-10-31,,Rudes,Din. Zagreb
+12,2026-10-31,,Slaven Belupo,Istra 1961
+13,2026-11-07,,Gorica,Slaven Belupo
+13,2026-11-07,,Istra 1961,Rijeka
+13,2026-11-07,,Lok. Zagreb,Rudes
+13,2026-11-07,,Osijek,Hajduk Split
+13,2026-11-07,,Varazdin,Din. Zagreb
+14,2026-11-21,,Din. Zagreb,Istra 1961
+14,2026-11-21,,Lok. Zagreb,Hajduk Split
+14,2026-11-21,,Rijeka,Gorica
+14,2026-11-21,,Rudes,Varazdin
+14,2026-11-21,,Slaven Belupo,Osijek
+15,2026-11-28,,Gorica,Din. Zagreb
+15,2026-11-28,,Hajduk Split,Rudes
+15,2026-11-28,,Istra 1961,Varazdin
+15,2026-11-28,,Lok. Zagreb,Slaven Belupo
+15,2026-11-28,,Osijek,Rijeka
+2,2026-12-03,,Rijeka,Din. Zagreb
+16,2026-12-05,,Din. Zagreb,Osijek
+16,2026-12-05,,Rudes,Istra 1961
+16,2026-12-05,,Slaven Belupo,Hajduk Split
+16,2026-12-05,,Varazdin,Gorica
+17,2026-12-12,,Gorica,Istra 1961
+17,2026-12-12,,Hajduk Split,Rijeka
+17,2026-12-12,,Lok. Zagreb,Din. Zagreb
+17,2026-12-12,,Osijek,Varazdin
+17,2026-12-12,,Slaven Belupo,Rudes
+18,2026-12-19,,Din. Zagreb,Hajduk Split
+18,2026-12-19,,Istra 1961,Osijek
+18,2026-12-19,,Rijeka,Slaven Belupo
+18,2026-12-19,,Rudes,Gorica
+18,2026-12-19,,Varazdin,Lok. Zagreb
+19,2027-01-23,,Din. Zagreb,Slaven Belupo
+19,2027-01-23,,Gorica,Osijek
+19,2027-01-23,,Istra 1961,Lok. Zagreb
+19,2027-01-23,,Rijeka,Rudes
+19,2027-01-23,,Varazdin,Hajduk Split
+20,2027-01-30,,Hajduk Split,Istra 1961
+20,2027-01-30,,Lok. Zagreb,Gorica
+20,2027-01-30,,Rijeka,Din. Zagreb
+20,2027-01-30,,Rudes,Osijek
+20,2027-01-30,,Slaven Belupo,Varazdin
+21,2027-02-06,,Din. Zagreb,Rudes
+21,2027-02-06,,Gorica,Hajduk Split
+21,2027-02-06,,Istra 1961,Slaven Belupo
+21,2027-02-06,,Osijek,Lok. Zagreb
+21,2027-02-06,,Varazdin,Rijeka
+22,2027-02-13,,Din. Zagreb,Varazdin
+22,2027-02-13,,Hajduk Split,Osijek
+22,2027-02-13,,Rijeka,Istra 1961
+22,2027-02-13,,Rudes,Lok. Zagreb
+22,2027-02-13,,Slaven Belupo,Gorica
+23,2027-02-20,,Gorica,Rijeka
+23,2027-02-20,,Istra 1961,Din. Zagreb
+23,2027-02-20,,Lok. Zagreb,Hajduk Split
+23,2027-02-20,,Osijek,Slaven Belupo
+23,2027-02-20,,Varazdin,Rudes
+24,2027-02-27,,Din. Zagreb,Gorica
+24,2027-02-27,,Rijeka,Osijek
+24,2027-02-27,,Rudes,Hajduk Split
+24,2027-02-27,,Slaven Belupo,Lok. Zagreb
+24,2027-02-27,,Varazdin,Istra 1961
+25,2027-03-06,,Gorica,Varazdin
+25,2027-03-06,,Hajduk Split,Slaven Belupo
+25,2027-03-06,,Istra 1961,Rudes
+25,2027-03-06,,Lok. Zagreb,Rijeka
+25,2027-03-06,,Osijek,Din. Zagreb
+26,2027-03-13,,Din. Zagreb,Lok. Zagreb
+26,2027-03-13,,Istra 1961,Gorica
+26,2027-03-13,,Rijeka,Hajduk Split
+26,2027-03-13,,Rudes,Slaven Belupo
+26,2027-03-13,,Varazdin,Osijek
+27,2027-03-20,,Gorica,Rudes
+27,2027-03-20,,Hajduk Split,Din. Zagreb
+27,2027-03-20,,Lok. Zagreb,Varazdin
+27,2027-03-20,,Osijek,Istra 1961
+27,2027-03-20,,Slaven Belupo,Rijeka
+28,2027-04-03,,Hajduk Split,Varazdin
+28,2027-04-03,,Lok. Zagreb,Istra 1961
+28,2027-04-03,,Osijek,Gorica
+28,2027-04-03,,Rudes,Rijeka
+28,2027-04-03,,Slaven Belupo,Din. Zagreb
+29,2027-04-10,,Din. Zagreb,Rijeka
+29,2027-04-10,,Gorica,Lok. Zagreb
+29,2027-04-10,,Istra 1961,Hajduk Split
+29,2027-04-10,,Osijek,Rudes
+29,2027-04-10,,Varazdin,Slaven Belupo
+30,2027-04-17,,Hajduk Split,Gorica
+30,2027-04-17,,Lok. Zagreb,Osijek
+30,2027-04-17,,Rijeka,Varazdin
+30,2027-04-17,,Rudes,Din. Zagreb
+30,2027-04-17,,Slaven Belupo,Istra 1961

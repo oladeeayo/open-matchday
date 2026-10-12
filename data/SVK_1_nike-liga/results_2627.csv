@@ -1,0 +1,59 @@
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-25,,Podbrezova,Michalovce,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Trencin,Komarno,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Trnava,Skalica,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Banska Bystrica,Slovan Bratislava,0,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Ruzomberok,Dun. Streda,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Zilina,Kosice,4,4,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Kosice,Trencin,3,3,D,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Skalica,Ruzomberok,2,1,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Slovan Bratislava,Podbrezova,3,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Dun. Streda,Banska Bystrica,2,0,H,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Komarno,Trnava,1,2,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Michalovce,Zilina,0,1,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Michalovce,Komarno,1,1,D,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Ruzomberok,Podbrezova,1,4,A,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Trnava,Banska Bystrica,3,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Zilina,Skalica,1,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Banska Bystrica,Zilina,3,4,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Podbrezova,Trencin,2,1,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Skalica,Kosice,2,4,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Slovan Bratislava,Ruzomberok,5,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Komarno,Dun. Streda,0,3,A,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Trnava,Michalovce,2,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Dun. Streda,Podbrezova,5,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Kosice,Slovan Bratislava,1,2,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Michalovce,Skalica,2,0,H,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Ruzomberok,Banska Bystrica,0,1,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Trencin,Trnava,0,4,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Zilina,Komarno,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Banska Bystrica,Komarno,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Podbrezova,Kosice,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Trencin,Ruzomberok,2,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Skalica,Dun. Streda,1,6,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Slovan Bratislava,Michalovce,1,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Trnava,Zilina,1,3,A,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Dun. Streda,Slovan Bratislava,2,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Komarno,Skalica,0,0,D,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Michalovce,Trencin,3,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Zilina,Podbrezova,3,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Kosice,Banska Bystrica,3,0,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Ruzomberok,Trnava,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Banska Bystrica,Skalica,3,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Ruzomberok,Michalovce,3,0,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Trencin,Dun. Streda,1,4,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Trnava,Kosice,5,2,H,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Podbrezova,Komarno,1,1,D,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Slovan Bratislava,Zilina,3,3,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Komarno,Slovan Bratislava,1,2,A,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Kosice,Ruzomberok,2,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Michalovce,Banska Bystrica,1,0,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Zilina,Trencin,2,1,H,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Dun. Streda,Trnava,2,2,D,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Skalica,Podbrezova,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Kosice,Komarno,1,1,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Michalovce,Dun. Streda,0,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Skalica,Slovan Bratislava,1,1,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Trencin,Banska Bystrica,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Podbrezova,Trnava,1,3,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Ruzomberok,Zilina,2,2,D,,,,,,,,,,,,,,,,,soccerway

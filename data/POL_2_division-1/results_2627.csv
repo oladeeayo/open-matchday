@@ -7,7 +7,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-07-26,,Puszcza,Polonia Warszawa,0,1,A,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Skierniewice,Stal Mielec,1,2,A,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Termalica B-B.,Ruch Chorzow,2,0,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-07-27,,Legnica,Podbeskidzie,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-27,,Legnica,Podbeskidzie,1,1,D,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,LKS Lodz,Polonia Bytom,2,1,H,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,Lechia Gdansk,Warta Poznan,0,3,A,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Arka Gdynia,S. Rzeszow,4,0,H,,,,,,,,,,,,,,,,,soccerway
@@ -16,7 +16,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 2,2026-08-02,,Grodzisk M.,Puszcza,1,0,H,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-02,,Ruch Chorzow,Legnica,0,2,A,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-02,,Stal Mielec,Podbeskidzie,3,3,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-03,,Chrobry Glogow,Odra Opole,0,1,A,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-03,,Chrobry Glogow,Odra Opole,0,1,A,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-07,,Polonia Bytom,Pogon Siedlce,2,2,D,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-07,,Polonia Warszawa,Ruch Chorzow,1,1,D,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-08,,Legnica,Grodzisk M.,0,1,A,,,,,,,,,,,,,,,,,soccerway
@@ -25,7 +25,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 3,2026-08-08,,Stal Mielec,S. Rzeszow,1,1,D,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-09,,LKS Lodz,Chrobry Glogow,1,2,A,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-09,,Termalica B-B.,Warta Poznan,1,2,A,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-10,,Skierniewice,Arka Gdynia,2,0,H,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-10,,Skierniewice,Arka Gdynia,2,0,H,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-14,,Grodzisk M.,S. Rzeszow,1,1,D,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-14,,Ruch Chorzow,Lechia Gdansk,1,0,H,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-15,,Chrobry Glogow,Podbeskidzie,1,1,D,,,,,,,,,,,,,,,,,soccerway
@@ -34,7 +34,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 4,2026-08-16,,LKS Lodz,Termalica B-B.,2,1,H,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-16,,Skierniewice,Legnica,0,3,A,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-16,,Stal Mielec,Polonia Bytom,5,2,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-17,,Arka Gdynia,Puszcza,3,0,H,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-17,,Arka Gdynia,Puszcza,3,0,H,,,,,,,,,,,,,,,,,soccerway
 5,2026-08-21,,Chrobry Glogow,Warta Poznan,0,1,A,,,,,,,,,,,,,,,,,soccerway
 5,2026-08-21,,Lechia Gdansk,Pogon Siedlce,1,0,H,,,,,,,,,,,,,,,,,soccerway
 5,2026-08-22,,Podbeskidzie,Odra Opole,1,1,D,,,,,,,,,,,,,,,,,soccerway
@@ -43,7 +43,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-08-23,,LKS Lodz,Stal Mielec,4,0,H,,,,,,,,,,,,,,,,,soccerway
 5,2026-08-23,,Legnica,Arka Gdynia,2,0,H,,,,,,,,,,,,,,,,,soccerway
 5,2026-08-23,,Puszcza,Skierniewice,0,1,A,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-24,,S. Rzeszow,Ruch Chorzow,0,1,A,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-24,,S. Rzeszow,Ruch Chorzow,0,1,A,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-28,,Grodzisk M.,Termalica B-B.,2,2,D,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-28,,Odra Opole,LKS Lodz,0,0,D,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-28,,Skierniewice,S. Rzeszow,0,1,A,,,,,,,,,,,,,,,,,soccerway
@@ -60,7 +60,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-09-05,,Stal Mielec,Odra Opole,1,1,D,,,,,,,,,,,,,,,,,soccerway
 7,2026-09-06,,Arka Gdynia,LKS Lodz,1,1,D,,,,,,,,,,,,,,,,,soccerway
 7,2026-09-06,,Polonia Bytom,Podbeskidzie,0,0,D,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-07,,Ruch Chorzow,Skierniewice,3,1,H,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-07,,Ruch Chorzow,Skierniewice,3,1,H,,,,,,,,,,,,,,,,,soccerway
 8,2026-09-11,,Polonia Warszawa,Polonia Bytom,2,2,D,,,,,,,,,,,,,,,,,soccerway
 8,2026-09-11,,Puszcza,LKS Lodz,1,2,A,,,,,,,,,,,,,,,,,soccerway
 8,2026-09-12,,Chrobry Glogow,Pogon Siedlce,0,0,D,,,,,,,,,,,,,,,,,soccerway
@@ -69,7 +69,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-09-13,,Lechia Gdansk,Legnica,2,1,H,,,,,,,,,,,,,,,,,soccerway
 8,2026-09-13,,Odra Opole,S. Rzeszow,0,1,A,,,,,,,,,,,,,,,,,soccerway
 8,2026-09-13,,Skierniewice,Grodzisk M.,3,2,H,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-14,,Stal Mielec,Termalica B-B.,1,2,A,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-14,,Stal Mielec,Termalica B-B.,1,2,A,,,,,,,,,,,,,,,,,soccerway
 9,2026-09-18,,Polonia Bytom,Ruch Chorzow,0,0,D,,,,,,,,,,,,,,,,,soccerway
 9,2026-09-18,,Warta Poznan,Puszcza,3,2,H,,,,,,,,,,,,,,,,,soccerway
 9,2026-09-19,,Grodzisk M.,LKS Lodz,2,0,H,,,,,,,,,,,,,,,,,soccerway
@@ -80,3 +80,10 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-09-20,,Podbeskidzie,Skierniewice,1,1,D,,,,,,,,,,,,,,,,,soccerway
 9,2026-09-20,,Pogon Siedlce,Arka Gdynia,2,1,H,,,,,,,,,,,,,,,,,soccerway
 10,2026-10-09,,Podbeskidzie,Pogon Siedlce,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Arka Gdynia,Polonia Warszawa,1,2,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Chrobry Glogow,Grodzisk M.,0,4,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Skierniewice,Termalica B-B.,2,2,D,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,LKS Lodz,Ruch Chorzow,0,2,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Odra Opole,Legnica,1,0,H,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Puszcza,Polonia Bytom,0,1,A,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Stal Mielec,Warta Poznan,2,1,H,,,,,,,,,,,,,,,,,soccerway

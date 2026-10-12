@@ -1,0 +1,157 @@
+gw,date,time,home,away
+1,2026-10-16,10:00,Sydney FC,Western Sydney Wanderers
+1,2026-10-17,05:00,Auckland FC,Melbourne City FC
+1,2026-10-17,07:00,Macarthur FC,Perth Glory
+1,2026-10-17,09:40,Central Coast Mariners,Newcastle Jets
+1,2026-10-18,03:00,Wellington Phoenix FC,Melbourne Victory
+2,2026-10-23,10:00,Brisbane Roar,Perth Glory
+2,2026-10-24,05:00,Newcastle Jets,Macarthur FC
+2,2026-10-24,07:00,Western Sydney Wanderers,Auckland FC
+2,2026-10-24,09:40,Melbourne Victory,Melbourne City FC
+2,2026-10-25,03:00,Wellington Phoenix FC,Central Coast Mariners
+2,2026-10-25,05:00,Sydney FC,Adelaide United
+3,2026-10-30,10:00,Brisbane Roar,Auckland FC
+3,2026-10-31,05:00,Newcastle Jets,Wellington Phoenix FC
+3,2026-10-31,07:00,Melbourne City FC,Sydney FC
+3,2026-10-31,09:40,Macarthur FC,Western Sydney Wanderers
+3,2026-11-01,05:00,Melbourne Victory,Central Coast Mariners
+3,2026-11-01,08:00,Perth Glory,Adelaide United
+4,2026-11-06,09:40,Sydney FC,Central Coast Mariners
+4,2026-11-07,05:00,Auckland FC,Wellington Phoenix FC
+4,2026-11-07,09:40,Melbourne City FC,Western Sydney Wanderers
+4,2026-11-07,11:45,Perth Glory,Newcastle Jets
+4,2026-11-08,05:00,Macarthur FC,Brisbane Roar
+4,2026-11-08,07:00,Adelaide United,Melbourne Victory
+5,2026-11-20,09:40,Western Sydney Wanderers,Adelaide United
+5,2026-11-21,05:00,Auckland FC,Melbourne Victory
+5,2026-11-21,07:00,Central Coast Mariners,Perth Glory
+5,2026-11-21,09:40,Brisbane Roar,Sydney FC
+5,2026-11-22,03:00,Wellington Phoenix FC,Macarthur FC
+6,2026-11-27,09:40,Macarthur FC,Melbourne City FC
+6,2026-11-28,09:40,Central Coast Mariners,Auckland FC
+7,2026-12-05,09:40,Western Sydney Wanderers,Perth Glory
+7,2026-12-06,03:00,Wellington Phoenix FC,Adelaide United
+7,2026-12-06,07:00,Sydney FC,Melbourne Victory
+8,2026-12-11,09:40,Adelaide United,Macarthur FC
+8,2026-12-11,11:45,Perth Glory,Melbourne City FC
+8,2026-12-12,05:00,Auckland FC,Sydney FC
+8,2026-12-12,07:00,Central Coast Mariners,Brisbane Roar
+8,2026-12-12,09:40,Melbourne Victory,Newcastle Jets
+8,2026-12-13,07:00,Western Sydney Wanderers,Wellington Phoenix FC
+9,2026-12-15,09:30,Adelaide United,Brisbane Roar
+9,2026-12-18,09:40,Sydney FC,Perth Glory
+9,2026-12-19,05:00,Wellington Phoenix FC,Auckland FC
+9,2026-12-19,07:00,Brisbane Roar,Western Sydney Wanderers
+9,2026-12-19,09:40,Melbourne City FC,Melbourne Victory
+9,2026-12-20,07:00,Adelaide United,Newcastle Jets
+10,2026-12-21,09:00,Macarthur FC,Central Coast Mariners
+10,2026-12-26,09:40,Western Sydney Wanderers,Newcastle Jets
+10,2026-12-27,08:00,Melbourne City FC,Auckland FC
+10,2026-12-27,10:00,Adelaide United,Central Coast Mariners
+11,2026-12-28,09:00,Sydney FC,Macarthur FC
+11,2026-12-29,09:00,Melbourne Victory,Wellington Phoenix FC
+11,2026-12-30,09:40,Brisbane Roar,Perth Glory
+11,2026-12-31,09:00,Central Coast Mariners,Melbourne City FC
+11,2027-01-01,05:00,Auckland FC,Adelaide United
+11,2027-01-01,09:00,Western Sydney Wanderers,Macarthur FC
+11,2027-01-02,05:00,Wellington Phoenix FC,Newcastle Jets
+11,2027-01-02,09:40,Sydney FC,Brisbane Roar
+11,2027-01-03,07:00,Melbourne Victory,Perth Glory
+12,2027-01-08,09:40,Central Coast Mariners,Western Sydney Wanderers
+12,2027-01-08,11:45,Perth Glory,Macarthur FC
+12,2027-01-09,07:00,Newcastle Jets,Auckland FC
+12,2027-01-09,08:00,Brisbane Roar,Melbourne Victory
+12,2027-01-09,09:40,Adelaide United,Sydney FC
+12,2027-01-10,07:00,Melbourne City FC,Wellington Phoenix FC
+13,2027-01-14,09:40,Macarthur FC,Wellington Phoenix FC
+13,2027-01-15,09:40,Melbourne Victory,Auckland FC
+13,2027-01-16,07:00,Melbourne City FC,Brisbane Roar
+13,2027-01-16,09:40,Sydney FC,Newcastle Jets
+13,2027-01-16,11:45,Perth Glory,Central Coast Mariners
+13,2027-01-17,07:00,Adelaide United,Western Sydney Wanderers
+14,2027-01-19,09:00,Newcastle Jets,Melbourne City FC
+14,2027-01-22,09:40,Western Sydney Wanderers,Melbourne City FC
+14,2027-01-23,07:00,Brisbane Roar,Wellington Phoenix FC
+14,2027-01-23,09:40,Newcastle Jets,Central Coast Mariners
+14,2027-01-24,03:00,Auckland FC,Perth Glory
+15,2027-01-25,09:00,Macarthur FC,Adelaide United
+15,2027-01-26,07:00,Melbourne Victory,Sydney FC
+15,2027-01-29,09:40,Adelaide United,Melbourne City FC
+15,2027-01-30,05:00,Wellington Phoenix FC,Perth Glory
+15,2027-01-30,07:00,Newcastle Jets,Melbourne Victory
+15,2027-01-30,09:40,Western Sydney Wanderers,Sydney FC
+15,2027-01-31,03:00,Auckland FC,Brisbane Roar
+15,2027-01-31,07:00,Central Coast Mariners,Macarthur FC
+16,2027-02-05,09:40,Newcastle Jets,Perth Glory
+16,2027-02-06,05:00,Wellington Phoenix FC,Western Sydney Wanderers
+16,2027-02-06,07:00,Macarthur FC,Auckland FC
+16,2027-02-06,09:40,Adelaide United,Melbourne Victory
+16,2027-02-07,07:00,Sydney FC,Melbourne City FC
+16,2027-02-07,08:00,Brisbane Roar,Central Coast Mariners
+17,2027-02-13,05:00,Auckland FC,Wellington Phoenix FC
+17,2027-02-13,07:00,Newcastle Jets,Brisbane Roar
+17,2027-02-13,09:40,Melbourne City FC,Central Coast Mariners
+17,2027-02-14,07:00,Melbourne Victory,Western Sydney Wanderers
+18,2027-02-19,10:00,Brisbane Roar,Macarthur FC
+18,2027-02-20,10:00,Perth Glory,Sydney FC
+18,2027-02-21,07:00,Newcastle Jets,Adelaide United
+19,2027-02-26,09:40,Newcastle Jets,Western Sydney Wanderers
+19,2027-02-27,07:00,Sydney FC,Auckland FC
+19,2027-02-27,09:40,Melbourne Victory,Macarthur FC
+19,2027-02-27,11:45,Perth Glory,Brisbane Roar
+19,2027-02-28,05:00,Central Coast Mariners,Adelaide United
+19,2027-02-28,06:00,Melbourne City FC,Wellington Phoenix FC
+20,2027-03-05,09:40,Adelaide United,Perth Glory
+20,2027-03-06,05:00,Wellington Phoenix FC,Sydney FC
+20,2027-03-06,07:00,Macarthur FC,Newcastle Jets
+20,2027-03-06,09:40,Melbourne Victory,Melbourne City FC
+20,2027-03-07,03:00,Auckland FC,Central Coast Mariners
+20,2027-03-07,05:00,Western Sydney Wanderers,Brisbane Roar
+21,2027-03-12,09:40,Western Sydney Wanderers,Melbourne City FC
+21,2027-03-13,05:00,Auckland FC,Newcastle Jets
+21,2027-03-13,07:00,Central Coast Mariners,Wellington Phoenix FC
+21,2027-03-13,09:40,Macarthur FC,Sydney FC
+21,2027-03-14,07:00,Brisbane Roar,Adelaide United
+21,2027-03-14,10:00,Perth Glory,Melbourne Victory
+22,2027-03-19,09:40,Central Coast Mariners,Perth Glory
+22,2027-03-20,05:00,Wellington Phoenix FC,Macarthur FC
+22,2027-03-20,07:00,Western Sydney Wanderers,Auckland FC
+22,2027-03-20,09:40,Newcastle Jets,Sydney FC
+22,2027-03-21,05:00,Melbourne City FC,Adelaide United
+22,2027-03-21,07:00,Brisbane Roar,Melbourne Victory
+23,2027-04-02,09:40,Adelaide United,Wellington Phoenix FC
+23,2027-04-03,07:00,Brisbane Roar,Melbourne City FC
+23,2027-04-03,09:40,Sydney FC,Western Sydney Wanderers
+23,2027-04-03,11:45,Perth Glory,Newcastle Jets
+23,2027-04-04,04:00,Auckland FC,Macarthur FC
+23,2027-04-04,06:00,Central Coast Mariners,Melbourne Victory
+24,2027-04-09,08:00,Wellington Phoenix FC,Brisbane Roar
+24,2027-04-09,10:40,Melbourne City FC,Macarthur FC
+24,2027-04-10,08:00,Newcastle Jets,Adelaide United
+24,2027-04-10,10:40,Melbourne Victory,Sydney FC
+24,2027-04-10,12:45,Perth Glory,Auckland FC
+24,2027-04-11,06:00,Western Sydney Wanderers,Central Coast Mariners
+25,2027-04-16,10:40,Melbourne City FC,Perth Glory
+25,2027-04-17,06:00,Wellington Phoenix FC,Newcastle Jets
+25,2027-04-17,08:00,Central Coast Mariners,Sydney FC
+25,2027-04-17,10:40,Melbourne Victory,Adelaide United
+25,2027-04-18,04:00,Auckland FC,Brisbane Roar
+25,2027-04-18,06:00,Macarthur FC,Western Sydney Wanderers
+26,2027-04-23,10:40,Sydney FC,Auckland FC
+26,2027-04-24,06:00,Wellington Phoenix FC,Melbourne City FC
+26,2027-04-24,10:40,Adelaide United,Brisbane Roar
+26,2027-04-24,12:45,Perth Glory,Western Sydney Wanderers
+26,2027-04-25,06:00,Newcastle Jets,Central Coast Mariners
+27,2027-04-26,10:00,Macarthur FC,Melbourne Victory
+27,2027-04-30,11:00,Brisbane Roar,Newcastle Jets
+27,2027-04-30,12:45,Perth Glory,Wellington Phoenix FC
+27,2027-05-01,06:00,Melbourne City FC,Central Coast Mariners
+27,2027-05-01,08:00,Adelaide United,Auckland FC
+27,2027-05-01,10:40,Macarthur FC,Sydney FC
+27,2027-05-02,06:00,Western Sydney Wanderers,Melbourne Victory
+28,2027-05-07,10:40,Sydney FC,Wellington Phoenix FC
+28,2027-05-07,12:45,Perth Glory,Adelaide United
+28,2027-05-08,06:00,Auckland FC,Western Sydney Wanderers
+28,2027-05-08,08:00,Melbourne City FC,Newcastle Jets
+28,2027-05-08,10:40,Central Coast Mariners,Macarthur FC
+28,2027-05-09,06:00,Melbourne Victory,Brisbane Roar
