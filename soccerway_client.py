@@ -44,6 +44,13 @@ SOCCERWAY_SLUGS: dict[str, tuple[str, str]] = {
 # Rounds 1-8 may not be available on their site.
 # To get maximum coverage, we fetch from both archive and fixtures pages.
 
+# Safety net: a played match served WITHOUT any usable timestamp (no lead-in
+# AD, no AO). The lead-in AD now covers essentially every row, so these hints
+# should never fire; kept as a guard. Keyed (home, away) as served by Soccerway.
+DATE_HINTS: dict[tuple[str, str], str] = {
+    ("CK United", "Newbridge Town"): "2026-08-29",  # LOI NL Group 3 round 1, SETU Carlow, 14:00
+}
+
 
 def _fetch_page(country: str, league: str) -> str:
     """Fetch the results page HTML."""
@@ -66,10 +73,20 @@ def _parse_matches(data: str) -> list[dict[str, Any]]:
     Key fields per match:
         CX<D1>home_team<D1>     - Home team name
         ER<D1>Round N<D1>       - Round number
-        BW<D1>home_score<D2>    - Home team score
-        AH<D1>away_score<D2>    - Away team score
-        AO<D1>timestamp<D2>     - Match date as Unix timestamp
+        AG<D1>home_score<D2>    - Home score (90m / +1 shootout-advance)
+        AU<D1>away_score<D2>    - Away score (90m)
+        REA/REB<D1>score<D2>    - FINAL score incl. extra time (present
+                                  whenever the match went beyond 90m —
+                                  use in preference to AG/AU)
         AF<D1>away_team<D1>     - Away team name
+
+    Timestamps:
+        The record's own kickoff sits in the lead-in block
+        `~AA<id> AD<ts> ADE<ts> AB CR AC` IMMEDIATELY BEFORE its CX.
+        The AD found inside the segment (CX..next CX) belongs to the
+        NEXT record's lead-in — reading it gives a one-record-off date
+        (or none for the last record). AO inside the segment is this
+        record's own last-update ts; only used as a fallback.
     """
     results: list[dict[str, Any]] = []
     pos = 0
@@ -126,10 +143,27 @@ def _parse_matches(data: str) -> list[dict[str, Any]]:
                     val = val[: -len(suffix)]
             return val
 
-        home_score = get_int_field("AG")
-        away_score = get_int_field("AU")
-        # played matches carry AO; upcoming ones only AD/ADE
-        ts = get_int_field("AO") or get_int_field("AD") or get_int_field("ADE")
+        # Own kickoff: first AD after the record's own `AA` lead-in marker,
+        # which sits immediately before this CX. (The AD inside seg is the
+        # NEXT record's kickoff — never use it for this record.)
+        lead = data[max(0, cx_pos - 300) : cx_pos]
+        aa_pos = lead.rfind("AA" + D1)
+        lead_ts = None
+        if aa_pos >= 0:
+            lm = re.search("AD" + D1 + r"(\d+)" + D2, lead[aa_pos:])
+            if lm:
+                lead_ts = int(lm.group(1))
+
+        # Final score incl. extra time when the match went beyond 90m;
+        # AG/AU are 90-minute scores (AG additionally gets +1 for a
+        # shootout win, so it is only trustworthy for regulation results).
+        home_score = get_int_field("REA")
+        away_score = get_int_field("REB")
+        if home_score is None or away_score is None:
+            home_score = get_int_field("AG")
+            away_score = get_int_field("AU")
+        # kickoff (lead-in) first; own in-segment AO as fallback
+        ts = lead_ts or get_int_field("AO")
         away = get_str_field("AF")
 
         # Clean home team name: strip D1/D2 delimiters from ends, remove other control chars
@@ -234,6 +268,17 @@ def fetch_league(slug: str) -> list[dict[str, Any]]:
             absorb(_fetch_page(country, league))
         except Exception:
             pass
+
+    # Fill known missing timestamps (Soccerway omits AO/AD on some rows)
+    for m in all_matches.values():
+        if m.get("ft_home") is not None and not m.get("date"):
+            hint = DATE_HINTS.get((m.get("home", ""), m.get("away", "")))
+            if hint:
+                m["date"] = hint
+        # true round numbers become gw when numeric (cups + leagues)
+        rnd = str(m.get("round") or "").strip()
+        if rnd.isdigit():
+            m["gw"] = int(rnd)
 
     return list(all_matches.values())
 

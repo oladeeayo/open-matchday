@@ -175,6 +175,22 @@ _TEAM_ALIASES = {
     # Greece (fd uses short forms)
     "olympiacos": "Olympiacos", "panathinaikos": "Panathinaikos",
     "aekathens": "AEK Athens", "paok": "PAOK",
+    # France Ligue 2 (ESPN short forms vs fixturedl long forms)
+    "pau": "Pau FC", "paufc": "Pau FC",
+    "annecy": "FC Annecy", "fcannecy": "FC Annecy",
+    "guingamp": "EN Avant Guingamp", "eaguingamp": "EN Avant Guingamp",
+    "sochaux": "FC Sochaux-Montbeliard",
+    "saintetienne": "AS Saint-Etienne",
+    "montpellier": "Montpellier Herault SC",
+    "reims": "Stade de Reims", "stadedereims": "Stade de Reims",
+    "grenoble": "Grenoble Foot 38", "grenoblefoot38": "Grenoble Foot 38",
+    "boulogne": "US Boulogne CO", "usboulogne": "US Boulogne CO",
+    "dunkerque": "USL Dunkerque", "usldunkerque": "USL Dunkerque",
+    "rodez": "Rodez Aveyron Football", "rodezaveyron": "Rodez Aveyron Football",
+    "laval": "Stade Lavallois MFC", "stadelavallois": "Stade Lavallois MFC",
+    "clermont": "Clermont Foot 63", "clermontfoot63": "Clermont Foot 63",
+    "nancylorraine": "AS Nancy Lorraine", "asnancylorraine": "AS Nancy Lorraine",
+    "redstar": "Red Star FC", "redstarfc93": "Red Star FC",
 }
 
 # Tokens that alone must never confirm a match: two different clubs can share
@@ -318,6 +334,27 @@ def merge(rows: list[dict]) -> list[dict]:
     return merged
 
 
+def drop_undated_score_dupes(rows: list[dict]) -> list[dict]:
+    """Soccerway sometimes serves a played match twice: once with a timestamp
+    and once without (no AO/AD field). The undated copy slips past
+    _same_match (which needs both dates) and dedupe_fixtures (±2d window).
+    Drop undated played rows whose teams AND full-time score match a dated
+    played row."""
+    dated = [r for r in rows
+             if _parse_date(r.get("date")) and r.get("ft_home") is not None]
+    kept: list[dict] = []
+    for r in rows:
+        if r.get("ft_home") is not None and not _parse_date(r.get("date")):
+            if any(_same_team(r.get("home", ""), d.get("home", ""))
+                   and _same_team(r.get("away", ""), d.get("away", ""))
+                   and r.get("ft_home") == d.get("ft_home")
+                   and r.get("ft_away") == d.get("ft_away")
+                   for d in dated):
+                continue
+        kept.append(r)
+    return kept
+
+
 def dedupe_fixtures(rows: list[dict]) -> tuple[list[dict], int]:
     """Same-pairing matches: drop EXACT beating-fuzzy duplicates only, with a
     strict ±2d date window (GW spacing ~1 week means a wider window risks
@@ -360,8 +397,109 @@ def dedupe_fixtures(rows: list[dict]) -> tuple[list[dict], int]:
     return kept, dropped
 
 
+def drop_reversed_fixture_dupes(rows: list[dict]) -> tuple[list[dict], int]:
+    """fixturedl occasionally publishes a fixture with the WRONG venue:
+    the same pairing appears twice within ~1 day with home/away swapped
+    (e.g. FRA_1 2026/27: Rennes-PSG listed as Rennes home by fixturedl AND
+    PSG home by ESPN on consecutive days). _same_match requires matching
+    orientation, so these slipped past merge and dedupe_fixtures and
+    inflated the league by one row.
+
+    For two UNPLAYED rows of the same pairing reversed within ±2d, keep
+    the row whose HOME side differs from the season's first meeting of the
+    pair (double round-robin invariant: the rematch flips the venue);
+    fall back to source rank when no earlier meeting exists."""
+    rank = {"openligadb": 0, "fixturedl": 1, "espn": 2, "fd.co.uk": 3}
+    unplayed = [r for r in rows if r.get("ft_home") is None]
+    dead: set[int] = set()
+
+    dropped = 0
+    for i, a in enumerate(unplayed):
+        if id(a) in dead:
+            continue
+        da = _parse_date(a.get("date"))
+        if not da:
+            continue
+        for b in unplayed[i + 1:]:
+            if id(b) in dead:
+                continue
+            db = _parse_date(b.get("date"))
+            if not db or abs((da - db).days) > 2:
+                continue
+            if not (_same_team(a.get("home", ""), b.get("away", ""))
+                    and _same_team(a.get("away", ""), b.get("home", ""))):
+                continue
+            # season's first meeting of this pairing (either orientation)
+            first_home = None
+            for m in rows:
+                if m is a or m is b or m.get("ft_home") is None:
+                    continue
+                dm = _parse_date(m.get("date"))
+                if not dm or dm > min(da, db):
+                    continue
+                same_dir = (_same_team(m.get("home", ""), a.get("home", ""))
+                            and _same_team(m.get("away", ""), a.get("away", "")))
+                rev_dir = (_same_team(m.get("home", ""), a.get("away", ""))
+                           and _same_team(m.get("away", ""), a.get("home", "")))
+                if same_dir or rev_dir:
+                    first_home = m.get("home", "")
+                    break
+            a_ok = first_home is not None and not _same_team(a.get("home", ""), first_home)
+            b_ok = first_home is not None and not _same_team(b.get("home", ""), first_home)
+            if a_ok == b_ok:
+                # no orientation signal: keep higher-priority source
+                drop = b if rank.get(b.get("source"), 9) >= rank.get(a.get("source"), 9) else a
+            else:
+                drop = b if a_ok else a
+            dead.add(id(drop))
+            dropped += 1
+    if not dead:
+        return rows, 0
+    return [r for r in rows if id(r) not in dead], dropped
+
+
+def drop_stale_postponed_fixtures(rows: list[dict]) -> tuple[list[dict], int]:
+    """Postponement handling: a moved match is republished under its NEW
+    date while a lagging source may still carry the old slot. Drop a
+    PAST-dated unplayed row when the SAME orientation pairing (home stays
+    home) also has either a future unplayed row OR any played row — the
+    newer listing / result supersedes the stale slot. Two-leg cup ties
+    have REVERSED orientation and are never touched by the future-row
+    branch; the played-row branch only fires for same orientation, so a
+    played first leg cannot eat its reversed-orientation second leg."""
+    today = dt.date.today()
+    past = [r for r in rows
+            if r.get("ft_home") is None
+            and (d := _parse_date(r.get("date"))) is not None and d < today]
+    if not past:
+        return rows, 0
+    past_ids = {id(r) for r in past}
+    others = [r for r in rows if id(r) not in past_ids]
+    dead: set[int] = set()
+    for p in past:
+        for o in others:
+            if id(o) in dead:
+                continue
+            if not (_same_team(p.get("home", ""), o.get("home", ""))
+                    and _same_team(p.get("away", ""), o.get("away", ""))):
+                continue
+            o_date = _parse_date(o.get("date"))
+            o_played = o.get("ft_home") is not None
+            o_future = o_date is not None and o_date >= today
+            if o_played or o_future:
+                dead.add(id(p))
+                break
+    if not dead:
+        return rows, 0
+    return [r for r in rows if id(r) not in dead], len(dead)
+
+
 def finalize(rows: list[dict]) -> list[dict]:
     for r in rows:
+        for f in ("ft_home", "ft_away", "ht_home", "ht_away"):
+            v = r.get(f)
+            if isinstance(v, float) and v == int(v):
+                r[f] = int(v)  # sources must not leak "1.0" into CSVs
         has_ft = r.get("ft_home") is not None and r.get("ft_away") is not None
         if not has_ft:  # unplayed: scrub any leaked score fields
             r["ft_home"] = r["ft_away"] = None
@@ -412,7 +550,7 @@ def build_league(lg: League, season: str) -> dict:
             errors.append(f"fixturedl: {e}")
     if lg.espn:
         try:
-            espn_rows = espn_client.fetch_league(lg.espn)
+            espn_rows = espn_client.fetch_league(lg.espn, calendar_year=lg.calendar_year)
             if lg.goal_minutes:
                 fetch_goal_minutes_threaded(lg, espn_rows)
             rows += espn_rows
@@ -430,7 +568,10 @@ def build_league(lg: League, season: str) -> dict:
             errors.append(f"soccerway: {e}")
 
     rows = merge(rows)
+    rows = drop_undated_score_dupes(rows)
     rows, dup_fx = dedupe_fixtures(rows)
+    rows, dup_rev = drop_reversed_fixture_dupes(rows)
+    rows, stale_fx = drop_stale_postponed_fixtures(rows)
     rows = finalize(rows)
     dropped = MERGE_STATS.pop("dropped_fd", 0)
 
@@ -466,6 +607,8 @@ def build_league(lg: League, season: str) -> dict:
                             w.writerow([r.get("gw"), r.get("date"), r.get("home"), r.get("away"), m, "", "", ""])
 
     return {"league": lg.name, "folder": folder, "dropped_fd": dropped,
-            "dropped_dup_fixtures": dup_fx, "results": len(results),
+            "dropped_dup_fixtures": dup_fx, "dropped_reversed_dupes": dup_rev,
+            "dropped_stale_postponed": stale_fx,
+            "results": len(results),
             "fixtures": len(fixtures), "errors": errors,
             "latest": max((r.get("date") or "") for r in results) if results else ""}

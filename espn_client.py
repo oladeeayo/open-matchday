@@ -14,9 +14,10 @@ from httpx_util import get_json
 BASE = "https://site.api.espn.com/apis/site/v2/sports/soccer"
 
 
-def _num(v) -> float | None:
+def _num(v) -> int | None:
+    """Score parser: ESPN serves scores as numeric strings — CSVs must get ints."""
     try:
-        return float(v)
+        return int(float(v))
     except (TypeError, ValueError):
         return None
 
@@ -30,13 +31,19 @@ _SEASON_MONTHS = [f"{y}{m:02d}"
                   for m in range(1, 13)
                   if (y == SEASON and m >= 8) or (y == SEASON + 1 and m <= 5)]
 
+# Calendar-year leagues (MLS/BRA/ARG/MEX/CHN/JPN): season runs inside one
+# calendar year — fetch Jan-Dec of SEASON so nothing is missed.
+_CALENDAR_MONTHS = [f"{SEASON}{m:02d}" for m in range(1, 13)]
 
-def fetch_league(slug: str) -> list[dict]:
+
+def fetch_league(slug: str, calendar_year: bool = False) -> list[dict]:
     """Return normalised matches for one league, fetched month-by-month
-    across the whole 2026/27 season (Aug 2026 - May 2027)."""
+    across the whole season. calendar_year=True widens the window to
+    Jan-Dec (for leagues whose season is a single calendar year)."""
     out = []
     seen: set[str] = set()
-    for ym in _SEASON_MONTHS:
+    months = _CALENDAR_MONTHS if calendar_year else _SEASON_MONTHS
+    for ym in months:
         try:
             d = get_json(f"{BASE}/{slug}/scoreboard?dates={ym}")
         except RuntimeError:
@@ -59,6 +66,12 @@ def fetch_league(slug: str) -> list[dict]:
                     away = t
             if not home or not away:
                 continue
+            # future cup rounds are published as "TBD Home"/"TBD Away"
+            # placeholders — skip until the draw fills the teams in
+            hname = home["team"].get("displayName", "")
+            aname = away["team"].get("displayName", "")
+            if not hname or not aname or hname.startswith("TBD") or aname.startswith("TBD"):
+                continue
             ft_h = ft_a = None
             if completed:  # only trust scores of finished matches
                 ft_h = _num(home.get("score"))
@@ -68,8 +81,8 @@ def fetch_league(slug: str) -> list[dict]:
                 "source_id": eid,
                 "date": ev.get("date", "")[:10],
                 "kickoff_utc": ev.get("date"),
-                "home": home["team"]["displayName"],
-                "away": away["team"]["displayName"],
+                "home": hname,
+                "away": aname,
                 "ft_home": ft_h,
                 "ft_away": ft_a,
                 "ht_home": None,
