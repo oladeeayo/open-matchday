@@ -44,12 +44,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-09-20,14:00,AJ Auxerre,Stade Brestois 29,2,1,H,0,1,A,11,8,4,2,19,13,8,3,1,1,0,0,"23,46,83",fixturedl
 5,2026-09-20,16:15,OGC Nice,LOSC Lille,2,1,H,1,0,H,10,21,4,8,16,9,3,7,3,1,0,0,"22,67,79",fixturedl
 5,2026-09-20,19:45,Olympique de Marseille,Paris Saint-Germain,1,2,A,0,0,D,12,31,4,10,9,3,3,7,2,1,1,0,"72,74",fixturedl
-6,2026-10-09,19:45,RC Lens,Olympique Lyonnais,2,1,H,,,,,,,,,,,,,,,,"36,85",fixturedl
-6,2026-10-10,16:15,LOSC Lille,Havre Athletic Club,1,0,H,,,,,,,,,,,,,,,,5,fixturedl
-6,2026-10-10,19:45,AS Monaco,Toulouse FC,2,2,D,,,,,,,,,,,,,,,,48,fixturedl
-6,2026-10-10,19:45,FC Lorient,Paris FC,1,0,H,,,,,,,,,,,,,,,,68,fixturedl
-6,2026-10-10,19:45,Paris Saint-Germain,Le Mans FC,3,1,H,,,,,,,,,,,,,,,,"19,54,61,68",fixturedl
-6,2026-10-10,19:45,Stade Brestois 29,Angers SCO,5,1,H,,,,,,,,,,,,,,,,"30,45,54",fixturedl
-6,2026-10-11,14:00,OGC Nice,RC Strasbourg Alsace,2,1,H,,,,,,,,,,,,,,,,"41,47,81",fixturedl
-6,2026-10-11,16:15,Stade Rennais FC,AJ Auxerre,4,1,H,,,,,,,,,,,,,,,,"15,25,92,94",fixturedl
-6,2026-10-11,19:45,Estac Troyes,Olympique de Marseille,0,2,A,,,,,,,,,,,,,,,,"50,98",fixturedl
+6,2026-10-09,19:45,RC Lens,Olympique Lyonnais,2,1,H,1,0,H,15,13,7,5,13,12,7,4,1,1,1,0,"36,85",fixturedl
+6,2026-10-10,16:15,LOSC Lille,Havre Athletic Club,1,0,H,1,0,H,5,17,1,2,17,12,4,5,2,2,0,1,5,fixturedl
+6,2026-10-10,19:45,AS Monaco,Toulouse FC,2,2,D,2,0,H,16,8,4,4,10,16,4,4,2,2,0,0,48,fixturedl
+6,2026-10-10,19:45,FC Lorient,Paris FC,1,0,H,0,0,D,8,17,5,3,9,13,3,9,1,5,0,0,68,fixturedl
+6,2026-10-10,19:45,Paris Saint-Germain,Le Mans FC,3,1,H,1,0,H,22,11,8,3,3,17,4,4,0,5,0,0,"19,54,61,68",fixturedl
+6,2026-10-10,19:45,Stade Brestois 29,Angers SCO,5,1,H,4,0,H,19,9,9,3,5,11,4,5,1,1,0,1,"30,45,54",fixturedl
+6,2026-10-11,14:00,OGC Nice,RC Strasbourg Alsace,2,1,H,1,1,D,11,11,6,3,3,8,2,3,1,1,0,0,"41,47,81",fixturedl
+6,2026-10-11,16:15,Stade Rennais FC,AJ Auxerre,4,1,H,1,1,D,21,12,10,5,12,11,12,5,4,0,0,0,"15,25,92,94",fixturedl
+6,2026-10-11,19:45,Estac Troyes,Olympique de Marseille,0,2,A,0,0,D,15,5,3,2,14,15,6,3,4,1,0,0,"50,98",fixturedl

@@ -61,11 +61,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-09-20,18:00,Estoril Praia,Casa Pia AC,1,2,A,0,0,D,14,11,6,3,7,11,7,4,3,2,0,0,,fixturedl
 7,2026-09-20,18:00,Santa Clara,SC Braga,0,0,D,0,0,D,10,8,1,1,13,13,5,5,4,3,0,0,,fixturedl
 7,2026-09-20,20:30,FC Porto,SL Benfica,3,1,H,1,0,H,20,12,7,3,17,12,3,3,3,3,0,1,,fixturedl
-8,2026-10-09,18:45,Moreirense FC,Gil Vicente FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,20:15,SC Braga,Sporting CP,1,3,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,18:00,Marítimo M.,FC Porto,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,20:30,Académico,Estoril Praia,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,20:30,Casa Pia AC,Santa Clara,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-11,15:30,Rio Ave FC,CD Nacional,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-11,18:00,SL Benfica,Vitória SC,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-11,20:30,FC Arouca,Estrela Amadora,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,18:45,Moreirense FC,Gil Vicente FC,0,1,A,0,0,D,12,13,2,3,12,14,4,3,3,4,0,0,,fixturedl
+8,2026-10-09,20:15,SC Braga,Sporting CP,1,3,A,1,0,H,15,9,4,3,11,10,5,2,1,1,0,0,,fixturedl
+8,2026-10-10,18:00,Marítimo M.,FC Porto,1,2,A,1,1,D,7,19,4,9,15,15,2,6,1,2,0,0,,fixturedl
+8,2026-10-10,20:30,Académico,Estoril Praia,2,1,H,1,0,H,15,15,6,9,24,9,2,5,3,1,0,0,,fixturedl
+8,2026-10-10,20:30,Casa Pia AC,Santa Clara,0,1,A,0,0,D,5,14,2,2,17,13,3,7,3,5,1,0,,fixturedl
+8,2026-10-11,15:30,Rio Ave FC,CD Nacional,3,2,H,1,1,D,11,12,7,5,7,17,8,8,2,0,1,0,,fixturedl
+8,2026-10-11,18:00,SL Benfica,Vitória SC,2,0,H,1,0,H,23,8,5,0,9,23,11,6,2,5,0,0,,fixturedl
+8,2026-10-11,20:30,FC Arouca,Estrela Amadora,1,0,H,1,0,H,7,11,3,2,10,7,5,6,5,2,0,0,,fixturedl
+8,2026-10-12,20:15,FC Famalicão,FC Alverca,1,4,A,1,1,D,13,14,2,5,11,27,8,3,3,2,0,0,,fixturedl

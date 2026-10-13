@@ -1,34 +1,34 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-12T17:58:12Z",
+  "generated_utc": "2026-10-13T05:07:02Z",
   "leagues": [
     {
       "league": "Premier League",
-      "folder": "data\\ENG_1_premier-league",
+      "folder": "data/ENG_1_premier-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 59,
-      "fixtures": 321,
+      "results": 60,
+      "fixtures": 320,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "La Liga",
-      "folder": "data\\ESP_1_la-liga",
+      "folder": "data/ESP_1_la-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 77,
-      "fixtures": 303,
+      "results": 78,
+      "fixtures": 302,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Bundesliga",
-      "folder": "data\\GER_1_bundesliga",
+      "folder": "data/GER_1_bundesliga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -40,19 +40,19 @@
     },
     {
       "league": "Serie A",
-      "folder": "data\\ITA_1_serie-a",
+      "folder": "data/ITA_1_serie-a",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 58,
-      "fixtures": 322,
+      "results": 60,
+      "fixtures": 320,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Ligue 1",
-      "folder": "data\\FRA_1_ligue-1",
+      "folder": "data/FRA_1_ligue-1",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 1,
@@ -64,7 +64,7 @@
     },
     {
       "league": "UEFA Champions League",
-      "folder": "data\\UEFA_1_champions-league",
+      "folder": "data/UEFA_1_champions-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -76,7 +76,7 @@
     },
     {
       "league": "UEFA Europa League",
-      "folder": "data\\UEFA_1_europa-league",
+      "folder": "data/UEFA_1_europa-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -88,7 +88,7 @@
     },
     {
       "league": "UEFA Conference League",
-      "folder": "data\\UEFA_1_conference-league",
+      "folder": "data/UEFA_1_conference-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -100,7 +100,7 @@
     },
     {
       "league": "EFL Cup (Carabao Cup)",
-      "folder": "data\\ENG_CUP_efl-cup",
+      "folder": "data/ENG_CUP_efl-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -112,7 +112,7 @@
     },
     {
       "league": "FA Cup",
-      "folder": "data\\ENG_CUP_fa-cup",
+      "folder": "data/ENG_CUP_fa-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -124,7 +124,7 @@
     },
     {
       "league": "Copa del Rey",
-      "folder": "data\\ESP_CUP_copa-del-rey",
+      "folder": "data/ESP_CUP_copa-del-rey",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -136,7 +136,7 @@
     },
     {
       "league": "Coppa Italia",
-      "folder": "data\\ITA_CUP_coppa-italia",
+      "folder": "data/ITA_CUP_coppa-italia",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -148,7 +148,7 @@
     },
     {
       "league": "DFB-Pokal",
-      "folder": "data\\GER_CUP_dfb-pokal",
+      "folder": "data/GER_CUP_dfb-pokal",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -160,7 +160,7 @@
     },
     {
       "league": "KNVB Beker",
-      "folder": "data\\NED_CUP_knvb-beker",
+      "folder": "data/NED_CUP_knvb-beker",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -172,7 +172,7 @@
     },
     {
       "league": "Taça de Portugal",
-      "folder": "data\\POR_CUP_taca-de-portugal",
+      "folder": "data/POR_CUP_taca-de-portugal",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -184,7 +184,7 @@
     },
     {
       "league": "Scottish Cup",
-      "folder": "data\\SCO_CUP_scottish-cup",
+      "folder": "data/SCO_CUP_scottish-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -196,7 +196,7 @@
     },
     {
       "league": "Scottish League Cup",
-      "folder": "data\\SCO_CUP_league-cup",
+      "folder": "data/SCO_CUP_league-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -208,7 +208,7 @@
     },
     {
       "league": "OFB Cup",
-      "folder": "data\\AUT_CUP_ofb-cup",
+      "folder": "data/AUT_CUP_ofb-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -220,7 +220,7 @@
     },
     {
       "league": "Swiss Cup",
-      "folder": "data\\SUI_CUP_swiss-cup",
+      "folder": "data/SUI_CUP_swiss-cup",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -232,7 +232,7 @@
     },
     {
       "league": "EFL Championship",
-      "folder": "data\\ENG_2_championship",
+      "folder": "data/ENG_2_championship",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -244,7 +244,7 @@
     },
     {
       "league": "EFL League One",
-      "folder": "data\\ENG_3_league-one",
+      "folder": "data/ENG_3_league-one",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -256,7 +256,7 @@
     },
     {
       "league": "EFL League Two",
-      "folder": "data\\ENG_4_league-two",
+      "folder": "data/ENG_4_league-two",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -268,7 +268,7 @@
     },
     {
       "league": "National League",
-      "folder": "data\\ENG_5_national-league",
+      "folder": "data/ENG_5_national-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -280,7 +280,7 @@
     },
     {
       "league": "National League North",
-      "folder": "data\\ENG_6_national-league-north",
+      "folder": "data/ENG_6_national-league-north",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -292,7 +292,7 @@
     },
     {
       "league": "National League South",
-      "folder": "data\\ENG_6_national-league-south",
+      "folder": "data/ENG_6_national-league-south",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -304,7 +304,7 @@
     },
     {
       "league": "Northern Premier League",
-      "folder": "data\\ENG_7_northern-premier-league",
+      "folder": "data/ENG_7_northern-premier-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -316,7 +316,7 @@
     },
     {
       "league": "Scottish Premiership",
-      "folder": "data\\SCO_1_premiership",
+      "folder": "data/SCO_1_premiership",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -328,7 +328,7 @@
     },
     {
       "league": "Scottish Championship",
-      "folder": "data\\SCO_2_championship",
+      "folder": "data/SCO_2_championship",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -340,7 +340,7 @@
     },
     {
       "league": "Scottish League One",
-      "folder": "data\\SCO_3_league-one",
+      "folder": "data/SCO_3_league-one",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -352,7 +352,7 @@
     },
     {
       "league": "Scottish League Two",
-      "folder": "data\\SCO_4_league-two",
+      "folder": "data/SCO_4_league-two",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -364,7 +364,7 @@
     },
     {
       "league": "2. Bundesliga",
-      "folder": "data\\GER_2_2-bundesliga",
+      "folder": "data/GER_2_2-bundesliga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -376,7 +376,7 @@
     },
     {
       "league": "3. Liga",
-      "folder": "data\\GER_3_3-liga",
+      "folder": "data/GER_3_3-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -388,19 +388,19 @@
     },
     {
       "league": "Primeira Liga",
-      "folder": "data\\POR_1_primeira-liga",
+      "folder": "data/POR_1_primeira-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 70,
-      "fixtures": 236,
+      "results": 71,
+      "fixtures": 235,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Eredivisie",
-      "folder": "data\\NED_1_eredivisie",
+      "folder": "data/NED_1_eredivisie",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -412,7 +412,7 @@
     },
     {
       "league": "Belgian Pro League",
-      "folder": "data\\BEL_1_pro-league",
+      "folder": "data/BEL_1_pro-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -424,19 +424,19 @@
     },
     {
       "league": "Süper Lig",
-      "folder": "data\\TUR_1_super-lig",
+      "folder": "data/TUR_1_super-lig",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 62,
-      "fixtures": 244,
+      "results": 63,
+      "fixtures": 243,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Super League Greece",
-      "folder": "data\\GRE_1_super-league",
+      "folder": "data/GRE_1_super-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -448,7 +448,7 @@
     },
     {
       "league": "Swiss Super League",
-      "folder": "data\\SUI_1_super-league",
+      "folder": "data/SUI_1_super-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -460,7 +460,7 @@
     },
     {
       "league": "Austrian Bundesliga",
-      "folder": "data\\AUT_1_bundesliga",
+      "folder": "data/AUT_1_bundesliga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -472,55 +472,55 @@
     },
     {
       "league": "Danish Superliga",
-      "folder": "data\\DEN_1_superliga",
+      "folder": "data/DEN_1_superliga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 59,
+      "results": 60,
       "fixtures": 72,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Allsvenskan",
-      "folder": "data\\SWE_1_allsvenskan",
+      "folder": "data/SWE_1_allsvenskan",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 104,
+      "results": 106,
       "fixtures": 56,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Eliteserien",
-      "folder": "data\\NOR_1_eliteserien",
+      "folder": "data/NOR_1_eliteserien",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 104,
+      "results": 105,
       "fixtures": 64,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Liga I",
-      "folder": "data\\ROU_1_liga-1",
+      "folder": "data/ROU_1_liga-1",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 87,
-      "fixtures": 113,
+      "results": 88,
+      "fixtures": 112,
       "errors": [],
       "latest": "2026-10-12"
     },
     {
       "league": "Russian Premier Liga",
-      "folder": "data\\RUS_1_premier-liga",
+      "folder": "data/RUS_1_premier-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -532,7 +532,7 @@
     },
     {
       "league": "League of Ireland First Division",
-      "folder": "data\\IRE_2_first-division",
+      "folder": "data/IRE_2_first-division",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -544,7 +544,7 @@
     },
     {
       "league": "League of Ireland National League",
-      "folder": "data\\IRE_3_national-league",
+      "folder": "data/IRE_3_national-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -556,43 +556,43 @@
     },
     {
       "league": "Ekstraklasa",
-      "folder": "data\\POL_1_ekstraklasa",
-      "dropped_fd": 0,
-      "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 0,
-      "dropped_stale_postponed": 0,
-      "results": 86,
-      "fixtures": 111,
-      "errors": [],
-      "latest": "2026-10-11"
-    },
-    {
-      "league": "I Liga",
-      "folder": "data\\POL_2_division-1",
+      "folder": "data/POL_1_ekstraklasa",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "results": 88,
-      "fixtures": 118,
+      "fixtures": 110,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
-      "league": "II Liga",
-      "folder": "data\\POL_3_division-2",
+      "league": "I Liga",
+      "folder": "data/POL_2_division-1",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 97,
+      "results": 89,
       "fixtures": 118,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
+    },
+    {
+      "league": "II Liga",
+      "folder": "data/POL_3_division-2",
+      "dropped_fd": 0,
+      "dropped_dup_fixtures": 0,
+      "dropped_reversed_dupes": 0,
+      "dropped_stale_postponed": 0,
+      "results": 98,
+      "fixtures": 118,
+      "errors": [],
+      "latest": "2026-10-12"
     },
     {
       "league": "Pro League U21",
-      "folder": "data\\BEL_U21_pro-league",
+      "folder": "data/BEL_U21_pro-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -604,7 +604,7 @@
     },
     {
       "league": "Cymru Premier",
-      "folder": "data\\WAL_1_cymru-premier",
+      "folder": "data/WAL_1_cymru-premier",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -616,7 +616,7 @@
     },
     {
       "league": "Cymru North",
-      "folder": "data\\WAL_2_cymru-north",
+      "folder": "data/WAL_2_cymru-north",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -628,7 +628,7 @@
     },
     {
       "league": "Cymru South",
-      "folder": "data\\WAL_3_cymru-south",
+      "folder": "data/WAL_3_cymru-south",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -640,7 +640,7 @@
     },
     {
       "league": "HNL",
-      "folder": "data\\CRO_1_hnl",
+      "folder": "data/CRO_1_hnl",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -652,7 +652,7 @@
     },
     {
       "league": "Chance Liga",
-      "folder": "data\\CZE_1_chance-liga",
+      "folder": "data/CZE_1_chance-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -664,7 +664,7 @@
     },
     {
       "league": "Ukrainian Premier League",
-      "folder": "data\\UKR_1_premier-league",
+      "folder": "data/UKR_1_premier-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -676,19 +676,19 @@
     },
     {
       "league": "Cyprus League",
-      "folder": "data\\CYP_1_first-division",
+      "folder": "data/CYP_1_first-division",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 34,
+      "results": 35,
       "fixtures": 112,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Nike Liga",
-      "folder": "data\\SVK_1_nike-liga",
+      "folder": "data/SVK_1_nike-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -700,7 +700,7 @@
     },
     {
       "league": "Prva Liga",
-      "folder": "data\\SVN_1_prva-liga",
+      "folder": "data/SVN_1_prva-liga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -712,19 +712,19 @@
     },
     {
       "league": "Veikkausliiga",
-      "folder": "data\\FIN_1_veikkausliiga",
+      "folder": "data/FIN_1_veikkausliiga",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 106,
+      "results": 107,
       "fixtures": 18,
       "errors": [],
       "latest": "2026-10-12"
     },
     {
       "league": "Kazakhstan Premier League",
-      "folder": "data\\KAZ_1_premier-league",
+      "folder": "data/KAZ_1_premier-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -736,19 +736,19 @@
     },
     {
       "league": "Segunda División",
-      "folder": "data\\ESP_2_segunda-division",
+      "folder": "data/ESP_2_segunda-division",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 97,
-      "fixtures": 354,
+      "results": 99,
+      "fixtures": 352,
       "errors": [],
       "latest": "2026-10-12"
     },
     {
       "league": "Serie B",
-      "folder": "data\\ITA_2_serie-b",
+      "folder": "data/ITA_2_serie-b",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -760,19 +760,19 @@
     },
     {
       "league": "Ligue 2",
-      "folder": "data\\FRA_2_ligue-2",
+      "folder": "data/FRA_2_ligue-2",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 71,
-      "fixtures": 235,
+      "results": 72,
+      "fixtures": 234,
       "errors": [],
-      "latest": "2026-10-10"
+      "latest": "2026-10-12"
     },
     {
       "league": "Eerste Divisie",
-      "folder": "data\\NED_2_eerste-divisie",
+      "folder": "data/NED_2_eerste-divisie",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -784,55 +784,55 @@
     },
     {
       "league": "Brasileirão Série A",
-      "folder": "data\\BRA_1_serie-a",
+      "folder": "data/BRA_1_serie-a",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 3,
-      "results": 296,
-      "fixtures": 84,
+      "results": 299,
+      "fixtures": 81,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-13"
     },
     {
       "league": "Série B",
-      "folder": "data\\BRA_2_serie-b",
+      "folder": "data/BRA_2_serie-b",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 325,
-      "fixtures": 55,
+      "results": 329,
+      "fixtures": 51,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-13"
     },
     {
       "league": "Liga Profesional",
-      "folder": "data\\ARG_1_liga-profesional",
+      "folder": "data/ARG_1_liga-profesional",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 2,
       "dropped_stale_postponed": 0,
-      "results": 426,
-      "fixtures": 61,
+      "results": 428,
+      "fixtures": 59,
       "errors": [],
       "latest": "2026-10-12"
     },
     {
       "league": "Primera Nacional",
-      "folder": "data\\ARG_2_primera-nacional",
+      "folder": "data/ARG_2_primera-nacional",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 591,
-      "fixtures": 57,
+      "results": 593,
+      "fixtures": 55,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-12"
     },
     {
       "league": "Liga MX",
-      "folder": "data\\MEX_1_liga-mx",
+      "folder": "data/MEX_1_liga-mx",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -844,7 +844,7 @@
     },
     {
       "league": "Liga de Expansión MX",
-      "folder": "data\\MEX_2_liga-expansion",
+      "folder": "data/MEX_2_liga-expansion",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -856,7 +856,7 @@
     },
     {
       "league": "Major League Soccer",
-      "folder": "data\\USA_1_mls",
+      "folder": "data/USA_1_mls",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -868,7 +868,7 @@
     },
     {
       "league": "J1 League",
-      "folder": "data\\JPN_1_j1-league",
+      "folder": "data/JPN_1_j1-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -880,7 +880,7 @@
     },
     {
       "league": "A-Leagues",
-      "folder": "data\\AUS_1_a-league",
+      "folder": "data/AUS_1_a-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
@@ -892,7 +892,7 @@
     },
     {
       "league": "Chinese Super League",
-      "folder": "data\\CHN_1_super-league",
+      "folder": "data/CHN_1_super-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,

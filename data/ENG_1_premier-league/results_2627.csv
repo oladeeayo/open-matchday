@@ -49,12 +49,13 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-09-20,14:00,Leeds,Crystal Palace,0,0,D,0,0,D,13,12,2,4,10,12,4,3,2,3,0,0,,fixturedl
 5,2026-09-20,14:00,Man City,Sunderland,5,3,H,3,2,H,16,17,6,9,14,14,6,5,0,1,0,0,"12,29,33,43,57,59,81",fixturedl
 5,2026-09-20,16:30,Fulham,Man Utd,1,1,D,0,0,D,12,29,6,6,9,5,3,13,3,0,0,0,"63,89",fixturedl
-6,2026-10-10,12:30,Arsenal,Leeds,2,1,H,,,,,,,,,,,,,,,,"55,62,70",fixturedl
-6,2026-10-10,15:00,Aston Villa,Brentford,2,2,D,,,,,,,,,,,,,,,,"10,12,77,79",fixturedl
-6,2026-10-10,15:00,Chelsea,Bournemouth,5,1,H,,,,,,,,,,,,,,,,"2,3,46,51,67",fixturedl
-6,2026-10-10,15:00,Ipswich,Fulham,2,1,H,,,,,,,,,,,,,,,,"55,88",fixturedl
-6,2026-10-10,15:00,Sunderland,Brighton,0,2,A,,,,,,,,,,,,,,,,"53,93",fixturedl
-6,2026-10-10,17:30,Man Utd,Spurs,1,1,D,,,,,,,,,,,,,,,,73,fixturedl
-6,2026-10-11,14:00,Crystal Palace,Nott'm Forest,3,1,H,,,,,,,,,,,,,,,,"3,41,59",fixturedl
-6,2026-10-11,14:00,Hull,Everton,2,2,D,,,,,,,,,,,,,,,,"48,68,74",fixturedl
-6,2026-10-11,16:30,Liverpool,Man City,0,3,A,,,,,,,,,,,,,,,,"65,68,78",fixturedl
+6,2026-10-10,12:30,Arsenal,Leeds,2,1,H,0,0,D,13,11,6,5,12,20,2,4,1,4,0,0,"55,62,70",fixturedl
+6,2026-10-10,15:00,Aston Villa,Brentford,2,2,D,1,1,D,20,14,7,4,7,24,2,2,2,5,0,0,"10,12,77,79",fixturedl
+6,2026-10-10,15:00,Chelsea,Bournemouth,5,1,H,2,0,H,10,9,6,4,7,15,1,7,0,4,0,0,"2,3,46,51,67",fixturedl
+6,2026-10-10,15:00,Ipswich,Fulham,2,1,H,0,0,D,11,13,5,5,8,10,2,5,2,4,0,0,"55,88",fixturedl
+6,2026-10-10,15:00,Sunderland,Brighton,0,2,A,0,0,D,12,13,3,4,8,12,7,5,0,1,0,1,"53,93",fixturedl
+6,2026-10-10,17:30,Man Utd,Spurs,1,1,D,0,0,D,12,12,4,3,13,16,4,4,4,3,0,1,73,fixturedl
+6,2026-10-11,14:00,Crystal Palace,Nott'm Forest,3,1,H,2,1,H,13,24,7,6,11,10,5,8,2,2,0,0,"3,41,59",fixturedl
+6,2026-10-11,14:00,Hull,Everton,2,2,D,0,0,D,9,15,5,7,15,4,7,6,2,0,0,0,"48,68,74",fixturedl
+6,2026-10-11,16:30,Liverpool,Man City,0,3,A,0,0,D,13,15,6,4,19,14,5,6,4,2,1,0,"65,68,78",fixturedl
+6,2026-10-12,20:00,Coventry,Newcastle,4,1,H,1,0,H,9,19,6,6,3,10,2,6,1,1,0,0,"6,48,70,81,86",fixturedl

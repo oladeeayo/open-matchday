@@ -53,12 +53,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 6,2026-09-20,12:30,DSC Arminia Bielefeld,1. FC Heidenheim 1846,2,2,D,1,2,A,6,14,3,7,13,9,5,6,3,4,0,0,"13,30,48,55",openligadb
 6,2026-09-20,12:30,Energie Cottbus,FC St. Pauli,1,1,D,1,0,H,14,7,5,2,13,7,9,3,2,2,0,1,"37,80",openligadb
 6,2026-09-20,12:30,Hannover 96,VfL Bochum,2,1,H,2,0,H,10,28,7,10,12,10,2,12,3,2,0,0,"24,43,77",openligadb
-7,2026-10-09,17:30,1. FC Heidenheim 1846,1. FC Kaiserslautern,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
-7,2026-10-09,17:30,Eintracht Braunschweig,Holstein Kiel,1,0,H,1,0,H,,,,,,,,,,,,,11,openligadb
-7,2026-10-10,12:00,1. FC Magdeburg,Hannover 96,3,0,H,2,0,H,,,,,,,,,,,,,"3,30,86",openligadb
-7,2026-10-10,12:00,SV Darmstadt 98,Energie Cottbus,3,1,H,1,1,D,,,,,,,,,,,,,"4,36,77,88",openligadb
-7,2026-10-10,12:00,VfL Osnabrück,Dynamo Dresden,1,1,D,0,1,A,,,,,,,,,,,,,"38,87",openligadb
-7,2026-10-10,19:30,1. FC Nürnberg,VfL Wolfsburg,4,4,D,0,2,A,,,,,,,,,,,,,"12,29,52,59,63,91,96,99",openligadb
-7,2026-10-11,12:30,FC St. Pauli,Karlsruher SC,2,0,H,1,0,H,,,,,,,,,,,,,"32,51",openligadb
-7,2026-10-11,12:30,Hertha BSC,SpVgg Greuther Fürth,2,1,H,0,0,D,,,,,,,,,,,,,"65,80,90",openligadb
-7,2026-10-11,12:30,VfL Bochum,DSC Arminia Bielefeld,0,1,A,0,0,D,,,,,,,,,,,,,78,openligadb
+7,2026-10-09,17:30,1. FC Heidenheim 1846,1. FC Kaiserslautern,0,0,D,0,0,D,13,16,4,3,10,11,7,8,0,0,0,0,,openligadb
+7,2026-10-09,17:30,Eintracht Braunschweig,Holstein Kiel,1,0,H,1,0,H,10,11,3,0,12,13,2,3,4,3,0,0,11,openligadb
+7,2026-10-10,12:00,1. FC Magdeburg,Hannover 96,3,0,H,2,0,H,18,15,8,4,8,16,9,7,1,2,0,0,"3,30,86",openligadb
+7,2026-10-10,12:00,SV Darmstadt 98,Energie Cottbus,3,1,H,1,1,D,16,10,7,6,12,10,7,8,3,3,0,0,"4,36,77,88",openligadb
+7,2026-10-10,12:00,VfL Osnabrück,Dynamo Dresden,1,1,D,0,1,A,13,9,5,2,7,11,4,10,5,4,0,0,"38,87",openligadb
+7,2026-10-10,19:30,1. FC Nürnberg,VfL Wolfsburg,4,4,D,0,2,A,21,22,8,9,10,24,6,6,3,3,0,0,"12,29,52,59,63,91,96,99",openligadb
+7,2026-10-11,12:30,FC St. Pauli,Karlsruher SC,2,0,H,1,0,H,13,12,6,5,12,15,6,9,1,2,0,0,"32,51",openligadb
+7,2026-10-11,12:30,Hertha BSC,SpVgg Greuther Fürth,2,1,H,0,0,D,19,17,10,5,10,8,5,12,2,0,0,0,"65,80,90",openligadb
+7,2026-10-11,12:30,VfL Bochum,DSC Arminia Bielefeld,0,1,A,0,0,D,9,12,3,2,9,9,6,4,2,3,0,0,78,openligadb
