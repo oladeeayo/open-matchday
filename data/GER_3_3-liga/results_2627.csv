@@ -79,3 +79,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-10-11,12:30,FC Ingolstadt 04,SV Wehen Wiesbaden,2,4,A,0,0,D,,,,,,,,,,,,,"59,71,72,82,83,91",openligadb
 8,2026-10-11,15:30,Alemannia Aachen,Viktoria Köln,2,5,A,1,4,A,,,,,,,,,,,,,"11,20,22,38,40,58,95",openligadb
 8,2026-10-11,18:30,Fortuna Düsseldorf,SC Verl,2,2,D,1,1,D,,,,,,,,,,,,,"38,45,46,55",openligadb
+9,2026-10-13,18:00,1. FC Saarbrücken,MSV Duisburg,2,4,A,0,3,A,,,,,,,,,,,,,"29,34,42,51,81,90",openligadb
+9,2026-10-13,18:00,Hansa Rostock,SV Meppen,0,2,A,0,0,D,,,,,,,,,,,,,"73,89",openligadb
+9,2026-10-13,18:00,Rot-Weiss Essen,Fortuna Köln,2,0,H,1,0,H,,,,,,,,,,,,,"20,82",openligadb
+9,2026-10-13,18:00,TSV Havelse,Würzburger Kickers,2,2,D,2,0,H,,,,,,,,,,,,,"25,35,70,90",openligadb
+9,2026-10-13,18:00,VfB Stuttgart II,TSG 1899 Hoffenheim II,3,2,H,2,1,H,,,,,,,,,,,,,"7,9,36,68,73",openligadb

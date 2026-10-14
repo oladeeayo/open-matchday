@@ -17,3 +17,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-09-10,20:00,Como,Leipzig,4,1,H,,,,,,,,,,,,,,,,"15,38,54,58,90",fixturedl
 1,2026-09-10,20:00,Man Utd,Sabah,4,0,H,,,,,,,,,,,,,,,,"42,45,68",fixturedl
 1,2026-09-10,20:00,Slavia Praha,Lens,2,3,A,,,,,,,,,,,,,,,,"51,73,88,93",fixturedl
+2,2026-10-13,17:45,Lens,Sporting CP,0,2,A,,,,,,,,,,,,,,,,"22,74",fixturedl
+2,2026-10-13,17:45,Sabah,Slavia Praha,2,0,H,,,,,,,,,,,,,,,,"49,88",fixturedl
+2,2026-10-13,20:00,Arsenal,Lille,3,0,H,,,,,,,,,,,,,,,,"64,67,71",fixturedl
+2,2026-10-13,20:00,Atleti,Man Utd,2,0,H,,,,,,,,,,,,,,,,"1,79",fixturedl
+2,2026-10-13,20:00,Galatasaray,Barcelona,1,4,A,,,,,,,,,,,,,,,,"28,43,53,65",fixturedl
+2,2026-10-13,20:00,Inter,Club Brugge,3,4,A,,,,,,,,,,,,,,,,"30,44,63,74,81,87,93",fixturedl
+2,2026-10-13,20:00,Leipzig,PSV,1,0,H,,,,,,,,,,,,,,,,75,fixturedl
+2,2026-10-13,20:00,Viking,Bayern München,3,3,D,,,,,,,,,,,,,,,,"38,54,71,90",fixturedl
+2,2026-10-13,20:00,Villarreal,Napoli,3,1,H,,,,,,,,,,,,,,,,"8,23,26,86",fixturedl

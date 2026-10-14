@@ -1,5 +1,4 @@
 gw,date,time,home,away
-4,2026-10-13,,Ebbsfleet,AFC Totton
 12,2026-10-17,,Ebbsfleet,Weston-super-Mare
 12,2026-10-17,,Farnborough,Dag & Red
 12,2026-10-17,,Folkestone,AFC Totton
@@ -43,6 +42,7 @@ gw,date,time,home,away
 15,2026-10-31,,Tonbridge,Salisbury
 15,2026-10-31,,Truro,Ebbsfleet
 15,2026-10-31,,Walton & Hersham,Torquay
+12,2026-11-02,,Chelmsford,Farnham
 12,2026-11-03,,Dorking,Hampton & Richmond
 5,2026-11-03,,Farnborough,Ebbsfleet
 16,2026-11-07,,Chelmsford,Farnborough
@@ -58,6 +58,7 @@ gw,date,time,home,away
 16,2026-11-07,,Torquay,Dover
 16,2026-11-07,,Weston-super-Mare,Braintree
 3,2026-11-09,,Chelmsford,Ebbsfleet
+12,2026-11-17,,Tonbridge,Chesham
 12,2026-11-17,,Truro,Billericay
 17,2026-11-21,,AFC Totton,Dag & Red
 17,2026-11-21,,Billericay,Slough
