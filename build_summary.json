@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-14T03:13:57Z",
+  "generated_utc": "2026-10-15T02:54:16Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -69,10 +69,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 27,
-      "fixtures": 117,
+      "results": 36,
+      "fixtures": 108,
       "errors": [],
-      "latest": "2026-10-13"
+      "latest": "2026-10-14"
     },
     {
       "league": "UEFA Europa League",
@@ -177,10 +177,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 87,
-      "fixtures": 27,
+      "results": 88,
+      "fixtures": 26,
       "errors": [],
-      "latest": "2026-09-27"
+      "latest": "2026-10-14"
     },
     {
       "league": "Scottish Cup",
@@ -237,10 +237,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 115,
-      "fixtures": 437,
+      "results": 119,
+      "fixtures": 433,
       "errors": [],
-      "latest": "2026-10-13"
+      "latest": "2026-10-14"
     },
     {
       "league": "EFL League One",
@@ -309,8 +309,8 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 120,
-      "fixtures": 119,
+      "results": 119,
+      "fixtures": 120,
       "errors": [],
       "latest": "2026-10-13"
     },
@@ -381,10 +381,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 85,
-      "fixtures": 295,
+      "results": 90,
+      "fixtures": 290,
       "errors": [],
-      "latest": "2026-10-13"
+      "latest": "2026-10-14"
     },
     {
       "league": "Primeira Liga",
@@ -585,10 +585,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 98,
-      "fixtures": 118,
+      "results": 99,
+      "fixtures": 117,
       "errors": [],
-      "latest": "2026-10-12"
+      "latest": "2026-10-14"
     },
     {
       "league": "Pro League U21",
@@ -657,10 +657,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 79,
-      "fixtures": 113,
+      "results": 80,
+      "fixtures": 112,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-14"
     },
     {
       "league": "Ukrainian Premier League",
@@ -729,10 +729,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 108,
-      "fixtures": 26,
+      "results": 106,
+      "fixtures": 24,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-14"
     },
     {
       "league": "Segunda División",
@@ -813,10 +813,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 2,
       "dropped_stale_postponed": 0,
-      "results": 428,
-      "fixtures": 59,
+      "results": 429,
+      "fixtures": 58,
       "errors": [],
-      "latest": "2026-10-12"
+      "latest": "2026-10-14"
     },
     {
       "league": "Primera Nacional",
@@ -861,10 +861,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 450,
-      "fixtures": 95,
+      "results": 460,
+      "fixtures": 85,
       "errors": [],
-      "latest": "2026-10-11"
+      "latest": "2026-10-15"
     },
     {
       "league": "J1 League",
