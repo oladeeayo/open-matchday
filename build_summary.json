@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-15T02:54:16Z",
+  "generated_utc": "2026-10-16T02:50:26Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -81,10 +81,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 18,
-      "fixtures": 126,
+      "results": 36,
+      "fixtures": 108,
       "errors": [],
-      "latest": "2026-09-17"
+      "latest": "2026-10-15"
     },
     {
       "league": "UEFA Conference League",
@@ -93,10 +93,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 0,
-      "fixtures": 108,
+      "results": 18,
+      "fixtures": 90,
       "errors": [],
-      "latest": ""
+      "latest": "2026-10-15"
     },
     {
       "league": "EFL Cup (Carabao Cup)",
@@ -249,10 +249,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 102,
-      "fixtures": 450,
+      "results": 103,
+      "fixtures": 449,
       "errors": [],
-      "latest": "2026-10-10"
+      "latest": "2026-10-15"
     },
     {
       "league": "EFL League Two",
@@ -573,10 +573,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 89,
-      "fixtures": 118,
+      "results": 90,
+      "fixtures": 117,
       "errors": [],
-      "latest": "2026-10-12"
+      "latest": "2026-10-15"
     },
     {
       "league": "II Liga",
@@ -813,10 +813,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 2,
       "dropped_stale_postponed": 0,
-      "results": 429,
-      "fixtures": 58,
+      "results": 430,
+      "fixtures": 57,
       "errors": [],
-      "latest": "2026-10-14"
+      "latest": "2026-10-15"
     },
     {
       "league": "Primera Nacional",
@@ -861,8 +861,8 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 460,
-      "fixtures": 85,
+      "results": 466,
+      "fixtures": 79,
       "errors": [],
       "latest": "2026-10-15"
     },

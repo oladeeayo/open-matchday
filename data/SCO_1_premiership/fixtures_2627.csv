@@ -49,21 +49,21 @@ gw,date,time,home,away
 17,2026-12-05,16:00,Aberdeen,Dundee United
 17,2026-12-05,16:00,Celtic,St. Johnstone
 17,2026-12-05,16:00,Dundee,Falkirk
-17,2026-12-05,16:00,Hibernian,Rangers
 17,2026-12-05,16:00,Motherwell,Kilmarnock
-17,2026-12-05,16:00,St. Mirren,Heart of Midlothian
+17,2026-12-05,18:30,St. Mirren,Heart of Midlothian
+17,2026-12-07,21:00,Hibernian,Rangers
 18,2026-12-12,16:00,Dundee United,St. Mirren
 18,2026-12-12,16:00,Falkirk,Aberdeen
 18,2026-12-12,16:00,Kilmarnock,Dundee
-18,2026-12-12,16:00,St. Johnstone,Rangers
+18,2026-12-13,13:00,St. Johnstone,Rangers
 18,2026-12-13,16:00,Celtic,Hibernian
 18,2026-12-13,16:00,Heart of Midlothian,Motherwell
-19,2026-12-19,16:00,Aberdeen,Celtic
 19,2026-12-19,16:00,Dundee United,Kilmarnock
 19,2026-12-19,16:00,Hibernian,St. Johnstone
 19,2026-12-19,16:00,Motherwell,Dundee
 19,2026-12-19,16:00,St. Mirren,Falkirk
-19,2026-12-20,16:00,Rangers,Heart of Midlothian
+19,2026-12-20,13:00,Aberdeen,Celtic
+19,2026-12-20,15:30,Rangers,Heart of Midlothian
 20,2026-12-26,16:00,Celtic,Motherwell
 20,2026-12-26,16:00,Dundee,St. Mirren
 20,2026-12-26,16:00,Falkirk,Dundee United

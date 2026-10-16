@@ -17,3 +17,21 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-09-17,20:00,Lillestrøm,Torreense,1,2,A,,,,,,,,,,,,,,,,"49,79",fixturedl
 1,2026-09-17,20:00,Real Sociedad,Bournemouth,1,2,A,,,,,,,,,,,,,,,,"11,57",fixturedl
 1,2026-09-17,20:00,Viktoria Plzen,Union SG,0,3,A,,,,,,,,,,,,,,,,"17,43",fixturedl
+2,2026-10-15,17:45,AZ Alkmaar,H. Beer-Sheva,2,1,H,,,,,,,,,,,,,,,,"49,55,77",fixturedl
+2,2026-10-15,17:45,Celje,Omonia,0,3,A,,,,,,,,,,,,,,,,"16,59,84",fixturedl
+2,2026-10-15,17:45,Lech Poznan,Leverkusen,0,4,A,,,,,,,,,,,,,,,,"29,32,41,88",fixturedl
+2,2026-10-15,17:45,Lyon,Crystal Palace,3,2,H,,,,,,,,,,,,,,,,"8,47,50,76,81",fixturedl
+2,2026-10-15,17:45,Salzburg,Milan,0,4,A,,,,,,,,,,,,,,,,"49,72",fixturedl
+2,2026-10-15,17:45,Sparta Praha,Lillestrøm,1,1,D,,,,,,,,,,,,,,,,"56,91",fixturedl
+2,2026-10-15,17:45,Torreense,Sunderland,1,2,A,,,,,,,,,,,,,,,,37,fixturedl
+2,2026-10-15,17:45,Union SG,Real Sociedad,1,1,D,,,,,,,,,,,,,,,,"46,88",fixturedl
+2,2026-10-15,20:00,Benfica,Celtic,4,1,H,,,,,,,,,,,,,,,,"5,23,36,89",fixturedl
+2,2026-10-15,20:00,Bournemouth,Sturm Graz,3,0,H,,,,,,,,,,,,,,,,"76,92",fixturedl
+2,2026-10-15,20:00,Celta,Juventus,1,2,A,,,,,,,,,,,,,,,,"18,58",fixturedl
+2,2026-10-15,20:00,Ferencváros,Viktoria Plzen,2,1,H,,,,,,,,,,,,,,,,"49,81,90",fixturedl
+2,2026-10-15,20:00,GNK Dinamo,Anderlecht,1,0,H,,,,,,,,,,,,,,,,96,fixturedl
+2,2026-10-15,20:00,Hoffenheim,Besiktas,2,3,A,,,,,,,,,,,,,,,,"60,68,72,79",fixturedl
+2,2026-10-15,20:00,Jagiellonia,Ararat-Armenia,3,1,H,,,,,,,,,,,,,,,,"11,13,38,51",fixturedl
+2,2026-10-15,20:00,Marseille,Olympiacos,0,1,A,,,,,,,,,,,,,,,,,fixturedl
+2,2026-10-15,20:00,N.E.C.,Levski Sofia,1,1,D,,,,,,,,,,,,,,,,"35,64",fixturedl
+2,2026-10-15,20:00,Rennes,OFI Crete,2,1,H,,,,,,,,,,,,,,,,76,fixturedl

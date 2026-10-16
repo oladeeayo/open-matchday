@@ -1,1 +1,19 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-10-15,17:45,CSKA Sofia,Monaco,1,2,A,,,,,,,,,,,,,,,,"3,43",fixturedl
+1,2026-10-15,17:45,Egnatia,Midtjylland,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+1,2026-10-15,17:45,Gent,Aarhus,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+1,2026-10-15,17:45,Hajduk Split,Ajax,2,1,H,,,,,,,,,,,,,,,,"37,53,55",fixturedl
+1,2026-10-15,17:45,KuPS Kuopio,Trabzonspor,2,4,A,,,,,,,,,,,,,,,,"3,44,47,54,91,96",fixturedl
+1,2026-10-15,17:45,Lugano,Crvena Zvezda,3,2,H,,,,,,,,,,,,,,,,"25,32,67,84,89",fixturedl
+1,2026-10-15,17:45,Mjällby,Inter Escaldes,2,0,H,,,,,,,,,,,,,,,,54,fixturedl
+1,2026-10-15,17:45,Panathinaikos,Borac,2,1,H,,,,,,,,,,,,,,,,"10,70,80",fixturedl
+1,2026-10-15,17:45,Riga,Kairat Almaty,1,1,D,,,,,,,,,,,,,,,,"5,12",fixturedl
+1,2026-10-15,17:45,U. Craiova,Getafe,1,1,D,,,,,,,,,,,,,,,,"59,81",fixturedl
+1,2026-10-15,20:00,Atalanta,Pafos,3,1,H,,,,,,,,,,,,,,,,"1,18,44",fixturedl
+1,2026-10-15,20:00,Brann,L. Red Imps,2,1,H,,,,,,,,,,,,,,,,"59,81",fixturedl
+1,2026-10-15,20:00,Brighton,Kauno Žalgiris,4,0,H,,,,,,,,,,,,,,,,"41,47,53",fixturedl
+1,2026-10-15,20:00,Copenhagen,Braga,3,0,H,,,,,,,,,,,,,,,,"79,86",fixturedl
+1,2026-10-15,20:00,Freiburg,Jablonec,3,2,H,,,,,,,,,,,,,,,,"28,53,65,93",fixturedl
+1,2026-10-15,20:00,Hearts,Nordsjælland,1,1,D,,,,,,,,,,,,,,,,"33,86",fixturedl
+1,2026-10-15,20:00,Sint-Truidense,Iberia Tbilisi,2,0,H,,,,,,,,,,,,,,,,"11,88",fixturedl
+1,2026-10-15,20:00,Twente,Thun,1,0,H,,,,,,,,,,,,,,,,65,fixturedl
