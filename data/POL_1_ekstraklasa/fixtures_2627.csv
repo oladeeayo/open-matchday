@@ -1,6 +1,4 @@
 gw,date,time,home,away
-11,2026-10-16,,Widzew Lodz,Wisla
-11,2026-10-16,,Wieczysta Krakow,Rakow
 11,2026-10-17,,Cracovia,Legia
 11,2026-10-17,,GKS Katowice,Pogon Szczecin
 11,2026-10-17,,Motor Lublin,Slask Wroclaw
@@ -109,3 +107,12 @@ gw,date,time,home,away
 22,2027-02-20,,Wisla,Pogon Szczecin
 22,2027-02-20,,Wisla Plock,GKS Katowice
 22,2027-02-20,,Zaglebie,Radomiak Radom
+23,2027-02-27,,Cracovia,Radomiak Radom
+23,2027-02-27,,GKS Katowice,Gornik Zabrze
+23,2027-02-27,,Jagiellonia,Rakow
+23,2027-02-27,,Korona Kielce,Wisla Plock
+23,2027-02-27,,Lech Poznan,Widzew Lodz
+23,2027-02-27,,Piast Gliwice,Motor Lublin
+23,2027-02-27,,Pogon Szczecin,Zaglebie
+23,2027-02-27,,Slask Wroclaw,Legia
+23,2027-02-27,,Wieczysta Krakow,Wisla

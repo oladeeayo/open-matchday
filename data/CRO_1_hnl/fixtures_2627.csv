@@ -1,5 +1,4 @@
 gw,date,time,home,away
-10,2026-10-16,,Rudes,Rijeka
 10,2026-10-17,,Lok. Zagreb,Istra 1961
 10,2026-10-17,,Osijek,Gorica
 10,2026-10-18,,Hajduk Split,Varazdin
@@ -105,3 +104,8 @@ gw,date,time,home,away
 30,2027-04-17,,Rijeka,Varazdin
 30,2027-04-17,,Rudes,Din. Zagreb
 30,2027-04-17,,Slaven Belupo,Istra 1961
+31,2027-04-24,,Gorica,Slaven Belupo
+31,2027-04-24,,Istra 1961,Rijeka
+31,2027-04-24,,Lok. Zagreb,Rudes
+31,2027-04-24,,Osijek,Hajduk Split
+31,2027-04-24,,Varazdin,Din. Zagreb

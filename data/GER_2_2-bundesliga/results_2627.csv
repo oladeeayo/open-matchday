@@ -62,3 +62,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-11,12:30,FC St. Pauli,Karlsruher SC,2,0,H,1,0,H,13,12,6,5,12,15,6,9,1,2,0,0,"32,51",openligadb
 7,2026-10-11,12:30,Hertha BSC,SpVgg Greuther Fürth,2,1,H,0,0,D,19,17,10,5,10,8,5,12,2,0,0,0,"65,80,90",openligadb
 7,2026-10-11,12:30,VfL Bochum,DSC Arminia Bielefeld,0,1,A,0,0,D,9,12,3,2,9,9,6,4,2,3,0,0,78,openligadb
+8,2026-10-16,17:30,Energie Cottbus,1. FC Nürnberg,1,1,D,0,0,D,,,,,,,,,,,,,"56,79",openligadb
+8,2026-10-16,17:30,Holstein Kiel,Hertha BSC,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
