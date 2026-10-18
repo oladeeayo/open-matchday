@@ -1,16 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-2,2026-08-15,,Bedford,Darlington,2,3,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Brackley Town,Hebburn Town,1,1,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Chester,King’s Lynn,2,0,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Harborough,Morecambe,1,0,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Hednesford,Scarborough,3,4,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Hereford,Marine,1,0,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Macclesfield,Radcliffe,2,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,South Shields,Chorley,2,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Southport,Buxton,1,1,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Spalding United,Oxford City,0,1,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Spennymoor,Merthyr Town,2,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-15,,Worksop,AFC Telford,2,1,H,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-18,,Bedford,Buxton,2,1,H,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-18,,Brackley Town,King’s Lynn,0,2,A,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-18,,Darlington,Chester,0,1,A,,,,,,,,,,,,,,,,,soccerway
@@ -119,3 +107,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-10-10,,Marine,Spalding United,1,0,H,,,,,,,,,,,,,,,,,soccerway
 11,2026-10-10,,Radcliffe,Scarborough,4,1,H,,,,,,,,,,,,,,,,,soccerway
 11,2026-10-10,,Worksop,Morecambe,2,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-17,,AFC Telford,Darlington,2,1,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-17,,Buxton,Worksop,2,2,D,,,,,,,,,,,,,,,,,soccerway
+14,2026-10-17,,Hebburn Town,Scarborough,0,2,A,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-17,,Hednesford,Brackley Town,3,2,H,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-17,,Merthyr Town,King’s Lynn,1,1,D,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-17,,Southport,Radcliffe,0,2,A,,,,,,,,,,,,,,,,,soccerway

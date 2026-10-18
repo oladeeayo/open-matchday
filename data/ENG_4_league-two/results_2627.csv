@@ -113,3 +113,15 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-10,15:00,Shrewsbury Town,Exeter City,0,1,A,0,0,D,13,5,3,1,17,9,7,3,4,2,0,0,,fixturedl
 10,2026-10-10,15:00,Tranmere Rovers,Rochdale,1,1,D,1,0,H,15,7,4,1,8,11,5,3,0,1,0,0,,fixturedl
 10,2026-10-10,15:00,York City,Northampton Town,1,1,D,0,1,A,13,14,2,3,8,13,8,4,2,1,0,0,,fixturedl
+11,2026-10-17,12:30,Fleetwood Town,Rotherham United,2,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,12:30,Shrewsbury Town,Bristol Rovers,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Accrington Stanley,Gillingham,3,1,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Colchester United,Exeter City,0,0,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Crewe Alexandra,Rochdale,3,2,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Grimsby Town,Northampton Town,0,2,A,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Newport County,York City,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Oldham Athletic,Cheltenham Town,4,1,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Port Vale,Chesterfield,1,0,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Salford City,Crawley Town,2,1,H,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Swindon Town,Walsall,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+11,2026-10-17,15:00,Tranmere Rovers,Barnet,1,2,A,,,,,,,,,,,,,,,,,fixturedl

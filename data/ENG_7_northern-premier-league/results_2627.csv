@@ -1,14 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-3,2026-08-15,,Alfreton,Avro,3,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Bamber Bridge,Ashton Utd,1,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Bury,Warrington Rylands,1,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,FC United,Gainsborough,0,3,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Lancaster,Hyde,1,2,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Quorn,Redcar Athletic,1,1,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Stockton,Leek,1,1,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Warrington,Cleethorpes,1,1,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Whitby,Ilkeston,2,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Workington,Guiseley,2,2,D,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-18,,Ashton Utd,Whitby,2,0,H,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-18,,Cleethorpes,Alfreton,2,1,H,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-18,,Curzon Ashton,Bamber Bridge,2,2,D,,,,,,,,,,,,,,,,,soccerway
@@ -118,3 +108,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-10-13,,Redcar Athletic,Avro,3,1,H,,,,,,,,,,,,,,,,,soccerway
 14,2026-10-13,,Warrington Rylands,Curzon Ashton,5,1,H,,,,,,,,,,,,,,,,,soccerway
 14,2026-10-13,,Workington,Whitby,1,2,A,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Alfreton,Warrington,1,1,D,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Ashton Utd,Redcar Athletic,1,2,A,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Bamber Bridge,Workington,1,2,A,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Gainsborough,Hyde,4,0,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Ilkeston,Avro,2,0,H,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Lancaster,Leek,1,2,A,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Stockton,Emley,1,3,A,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-17,,Whitby,Curzon Ashton,1,0,H,,,,,,,,,,,,,,,,,soccerway

@@ -1,9 +1,4 @@
 gw,date,time,home,away
-11,2026-10-17,,Clyde,Annan
-11,2026-10-17,,Dumbarton,Stirling
-11,2026-10-17,,Elgin City,Edinburgh City
-11,2026-10-17,,Kelty Hearts,Forfar Athletic
-11,2026-10-17,,Spartans,Stranraer
 12,2026-10-31,,Edinburgh City,Dumbarton
 12,2026-10-31,,Kelty Hearts,Elgin City
 12,2026-10-31,,Spartans,Annan
@@ -109,3 +104,8 @@ gw,date,time,home,away
 32,2027-04-03,,Forfar Athletic,Edinburgh City
 32,2027-04-03,,Kelty Hearts,Spartans
 32,2027-04-03,,Stranraer,Elgin City
+33,2027-04-10,,Edinburgh City,Kelty Hearts
+33,2027-04-10,,Elgin City,Annan
+33,2027-04-10,,Forfar Athletic,Clyde
+33,2027-04-10,,Spartans,Dumbarton
+33,2027-04-10,,Stranraer,Stirling

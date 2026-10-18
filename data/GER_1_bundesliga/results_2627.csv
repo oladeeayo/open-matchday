@@ -45,3 +45,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-10-11,14:30,1. FC Köln,Borussia Mönchengladbach,2,1,H,1,1,D,19,16,7,7,8,17,6,6,1,3,0,0,"26,39,66",openligadb
 5,2026-10-11,16:30,SC Freiburg,FC Schalke 04,2,1,H,1,1,D,10,5,4,1,11,13,7,2,1,1,1,0,"10,30,85",openligadb
 6,2026-10-16,19:30,Eintracht Frankfurt,1. FC Köln,1,0,H,0,0,D,,,,,,,,,,,,,77,openligadb
+6,2026-10-17,14:30,1. FC Union Berlin,Borussia Dortmund,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
+6,2026-10-17,14:30,FC Schalke 04,1. FSV Mainz 05,0,1,A,0,1,A,,,,,,,,,,,,,24,openligadb
+6,2026-10-17,14:30,Hamburger SV,VfB Stuttgart,1,0,H,0,0,D,,,,,,,,,,,,,88,openligadb
+6,2026-10-17,14:30,SV 07 Elversberg,FC Augsburg,4,3,H,3,1,H,,,,,,,,,,,,,"4,7,28,54,76,89,90",openligadb
+6,2026-10-17,14:30,SV Werder Bremen,SC Paderborn 07,2,2,D,0,2,A,,,,,,,,,,,,,"18,30,59,65",openligadb
+6,2026-10-17,17:30,FC Bayern München,RB Leipzig,6,1,H,3,0,H,,,,,,,,,,,,,"12,26,34,47,53,69,91",openligadb

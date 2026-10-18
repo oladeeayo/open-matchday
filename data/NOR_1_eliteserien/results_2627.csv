@@ -1,7 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-8,2026-05-20,,Aalesund,Brann,2,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-05-20,,Lillestrom,Kristiansund,1,2,A,,,,,,,,,,,,,,,,,soccerway
-8,2026-05-20,,Start,Bodo/Glimt,1,4,A,,,,,,,,,,,,,,,,,soccerway
 10,2026-05-24,,Bodo/Glimt,Brann,3,1,H,,,,,,,,,,,,,,,,,soccerway
 10,2026-05-24,,Kristiansund,Viking,1,2,A,,,,,,,,,,,,,,,,,soccerway
 10,2026-05-25,,HamKam,Lillestrom,2,0,H,,,,,,,,,,,,,,,,,soccerway
@@ -104,3 +101,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 23,2026-10-11,,Lillestrom,Molde,2,2,D,,,,,,,,,,,,,,,,,soccerway
 23,2026-10-11,,Start,HamKam,2,4,A,,,,,,,,,,,,,,,,,soccerway
 23,2026-10-12,,KFUM Oslo,Valerenga,2,1,H,,,,,,,,,,,,,,,,,soccerway
+24,2026-10-17,,HamKam,Bodo/Glimt,0,2,A,,,,,,,,,,,,,,,,,soccerway
+24,2026-10-17,,Kristiansund,Aalesund,1,4,A,,,,,,,,,,,,,,,,,soccerway
+24,2026-10-17,,Viking,Fredrikstad,3,2,H,,,,,,,,,,,,,,,,,soccerway

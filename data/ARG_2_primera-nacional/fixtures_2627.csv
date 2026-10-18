@@ -1,12 +1,5 @@
 gw,date,time,home,away
 26,2026-08-03,20:00,Güemes,Tristán Suárez
-36,2026-10-17,02:00,Gimnasia y Tiro (Salta),Atlanta
-36,2026-10-17,18:30,Chacarita Juniors,Deportivo Maipú
-36,2026-10-17,19:00,Agropecuario,Colegiales
-36,2026-10-17,19:30,Acassuso,Deportivo Madryn
-36,2026-10-17,19:30,San Miguel,Ciudad de Bolívar
-36,2026-10-17,20:30,Tristán Suárez,Patronato
-36,2026-10-17,22:00,Colón (Santa Fe),Almirante Brown
 36,2026-10-18,19:00,Deportivo Morón,Mitre (Santiago del Estero)
 36,2026-10-18,19:30,Los Andes,All Boys
 36,2026-10-18,19:30,Nueva Chicago,Gimnasia y Esgrima (Jujuy)
@@ -19,22 +12,22 @@ gw,date,time,home,away
 37,2026-10-19,19:30,San Telmo,Defensores de Belgrano
 37,2026-10-24,00:00,Colegiales,Atletico Rafaela
 37,2026-10-24,19:30,Almagro,Tristán Suárez
+37,2026-10-24,20:00,Ferro Carril Oeste,Chaco For Ever
 37,2026-10-24,20:00,Quilmes,San Martín (Tucumán)
-37,2026-10-24,21:00,Defensores de Belgrano,San Miguel
-37,2026-10-24,21:00,Ferro Carril Oeste,Chaco For Ever
-37,2026-10-24,21:00,Nueva Chicago,San Martín (San Juan)
 37,2026-10-24,23:00,Deportivo Madryn,San Telmo
 37,2026-10-25,01:00,Ciudad de Bolívar,Colón (Santa Fe)
-37,2026-10-25,20:30,Almirante Brown,Deportivo Morón
-37,2026-10-25,20:30,Estudiantes (Buenos Aires),Los Andes
-37,2026-10-25,21:00,Gimnasia y Esgrima (Jujuy),Atlanta
-37,2026-10-25,21:00,Patronato,Agropecuario
-37,2026-10-25,21:00,Temperley,Chacarita Juniors
-37,2026-10-25,22:00,Central Norte,Acassuso
-37,2026-10-25,22:00,Deportivo Maipú,Güemes
-37,2026-10-25,22:00,Midland,Gimnasia y Tiro (Salta)
-37,2026-10-25,22:00,Mitre (Santiago del Estero),Godoy Cruz Antonio Tomba
-37,2026-10-25,23:00,Racing (Córdoba),All Boys
+37,2026-10-25,19:30,Almirante Brown,Deportivo Morón
+37,2026-10-25,19:30,Estudiantes (Buenos Aires),Los Andes
+37,2026-10-25,20:00,Gimnasia y Esgrima (Jujuy),Atlanta
+37,2026-10-25,20:00,Patronato,Agropecuario
+37,2026-10-25,20:00,Temperley,Chacarita Juniors
+37,2026-10-25,21:00,Central Norte,Acassuso
+37,2026-10-25,21:00,Deportivo Maipú,Güemes
+37,2026-10-25,21:00,Midland,Gimnasia y Tiro (Salta)
+37,2026-10-25,21:00,Mitre (Santiago del Estero),Godoy Cruz Antonio Tomba
+37,2026-10-25,22:00,Racing (Córdoba),All Boys
+38,2026-10-26,19:30,Defensores de Belgrano,San Miguel
+38,2026-10-26,23:00,Nueva Chicago,San Martín (San Juan)
 38,2026-10-31,19:00,Acassuso,Ferro Carril Oeste
 38,2026-10-31,19:00,Agropecuario,Almagro
 38,2026-10-31,19:00,All Boys,Estudiantes (Buenos Aires)
