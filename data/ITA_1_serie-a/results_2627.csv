@@ -63,3 +63,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-17,14:00,Venezia,Napoli,1,0,H,,,,,,,,,,,,,,,,49,fixturedl
 7,2026-10-17,17:00,Bologna,Internazionale,1,3,A,,,,,,,,,,,,,,,,"10,69,83",fixturedl
 7,2026-10-17,19:45,Roma,Genoa,2,0,H,,,,,,,,,,,,,,,,"50,68",fixturedl
+7,2026-10-18,11:30,Udinese,Lecce,0,3,A,,,,,,,,,,,,,,,,"33,86",fixturedl
+7,2026-10-18,14:00,Fiorentina,Como,1,3,A,,,,,,,,,,,,,,,,"32,42,56",fixturedl
+7,2026-10-18,17:00,Milan,Atalanta,3,2,H,,,,,,,,,,,,,,,,"24,43,66,81",fixturedl
+7,2026-10-18,19:45,Juventus,Lazio,0,3,A,,,,,,,,,,,,,,,,"66,89",fixturedl

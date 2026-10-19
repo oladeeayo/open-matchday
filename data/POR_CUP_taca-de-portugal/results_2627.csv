@@ -1,5 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-08-28,,Beira Mar,Uniao Lamas,3,3,D,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-29,,Fatima,SB Castelo Branco,3,1,H,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-29,,Malveira,Mafra,2,3,A,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-29,,Montijo,Atletico CP,0,4,A,,,,,,,,,,,,,,,,,soccerway
@@ -100,3 +99,16 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 1,2026-10-17,,SC Farense,AD Marco 09,3,0,H,,,,,,,,,,,,,,,,,soccerway
 1,2026-10-17,,SC Vianense,Leixoes,1,0,H,,,,,,,,,,,,,,,,,soccerway
 1,2026-10-17,,Sanjoanense,Nacional,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Brito,Vitoria Sernache,0,1,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,FC Alpendorada,Casa Pia,0,1,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Fatima,Academico Viseu,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Felgueiras,AD Fafe,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,GD Alcochetense,Maritimo,1,2,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Lusitania FC,AD Limianos,2,1,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Mafra,Santa Clara,3,2,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Olhanense,Oliveira Hospital,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Os Belenenses,Arouca,3,4,A,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Paredes,Famalicao,1,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Salgueiros,Estoril,1,1,D,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Tondela,Alverca,2,0,H,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Vitoria Setubal,Uniao Da Serra,1,1,D,,,,,,,,,,,,,,,,,soccerway

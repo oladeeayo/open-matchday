@@ -92,7 +92,10 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-16,18:00,Fortuna Köln,VfB Stuttgart II,0,1,A,0,0,D,,,,,,,,,,,,,80,openligadb
 10,2026-10-17,13:00,Alemannia Aachen,Hansa Rostock,2,0,H,2,0,H,,,,,,,,,,,,,"8,26",openligadb
 10,2026-10-17,13:00,FC Ingolstadt 04,Rot-Weiss Essen,1,0,H,0,0,D,,,,,,,,,,,,,47,openligadb
-10,2026-10-17,13:00,Fortuna Düsseldorf,1. FC Saarbrücken,1,3,A,1,1,D,,,,,,,,,,,,,"10,13,51",openligadb
+10,2026-10-17,13:00,Fortuna Düsseldorf,1. FC Saarbrücken,1,3,A,1,1,D,,,,,,,,,,,,,"10,13,51,90",openligadb
 10,2026-10-17,13:00,Jahn Regensburg,SV Wehen Wiesbaden,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
-10,2026-10-17,13:00,SG Sonnenhof Großaspach,Preußen Münster,3,2,H,0,2,A,,,,,,,,,,,,,"16,45,62",openligadb
+10,2026-10-17,13:00,SG Sonnenhof Großaspach,Preußen Münster,3,2,H,0,2,A,,,,,,,,,,,,,"16,45,62,68,83",openligadb
 10,2026-10-17,15:30,Würzburger Kickers,SV Waldhof Mannheim,2,0,H,1,0,H,,,,,,,,,,,,,"44,89",openligadb
+10,2026-10-18,12:30,TSG 1899 Hoffenheim II,SC Verl,2,1,H,2,1,H,,,,,,,,,,,,,"5,15,22",openligadb
+10,2026-10-18,15:30,MSV Duisburg,Viktoria Köln,1,1,D,1,0,H,,,,,,,,,,,,,"28,74",openligadb
+10,2026-10-18,18:30,SV Meppen,TSV Havelse,1,1,D,1,1,D,,,,,,,,,,,,,"13,15",openligadb
