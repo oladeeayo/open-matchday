@@ -1,5 +1,4 @@
 gw,date,time,home,away
-11,2026-10-19,,Wisla Plock,Radomiak Radom
 12,2026-10-23,,Motor Lublin,Zaglebie
 12,2026-10-23,,Widzew Lodz,Gornik Zabrze
 12,2026-10-24,,Korona Kielce,GKS Katowice
@@ -27,15 +26,15 @@ gw,date,time,home,away
 14,2026-11-08,,Jagiellonia,GKS Katowice
 14,2026-11-08,,Lech Poznan,Zaglebie
 14,2026-11-08,,Legia,Rakow
+15,2026-11-20,,Piast Gliwice,Korona Kielce
+15,2026-11-20,,Pogon Szczecin,Slask Wroclaw
 15,2026-11-21,,Cracovia,Jagiellonia
-15,2026-11-21,,GKS Katowice,Lech Poznan
-15,2026-11-21,,Piast Gliwice,Korona Kielce
-15,2026-11-21,,Pogon Szczecin,Slask Wroclaw
 15,2026-11-21,,Radomiak Radom,Wisla
-15,2026-11-21,,Rakow,Widzew Lodz
-15,2026-11-21,,Wieczysta Krakow,Motor Lublin
-15,2026-11-21,,Wisla Plock,Legia
 15,2026-11-21,,Zaglebie,Gornik Zabrze
+15,2026-11-22,,GKS Katowice,Lech Poznan
+15,2026-11-22,,Rakow,Widzew Lodz
+15,2026-11-22,,Wisla Plock,Legia
+15,2026-11-23,,Wieczysta Krakow,Motor Lublin
 16,2026-11-28,,Gornik Zabrze,Wisla Plock
 16,2026-11-28,,Jagiellonia,Radomiak Radom
 16,2026-11-28,,Korona Kielce,Cracovia

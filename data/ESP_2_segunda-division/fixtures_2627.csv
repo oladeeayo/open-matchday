@@ -1,5 +1,4 @@
 gw,date,time,home,away
-11,2026-10-19,19:30,RC Celta Fortuna,Tenerife
 11,2026-10-23,19:30,Granada,Real Valladolid
 11,2026-10-24,13:00,Córdoba,Eibar
 11,2026-10-24,15:15,Leganés,Mallorca
@@ -33,17 +32,17 @@ gw,date,time,home,away
 13,2026-11-08,18:30,Las Palmas,Eldense
 13,2026-11-08,18:30,Sporting Gijón,Real Valladolid
 14,2026-11-09,20:30,CD Sabadell,Real Sociedad II
-14,2026-11-15,21:00,Albacete,RC Celta Fortuna
-14,2026-11-15,21:00,Almería,FC Andorra
-14,2026-11-15,21:00,Eibar,Cádiz
-14,2026-11-15,21:00,Eldense,CD Sabadell
-14,2026-11-15,21:00,Granada,Las Palmas
-14,2026-11-15,21:00,Leganés,Burgos
-14,2026-11-15,21:00,Mallorca,Córdoba
-14,2026-11-15,21:00,Real Oviedo,Girona
-14,2026-11-15,21:00,Real Sociedad II,Sporting Gijón
-14,2026-11-15,21:00,Real Valladolid,Castellón
-14,2026-11-15,21:00,Tenerife,Ceuta
+14,2026-11-13,20:30,Leganés,Burgos
+14,2026-11-14,14:00,Real Valladolid,Castellón
+14,2026-11-14,16:15,Real Sociedad II,Sporting Gijón
+14,2026-11-14,18:30,Almería,FC Andorra
+14,2026-11-14,18:30,Mallorca,Córdoba
+14,2026-11-14,21:00,Real Oviedo,Girona
+14,2026-11-15,14:00,Tenerife,Ceuta
+14,2026-11-15,16:15,Granada,Las Palmas
+14,2026-11-15,18:30,Eibar,Cádiz
+14,2026-11-15,18:30,Eldense,CD Sabadell
+15,2026-11-16,20:30,Albacete,RC Celta Fortuna
 15,2026-11-22,21:00,Burgos,Albacete
 15,2026-11-22,21:00,CD Sabadell,Granada
 15,2026-11-22,21:00,Castellón,Eldense
