@@ -1,22 +1,19 @@
 gw,date,time,home,away
-15,2026-10-21,01:07,Guadalajara,Necaxa
-15,2026-10-21,02:00,Atlético de San Luis,Querétaro
-15,2026-10-21,02:00,FC Juárez,Atlante
-15,2026-10-21,04:00,Tigres UANL,León
+15,2026-10-21,04:10,Tigres UANL,León
 15,2026-10-22,02:00,Atlas,América
 15,2026-10-22,02:00,Puebla,Monterrey
 15,2026-10-22,02:00,Toluca,Tijuana
-15,2026-10-22,04:00,Pachuca,Cruz Azul
+15,2026-10-22,04:10,Pachuca,Cruz Azul
 15,2026-10-22,04:10,Santos,Pumas UNAM
 15,2026-10-24,00:00,León,Toluca
 15,2026-10-24,02:00,Necaxa,FC Juárez
 15,2026-10-24,04:00,Atlante,Atlético de San Luis
 15,2026-10-25,00:00,Atlas,Puebla
 15,2026-10-25,01:00,Monterrey,Guadalajara
-15,2026-10-25,04:00,Pumas UNAM,Tigres UANL
-16,2026-10-26,02:00,América,Pachuca
+15,2026-10-25,04:10,Pumas UNAM,Tigres UANL
 16,2026-10-26,02:00,Querétaro,Cruz Azul
-16,2026-10-26,04:00,Tijuana,Santos
+16,2026-10-26,02:05,América,Pachuca
+16,2026-10-26,04:10,Tijuana,Santos
 16,2026-10-29,04:00,América,Tijuana
 16,2026-10-31,00:00,Pachuca,Tigres UANL
 16,2026-10-31,02:00,Atlético de San Luis,Atlas

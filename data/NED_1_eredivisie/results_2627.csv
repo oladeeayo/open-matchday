@@ -71,12 +71,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-10-11,13:30,PEC Zwolle,SC Cambuur,0,1,A,0,0,D,15,13,6,4,16,15,5,5,3,3,0,0,,fixturedl
 8,2026-10-11,13:30,Telstar,ADO Den Haag,2,2,D,2,2,D,30,3,4,2,8,10,8,0,2,1,0,1,,fixturedl
 8,2026-10-11,15:45,Excelsior Rotterdam,FC Groningen,1,5,A,1,2,A,16,14,2,9,10,11,3,6,0,2,0,0,,fixturedl
-9,2026-10-16,19:00,sc Heerenveen,Excelsior Rotterdam,4,0,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,15:30,ADO Den Haag,PSV,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,19:00,Telstar,Feyenoord,3,4,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,20:00,Sparta Rotterdam,Willem II,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-18,11:15,PEC Zwolle,Go Ahead Eagles,4,1,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-18,13:30,SC Cambuur,AZ,2,2,D,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-18,15:45,FC Groningen,Ajax,2,5,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-18,19:00,FC Twente,FC Utrecht,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-18,19:00,N.E.C. Nijmegen,Fortuna Sittard,2,2,D,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,sc Heerenveen,Excelsior Rotterdam,4,0,H,1,0,H,14,5,7,1,9,10,4,1,0,1,0,0,,fixturedl
+9,2026-10-17,15:30,ADO Den Haag,PSV,2,1,H,0,1,A,16,15,5,4,20,9,3,2,3,2,0,1,,fixturedl
+9,2026-10-17,19:00,Telstar,Feyenoord,3,4,A,2,3,A,23,22,9,11,12,6,6,8,1,4,0,0,,fixturedl
+9,2026-10-17,20:00,Sparta Rotterdam,Willem II,3,2,H,1,1,D,22,13,8,4,12,12,3,4,4,4,0,0,,fixturedl
+9,2026-10-18,11:15,PEC Zwolle,Go Ahead Eagles,4,1,H,0,1,A,19,18,9,6,7,8,5,6,0,0,0,0,,fixturedl
+9,2026-10-18,13:30,SC Cambuur,AZ,2,2,D,2,1,H,11,7,6,4,11,15,3,6,3,2,1,0,,fixturedl
+9,2026-10-18,15:45,FC Groningen,Ajax,2,5,A,0,2,A,16,15,5,11,12,17,7,4,1,2,0,0,,fixturedl
+9,2026-10-18,19:00,FC Twente,FC Utrecht,1,2,A,1,0,H,24,16,5,5,11,11,5,4,0,2,0,0,,fixturedl
+9,2026-10-18,19:00,N.E.C. Nijmegen,Fortuna Sittard,2,2,D,1,1,D,24,5,7,3,11,10,13,0,0,2,0,0,,fixturedl

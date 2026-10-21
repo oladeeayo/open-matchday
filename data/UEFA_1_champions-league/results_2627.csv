@@ -35,3 +35,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 2,2026-10-14,20:00,Roma,Real Madrid,3,4,A,,,,,,,,,,,,,,,,"20,25,51,57,83",fixturedl
 2,2026-10-14,20:00,S. Bratislava,Stuttgart,0,3,A,,,,,,,,,,,,,,,,"29,64",fixturedl
 2,2026-10-14,20:00,Shakhtar,AEK Athens,3,1,H,,,,,,,,,,,,,,,,"28,34,80,86",fixturedl
+3,2026-10-20,17:45,Fenerbahçe,Slavia Praha,2,2,D,,,,,,,,,,,,,,,,"4,11,15,90",fixturedl
+3,2026-10-20,17:45,Sabah,B. Dortmund,1,2,A,,,,,,,,,,,,,,,,10,fixturedl
+3,2026-10-20,20:00,Liverpool,Villarreal,4,3,H,,,,,,,,,,,,,,,,"4,29,65,68",fixturedl
+3,2026-10-20,20:00,Man City,AEK Athens,5,1,H,,,,,,,,,,,,,,,,"12,34,52,57,65,76",fixturedl
+3,2026-10-20,20:00,Napoli,Bodø/Glimt,4,3,H,,,,,,,,,,,,,,,,"27,41,62,88",fixturedl
+3,2026-10-20,20:00,Paris,Barcelona,4,2,H,,,,,,,,,,,,,,,,"38,55,79,81,86",fixturedl
+3,2026-10-20,20:00,Porto,PSV,0,1,A,,,,,,,,,,,,,,,,57,fixturedl
+3,2026-10-20,20:00,Roma,S. Bratislava,4,0,H,,,,,,,,,,,,,,,,"39,52,58",fixturedl
+3,2026-10-20,20:00,Stuttgart,Atleti,1,1,D,,,,,,,,,,,,,,,,"36,47",fixturedl

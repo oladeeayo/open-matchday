@@ -62,12 +62,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-11,12:30,FC St. Pauli,Karlsruher SC,2,0,H,1,0,H,13,12,6,5,12,15,6,9,1,2,0,0,"32,51",openligadb
 7,2026-10-11,12:30,Hertha BSC,SpVgg Greuther Fürth,2,1,H,0,0,D,19,17,10,5,10,8,5,12,2,0,0,0,"65,80,90",openligadb
 7,2026-10-11,12:30,VfL Bochum,DSC Arminia Bielefeld,0,1,A,0,0,D,9,12,3,2,9,9,6,4,2,3,0,0,78,openligadb
-8,2026-10-16,17:30,Energie Cottbus,1. FC Nürnberg,1,1,D,0,0,D,,,,,,,,,,,,,"56,79",openligadb
-8,2026-10-16,17:30,Holstein Kiel,Hertha BSC,0,0,D,0,0,D,,,,,,,,,,,,,,openligadb
-8,2026-10-17,12:00,1. FC Kaiserslautern,VfL Bochum,2,0,H,1,0,H,,,,,,,,,,,,,"31,75",openligadb
-8,2026-10-17,12:00,SpVgg Greuther Fürth,Eintracht Braunschweig,2,0,H,1,0,H,,,,,,,,,,,,,"32,63",openligadb
-8,2026-10-17,12:00,VfL Wolfsburg,1. FC Heidenheim 1846,3,1,H,2,1,H,,,,,,,,,,,,,"1,22,46,65",openligadb
-8,2026-10-17,19:30,Hannover 96,FC St. Pauli,1,1,D,0,1,A,,,,,,,,,,,,,"46,48",openligadb
-8,2026-10-18,12:30,DSC Arminia Bielefeld,VfL Osnabrück,2,1,H,1,1,D,,,,,,,,,,,,,"16,26,85",openligadb
-8,2026-10-18,12:30,Dynamo Dresden,1. FC Magdeburg,2,0,H,1,0,H,,,,,,,,,,,,,"9,50",openligadb
-8,2026-10-18,12:30,Karlsruher SC,SV Darmstadt 98,4,0,H,2,0,H,,,,,,,,,,,,,"6,13,51,65",openligadb
+8,2026-10-16,17:30,Energie Cottbus,1. FC Nürnberg,1,1,D,0,0,D,14,19,5,5,9,12,2,8,3,2,0,0,"56,79",openligadb
+8,2026-10-16,17:30,Holstein Kiel,Hertha BSC,0,0,D,0,0,D,6,15,3,7,18,14,1,7,2,2,0,0,,openligadb
+8,2026-10-17,12:00,1. FC Kaiserslautern,VfL Bochum,2,0,H,1,0,H,16,8,3,2,8,11,6,4,1,3,0,0,"31,75",openligadb
+8,2026-10-17,12:00,SpVgg Greuther Fürth,Eintracht Braunschweig,2,0,H,1,0,H,13,19,3,4,8,9,6,9,1,0,0,0,"32,63",openligadb
+8,2026-10-17,12:00,VfL Wolfsburg,1. FC Heidenheim 1846,3,1,H,2,1,H,19,23,10,9,15,9,8,8,4,1,0,0,"1,22,46,65",openligadb
+8,2026-10-17,19:30,Hannover 96,FC St. Pauli,1,1,D,0,1,A,13,15,4,6,11,11,3,3,2,1,0,0,"46,48",openligadb
+8,2026-10-18,12:30,DSC Arminia Bielefeld,VfL Osnabrück,2,1,H,1,1,D,15,8,3,1,14,11,6,0,3,1,0,0,"16,26,85",openligadb
+8,2026-10-18,12:30,Dynamo Dresden,1. FC Magdeburg,2,0,H,1,0,H,12,14,6,4,8,9,3,0,1,0,0,0,"9,50",openligadb
+8,2026-10-18,12:30,Karlsruher SC,SV Darmstadt 98,4,0,H,2,0,H,15,9,7,1,15,10,4,4,1,2,0,0,"6,13,51,65",openligadb

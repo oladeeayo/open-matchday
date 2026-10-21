@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-09-18,,Worcester,Stratford,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-18,,Yate Town,Chippenham,0,0,D,,,,,,,,,,,,,,,,,soccerway
 1,2026-09-19,,AFC Rushden & Diamonds,Peterborough Sports,3,1,H,,,,,,,,,,,,,,,,,soccerway
 1,2026-09-19,,AFC Telford,Worksop,2,2,D,,,,,,,,,,,,,,,,,soccerway
 1,2026-09-19,,AFC Totton,Gloucester,0,2,A,,,,,,,,,,,,,,,,,soccerway
@@ -170,3 +168,14 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-10-17,,Uxbridge,Hornchurch,0,4,A,,,,,,,,,,,,,,,,,soccerway
 5,2026-10-17,,Wealdstone,Worthing,3,0,H,,,,,,,,,,,,,,,,,soccerway
 5,2026-10-17,,Wimborne,Chelmsford,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Alvechurch,Spalding United,4,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Anstey Nomads,Macclesfield,0,3,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Cray Wanderers,Bedford,2,2,D,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,FC United,Altrincham,2,6,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Forest Green,Chesham,5,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Gloucester,Barrow,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Harrogate,Bury,3,1,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Stafford,Gateshead,5,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Tadley,Aldershot,0,2,A,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Worcester,Chorley,1,0,H,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-20,,Yeovil,Leatherhead,5,2,H,,,,,,,,,,,,,,,,,soccerway
