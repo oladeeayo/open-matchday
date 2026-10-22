@@ -44,3 +44,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 3,2026-10-20,20:00,Porto,PSV,0,1,A,,,,,,,,,,,,,,,,57,fixturedl
 3,2026-10-20,20:00,Roma,S. Bratislava,4,0,H,,,,,,,,,,,,,,,,"39,52,58",fixturedl
 3,2026-10-20,20:00,Stuttgart,Atleti,1,1,D,,,,,,,,,,,,,,,,"36,47",fixturedl
+3,2026-10-21,17:45,Como,Man Utd,4,1,H,,,,,,,,,,,,,,,,"2,49,57,91",fixturedl
+3,2026-10-21,17:45,Lille,Galatasaray,2,4,A,,,,,,,,,,,,,,,,"2,7,39,52,61",fixturedl
+3,2026-10-21,20:00,Aston Villa,Viking,3,1,H,,,,,,,,,,,,,,,,"37,62",fixturedl
+3,2026-10-21,20:00,Bayern München,Arsenal,2,2,D,,,,,,,,,,,,,,,,"25,35,61,82",fixturedl
+3,2026-10-21,20:00,Club Brugge,Lens,3,0,H,,,,,,,,,,,,,,,,"48,50,72",fixturedl
+3,2026-10-21,20:00,Inter,Shakhtar,1,0,H,,,,,,,,,,,,,,,,77,fixturedl
+3,2026-10-21,20:00,Real Betis,Feyenoord,1,0,H,,,,,,,,,,,,,,,,59,fixturedl
+3,2026-10-21,20:00,Real Madrid,Leipzig,4,1,H,,,,,,,,,,,,,,,,"43,52,83,85",fixturedl
+3,2026-10-21,20:00,Sporting CP,LASK,2,3,A,,,,,,,,,,,,,,,,"5,15,63,68,89",fixturedl

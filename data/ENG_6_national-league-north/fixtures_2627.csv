@@ -41,8 +41,6 @@ gw,date,time,home,away
 16,2026-11-07,,Harborough,Radcliffe
 16,2026-11-07,,Hednesford,Morecambe
 16,2026-11-07,,King’s Lynn,Spennymoor
-16,2026-11-07,,Macclesfield,Worksop
-16,2026-11-07,,Marine,Bedford
 16,2026-11-07,,Merthyr Town,Hebburn Town
 16,2026-11-07,,Scarborough,Buxton
 16,2026-11-07,,South Shields,Southport
@@ -89,6 +87,7 @@ gw,date,time,home,away
 19,2026-11-28,,Oxford City,Southport
 19,2026-11-28,,Radcliffe,Chester
 19,2026-11-28,,Scarborough,Hereford
+16,2026-12-01,,Marine,Bedford
 20,2026-12-05,,Bedford,Morecambe
 20,2026-12-05,,Brackley Town,Marine
 20,2026-12-05,,Chester,Oxford City
