@@ -1,57 +1,61 @@
 gw,date,time,home,away
-1,2026-10-27,,Alcazar,Malaga
-1,2026-10-27,,Arosa SC,Pontevedra
 1,2026-10-27,,Atl. Paso,Cordoba
-1,2026-10-27,,Atl. Tordesillas,Mirandes
-1,2026-10-27,,Calamocha,CE Europa
-1,2026-10-27,,Castellonense,Almeria
-1,2026-10-27,,Ciudad de Lucena,Rayo Majadahonda
-1,2026-10-27,,Cuarte,Girona
-1,2026-10-27,,Don Benito,CD Extremadura
-1,2026-10-27,,Gimnastica Segoviana,Cultural Leonesa
-1,2026-10-27,,Llanera,Ponferradina
-1,2026-10-27,,Manacor,Villarreal
-1,2026-10-27,,Manresa,Sant Andreu
-1,2026-10-27,,Pinatar,Elche
-1,2026-10-27,,RSD Alcala,Las Palmas
-1,2026-10-27,,Recreativo Huelva,Rayo Vallecano
-1,2026-10-27,,Sestao,Espanyol
-1,2026-10-27,,Tudelano,Zaragoza
-1,2026-10-28,,Alcoyano,Mallorca
-1,2026-10-28,,Amorebieta,UD Logrones
-1,2026-10-28,,Anaitasuna FT,Alaves
-1,2026-10-28,,CD Badajoz,Tenerife
-1,2026-10-28,,Cieza,Granada CF
-1,2026-10-28,,Coruxo FC,Zamora
-1,2026-10-28,,Covadonga,Valladolid
-1,2026-10-28,,Deportiva Minera,FC Cartagena SAD
-1,2026-10-28,,Mijas Las Lagunas,Jaen
-1,2026-10-28,,Navalcarnero,Betis
-1,2026-10-28,,Numancia,Oviedo
-1,2026-10-28,,Pamplona,Eibar
+1,2026-10-27,18:30,CD Cuarte,Girona
+1,2026-10-27,19:00,Atlético Pinatarense,Elche
+1,2026-10-27,19:00,CF Calamocha,CE Europa
+1,2026-10-27,19:00,Sestao,Espanyol
+1,2026-10-27,19:45,UD Castellonense,Almería
+1,2026-10-27,20:00,Alcalá,Las Palmas
+1,2026-10-27,20:00,Atlético Tordesillas,Mirandés
+1,2026-10-27,20:00,Ciudad De Lucena,Rayo Majadahonda
+1,2026-10-27,20:00,Gimnastica Segoviana,Cultural Leonesa
+1,2026-10-27,20:00,Llanera,Ponferradina
+1,2026-10-27,20:30,Don Benito,CD Extremadura
+1,2026-10-27,20:30,Manresa,Sant Andreu
+1,2026-10-27,21:00,Arosa,Pontevedra
+4,2026-10-27,21:00,Atlético Paso,Córdoba
+1,2026-10-27,21:00,CD Tudelano,Real Zaragoza
+1,2026-10-27,21:00,Manacor,Villarreal
+1,2026-10-27,21:00,Recreativo Huelva,Rayo Vallecano
+1,2026-10-27,21:00,Sporting de Alcázar,Málaga
 1,2026-10-28,,Pena,Huesca
-1,2026-10-28,,Poblense,Ceuta
-1,2026-10-28,,Portugalete,R. Union
 1,2026-10-28,,Puertollano C.F.,Albacete
-1,2026-10-28,,Reus FCR,Barakaldo
-1,2026-10-28,,Salamanca,Celta Vigo
-1,2026-10-28,,Tarancon,Levante
-1,2026-10-28,,Tavernes,Valencia
-1,2026-10-28,,Torrelavega,UD Ourense
-1,2026-10-28,,Trival Valderas,Leganes
-1,2026-10-28,,Utebo FC,Sabadell
-1,2026-10-28,,Xerez CD,Cadiz CF
-1,2026-10-29,,Antequera,Aguilas FC
-1,2026-10-29,,Atletico Calatayud,Osasuna
+1,2026-10-28,19:00,Anaitasuna,Alavés
+1,2026-10-28,19:00,CD Pamplona,Eibar
+1,2026-10-28,19:00,CD Tarancon,Levante
+1,2026-10-28,19:00,Coruxo,Zamora CF
+4,2026-10-28,19:00,Peña Sport,Huesca
+1,2026-10-28,19:00,Poblense,Ceuta
+1,2026-10-28,19:00,Portugalete,Real Unión Irun
+1,2026-10-28,19:00,Utebo,CD Sabadell
+1,2026-10-28,20:00,Alcoyano,Mallorca
+1,2026-10-28,20:00,Amorebieta,UD Logroñés
+1,2026-10-28,20:00,Badajoz,Tenerife
+4,2026-10-28,20:00,Calvo Sotelo,Albacete
+1,2026-10-28,20:00,Covadonga,Real Valladolid
+1,2026-10-28,20:00,Mijas Las Lagunas,Real Jaen CF
+1,2026-10-28,20:00,Numancia,Real Oviedo
+1,2026-10-28,20:00,Trival Valderas,Leganés
+1,2026-10-28,20:30,CD Minera,FC Cartagena
+1,2026-10-28,20:30,Cieza,Granada
+1,2026-10-28,20:30,Gimnástica Torrelavega,UD Ourense
+1,2026-10-28,20:30,Reus FC Reddis,Barakaldo
+1,2026-10-28,21:00,CD Artistico Navalcarnero,Real Betis
+1,2026-10-28,21:00,Salamanca UDS,Celta Vigo
+1,2026-10-28,21:00,Tavernes de la Valldigna,Valencia
+1,2026-10-28,21:00,Xerez,Cádiz
 1,2026-10-29,,Auriense,Dep. A Coruna
-1,2026-10-29,,Baleares,Eldense
-1,2026-10-29,,Conquense,Castellon
-1,2026-10-29,,Guijuelo,Gijon
-1,2026-10-29,,Hortaleza,Sevilla
-1,2026-10-29,,Laredo,Burgos CF
-1,2026-10-29,,Lebrijana,Getafe
-1,2026-10-29,,Prat,Ath Bilbao
-1,2026-10-29,,Real Avila,Unionistas
-1,2026-10-29,,Ribadesella CF,Racing Santander
-1,2026-10-29,,San Sebastian Reyes,CD Coria
-1,2026-10-29,,Varea,Andorra
+1,2026-10-29,19:00,Atlético Baleares,Eldense
+1,2026-10-29,19:00,Atlético Calatayud,Osasuna
+1,2026-10-29,19:00,San Sebastián de los Reyes,Coria
+1,2026-10-29,19:00,UB Lebrijana,Getafe
+1,2026-10-29,20:00,Antequera CF,Aguilas
+1,2026-10-29,20:00,CD Laredo,Burgos
+1,2026-10-29,20:00,CD Varea,FC Andorra
+1,2026-10-29,20:00,Conquense,Castellón
+1,2026-10-29,20:00,Guijuelo,Sporting Gijón
+1,2026-10-29,20:00,Real Ávila,Unionistas de Salamanca
+1,2026-10-29,21:00,AE Prat,Athletic Club
+4,2026-10-29,21:00,Auriense Cented Academy,Deportivo
+1,2026-10-29,21:00,Ribadesella,Racing Santander
+1,2026-10-29,21:00,Sporting Hortaleza,Sevilla

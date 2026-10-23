@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-22T03:01:35Z",
+  "generated_utc": "2026-10-23T03:05:32Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -81,10 +81,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 36,
-      "fixtures": 108,
+      "results": 54,
+      "fixtures": 90,
       "errors": [],
-      "latest": "2026-10-15"
+      "latest": "2026-10-22"
     },
     {
       "league": "UEFA Conference League",
@@ -93,10 +93,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 18,
-      "fixtures": 90,
+      "results": 36,
+      "fixtures": 72,
       "errors": [],
-      "latest": "2026-10-15"
+      "latest": "2026-10-22"
     },
     {
       "league": "EFL Cup (Carabao Cup)",
@@ -130,7 +130,7 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "results": 22,
-      "fixtures": 56,
+      "fixtures": 60,
       "errors": [],
       "latest": "2026-10-11"
     },
@@ -837,8 +837,8 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 112,
-      "fixtures": 41,
+      "results": 115,
+      "fixtures": 38,
       "errors": [],
       "latest": "2026-10-22"
     },
@@ -849,10 +849,10 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "results": 104,
-      "fixtures": 16,
+      "results": 105,
+      "fixtures": 15,
       "errors": [],
-      "latest": "2026-10-18"
+      "latest": "2026-10-23"
     },
     {
       "league": "Major League Soccer",

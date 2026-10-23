@@ -1,4 +1,5 @@
 gw,date,time,home,away
+1,2026-11-06,,Oxford City,Leicester
 1,2026-11-07,,Accrington,Wycombe
 1,2026-11-07,,Altrincham,Notts County
 1,2026-11-07,,Barnet,Tranmere
@@ -12,7 +13,6 @@ gw,date,time,home,away
 1,2026-11-07,,Cheltenham,FC Halifax
 1,2026-11-07,,Chesterfield,Yeovil
 1,2026-11-07,,Colchester,Worcester
-1,2026-11-07,,Cray Wanderers,Stockport County
 1,2026-11-07,,Crewe,AFC Wimbledon
 1,2026-11-07,,Dover,Wealdstone
 1,2026-11-07,,Eastleigh,Shrewsbury
@@ -28,14 +28,14 @@ gw,date,time,home,away
 1,2026-11-07,,MK Dons,Swindon
 1,2026-11-07,,Mansfield,Macclesfield
 1,2026-11-07,,Newport,Walsall
-1,2026-11-07,,Oldham,Sheffield Wed
-1,2026-11-07,,Oxford City,Leicester
 1,2026-11-07,,Oxford Utd,Stevenage
 1,2026-11-07,,Peterborough,Reading
 1,2026-11-07,,Plymouth,Alvechurch
-1,2026-11-07,,Plymouth Parkway,Berkhamsted
 1,2026-11-07,,Port Vale,Scunthorpe
 1,2026-11-07,,Salisbury,Sholing
 1,2026-11-07,,Stafford,Grimsby
-1,2026-11-07,,Wimborne,Crawley
 1,2026-11-07,,York City,Northampton
+1,2026-11-08,,Cray Wanderers,Stockport County
+1,2026-11-08,,Oldham,Sheffield Wed
+1,2026-11-08,,Wimborne,Crawley
+1,2026-11-09,,Plymouth Parkway,Berkhamsted
