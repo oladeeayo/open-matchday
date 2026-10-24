@@ -1,114 +1,114 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-08-29,,Fatima,SB Castelo Branco,3,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Malveira,Mafra,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Montijo,Atletico CP,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Oliveirense,Penalva do Castelo,4,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Pacos Ferreira,AD Fafe,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Serpa,Grandolense,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-29,,Varzim,Trofense,5,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,1º Dezembro,Real SC,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Ac. Fundao,Guarda FC,0,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Alcains,Sertanense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,C.F. Benfica,Viana A.,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,CDC Montalegre,Ponte da Barca,0,0,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Caldas,Sintrense,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Castrense,Louletano,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Celoricense,Pevidem,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Cinfaes,SC Espinho,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Correlha,AD Limianos,1,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Covilha,Mortagua,0,0,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Ermesinde,Paredes,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Fazendense,Mocarriense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Ferreiras,Aljustrelense,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Florgrade,Sao Joao Ver,0,0,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Fornos de Algodres,Os Marialvas,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Lusitano GC,Os Belenenses,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Macao,CF Os Gavionenses,5,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Machico,Camacha,2,2,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Maia Lidador,Vila Mea,0,0,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Maria de Fonte,Uniao Nogueirense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Merelinense,Atletico Arcos,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Messejanense,Portel,0,8,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Nazarenos,Vitoria Sernache,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Nogueirense,Naval 1893,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Oliveira Hospital,Sourense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Portalegrense,Santo Antonio,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Rebordelo,GD Braganca,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Rebordosa,FC Alpendorada,2,2,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Regua,AD Marco 09,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,SC Barreiro,FC Madalena,2,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,SC Vianense,Minas de Argozelo,8,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Sacavenense,SC Angrense,5,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Salgueiros,Sousense,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Sanjoanense,Pacos de Brandao,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Uniao Da Serra,Uniao de Pombal,5,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-30,,Uniao Montemor,Juv. Evora,1,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-06,,GD Alcochetense,Fayal,8,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-06,,O Elvas CAD,Sao Roque,9,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-18,,Real SC,Academica,1,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,ACDR Lamelas,Santo Antonio,4,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Atletico CP,Lagoa,4,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Beira Mar,Os Belenenses,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Castro Daire,Portimonense,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Imortal,Tondela,1,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Mafra,Tirsense,2,2,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Naval 1893,Felgueiras,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,O Elvas CAD,Leiria,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Oliveirense,Penafiel,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Salgueiros,Feirense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-19,,Vitoria Sernache,Varzim,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,AD Fafe,Lajense,4,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,AD Limianos,Aljustrelense,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,AD Marco 09,Maia Lidador,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Alcains,Vitoria Setubal,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Amora,Uniao Da Serra,3,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Anca,Sanjoanense,1,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Bombarralense,Vizela,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Cinfaes,Leixoes,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Estrela Calheta,SC Vianense,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,FC Alpendorada,Macao,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,FC Madalena,Lusitania FC,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Fatima,Vinhais,4,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Fazendense,Figueirense,6,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,GD Alcochetense,C.F. Benfica,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,GD Braganca,Celoricense,6,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Guarda FC,Chaves,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Mortagua,Leca,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Olhanense,Portel,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Oliveira Hospital,Juv. Evora,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Ovarense,Os Marialvas,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Paredes,Maria de Fonte,5,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Ponte da Barca,Amarante,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Sacavenense,SC Farense,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Santarem,Merelinense,5,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Serpa,Louletano,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Sintrense,AFS,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-20,,Vila Pouca,Brito,0,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-27,,Camacha,Florgrade,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-14,,Santarem,Gil Vicente,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-16,,Chaves,Os Marialvas,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,ACDR Lamelas,Vitoria Guimaraes,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,AFS,Moreirense,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Academica,Amarante,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Atletico CP,Vizela,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Fazendense,Estrela,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Florgrade,Portimonense,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Leiria,GD Braganca,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Louletano,Rio Ave,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Penafiel,Leca,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,SC Farense,AD Marco 09,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,SC Vianense,Leixoes,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Sanjoanense,Nacional,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Brito,Vitoria Sernache,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,FC Alpendorada,Casa Pia,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Fatima,Academico Viseu,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Felgueiras,AD Fafe,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,GD Alcochetense,Maritimo,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Lusitania FC,AD Limianos,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Mafra,Santa Clara,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Olhanense,Oliveira Hospital,1,1,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Os Belenenses,Arouca,3,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Paredes,Famalicao,1,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Salgueiros,Estoril,1,1,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Tondela,Alverca,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Vitoria Setubal,Uniao Da Serra,1,1,D,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-29,,Fatima,SB Castelo Branco,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Malveira,Mafra,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Montijo,Atletico CP,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Oliveirense,Penalva do Castelo,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Pacos Ferreira,AD Fafe,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Serpa,Grandolense,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-29,,Varzim,Trofense,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,1º Dezembro,Real SC,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Ac. Fundao,Guarda FC,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Alcains,Sertanense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,C.F. Benfica,Viana A.,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,CDC Montalegre,Ponte da Barca,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Caldas,Sintrense,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Castrense,Louletano,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Celoricense,Pevidem,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Cinfaes,SC Espinho,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Correlha,AD Limianos,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Covilha,Mortagua,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Ermesinde,Paredes,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Fazendense,Mocarriense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Ferreiras,Aljustrelense,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Florgrade,Sao Joao Ver,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Fornos de Algodres,Os Marialvas,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Lusitano GC,Os Belenenses,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Macao,CF Os Gavionenses,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Machico,Camacha,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Maia Lidador,Vila Mea,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Maria de Fonte,Uniao Nogueirense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Merelinense,Atletico Arcos,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Messejanense,Portel,0,8,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Nazarenos,Vitoria Sernache,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Nogueirense,Naval 1893,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Oliveira Hospital,Sourense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Portalegrense,Santo Antonio,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Rebordelo,GD Braganca,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Rebordosa,FC Alpendorada,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Regua,AD Marco 09,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,SC Barreiro,FC Madalena,2,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,SC Vianense,Minas de Argozelo,8,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Sacavenense,SC Angrense,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Salgueiros,Sousense,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Sanjoanense,Pacos de Brandao,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Uniao Da Serra,Uniao de Pombal,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-30,,Uniao Montemor,Juv. Evora,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-06,,GD Alcochetense,Fayal,8,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-06,,O Elvas CAD,Sao Roque,9,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-18,,Real SC,Academica,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,ACDR Lamelas,Santo Antonio,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Atletico CP,Lagoa,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Beira Mar,Os Belenenses,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Castro Daire,Portimonense,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Imortal,Tondela,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Mafra,Tirsense,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Naval 1893,Felgueiras,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,O Elvas CAD,Leiria,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Oliveirense,Penafiel,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Salgueiros,Feirense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-19,,Vitoria Sernache,Varzim,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,AD Fafe,Lajense,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,AD Limianos,Aljustrelense,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,AD Marco 09,Maia Lidador,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Alcains,Vitoria Setubal,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Amora,Uniao Da Serra,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Anca,Sanjoanense,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Bombarralense,Vizela,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Cinfaes,Leixoes,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Estrela Calheta,SC Vianense,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,FC Alpendorada,Macao,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,FC Madalena,Lusitania FC,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Fatima,Vinhais,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Fazendense,Figueirense,6,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,GD Alcochetense,C.F. Benfica,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,GD Braganca,Celoricense,6,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Guarda FC,Chaves,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Mortagua,Leca,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Olhanense,Portel,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Oliveira Hospital,Juv. Evora,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Ovarense,Os Marialvas,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Paredes,Maria de Fonte,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Ponte da Barca,Amarante,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Sacavenense,SC Farense,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Santarem,Merelinense,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Serpa,Louletano,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Sintrense,AFS,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-20,,Vila Pouca,Brito,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-27,,Camacha,Florgrade,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-14,,Santarem,Gil Vicente,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-16,,Chaves,Os Marialvas,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,ACDR Lamelas,Vitoria Guimaraes,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,AFS,Moreirense,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Academica,Amarante,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Atletico CP,Vizela,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Fazendense,Estrela,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Florgrade,Portimonense,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Leiria,GD Braganca,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Louletano,Rio Ave,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Penafiel,Leca,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,SC Farense,AD Marco 09,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,SC Vianense,Leixoes,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Sanjoanense,Nacional,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Brito,Vitoria Sernache,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,FC Alpendorada,Casa Pia,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Fatima,Academico Viseu,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Felgueiras,AD Fafe,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,GD Alcochetense,Maritimo,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Lusitania FC,AD Limianos,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Mafra,Santa Clara,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Olhanense,Oliveira Hospital,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Os Belenenses,Arouca,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Paredes,Famalicao,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Salgueiros,Estoril,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Tondela,Alverca,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Vitoria Setubal,Uniao Da Serra,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway

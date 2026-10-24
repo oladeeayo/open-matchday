@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+.cache/
 probe/
 probe2/
 *.log

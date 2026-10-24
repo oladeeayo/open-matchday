@@ -1,37 +1,37 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-10-15,17:45,CSKA Sofia,Monaco,1,2,A,,,,,,,,,,,,,,,,"3,43",fixturedl
-1,2026-10-15,17:45,Egnatia,Midtjylland,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-1,2026-10-15,17:45,Gent,Aarhus,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-1,2026-10-15,17:45,Hajduk Split,Ajax,2,1,H,,,,,,,,,,,,,,,,"37,53,55",fixturedl
-1,2026-10-15,17:45,KuPS Kuopio,Trabzonspor,2,4,A,,,,,,,,,,,,,,,,"3,44,47,54,91,96",fixturedl
-1,2026-10-15,17:45,Lugano,Crvena Zvezda,3,2,H,,,,,,,,,,,,,,,,"25,32,67,84,89",fixturedl
-1,2026-10-15,17:45,Mjällby,Inter Escaldes,2,0,H,,,,,,,,,,,,,,,,54,fixturedl
-1,2026-10-15,17:45,Panathinaikos,Borac,2,1,H,,,,,,,,,,,,,,,,"10,70,80",fixturedl
-1,2026-10-15,17:45,Riga,Kairat Almaty,1,1,D,,,,,,,,,,,,,,,,"5,12",fixturedl
-1,2026-10-15,17:45,U. Craiova,Getafe,1,1,D,,,,,,,,,,,,,,,,"59,81",fixturedl
-1,2026-10-15,20:00,Atalanta,Pafos,3,1,H,,,,,,,,,,,,,,,,"1,18,44",fixturedl
-1,2026-10-15,20:00,Brann,L. Red Imps,2,1,H,,,,,,,,,,,,,,,,"59,81",fixturedl
-1,2026-10-15,20:00,Brighton,Kauno Žalgiris,4,0,H,,,,,,,,,,,,,,,,"41,47,53",fixturedl
-1,2026-10-15,20:00,Copenhagen,Braga,3,0,H,,,,,,,,,,,,,,,,"79,86",fixturedl
-1,2026-10-15,20:00,Freiburg,Jablonec,3,2,H,,,,,,,,,,,,,,,,"28,53,65,93",fixturedl
-1,2026-10-15,20:00,Hearts,Nordsjælland,1,1,D,,,,,,,,,,,,,,,,"33,86",fixturedl
-1,2026-10-15,20:00,Sint-Truidense,Iberia Tbilisi,2,0,H,,,,,,,,,,,,,,,,"11,88",fixturedl
-1,2026-10-15,20:00,Twente,Thun,1,0,H,,,,,,,,,,,,,,,,65,fixturedl
-2,2026-10-22,15:30,Kairat Almaty,Panathinaikos,1,5,A,,,,,,,,,,,,,,,,"6,24,47,75",fixturedl
-2,2026-10-22,17:45,Crvena Zvezda,Copenhagen,2,2,D,,,,,,,,,,,,,,,,"29,34,41,70",fixturedl
-2,2026-10-22,17:45,Getafe,Lugano,2,5,A,,,,,,,,,,,,,,,,"2,3,7,26,50,74,92",fixturedl
-2,2026-10-22,17:45,Iberia Tbilisi,Mjällby,1,1,D,,,,,,,,,,,,,,,,55,fixturedl
-2,2026-10-22,17:45,Inter Escaldes,U. Craiova,1,3,A,,,,,,,,,,,,,,,,"5,77,86",fixturedl
-2,2026-10-22,17:45,Jablonec,Brighton,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-2,2026-10-22,17:45,Kauno Žalgiris,Brann,1,4,A,,,,,,,,,,,,,,,,"7,12,40",fixturedl
-2,2026-10-22,17:45,Nordsjælland,CSKA Sofia,2,2,D,,,,,,,,,,,,,,,,"8,55,67",fixturedl
-2,2026-10-22,17:45,Pafos,Riga,1,1,D,,,,,,,,,,,,,,,,"67,76",fixturedl
-2,2026-10-22,17:45,Trabzonspor,Hearts,2,0,H,,,,,,,,,,,,,,,,"32,58",fixturedl
-2,2026-10-22,20:00,Aarhus,Egnatia,1,1,D,,,,,,,,,,,,,,,,"13,49",fixturedl
-2,2026-10-22,20:00,Ajax,Atalanta,2,0,H,,,,,,,,,,,,,,,,"87,93",fixturedl
-2,2026-10-22,20:00,Borac,KuPS Kuopio,2,0,H,,,,,,,,,,,,,,,,"29,50",fixturedl
-2,2026-10-22,20:00,Braga,Gent,2,0,H,,,,,,,,,,,,,,,,"3,76",fixturedl
-2,2026-10-22,20:00,L. Red Imps,Twente,1,4,A,,,,,,,,,,,,,,,,"19,24,57,93",fixturedl
-2,2026-10-22,20:00,Midtjylland,Sint-Truidense,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-2,2026-10-22,20:00,Monaco,Freiburg,3,0,H,,,,,,,,,,,,,,,,"47,83,91",fixturedl
-2,2026-10-22,20:00,Thun,Hajduk Split,0,1,A,,,,,,,,,,,,,,,,17,fixturedl
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-10-15,17:45,CSKA Sofia,Monaco,1,2,A,,,,,,,,,,,,,,,,,,,,"3,43",fixturedl
+1,2026-10-15,17:45,Egnatia,Midtjylland,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-10-15,17:45,Gent,Aarhus,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-10-15,17:45,Hajduk Split,Ajax,2,1,H,,,,,,,,,,,,,,,,,,,,"37,53,55",fixturedl
+1,2026-10-15,17:45,KuPS Kuopio,Trabzonspor,2,4,A,,,,,,,,,,,,,,,,,,,,"3,44,47,54,91,96",fixturedl
+1,2026-10-15,17:45,Lugano,Crvena Zvezda,3,2,H,,,,,,,,,,,,,,,,,,,,"25,32,67,84,89",fixturedl
+1,2026-10-15,17:45,Mjällby,Inter Escaldes,2,0,H,,,,,,,,,,,,,,,,,,,,54,fixturedl
+1,2026-10-15,17:45,Panathinaikos,Borac,2,1,H,,,,,,,,,,,,,,,,,,,,"10,70,80",fixturedl
+1,2026-10-15,17:45,Riga,Kairat Almaty,1,1,D,,,,,,,,,,,,,,,,,,,,"5,12",fixturedl
+1,2026-10-15,17:45,U. Craiova,Getafe,1,1,D,,,,,,,,,,,,,,,,,,,,"59,81",fixturedl
+1,2026-10-15,20:00,Atalanta,Pafos,3,1,H,,,,,,,,,,,,,,,,,,,,"1,18,44",fixturedl
+1,2026-10-15,20:00,Brann,L. Red Imps,2,1,H,,,,,,,,,,,,,,,,,,,,"59,81",fixturedl
+1,2026-10-15,20:00,Brighton,Kauno Žalgiris,4,0,H,,,,,,,,,,,,,,,,,,,,"41,47,53",fixturedl
+1,2026-10-15,20:00,Copenhagen,Braga,3,0,H,,,,,,,,,,,,,,,,,,,,"79,86",fixturedl
+1,2026-10-15,20:00,Freiburg,Jablonec,3,2,H,,,,,,,,,,,,,,,,,,,,"28,53,65,93",fixturedl
+1,2026-10-15,20:00,Hearts,Nordsjælland,1,1,D,,,,,,,,,,,,,,,,,,,,"33,86",fixturedl
+1,2026-10-15,20:00,Sint-Truidense,Iberia Tbilisi,2,0,H,,,,,,,,,,,,,,,,,,,,"11,88",fixturedl
+1,2026-10-15,20:00,Twente,Thun,1,0,H,,,,,,,,,,,,,,,,,,,,65,fixturedl
+2,2026-10-22,15:30,Kairat Almaty,Panathinaikos,1,5,A,,,,,,,,,,,,,,,,,,,,"6,24,47,75",fixturedl
+2,2026-10-22,17:45,Crvena Zvezda,Copenhagen,2,2,D,,,,,,,,,,,,,,,,,,,,"29,34,41,70",fixturedl
+2,2026-10-22,17:45,Getafe,Lugano,2,5,A,,,,,,,,,,,,,,,,,,,,"2,3,7,26,50,74,92",fixturedl
+2,2026-10-22,17:45,Iberia Tbilisi,Mjällby,1,1,D,,,,,,,,,,,,,,,,,,,,55,fixturedl
+2,2026-10-22,17:45,Inter Escaldes,U. Craiova,1,3,A,,,,,,,,,,,,,,,,,,,,"5,77,86",fixturedl
+2,2026-10-22,17:45,Jablonec,Brighton,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-10-22,17:45,Kauno Žalgiris,Brann,1,4,A,,,,,,,,,,,,,,,,,,,,"7,12,40",fixturedl
+2,2026-10-22,17:45,Nordsjælland,CSKA Sofia,2,2,D,,,,,,,,,,,,,,,,,,,,"8,55,67",fixturedl
+2,2026-10-22,17:45,Pafos,Riga,1,1,D,,,,,,,,,,,,,,,,,,,,"67,76",fixturedl
+2,2026-10-22,17:45,Trabzonspor,Hearts,2,0,H,,,,,,,,,,,,,,,,,,,,"32,58",fixturedl
+2,2026-10-22,20:00,Aarhus,Egnatia,1,1,D,,,,,,,,,,,,,,,,,,,,"13,49",fixturedl
+2,2026-10-22,20:00,Ajax,Atalanta,2,0,H,,,,,,,,,,,,,,,,,,,,"87,93",fixturedl
+2,2026-10-22,20:00,Borac,KuPS Kuopio,2,0,H,,,,,,,,,,,,,,,,,,,,"29,50",fixturedl
+2,2026-10-22,20:00,Braga,Gent,2,0,H,,,,,,,,,,,,,,,,,,,,"3,76",fixturedl
+2,2026-10-22,20:00,L. Red Imps,Twente,1,4,A,,,,,,,,,,,,,,,,,,,,"19,24,57,93",fixturedl
+2,2026-10-22,20:00,Midtjylland,Sint-Truidense,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-10-22,20:00,Monaco,Freiburg,3,0,H,,,,,,,,,,,,,,,,,,,,"47,83,91",fixturedl
+2,2026-10-22,20:00,Thun,Hajduk Split,0,1,A,,,,,,,,,,,,,,,,,,,,17,fixturedl

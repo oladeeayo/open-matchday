@@ -1,50 +1,50 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-31,,Din. Zagreb,Slaven Belupo,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-01,,Gorica,Osijek,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-01,,Istra 1961,Lok. Zagreb,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-02,,Rijeka,Rudes,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-02,,Varazdin,Hajduk Split,2,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-08,,Lok. Zagreb,Gorica,3,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-08,,Rudes,Osijek,1,6,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-09,,Hajduk Split,Istra 1961,2,2,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-09,,Slaven Belupo,Varazdin,1,4,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-14,,Din. Zagreb,Rudes,4,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Istra 1961,Slaven Belupo,3,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Osijek,Lok. Zagreb,1,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-16,,Gorica,Hajduk Split,1,2,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-16,,Varazdin,Rijeka,2,0,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-21,,Rudes,Lok. Zagreb,4,1,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-22,,Din. Zagreb,Varazdin,3,1,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-22,,Slaven Belupo,Gorica,2,0,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-23,,Hajduk Split,Osijek,4,0,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-23,,Rijeka,Istra 1961,3,2,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Istra 1961,Din. Zagreb,2,2,D,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Varazdin,Rudes,2,0,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-30,,Osijek,Slaven Belupo,3,0,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-31,,Gorica,Rijeka,0,0,D,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-31,,Hajduk Split,Lok. Zagreb,2,0,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-04,,Varazdin,Istra 1961,0,0,D,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-05,,Din. Zagreb,Gorica,1,0,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-05,,Rijeka,Osijek,4,1,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-06,,Rudes,Hajduk Split,0,4,A,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-06,,Slaven Belupo,Lok. Zagreb,2,1,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-12,,Lok. Zagreb,Rijeka,1,1,D,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-12,,Osijek,Din. Zagreb,4,2,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-13,,Hajduk Split,Slaven Belupo,1,0,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-13,,Istra 1961,Rudes,3,2,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-14,,Gorica,Varazdin,2,2,D,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-18,,Rudes,Slaven Belupo,2,2,D,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-19,,Istra 1961,Gorica,0,1,A,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-19,,Varazdin,Osijek,0,0,D,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-20,,Din. Zagreb,Lok. Zagreb,3,2,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-20,,Rijeka,Hajduk Split,3,0,H,,,,,,,,,,,,,,,,,soccerway
-9,2026-10-09,,Gorica,Rudes,1,2,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-10-10,,Hajduk Split,Din. Zagreb,2,1,H,,,,,,,,,,,,,,,,,soccerway
-9,2026-10-10,,Osijek,Istra 1961,1,3,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-10-11,,Lok. Zagreb,Varazdin,0,1,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-10-11,,Slaven Belupo,Rijeka,4,1,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-16,,Rudes,Rijeka,1,2,A,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-17,,Lok. Zagreb,Istra 1961,2,0,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-17,,Osijek,Gorica,1,1,D,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-18,,Hajduk Split,Varazdin,1,0,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-18,,Slaven Belupo,Din. Zagreb,1,5,A,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-31,,Din. Zagreb,Slaven Belupo,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,Gorica,Osijek,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-01,,Istra 1961,Lok. Zagreb,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Rijeka,Rudes,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-02,,Varazdin,Hajduk Split,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-08,,Lok. Zagreb,Gorica,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-08,,Rudes,Osijek,1,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-09,,Hajduk Split,Istra 1961,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-09,,Slaven Belupo,Varazdin,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-14,,Din. Zagreb,Rudes,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Istra 1961,Slaven Belupo,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-15,,Osijek,Lok. Zagreb,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-16,,Gorica,Hajduk Split,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-16,,Varazdin,Rijeka,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-21,,Rudes,Lok. Zagreb,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-22,,Din. Zagreb,Varazdin,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-22,,Slaven Belupo,Gorica,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-23,,Hajduk Split,Osijek,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-23,,Rijeka,Istra 1961,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-29,,Istra 1961,Din. Zagreb,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-29,,Varazdin,Rudes,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-30,,Osijek,Slaven Belupo,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-31,,Gorica,Rijeka,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-31,,Hajduk Split,Lok. Zagreb,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-04,,Varazdin,Istra 1961,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-05,,Din. Zagreb,Gorica,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-05,,Rijeka,Osijek,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-06,,Rudes,Hajduk Split,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-06,,Slaven Belupo,Lok. Zagreb,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-12,,Lok. Zagreb,Rijeka,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-12,,Osijek,Din. Zagreb,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-13,,Hajduk Split,Slaven Belupo,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-13,,Istra 1961,Rudes,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-14,,Gorica,Varazdin,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-18,,Rudes,Slaven Belupo,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-19,,Istra 1961,Gorica,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-19,,Varazdin,Osijek,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-20,,Din. Zagreb,Lok. Zagreb,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-20,,Rijeka,Hajduk Split,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-10-09,,Gorica,Rudes,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-10-10,,Hajduk Split,Din. Zagreb,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-10-10,,Osijek,Istra 1961,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-10-11,,Lok. Zagreb,Varazdin,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-10-11,,Slaven Belupo,Rijeka,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-16,,Rudes,Rijeka,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-17,,Lok. Zagreb,Istra 1961,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-17,,Osijek,Gorica,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-18,,Hajduk Split,Varazdin,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-18,,Slaven Belupo,Din. Zagreb,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway

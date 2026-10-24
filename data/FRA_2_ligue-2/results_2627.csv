@@ -1,87 +1,87 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-08-08,19:45,Clermont Foot 63,Stade DE Reims,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,FC Metz,EN Avant Guingamp,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,FC Nantes,Red Star FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,FC Sochaux-Montbéliard,AS Saint-Étienne,0,3,A,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,Montpellier Hérault SC,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,Pau FC,FC Annecy,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,Rodez Aveyron Football,Stade Lavallois MFC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,US Boulogne CO,AS Nancy Lorraine,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-1,2026-08-08,19:45,USL Dunkerque,Grenoble Foot 38,4,2,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,AS Nancy Lorraine,Montpellier Hérault SC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,AS Saint-Étienne,Clermont Foot 63,3,1,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,Dijon FCO,Pau FC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,EN Avant Guingamp,US Boulogne CO,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,FC Annecy,Rodez Aveyron Football,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,Grenoble Foot 38,FC Metz,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,Red Star FC,FC Sochaux-Montbéliard,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,Stade DE Reims,USL Dunkerque,3,3,D,,,,,,,,,,,,,,,,,fixturedl
-2,2026-08-14,19:45,Stade Lavallois MFC,FC Nantes,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-21,19:00,Clermont Foot 63,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-21,19:00,FC Sochaux-Montbéliard,EN Avant Guingamp,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-21,19:00,Pau FC,AS Nancy Lorraine,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-21,19:00,US Boulogne CO,Red Star FC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-21,19:00,USL Dunkerque,Montpellier Hérault SC,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-22,13:00,FC Metz,Stade Lavallois MFC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-22,13:00,FC Nantes,Rodez Aveyron Football,2,5,A,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-22,19:00,AS Saint-Étienne,Grenoble Foot 38,4,0,H,,,,,,,,,,,,,,,,,fixturedl
-3,2026-08-24,19:45,Stade DE Reims,FC Annecy,3,1,H,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-28,19:00,AS Nancy Lorraine,USL Dunkerque,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-28,19:00,Clermont Foot 63,FC Sochaux-Montbéliard,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-28,19:00,Montpellier Hérault SC,US Boulogne CO,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-28,19:00,Rodez Aveyron Football,Pau FC,2,2,D,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-28,19:00,Stade Lavallois MFC,Grenoble Foot 38,0,3,A,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-29,13:00,FC Annecy,FC Metz,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-29,13:00,Red Star FC,Stade DE Reims,1,4,A,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-29,19:00,EN Avant Guingamp,FC Nantes,3,3,D,,,,,,,,,,,,,,,,,fixturedl
-4,2026-08-31,19:45,Dijon FCO,AS Saint-Étienne,2,3,A,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-04,19:00,Grenoble Foot 38,FC Annecy,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-04,19:00,Pau FC,FC Sochaux-Montbéliard,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-04,19:00,Stade Lavallois MFC,Red Star FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-04,19:00,US Boulogne CO,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-04,19:00,USL Dunkerque,Clermont Foot 63,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-05,13:00,FC Metz,Rodez Aveyron Football,4,1,H,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-05,13:00,Stade DE Reims,EN Avant Guingamp,2,2,D,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-05,19:00,AS Saint-Étienne,Montpellier Hérault SC,3,1,H,,,,,,,,,,,,,,,,,fixturedl
-5,2026-09-07,19:45,FC Nantes,AS Nancy Lorraine,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-11,19:00,AS Nancy Lorraine,Stade DE Reims,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-11,19:00,Clermont Foot 63,US Boulogne CO,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-11,19:00,Dijon FCO,Stade Lavallois MFC,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-11,19:00,Montpellier Hérault SC,Pau FC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-11,19:00,Rodez Aveyron Football,Grenoble Foot 38,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-12,13:00,EN Avant Guingamp,FC Annecy,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-12,13:00,FC Sochaux-Montbéliard,FC Nantes,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-12,19:00,USL Dunkerque,AS Saint-Étienne,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-6,2026-09-14,19:45,Red Star FC,FC Metz,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,FC Annecy,Dijon FCO,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,Grenoble Foot 38,Clermont Foot 63,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,Pau FC,USL Dunkerque,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,Rodez Aveyron Football,AS Nancy Lorraine,3,4,A,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,Stade DE Reims,Montpellier Hérault SC,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-18,19:00,Stade Lavallois MFC,FC Sochaux-Montbéliard,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-19,13:00,EN Avant Guingamp,Red Star FC,1,3,A,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-19,13:00,US Boulogne CO,FC Nantes,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-7,2026-09-19,19:00,FC Metz,AS Saint-Étienne,2,2,D,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,19:00,AS Nancy Lorraine,EN Avant Guingamp,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,19:00,FC Sochaux-Montbéliard,US Boulogne CO,1,1,D,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,19:00,Montpellier Hérault SC,Grenoble Foot 38,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,19:00,Pau FC,Stade Lavallois MFC,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-09,19:00,USL Dunkerque,FC Annecy,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,13:00,Clermont Foot 63,Red Star FC,2,3,A,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,13:00,FC Nantes,Stade DE Reims,0,0,D,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-10,19:00,AS Saint-Étienne,Rodez Aveyron Football,2,0,H,,,,,,,,,,,,,,,,,fixturedl
-8,2026-10-12,19:45,Dijon FCO,FC Metz,4,2,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-16,19:00,EN Avant Guingamp,Pau FC,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-16,19:00,FC Annecy,AS Nancy Lorraine,1,2,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-16,19:00,Grenoble Foot 38,US Boulogne CO,0,2,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-16,19:00,Stade DE Reims,Dijon FCO,4,2,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-16,19:00,Stade Lavallois MFC,Clermont Foot 63,3,3,D,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,13:00,FC Metz,FC Sochaux-Montbéliard,3,2,H,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,13:00,FC Nantes,USL Dunkerque,2,3,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-17,19:00,Red Star FC,AS Saint-Étienne,0,1,A,,,,,,,,,,,,,,,,,fixturedl
-9,2026-10-19,19:45,Rodez Aveyron Football,Montpellier Hérault SC,0,3,A,,,,,,,,,,,,,,,,,fixturedl
-10,2026-10-23,19:00,AS Nancy Lorraine,Stade Lavallois MFC,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-10,2026-10-23,19:00,Clermont Foot 63,EN Avant Guingamp,0,2,A,,,,,,,,,,,,,,,,,fixturedl
-10,2026-10-23,19:00,FC Sochaux-Montbéliard,FC Annecy,1,3,A,,,,,,,,,,,,,,,,,fixturedl
-10,2026-10-23,19:00,Pau FC,Grenoble Foot 38,2,1,H,,,,,,,,,,,,,,,,,fixturedl
-10,2026-10-23,19:00,USL Dunkerque,FC Metz,1,1,D,,,,,,,,,,,,,,,,,fixturedl
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-08,19:45,Clermont Foot 63,Stade DE Reims,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,FC Metz,EN Avant Guingamp,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,FC Nantes,Red Star FC,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,FC Sochaux-Montbéliard,AS Saint-Étienne,0,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,Montpellier Hérault SC,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,Pau FC,FC Annecy,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,Rodez Aveyron Football,Stade Lavallois MFC,3,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,US Boulogne CO,AS Nancy Lorraine,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-08-08,19:45,USL Dunkerque,Grenoble Foot 38,4,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,AS Nancy Lorraine,Montpellier Hérault SC,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,AS Saint-Étienne,Clermont Foot 63,3,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,Dijon FCO,Pau FC,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,EN Avant Guingamp,US Boulogne CO,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,FC Annecy,Rodez Aveyron Football,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,Grenoble Foot 38,FC Metz,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,Red Star FC,FC Sochaux-Montbéliard,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,Stade DE Reims,USL Dunkerque,3,3,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+2,2026-08-14,19:45,Stade Lavallois MFC,FC Nantes,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-21,19:00,Clermont Foot 63,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-21,19:00,FC Sochaux-Montbéliard,EN Avant Guingamp,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-21,19:00,Pau FC,AS Nancy Lorraine,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-21,19:00,US Boulogne CO,Red Star FC,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-21,19:00,USL Dunkerque,Montpellier Hérault SC,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-22,13:00,FC Metz,Stade Lavallois MFC,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-22,13:00,FC Nantes,Rodez Aveyron Football,2,5,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-22,19:00,AS Saint-Étienne,Grenoble Foot 38,4,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-08-24,19:45,Stade DE Reims,FC Annecy,3,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-28,19:00,AS Nancy Lorraine,USL Dunkerque,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-28,19:00,Clermont Foot 63,FC Sochaux-Montbéliard,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-28,19:00,Montpellier Hérault SC,US Boulogne CO,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-28,19:00,Rodez Aveyron Football,Pau FC,2,2,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-28,19:00,Stade Lavallois MFC,Grenoble Foot 38,0,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-29,13:00,FC Annecy,FC Metz,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-29,13:00,Red Star FC,Stade DE Reims,1,4,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-29,19:00,EN Avant Guingamp,FC Nantes,3,3,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-08-31,19:45,Dijon FCO,AS Saint-Étienne,2,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-04,19:00,Grenoble Foot 38,FC Annecy,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-04,19:00,Pau FC,FC Sochaux-Montbéliard,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-04,19:00,Stade Lavallois MFC,Red Star FC,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-04,19:00,US Boulogne CO,Dijon FCO,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-04,19:00,USL Dunkerque,Clermont Foot 63,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,13:00,FC Metz,Rodez Aveyron Football,4,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,13:00,Stade DE Reims,EN Avant Guingamp,2,2,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-05,19:00,AS Saint-Étienne,Montpellier Hérault SC,3,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-09-07,19:45,FC Nantes,AS Nancy Lorraine,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-11,19:00,AS Nancy Lorraine,Stade DE Reims,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-11,19:00,Clermont Foot 63,US Boulogne CO,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-11,19:00,Dijon FCO,Stade Lavallois MFC,3,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-11,19:00,Montpellier Hérault SC,Pau FC,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-11,19:00,Rodez Aveyron Football,Grenoble Foot 38,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,13:00,EN Avant Guingamp,FC Annecy,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,13:00,FC Sochaux-Montbéliard,FC Nantes,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-12,19:00,USL Dunkerque,AS Saint-Étienne,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+6,2026-09-14,19:45,Red Star FC,FC Metz,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,FC Annecy,Dijon FCO,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,Grenoble Foot 38,Clermont Foot 63,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,Pau FC,USL Dunkerque,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,Rodez Aveyron Football,AS Nancy Lorraine,3,4,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,Stade DE Reims,Montpellier Hérault SC,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-18,19:00,Stade Lavallois MFC,FC Sochaux-Montbéliard,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-19,13:00,EN Avant Guingamp,Red Star FC,1,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-19,13:00,US Boulogne CO,FC Nantes,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+7,2026-09-19,19:00,FC Metz,AS Saint-Étienne,2,2,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,19:00,AS Nancy Lorraine,EN Avant Guingamp,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,19:00,FC Sochaux-Montbéliard,US Boulogne CO,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,19:00,Montpellier Hérault SC,Grenoble Foot 38,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,19:00,Pau FC,Stade Lavallois MFC,3,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-09,19:00,USL Dunkerque,FC Annecy,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,13:00,Clermont Foot 63,Red Star FC,2,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,13:00,FC Nantes,Stade DE Reims,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-10,19:00,AS Saint-Étienne,Rodez Aveyron Football,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+8,2026-10-12,19:45,Dijon FCO,FC Metz,4,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,EN Avant Guingamp,Pau FC,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,FC Annecy,AS Nancy Lorraine,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,Grenoble Foot 38,US Boulogne CO,0,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,Stade DE Reims,Dijon FCO,4,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-16,19:00,Stade Lavallois MFC,Clermont Foot 63,3,3,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-17,13:00,FC Metz,FC Sochaux-Montbéliard,3,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-17,13:00,FC Nantes,USL Dunkerque,2,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-17,19:00,Red Star FC,AS Saint-Étienne,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+9,2026-10-19,19:45,Rodez Aveyron Football,Montpellier Hérault SC,0,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-23,19:00,AS Nancy Lorraine,Stade Lavallois MFC,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-23,19:00,Clermont Foot 63,EN Avant Guingamp,0,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-23,19:00,FC Sochaux-Montbéliard,FC Annecy,1,3,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-23,19:00,Pau FC,Grenoble Foot 38,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-23,19:00,USL Dunkerque,FC Metz,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl

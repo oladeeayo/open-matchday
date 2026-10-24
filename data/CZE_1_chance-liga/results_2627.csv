@@ -1,88 +1,88 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-25,,Brno,Sparta Prague,3,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Plzen,Liberec,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Teplice,Bohemians,3,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Zlin,Ostrava,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-26,,Hradec Kralove,FK Pardubice,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-26,,Jablonec,Sigma Olomouc,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-26,,Slavia Prague,Slovacko,5,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-27,,Artis Brno,Mlada Boleslav,2,4,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-07-31,,Sparta Prague,Zlin,3,1,H,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Liberec,Teplice,0,1,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Ostrava,Slavia Prague,0,4,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Plzen,Brno,1,1,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Slovacko,Artis Brno,1,1,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,Bohemians,Hradec Kralove,0,0,D,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,FK Pardubice,Jablonec,0,2,A,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,Sigma Olomouc,Mlada Boleslav,2,2,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-07,,Brno,Liberec,0,1,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-08,,Mlada Boleslav,Sparta Prague,2,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-08,,Teplice,Plzen,5,5,D,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-08,,Zlin,Bohemians,0,2,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-09,,Artis Brno,Sigma Olomouc,1,2,A,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-09,,Hradec Kralove,Ostrava,2,1,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-09,,Jablonec,Slovacko,1,0,H,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-09,,Slavia Prague,FK Pardubice,2,1,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,FK Pardubice,Mlada Boleslav,1,1,D,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,Plzen,Zlin,3,2,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,Slovacko,Sigma Olomouc,1,2,A,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,Sparta Prague,Teplice,4,1,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-16,,Liberec,Slavia Prague,1,1,D,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-16,,Ostrava,Artis Brno,1,0,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-22,,Artis Brno,Sparta Prague,0,4,A,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-22,,Mlada Boleslav,Slovacko,2,1,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-22,,Slavia Prague,Bohemians,2,2,D,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-22,,Zlin,Liberec,0,1,A,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-23,,Sigma Olomouc,FK Pardubice,3,1,H,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-23,,Teplice,Brno,0,2,A,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-29,,Brno,Zlin,3,2,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-29,,FK Pardubice,Artis Brno,1,2,A,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-29,,Ostrava,Sigma Olomouc,1,0,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-30,,Liberec,Hradec Kralove,2,0,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-30,,Plzen,Slovacko,1,1,D,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-30,,Sparta Prague,Slavia Prague,0,3,A,,,,,,,,,,,,,,,,,soccerway
-6,2026-08-30,,Teplice,Jablonec,2,0,H,,,,,,,,,,,,,,,,,soccerway
-4,2026-09-02,,Bohemians,Jablonec,1,1,D,,,,,,,,,,,,,,,,,soccerway
-4,2026-09-02,,Brno,Hradec Kralove,1,0,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-05,,Artis Brno,Plzen,0,3,A,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-05,,Sigma Olomouc,Bohemians,3,0,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-05,,Slavia Prague,Brno,4,0,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-05,,Slovacko,FK Pardubice,0,0,D,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-06,,Hradec Kralove,Sparta Prague,2,1,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-06,,Jablonec,Liberec,1,2,A,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-06,,Mlada Boleslav,Ostrava,4,0,H,,,,,,,,,,,,,,,,,soccerway
-7,2026-09-06,,Zlin,Teplice,1,3,A,,,,,,,,,,,,,,,,,soccerway
-5,2026-09-09,,Hradec Kralove,Plzen,0,0,D,,,,,,,,,,,,,,,,,soccerway
-5,2026-09-09,,Jablonec,Ostrava,3,0,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-12,,Bohemians,Slovacko,2,0,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-12,,Brno,Artis Brno,2,1,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-12,,Liberec,Mlada Boleslav,3,0,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-12,,Sparta Prague,Jablonec,2,0,H,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-13,,Ostrava,FK Pardubice,1,2,A,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-13,,Plzen,Sigma Olomouc,2,3,A,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-13,,Teplice,Slavia Prague,0,2,A,,,,,,,,,,,,,,,,,soccerway
-8,2026-09-13,,Zlin,Hradec Kralove,1,2,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-19,,Artis Brno,Liberec,0,0,D,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-19,,FK Pardubice,Bohemians,2,1,H,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-19,,Mlada Boleslav,Brno,2,0,H,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-19,,Slovacko,Ostrava,2,2,D,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-20,,Hradec Kralove,Teplice,0,2,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-20,,Jablonec,Zlin,1,1,D,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-20,,Sigma Olomouc,Sparta Prague,0,3,A,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-20,,Slavia Prague,Plzen,2,1,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-09,,Zlin,Slavia Prague,0,1,A,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-10,,Bohemians,Ostrava,1,0,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-10,,Brno,Jablonec,0,1,A,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-10,,Hradec Kralove,Artis Brno,2,4,A,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-10,,Plzen,Mlada Boleslav,3,0,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-11,,Liberec,Slovacko,0,2,A,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-11,,Sparta Prague,FK Pardubice,2,0,H,,,,,,,,,,,,,,,,,soccerway
-10,2026-10-11,,Teplice,Sigma Olomouc,1,1,D,,,,,,,,,,,,,,,,,soccerway
-6,2026-10-14,,Bohemians,Mlada Boleslav,1,0,H,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-17,,FK Pardubice,Zlin,3,0,H,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-17,,Mlada Boleslav,Teplice,1,0,H,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-17,,Sigma Olomouc,Liberec,1,0,H,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-17,,Slavia Prague,Hradec Kralove,0,0,D,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-18,,Jablonec,Plzen,2,3,A,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-18,,Ostrava,Sparta Prague,0,0,D,,,,,,,,,,,,,,,,,soccerway
-11,2026-10-18,,Slovacko,Brno,1,2,A,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-25,,Brno,Sparta Prague,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Plzen,Liberec,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Teplice,Bohemians,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-25,,Zlin,Ostrava,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Hradec Kralove,FK Pardubice,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Jablonec,Sigma Olomouc,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-26,,Slavia Prague,Slovacko,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-07-27,,Artis Brno,Mlada Boleslav,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-07-31,,Sparta Prague,Zlin,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Liberec,Teplice,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Ostrava,Slavia Prague,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Plzen,Brno,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-01,,Slovacko,Artis Brno,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Bohemians,Hradec Kralove,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,FK Pardubice,Jablonec,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+2,2026-08-02,,Sigma Olomouc,Mlada Boleslav,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-07,,Brno,Liberec,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Mlada Boleslav,Sparta Prague,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Teplice,Plzen,5,5,D,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-08,,Zlin,Bohemians,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Artis Brno,Sigma Olomouc,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Hradec Kralove,Ostrava,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Jablonec,Slovacko,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+3,2026-08-09,,Slavia Prague,FK Pardubice,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,FK Pardubice,Mlada Boleslav,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Plzen,Zlin,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Slovacko,Sigma Olomouc,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-15,,Sparta Prague,Teplice,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Liberec,Slavia Prague,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-08-16,,Ostrava,Artis Brno,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Artis Brno,Sparta Prague,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Mlada Boleslav,Slovacko,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Slavia Prague,Bohemians,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-22,,Zlin,Liberec,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Sigma Olomouc,FK Pardubice,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-08-23,,Teplice,Brno,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Brno,Zlin,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,FK Pardubice,Artis Brno,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-29,,Ostrava,Sigma Olomouc,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Liberec,Hradec Kralove,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Plzen,Slovacko,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Sparta Prague,Slavia Prague,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-08-30,,Teplice,Jablonec,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-02,,Bohemians,Jablonec,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-09-02,,Brno,Hradec Kralove,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Artis Brno,Plzen,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Sigma Olomouc,Bohemians,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Slavia Prague,Brno,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-05,,Slovacko,FK Pardubice,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Hradec Kralove,Sparta Prague,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Jablonec,Liberec,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Mlada Boleslav,Ostrava,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+7,2026-09-06,,Zlin,Teplice,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-09,,Hradec Kralove,Plzen,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+5,2026-09-09,,Jablonec,Ostrava,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Bohemians,Slovacko,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Brno,Artis Brno,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Liberec,Mlada Boleslav,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-12,,Sparta Prague,Jablonec,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Ostrava,FK Pardubice,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Plzen,Sigma Olomouc,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Teplice,Slavia Prague,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+8,2026-09-13,,Zlin,Hradec Kralove,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Artis Brno,Liberec,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,FK Pardubice,Bohemians,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Mlada Boleslav,Brno,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-19,,Slovacko,Ostrava,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Hradec Kralove,Teplice,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Jablonec,Zlin,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Sigma Olomouc,Sparta Prague,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+9,2026-09-20,,Slavia Prague,Plzen,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-09,,Zlin,Slavia Prague,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Bohemians,Ostrava,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Brno,Jablonec,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Hradec Kralove,Artis Brno,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-10,,Plzen,Mlada Boleslav,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Liberec,Slovacko,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Sparta Prague,FK Pardubice,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+10,2026-10-11,,Teplice,Sigma Olomouc,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-10-14,,Bohemians,Mlada Boleslav,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-17,,FK Pardubice,Zlin,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-17,,Mlada Boleslav,Teplice,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-17,,Sigma Olomouc,Liberec,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-17,,Slavia Prague,Hradec Kralove,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-18,,Jablonec,Plzen,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-18,,Ostrava,Sparta Prague,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+11,2026-10-18,,Slovacko,Brno,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway

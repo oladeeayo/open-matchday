@@ -25,6 +25,7 @@ import openligadb_client
 import fd_client
 import fixturedl_client
 import soccerway_client
+import fotmob_corners
 from leagues import League
 
 CANON = ["gw", "date", "time", "home", "away",
@@ -32,6 +33,8 @@ CANON = ["gw", "date", "time", "home", "away",
          "ht_home", "ht_away", "ht_result",
          "home_shots", "away_shots", "home_target", "away_target",
          "home_fouls", "away_fouls", "home_corners", "away_corners",
+         "home_corners_1h", "away_corners_1h",
+         "home_corners_2h", "away_corners_2h",
          "home_yellow", "away_yellow", "home_red", "away_red",
          "goal_minutes", "source"]
 
@@ -114,6 +117,11 @@ _TEAM_ALIASES = {
     "betis": "Real Betis", "sociedad": "Real Sociedad",
     "celta": "Celta Vigo", "alaves": "Deportivo Alaves",
     "lacoruna": "RC Deportivo", "santander": "R. Racing Club",
+    # Deportivo La Coruña arrives as "Deportivo" (ESPN/fd), "RC Deportivo"
+    # (fixturedl/Soccerway) and "Deportivo A Coruña" (Fotmob); one canonical
+    # so the merge does not keep both spellings as separate matches.
+    "deportivo": "RC Deportivo", "rcdeportivo": "RC Deportivo",
+    "deportivoacoruna": "RC Deportivo", "deportivolacoruna": "RC Deportivo",
     "malaga": "Malaga CF", "elche": "Elche CF", "getafe": "Getafe CF",
     "barcelona": "FC Barcelona", "sevilla": "Sevilla FC",
     "valencia": "Valencia CF", "villarreal": "Villarreal CF",
@@ -596,6 +604,13 @@ def build_league(lg: League, season: str) -> dict:
     rows = finalize(rows)
     dropped = MERGE_STATS.pop("dropped_fd", 0)
 
+    corners = 0
+    if lg.folder in fotmob_corners.CORNER_LEAGUES:
+        try:
+            corners = fotmob_corners.enrich(rows, lg.folder)
+        except Exception as e:  # noqa: BLE001
+            errors.append(f"fotmob corners: {e}")
+
     results = [r for r in rows if r.get("ft_result") in ("H", "D", "A")]
     fixtures = [r for r in rows if r.get("ft_result") not in ("H", "D", "A")]
 
@@ -629,7 +644,7 @@ def build_league(lg: League, season: str) -> dict:
 
     return {"league": lg.name, "folder": folder, "dropped_fd": dropped,
             "dropped_dup_fixtures": dup_fx, "dropped_reversed_dupes": dup_rev,
-            "dropped_stale_postponed": stale_fx,
+            "dropped_stale_postponed": stale_fx, "corners": corners,
             "results": len(results),
             "fixtures": len(fixtures), "errors": errors,
             "latest": max((r.get("date") or "") for r in results) if results else ""}

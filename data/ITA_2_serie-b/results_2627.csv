@@ -1,72 +1,72 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-08-21,19:30,Vicenza,Catanzaro,3,2,H,,,,,,,,,,,,,,,,,espn
-1,2026-08-22,18:00,Carrarese,Mantova,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-08-22,18:00,Sudtirol,Virtus Entella,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-08-22,20:00,Benevento,Modena,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-08-22,20:00,Empoli,Cremonese,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-08-22,20:00,US Avellino,Arezzo,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-08-23,18:00,Hellas Verona,Ascoli,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-08-23,18:00,Pisa,Padova,0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-08-23,20:00,Cesena,Sampdoria,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-08-23,20:00,Palermo,Juve Stabia,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-28,19:30,Cremonese,Modena,0,3,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-29,18:00,Sampdoria,Juve Stabia,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-29,18:00,Virtus Entella,Cesena,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-29,20:00,Ascoli,Carrarese,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-08-29,20:00,Padova,Hellas Verona,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-08-29,20:00,US Avellino,Vicenza,3,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-30,18:00,Arezzo,Palermo,2,3,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-30,18:00,Mantova,Empoli,3,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-30,20:00,Benevento,Sudtirol,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-08-30,20:00,Pisa,Catanzaro,2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-09-05,14:00,Sudtirol,Catanzaro,2,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-09-05,16:15,Ascoli,Benevento,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-09-05,18:30,Carrarese,Empoli,0,1,A,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,14:00,Cesena,Mantova,1,1,D,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,14:00,Juve Stabia,Pisa,0,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,14:00,Modena,US Avellino,0,1,A,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,14:00,Virtus Entella,Vicenza,2,2,D,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,16:15,Hellas Verona,Arezzo,5,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-09-06,18:30,Cremonese,Padova,3,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-07,19:30,Palermo,Sampdoria,3,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-11,18:00,Empoli,Arezzo,0,1,A,,,,,,,,,,,,,,,,,espn
-4,2026-09-11,20:00,Benevento,Hellas Verona,3,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-11,20:00,Pisa,Virtus Entella,1,4,A,,,,,,,,,,,,,,,,,espn
-4,2026-09-12,14:00,Padova,Ascoli,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-12,14:00,Sudtirol,Modena,1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-09-12,14:00,Vicenza,Juve Stabia,1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-09-12,16:15,Catanzaro,Carrarese,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-12,18:30,Cesena,Cremonese,2,2,D,,,,,,,,,,,,,,,,,espn
-4,2026-09-13,16:15,Mantova,Sampdoria,2,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-09-13,16:15,US Avellino,Palermo,1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-09-18,19:30,Juve Stabia,Cesena,1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-09-19,14:00,Carrarese,Benevento,0,1,A,,,,,,,,,,,,,,,,,espn
-5,2026-09-19,14:00,Cremonese,Virtus Entella,0,0,D,,,,,,,,,,,,,,,,,espn
-5,2026-09-19,14:00,Palermo,Padova,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-09-19,16:15,Sampdoria,Catanzaro,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-09-19,18:30,Ascoli,US Avellino,3,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-09-20,14:00,Arezzo,Sudtirol,1,4,A,,,,,,,,,,,,,,,,,espn
-5,2026-09-20,14:00,Hellas Verona,Vicenza,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-09-20,16:15,Mantova,Pisa,2,2,D,,,,,,,,,,,,,,,,,espn
-5,2026-09-20,18:30,Modena,Empoli,2,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-10-09,19:30,US Avellino,Sampdoria,4,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,14:00,Benevento,Cesena,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,14:00,Empoli,Palermo,2,4,A,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,14:00,Sudtirol,Ascoli,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,14:00,Virtus Entella,Juve Stabia,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,16:15,Vicenza,Pisa,0,3,A,,,,,,,,,,,,,,,,,espn
-6,2026-10-10,18:30,Arezzo,Cremonese,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-10-11,14:00,Catanzaro,Mantova,1,3,A,,,,,,,,,,,,,,,,,espn
-6,2026-10-11,16:15,Padova,Carrarese,0,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-10-11,18:30,Modena,Hellas Verona,3,2,H,,,,,,,,,,,,,,,,,espn
-7,2026-10-16,19:30,Hellas Verona,Catanzaro,2,2,D,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,14:00,Ascoli,Empoli,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,14:00,Benevento,Vicenza,2,2,D,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,14:00,Carrarese,Modena,2,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,14:00,Padova,Virtus Entella,1,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,16:15,Mantova,Palermo,0,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-10-17,18:30,Pisa,Cremonese,3,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-10-18,14:00,Juve Stabia,Sudtirol,3,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-10-18,16:15,Cesena,US Avellino,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-10-18,18:30,Sampdoria,Arezzo,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-10-23,19:30,Empoli,Vicenza,0,2,A,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-21,19:30,Vicenza,Catanzaro,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,18:00,Carrarese,Mantova,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,18:00,Sudtirol,Virtus Entella,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,20:00,Benevento,Modena,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,20:00,Empoli,Cremonese,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-22,20:00,US Avellino,Arezzo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,18:00,Hellas Verona,Ascoli,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,18:00,Pisa,Padova,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,20:00,Cesena,Sampdoria,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-08-23,20:00,Palermo,Juve Stabia,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-28,19:30,Cremonese,Modena,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-29,18:00,Sampdoria,Juve Stabia,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-29,18:00,Virtus Entella,Cesena,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-29,20:00,Ascoli,Carrarese,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-29,20:00,Padova,Hellas Verona,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-29,20:00,US Avellino,Vicenza,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-30,18:00,Arezzo,Palermo,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-30,18:00,Mantova,Empoli,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-30,20:00,Benevento,Sudtirol,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-30,20:00,Pisa,Catanzaro,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-05,14:00,Sudtirol,Catanzaro,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-05,16:15,Ascoli,Benevento,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-05,18:30,Carrarese,Empoli,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,14:00,Cesena,Mantova,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,14:00,Juve Stabia,Pisa,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,14:00,Modena,US Avellino,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,14:00,Virtus Entella,Vicenza,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,16:15,Hellas Verona,Arezzo,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-09-06,18:30,Cremonese,Padova,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-07,19:30,Palermo,Sampdoria,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-11,18:00,Empoli,Arezzo,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-11,20:00,Benevento,Hellas Verona,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-11,20:00,Pisa,Virtus Entella,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-12,14:00,Padova,Ascoli,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-12,14:00,Sudtirol,Modena,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-12,14:00,Vicenza,Juve Stabia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-12,16:15,Catanzaro,Carrarese,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-12,18:30,Cesena,Cremonese,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-13,16:15,Mantova,Sampdoria,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-09-13,16:15,US Avellino,Palermo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-18,19:30,Juve Stabia,Cesena,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-19,14:00,Carrarese,Benevento,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-19,14:00,Cremonese,Virtus Entella,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-19,14:00,Palermo,Padova,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-19,16:15,Sampdoria,Catanzaro,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-19,18:30,Ascoli,US Avellino,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-20,14:00,Arezzo,Sudtirol,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-20,14:00,Hellas Verona,Vicenza,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-20,16:15,Mantova,Pisa,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-09-20,18:30,Modena,Empoli,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-09,19:30,US Avellino,Sampdoria,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,14:00,Benevento,Cesena,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,14:00,Empoli,Palermo,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,14:00,Sudtirol,Ascoli,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,14:00,Virtus Entella,Juve Stabia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,16:15,Vicenza,Pisa,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-10,18:30,Arezzo,Cremonese,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-11,14:00,Catanzaro,Mantova,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-11,16:15,Padova,Carrarese,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-10-11,18:30,Modena,Hellas Verona,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-16,19:30,Hellas Verona,Catanzaro,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,14:00,Ascoli,Empoli,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,14:00,Benevento,Vicenza,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,14:00,Carrarese,Modena,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,14:00,Padova,Virtus Entella,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,16:15,Mantova,Palermo,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-17,18:30,Pisa,Cremonese,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-18,14:00,Juve Stabia,Sudtirol,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-18,16:15,Cesena,US Avellino,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-10-18,18:30,Sampdoria,Arezzo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-10-23,19:30,Empoli,Vicenza,0,2,A,,,,,,,,,,,,,,,,,,,,,espn

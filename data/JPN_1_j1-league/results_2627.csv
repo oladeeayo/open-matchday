@@ -1,309 +1,309 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-02-06,11:00,Kyoto Sanga,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-02-06,11:00,V-Varen Nagasaki,Sanfrecce Hiroshima,1,3,A,,,,,,,,,,,,,,,,,espn
-1,2026-02-06,11:00,Yokohama F. Marinos,Machida Zelvia,2,3,A,,,,,,,,,,,,,,,,,espn
-1,2026-02-07,05:00,JEF United Ichihara-Chiba,Urawa Red Diamonds,0,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-02-07,05:30,FC Tokyo,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-02-07,08:00,Cerezo Osaka,Gamba Osaka,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-02-08,05:05,Avispa Fukuoka,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-02-08,06:00,Nagoya Grampus,Shimizu S-Pulse,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-02-08,07:00,Kawasaki Frontale,Kashiwa Reysol,5,3,H,,,,,,,,,,,,,,,,,espn
-1,2026-02-08,08:00,Tokyo Verdy 1969,Mito Hollyhock,3,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-02-13,11:00,Vissel Kobe,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-02-14,06:00,Machida Zelvia,Mito Hollyhock,2,2,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-14,06:00,Sanfrecce Hiroshima,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-14,06:00,Shimizu S-Pulse,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-14,07:00,FC Tokyo,Urawa Red Diamonds,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-14,07:00,Kashima Antlers,Yokohama F. Marinos,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-02-15,05:00,JEF United Ichihara-Chiba,Kawasaki Frontale,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-15,06:00,Kashiwa Reysol,Tokyo Verdy 1969,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-02-15,07:00,Avispa Fukuoka,Cerezo Osaka,0,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-02-15,08:00,Gamba Osaka,Nagoya Grampus,0,0,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,06:00,Tokyo Verdy 1969,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,06:00,Yokohama F. Marinos,Urawa Red Diamonds,0,2,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,06:30,Shimizu S-Pulse,Vissel Kobe,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,07:00,Kawasaki Frontale,FC Tokyo,1,2,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,07:00,Nagoya Grampus,V-Varen Nagasaki,1,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-21,08:00,Kashima Antlers,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-22,06:00,Fagiano Okayama,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-22,06:00,Kyoto Sanga,Avispa Fukuoka,2,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-22,06:00,Mito Hollyhock,JEF United Ichihara-Chiba,1,1,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-22,07:00,Cerezo Osaka,Sanfrecce Hiroshima,1,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-27,11:00,Machida Zelvia,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-27,11:00,Sanfrecce Hiroshima,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-27,11:00,Vissel Kobe,Avispa Fukuoka,2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-28,05:00,Yokohama F. Marinos,Tokyo Verdy 1969,3,2,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-28,06:00,Urawa Red Diamonds,Kashima Antlers,2,3,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-28,07:00,FC Tokyo,Kashiwa Reysol,0,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-28,07:00,Gamba Osaka,Shimizu S-Pulse,2,2,D,,,,,,,,,,,,,,,,,espn
-4,2026-02-28,09:00,V-Varen Nagasaki,Cerezo Osaka,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-03-01,06:00,Fagiano Okayama,Nagoya Grampus,1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-03-01,08:00,Kawasaki Frontale,Mito Hollyhock,2,2,D,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,05:00,JEF United Ichihara-Chiba,Kashiwa Reysol,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,06:00,FC Tokyo,Yokohama F. Marinos,3,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,07:00,Cerezo Osaka,Shimizu S-Pulse,0,0,D,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,07:00,Urawa Red Diamonds,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,08:00,Avispa Fukuoka,Nagoya Grampus,1,5,A,,,,,,,,,,,,,,,,,espn
-5,2026-03-07,08:00,Kashima Antlers,Tokyo Verdy 1969,2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-03-08,04:55,Fagiano Okayama,Kyoto Sanga,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-03-08,07:00,Gamba Osaka,V-Varen Nagasaki,3,2,H,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,05:00,Yokohama F. Marinos,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,06:00,Kashiwa Reysol,Machida Zelvia,0,1,A,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,06:00,Kyoto Sanga,Cerezo Osaka,1,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,06:00,Mito Hollyhock,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,06:00,Nagoya Grampus,Vissel Kobe,0,3,A,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,06:00,Shimizu S-Pulse,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,07:00,Kashima Antlers,Kawasaki Frontale,1,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,07:00,Sanfrecce Hiroshima,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-03-14,08:00,Tokyo Verdy 1969,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-03-15,06:00,V-Varen Nagasaki,Avispa Fukuoka,1,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,10:30,Cerezo Osaka,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,Avispa Fukuoka,Shimizu S-Pulse,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,JEF United Ichihara-Chiba,FC Tokyo,1,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,Mito Hollyhock,Yokohama F. Marinos,1,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,Nagoya Grampus,Sanfrecce Hiroshima,2,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,Tokyo Verdy 1969,Kawasaki Frontale,0,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,V-Varen Nagasaki,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:00,Vissel Kobe,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:30,Machida Zelvia,Kashima Antlers,0,3,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-18,11:30,Urawa Red Diamonds,Kashiwa Reysol,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-21,06:00,Fagiano Okayama,V-Varen Nagasaki,0,1,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-21,06:30,Avispa Fukuoka,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,05:00,Shimizu S-Pulse,Sanfrecce Hiroshima,3,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,06:00,Kyoto Sanga,Nagoya Grampus,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,06:00,Tokyo Verdy 1969,FC Tokyo,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,07:00,Cerezo Osaka,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,07:00,Kashima Antlers,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,07:00,Kawasaki Frontale,Yokohama F. Marinos,0,5,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,08:00,Kashiwa Reysol,Mito Hollyhock,3,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-22,08:00,Urawa Red Diamonds,Machida Zelvia,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-27,11:00,Vissel Kobe,Sanfrecce Hiroshima,2,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-03-28,06:00,Machida Zelvia,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-04-01,11:00,Machida Zelvia,FC Tokyo,0,3,A,,,,,,,,,,,,,,,,,espn
-9,2026-04-01,11:00,Vissel Kobe,Shimizu S-Pulse,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-04-04,05:00,JEF United Ichihara-Chiba,Tokyo Verdy 1969,3,2,H,,,,,,,,,,,,,,,,,espn
-9,2026-04-04,06:00,Mito Hollyhock,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-04-04,07:00,Nagoya Grampus,Cerezo Osaka,3,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-04-04,08:00,Gamba Osaka,Kyoto Sanga,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,05:00,V-Varen Nagasaki,Shimizu S-Pulse,0,3,A,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,06:00,Fagiano Okayama,Vissel Kobe,1,4,A,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,06:00,Kashiwa Reysol,Yokohama F. Marinos,3,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,06:00,Sanfrecce Hiroshima,Avispa Fukuoka,0,1,A,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,07:00,FC Tokyo,Machida Zelvia,0,0,D,,,,,,,,,,,,,,,,,espn
-9,2026-04-05,08:00,Kawasaki Frontale,Urawa Red Diamonds,3,2,H,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,05:00,JEF United Ichihara-Chiba,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,06:00,Avispa Fukuoka,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,06:00,Machida Zelvia,Kashiwa Reysol,1,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,06:00,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,07:00,Vissel Kobe,Nagoya Grampus,3,2,H,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,07:00,Yokohama F. Marinos,FC Tokyo,1,3,A,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,08:00,Gamba Osaka,Cerezo Osaka,0,1,A,,,,,,,,,,,,,,,,,espn
-10,2026-04-11,08:00,Kyoto Sanga,Fagiano Okayama,5,1,H,,,,,,,,,,,,,,,,,espn
-10,2026-04-12,06:00,Urawa Red Diamonds,Tokyo Verdy 1969,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-04-12,08:00,Kawasaki Frontale,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-18,05:00,Yokohama F. Marinos,Kawasaki Frontale,1,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-18,06:00,Kashima Antlers,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-18,06:00,Sanfrecce Hiroshima,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-18,07:00,Tokyo Verdy 1969,JEF United Ichihara-Chiba,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-18,08:00,Cerezo Osaka,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-19,05:00,Mito Hollyhock,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-19,07:00,Gamba Osaka,Fagiano Okayama,2,2,D,,,,,,,,,,,,,,,,,espn
-11,2026-04-19,08:00,Nagoya Grampus,Avispa Fukuoka,2,2,D,,,,,,,,,,,,,,,,,espn
-12,2026-04-22,11:00,Gamba Osaka,Avispa Fukuoka,1,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-24,11:00,FC Tokyo,Mito Hollyhock,5,2,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-24,11:00,Kashiwa Reysol,Kashima Antlers,0,1,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,06:00,Fagiano Okayama,Avispa Fukuoka,2,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,06:00,Shimizu S-Pulse,Nagoya Grampus,0,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,06:00,Urawa Red Diamonds,Yokohama F. Marinos,2,3,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,07:00,Kawasaki Frontale,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,08:00,Sanfrecce Hiroshima,Cerezo Osaka,2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-25,10:30,V-Varen Nagasaki,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,05:00,Shimizu S-Pulse,V-Varen Nagasaki,1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,05:00,Tokyo Verdy 1969,Kashima Antlers,2,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,06:00,Avispa Fukuoka,Sanfrecce Hiroshima,2,2,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,06:00,JEF United Ichihara-Chiba,Yokohama F. Marinos,2,3,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,06:00,Vissel Kobe,Cerezo Osaka,0,0,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,07:00,Kyoto Sanga,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,07:00,Nagoya Grampus,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,07:00,Urawa Red Diamonds,Kawasaki Frontale,2,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,08:00,Kashiwa Reysol,FC Tokyo,1,3,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-29,08:00,Mito Hollyhock,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,04:55,Fagiano Okayama,Sanfrecce Hiroshima,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,06:00,FC Tokyo,Kawasaki Frontale,2,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,06:00,Kyoto Sanga,Shimizu S-Pulse,1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,06:00,Yokohama F. Marinos,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,07:00,Gamba Osaka,Vissel Kobe,5,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-05-02,08:00,Urawa Red Diamonds,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-05-03,06:00,Tokyo Verdy 1969,Kashiwa Reysol,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-05-03,07:00,Cerezo Osaka,Avispa Fukuoka,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-05-03,08:00,Kashima Antlers,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-05-03,09:00,V-Varen Nagasaki,Nagoya Grampus,1,2,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,05:00,Shimizu S-Pulse,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,05:00,V-Varen Nagasaki,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,06:00,Avispa Fukuoka,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,06:00,Nagoya Grampus,Gamba Osaka,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,07:00,FC Tokyo,JEF United Ichihara-Chiba,0,3,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,07:00,Sanfrecce Hiroshima,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,08:00,Kashima Antlers,Mito Hollyhock,3,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,08:00,Machida Zelvia,Yokohama F. Marinos,2,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,09:00,Kawasaki Frontale,Tokyo Verdy 1969,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-06,11:00,Kashiwa Reysol,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-09,06:00,Mito Hollyhock,Urawa Red Diamonds,1,4,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-09,08:00,Cerezo Osaka,V-Varen Nagasaki,3,2,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,06:00,Shimizu S-Pulse,Avispa Fukuoka,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,06:00,Vissel Kobe,Fagiano Okayama,0,3,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,06:00,Yokohama F. Marinos,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,07:00,FC Tokyo,Tokyo Verdy 1969,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,07:00,Gamba Osaka,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,08:00,Kashiwa Reysol,Kawasaki Frontale,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,08:00,Nagoya Grampus,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-05-10,09:00,JEF United Ichihara-Chiba,Machida Zelvia,0,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-13,11:00,Machida Zelvia,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-13,11:00,Vissel Kobe,Kyoto Sanga,1,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-05-16,06:00,Mito Hollyhock,Tokyo Verdy 1969,0,1,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-16,08:00,Urawa Red Diamonds,FC Tokyo,0,0,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-16,09:00,Yokohama F. Marinos,Kashiwa Reysol,0,1,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,05:00,V-Varen Nagasaki,Vissel Kobe,2,2,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,06:00,Fagiano Okayama,Shimizu S-Pulse,2,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,06:00,JEF United Ichihara-Chiba,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,07:00,Cerezo Osaka,Nagoya Grampus,6,1,H,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,07:00,Kyoto Sanga,Sanfrecce Hiroshima,0,4,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-17,11:00,Kawasaki Frontale,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,espn
-16,2026-05-22,11:30,Machida Zelvia,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-23,06:00,Avispa Fukuoka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-23,06:00,Sanfrecce Hiroshima,Nagoya Grampus,4,2,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-23,09:30,Kashima Antlers,FC Tokyo,1,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-23,10:00,Kashiwa Reysol,JEF United Ichihara-Chiba,4,2,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-23,11:00,Kyoto Sanga,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-24,04:55,Fagiano Okayama,Cerezo Osaka,2,3,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-24,06:00,Mito Hollyhock,Kawasaki Frontale,1,3,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-24,06:00,Tokyo Verdy 1969,Yokohama F. Marinos,0,6,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-24,09:00,Shimizu S-Pulse,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,06:00,Nagoya Grampus,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,06:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,06:00,Vissel Kobe,Kashima Antlers,5,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,07:00,Cerezo Osaka,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,08:00,Avispa Fukuoka,JEF United Ichihara-Chiba,2,2,D,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,09:00,V-Varen Nagasaki,Mito Hollyhock,1,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-30,11:00,Kyoto Sanga,Kashiwa Reysol,2,6,A,,,,,,,,,,,,,,,,,espn
-17,2026-05-31,06:00,Fagiano Okayama,Urawa Red Diamonds,1,1,D,,,,,,,,,,,,,,,,,espn
-17,2026-05-31,06:00,Shimizu S-Pulse,Yokohama F. Marinos,1,1,D,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,06:00,FC Tokyo,Cerezo Osaka,2,4,A,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,06:00,JEF United Ichihara-Chiba,Avispa Fukuoka,1,2,A,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,06:00,Kashima Antlers,Vissel Kobe,2,0,H,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,07:00,Machida Zelvia,Nagoya Grampus,2,1,H,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,07:00,Mito Hollyhock,V-Varen Nagasaki,0,1,A,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,08:00,Urawa Red Diamonds,Fagiano Okayama,0,2,A,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,09:00,Yokohama F. Marinos,Shimizu S-Pulse,3,0,H,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,10:00,Kashiwa Reysol,Kyoto Sanga,0,1,A,,,,,,,,,,,,,,,,,espn
-18,2026-06-06,11:00,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,espn
-19,2026-08-07,11:25,Yokohama F. Marinos,Kashima Antlers,3,4,A,,,,,,,,,,,,,,,,,espn
-19,2026-08-07,11:30,Gamba Osaka,Urawa Red Diamonds,4,3,H,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:00,Avispa Fukuoka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:00,Cerezo Osaka,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:00,FC Tokyo,Machida Zelvia,1,5,A,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:00,Kashiwa Reysol,Mito Hollyhock,2,1,H,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:00,Nagoya Grampus,Shimizu S-Pulse,0,1,A,,,,,,,,,,,,,,,,,espn
-19,2026-08-08,11:15,Sanfrecce Hiroshima,JEF United Ichihara-Chiba,3,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-08-09,10:00,Tokyo Verdy 1969,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,espn
-19,2026-08-09,11:00,V-Varen Nagasaki,Kyoto Sanga,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-14,11:00,Tokyo Verdy 1969,Kashiwa Reysol,1,3,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,10:00,Kashima Antlers,Nagoya Grampus,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,10:00,Mito Hollyhock,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,10:30,Shimizu S-Pulse,Yokohama F. Marinos,0,1,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,10:55,Fagiano Okayama,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,11:00,Avispa Fukuoka,Cerezo Osaka,3,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,11:00,JEF United Ichihara-Chiba,Machida Zelvia,0,4,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,11:00,Kawasaki Frontale,Kyoto Sanga,2,2,D,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,11:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,4,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-15,11:00,Vissel Kobe,FC Tokyo,2,2,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-21,11:00,Kashiwa Reysol,V-Varen Nagasaki,4,2,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-21,11:30,FC Tokyo,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,10:00,Kashima Antlers,Avispa Fukuoka,3,2,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,10:30,Fagiano Okayama,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,11:00,Cerezo Osaka,Shimizu S-Pulse,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,11:00,Kyoto Sanga,Mito Hollyhock,1,3,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,11:00,Nagoya Grampus,Gamba Osaka,3,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,11:15,Sanfrecce Hiroshima,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-22,11:30,Yokohama F. Marinos,Vissel Kobe,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-23,11:30,Machida Zelvia,Urawa Red Diamonds,3,1,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,10:00,Gamba Osaka,Sanfrecce Hiroshima,0,0,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,10:00,Mito Hollyhock,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,10:30,Shimizu S-Pulse,Kashiwa Reysol,0,1,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,10:30,V-Varen Nagasaki,FC Tokyo,0,3,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Kawasaki Frontale,JEF United Ichihara-Chiba,4,2,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Kyoto Sanga,Avispa Fukuoka,2,1,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Nagoya Grampus,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Tokyo Verdy 1969,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Urawa Red Diamonds,Yokohama F. Marinos,3,2,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-29,11:00,Vissel Kobe,Cerezo Osaka,1,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Avispa Fukuoka,Urawa Red Diamonds,2,3,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Cerezo Osaka,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,JEF United Ichihara-Chiba,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Machida Zelvia,Kawasaki Frontale,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Mito Hollyhock,Kashima Antlers,4,2,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Sanfrecce Hiroshima,Nagoya Grampus,3,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Shimizu S-Pulse,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Tokyo Verdy 1969,Vissel Kobe,0,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,V-Varen Nagasaki,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,espn
-23,2026-09-02,11:00,Yokohama F. Marinos,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,espn
-23,2026-09-05,11:00,Avispa Fukuoka,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,10:00,Fagiano Okayama,Sanfrecce Hiroshima,3,2,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,10:00,JEF United Ichihara-Chiba,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,10:00,Kashima Antlers,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,10:00,Nagoya Grampus,Machida Zelvia,1,3,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,11:00,Cerezo Osaka,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,11:00,Kashiwa Reysol,Yokohama F. Marinos,0,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,11:00,Kawasaki Frontale,Shimizu S-Pulse,3,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,11:00,Vissel Kobe,V-Varen Nagasaki,3,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-09-06,11:30,FC Tokyo,Kyoto Sanga,2,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-11,11:00,Kyoto Sanga,Kashiwa Reysol,2,3,A,,,,,,,,,,,,,,,,,espn
-24,2026-09-11,11:00,Vissel Kobe,Kashima Antlers,2,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,10:00,Mito Hollyhock,Kawasaki Frontale,0,1,A,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,10:30,Shimizu S-Pulse,Avispa Fukuoka,1,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,11:00,Gamba Osaka,FC Tokyo,0,2,A,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,11:00,Machida Zelvia,Yokohama F. Marinos,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,11:00,Sanfrecce Hiroshima,Cerezo Osaka,6,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-12,11:00,V-Varen Nagasaki,Nagoya Grampus,2,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-13,10:00,Tokyo Verdy 1969,JEF United Ichihara-Chiba,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-09-13,10:30,Urawa Red Diamonds,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,10:00,Avispa Fukuoka,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,10:00,Kawasaki Frontale,Kashima Antlers,3,3,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,10:30,Shimizu S-Pulse,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,10:30,Urawa Red Diamonds,Tokyo Verdy 1969,3,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,10:30,V-Varen Nagasaki,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,11:00,FC Tokyo,Nagoya Grampus,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,11:00,Fagiano Okayama,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-19,11:30,Yokohama F. Marinos,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-20,09:00,Gamba Osaka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-20,09:00,Machida Zelvia,Kashiwa Reysol,2,4,A,,,,,,,,,,,,,,,,,espn
-26,2026-10-09,11:00,Kashima Antlers,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-10-09,11:00,Kashiwa Reysol,Vissel Kobe,4,2,H,,,,,,,,,,,,,,,,,espn
-26,2026-10-10,06:00,Cerezo Osaka,Yokohama F. Marinos,0,0,D,,,,,,,,,,,,,,,,,espn
-26,2026-10-10,07:00,Avispa Fukuoka,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-10-10,07:00,FC Tokyo,Urawa Red Diamonds,3,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-10-10,11:00,Kyoto Sanga,Machida Zelvia,0,1,A,,,,,,,,,,,,,,,,,espn
-26,2026-10-11,06:00,JEF United Ichihara-Chiba,V-Varen Nagasaki,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-10-11,07:00,Mito Hollyhock,Shimizu S-Pulse,1,2,A,,,,,,,,,,,,,,,,,espn
-26,2026-10-11,07:00,Tokyo Verdy 1969,Sanfrecce Hiroshima,0,2,A,,,,,,,,,,,,,,,,,espn
-26,2026-10-11,08:00,Kawasaki Frontale,Nagoya Grampus,1,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,05:00,Shimizu S-Pulse,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,06:00,JEF United Ichihara-Chiba,Yokohama F. Marinos,0,0,D,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,06:00,Sanfrecce Hiroshima,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,06:00,Tokyo Verdy 1969,FC Tokyo,0,4,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,07:00,Cerezo Osaka,Kawasaki Frontale,2,4,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,07:00,Kashima Antlers,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,08:00,Mito Hollyhock,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-17,11:00,Kashiwa Reysol,Nagoya Grampus,1,3,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-18,05:55,Fagiano Okayama,Vissel Kobe,0,3,A,,,,,,,,,,,,,,,,,espn
-27,2026-10-18,08:00,Machida Zelvia,Avispa Fukuoka,3,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Avispa Fukuoka,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,FC Tokyo,Kashiwa Reysol,0,0,D,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Fagiano Okayama,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Kawasaki Frontale,Vissel Kobe,2,1,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Kyoto Sanga,Kashima Antlers,2,2,D,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Nagoya Grampus,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Shimizu S-Pulse,Machida Zelvia,0,5,A,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,V-Varen Nagasaki,Sanfrecce Hiroshima,4,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:00,Yokohama F. Marinos,Tokyo Verdy 1969,2,2,D,,,,,,,,,,,,,,,,,espn
-28,2026-10-21,11:30,Urawa Red Diamonds,JEF United Ichihara-Chiba,3,2,H,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-02-06,11:00,Kyoto Sanga,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-06,11:00,V-Varen Nagasaki,Sanfrecce Hiroshima,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-06,11:00,Yokohama F. Marinos,Machida Zelvia,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-07,05:00,JEF United Ichihara-Chiba,Urawa Red Diamonds,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-07,05:30,FC Tokyo,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-07,08:00,Cerezo Osaka,Gamba Osaka,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-08,05:05,Avispa Fukuoka,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-08,06:00,Nagoya Grampus,Shimizu S-Pulse,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-08,07:00,Kawasaki Frontale,Kashiwa Reysol,5,3,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-02-08,08:00,Tokyo Verdy 1969,Mito Hollyhock,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-13,11:00,Vissel Kobe,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-14,06:00,Machida Zelvia,Mito Hollyhock,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-14,06:00,Sanfrecce Hiroshima,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-14,06:00,Shimizu S-Pulse,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-14,07:00,FC Tokyo,Urawa Red Diamonds,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-14,07:00,Kashima Antlers,Yokohama F. Marinos,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-15,05:00,JEF United Ichihara-Chiba,Kawasaki Frontale,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-15,06:00,Kashiwa Reysol,Tokyo Verdy 1969,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-15,07:00,Avispa Fukuoka,Cerezo Osaka,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-15,08:00,Gamba Osaka,Nagoya Grampus,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,06:00,Tokyo Verdy 1969,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,06:00,Yokohama F. Marinos,Urawa Red Diamonds,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,06:30,Shimizu S-Pulse,Vissel Kobe,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,07:00,Kawasaki Frontale,FC Tokyo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,07:00,Nagoya Grampus,V-Varen Nagasaki,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-21,08:00,Kashima Antlers,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-22,06:00,Fagiano Okayama,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-22,06:00,Kyoto Sanga,Avispa Fukuoka,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-22,06:00,Mito Hollyhock,JEF United Ichihara-Chiba,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-22,07:00,Cerezo Osaka,Sanfrecce Hiroshima,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-27,11:00,Machida Zelvia,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-27,11:00,Sanfrecce Hiroshima,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-27,11:00,Vissel Kobe,Avispa Fukuoka,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-28,05:00,Yokohama F. Marinos,Tokyo Verdy 1969,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-28,06:00,Urawa Red Diamonds,Kashima Antlers,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-28,07:00,FC Tokyo,Kashiwa Reysol,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-28,07:00,Gamba Osaka,Shimizu S-Pulse,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-28,09:00,V-Varen Nagasaki,Cerezo Osaka,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-03-01,06:00,Fagiano Okayama,Nagoya Grampus,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-03-01,08:00,Kawasaki Frontale,Mito Hollyhock,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,05:00,JEF United Ichihara-Chiba,Kashiwa Reysol,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,06:00,FC Tokyo,Yokohama F. Marinos,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,07:00,Cerezo Osaka,Shimizu S-Pulse,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,07:00,Urawa Red Diamonds,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,08:00,Avispa Fukuoka,Nagoya Grampus,1,5,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-07,08:00,Kashima Antlers,Tokyo Verdy 1969,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-08,04:55,Fagiano Okayama,Kyoto Sanga,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-03-08,07:00,Gamba Osaka,V-Varen Nagasaki,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,05:00,Yokohama F. Marinos,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,06:00,Kashiwa Reysol,Machida Zelvia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,06:00,Kyoto Sanga,Cerezo Osaka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,06:00,Mito Hollyhock,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,06:00,Nagoya Grampus,Vissel Kobe,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,06:00,Shimizu S-Pulse,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,07:00,Kashima Antlers,Kawasaki Frontale,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,07:00,Sanfrecce Hiroshima,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-14,08:00,Tokyo Verdy 1969,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-15,06:00,V-Varen Nagasaki,Avispa Fukuoka,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,10:30,Cerezo Osaka,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,Avispa Fukuoka,Shimizu S-Pulse,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,JEF United Ichihara-Chiba,FC Tokyo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,Mito Hollyhock,Yokohama F. Marinos,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,Nagoya Grampus,Sanfrecce Hiroshima,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,Tokyo Verdy 1969,Kawasaki Frontale,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,V-Varen Nagasaki,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:00,Vissel Kobe,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:30,Machida Zelvia,Kashima Antlers,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-18,11:30,Urawa Red Diamonds,Kashiwa Reysol,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-21,06:00,Fagiano Okayama,V-Varen Nagasaki,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-21,06:30,Avispa Fukuoka,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,05:00,Shimizu S-Pulse,Sanfrecce Hiroshima,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,06:00,Kyoto Sanga,Nagoya Grampus,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,06:00,Tokyo Verdy 1969,FC Tokyo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,07:00,Cerezo Osaka,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,07:00,Kashima Antlers,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,07:00,Kawasaki Frontale,Yokohama F. Marinos,0,5,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,08:00,Kashiwa Reysol,Mito Hollyhock,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-22,08:00,Urawa Red Diamonds,Machida Zelvia,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-27,11:00,Vissel Kobe,Sanfrecce Hiroshima,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-28,06:00,Machida Zelvia,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,11:00,Machida Zelvia,FC Tokyo,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-01,11:00,Vissel Kobe,Shimizu S-Pulse,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,05:00,JEF United Ichihara-Chiba,Tokyo Verdy 1969,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,06:00,Mito Hollyhock,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,07:00,Nagoya Grampus,Cerezo Osaka,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-04,08:00,Gamba Osaka,Kyoto Sanga,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,05:00,V-Varen Nagasaki,Shimizu S-Pulse,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,06:00,Fagiano Okayama,Vissel Kobe,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,06:00,Kashiwa Reysol,Yokohama F. Marinos,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,06:00,Sanfrecce Hiroshima,Avispa Fukuoka,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,07:00,FC Tokyo,Machida Zelvia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-04-05,08:00,Kawasaki Frontale,Urawa Red Diamonds,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,05:00,JEF United Ichihara-Chiba,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,06:00,Avispa Fukuoka,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,06:00,Machida Zelvia,Kashiwa Reysol,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,06:00,Sanfrecce Hiroshima,Shimizu S-Pulse,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,07:00,Vissel Kobe,Nagoya Grampus,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,07:00,Yokohama F. Marinos,FC Tokyo,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,08:00,Gamba Osaka,Cerezo Osaka,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-11,08:00,Kyoto Sanga,Fagiano Okayama,5,1,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,06:00,Urawa Red Diamonds,Tokyo Verdy 1969,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-04-12,08:00,Kawasaki Frontale,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,05:00,Yokohama F. Marinos,Kawasaki Frontale,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,06:00,Kashima Antlers,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,06:00,Sanfrecce Hiroshima,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,07:00,Tokyo Verdy 1969,JEF United Ichihara-Chiba,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-18,08:00,Cerezo Osaka,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,05:00,Mito Hollyhock,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,07:00,Gamba Osaka,Fagiano Okayama,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-19,08:00,Nagoya Grampus,Avispa Fukuoka,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-22,11:00,Gamba Osaka,Avispa Fukuoka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-24,11:00,FC Tokyo,Mito Hollyhock,5,2,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-24,11:00,Kashiwa Reysol,Kashima Antlers,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,06:00,Fagiano Okayama,Avispa Fukuoka,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,06:00,Shimizu S-Pulse,Nagoya Grampus,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,06:00,Urawa Red Diamonds,Yokohama F. Marinos,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,07:00,Kawasaki Frontale,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,08:00,Sanfrecce Hiroshima,Cerezo Osaka,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-25,10:30,V-Varen Nagasaki,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,05:00,Shimizu S-Pulse,V-Varen Nagasaki,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,05:00,Tokyo Verdy 1969,Kashima Antlers,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,06:00,Avispa Fukuoka,Sanfrecce Hiroshima,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,06:00,JEF United Ichihara-Chiba,Yokohama F. Marinos,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,06:00,Vissel Kobe,Cerezo Osaka,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,07:00,Kyoto Sanga,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,07:00,Nagoya Grampus,Fagiano Okayama,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,07:00,Urawa Red Diamonds,Kawasaki Frontale,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,08:00,Kashiwa Reysol,FC Tokyo,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-29,08:00,Mito Hollyhock,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,04:55,Fagiano Okayama,Sanfrecce Hiroshima,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,06:00,FC Tokyo,Kawasaki Frontale,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,06:00,Kyoto Sanga,Shimizu S-Pulse,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,06:00,Yokohama F. Marinos,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,07:00,Gamba Osaka,Vissel Kobe,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-02,08:00,Urawa Red Diamonds,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,06:00,Tokyo Verdy 1969,Kashiwa Reysol,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,07:00,Cerezo Osaka,Avispa Fukuoka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,08:00,Kashima Antlers,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-05-03,09:00,V-Varen Nagasaki,Nagoya Grampus,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,05:00,Shimizu S-Pulse,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,05:00,V-Varen Nagasaki,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,06:00,Avispa Fukuoka,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,06:00,Nagoya Grampus,Gamba Osaka,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,07:00,FC Tokyo,JEF United Ichihara-Chiba,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,07:00,Sanfrecce Hiroshima,Vissel Kobe,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,08:00,Kashima Antlers,Mito Hollyhock,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,08:00,Machida Zelvia,Yokohama F. Marinos,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,09:00,Kawasaki Frontale,Tokyo Verdy 1969,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-06,11:00,Kashiwa Reysol,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-09,06:00,Mito Hollyhock,Urawa Red Diamonds,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-09,08:00,Cerezo Osaka,V-Varen Nagasaki,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,06:00,Shimizu S-Pulse,Avispa Fukuoka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,06:00,Vissel Kobe,Fagiano Okayama,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,06:00,Yokohama F. Marinos,Kashima Antlers,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,07:00,FC Tokyo,Tokyo Verdy 1969,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,07:00,Gamba Osaka,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,08:00,Kashiwa Reysol,Kawasaki Frontale,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,08:00,Nagoya Grampus,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-05-10,09:00,JEF United Ichihara-Chiba,Machida Zelvia,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-13,11:00,Machida Zelvia,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-13,11:00,Vissel Kobe,Kyoto Sanga,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,06:00,Mito Hollyhock,Tokyo Verdy 1969,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,08:00,Urawa Red Diamonds,FC Tokyo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-16,09:00,Yokohama F. Marinos,Kashiwa Reysol,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,05:00,V-Varen Nagasaki,Vissel Kobe,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,06:00,Fagiano Okayama,Shimizu S-Pulse,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,06:00,JEF United Ichihara-Chiba,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,07:00,Cerezo Osaka,Nagoya Grampus,6,1,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,07:00,Kyoto Sanga,Sanfrecce Hiroshima,0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-17,11:00,Kawasaki Frontale,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-22,11:30,Machida Zelvia,Urawa Red Diamonds,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,06:00,Avispa Fukuoka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,06:00,Sanfrecce Hiroshima,Nagoya Grampus,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,09:30,Kashima Antlers,FC Tokyo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,10:00,Kashiwa Reysol,JEF United Ichihara-Chiba,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-23,11:00,Kyoto Sanga,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,04:55,Fagiano Okayama,Cerezo Osaka,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,06:00,Mito Hollyhock,Kawasaki Frontale,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,06:00,Tokyo Verdy 1969,Yokohama F. Marinos,0,6,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-24,09:00,Shimizu S-Pulse,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,06:00,Nagoya Grampus,Machida Zelvia,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,06:00,Sanfrecce Hiroshima,Kawasaki Frontale,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,06:00,Vissel Kobe,Kashima Antlers,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,07:00,Cerezo Osaka,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,08:00,Avispa Fukuoka,JEF United Ichihara-Chiba,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,09:00,V-Varen Nagasaki,Mito Hollyhock,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-30,11:00,Kyoto Sanga,Kashiwa Reysol,2,6,A,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,06:00,Fagiano Okayama,Urawa Red Diamonds,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-31,06:00,Shimizu S-Pulse,Yokohama F. Marinos,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,06:00,FC Tokyo,Cerezo Osaka,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,06:00,JEF United Ichihara-Chiba,Avispa Fukuoka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,06:00,Kashima Antlers,Vissel Kobe,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,07:00,Machida Zelvia,Nagoya Grampus,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,07:00,Mito Hollyhock,V-Varen Nagasaki,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,08:00,Urawa Red Diamonds,Fagiano Okayama,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,09:00,Yokohama F. Marinos,Shimizu S-Pulse,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,10:00,Kashiwa Reysol,Kyoto Sanga,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-06-06,11:00,Kawasaki Frontale,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-07,11:25,Yokohama F. Marinos,Kashima Antlers,3,4,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-07,11:30,Gamba Osaka,Urawa Red Diamonds,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:00,Avispa Fukuoka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:00,Cerezo Osaka,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:00,FC Tokyo,Machida Zelvia,1,5,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:00,Kashiwa Reysol,Mito Hollyhock,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:00,Nagoya Grampus,Shimizu S-Pulse,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-08,11:15,Sanfrecce Hiroshima,JEF United Ichihara-Chiba,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-09,10:00,Tokyo Verdy 1969,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-08-09,11:00,V-Varen Nagasaki,Kyoto Sanga,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-14,11:00,Tokyo Verdy 1969,Kashiwa Reysol,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,10:00,Kashima Antlers,Nagoya Grampus,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,10:00,Mito Hollyhock,Gamba Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,10:30,Shimizu S-Pulse,Yokohama F. Marinos,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,10:55,Fagiano Okayama,V-Varen Nagasaki,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,11:00,Avispa Fukuoka,Cerezo Osaka,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,11:00,JEF United Ichihara-Chiba,Machida Zelvia,0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,11:00,Kawasaki Frontale,Kyoto Sanga,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,11:00,Urawa Red Diamonds,Sanfrecce Hiroshima,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-15,11:00,Vissel Kobe,FC Tokyo,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-21,11:00,Kashiwa Reysol,V-Varen Nagasaki,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-21,11:30,FC Tokyo,JEF United Ichihara-Chiba,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,10:00,Kashima Antlers,Avispa Fukuoka,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,10:30,Fagiano Okayama,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,11:00,Cerezo Osaka,Shimizu S-Pulse,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,11:00,Kyoto Sanga,Mito Hollyhock,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,11:00,Nagoya Grampus,Gamba Osaka,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,11:15,Sanfrecce Hiroshima,Kawasaki Frontale,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-22,11:30,Yokohama F. Marinos,Vissel Kobe,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-23,11:30,Machida Zelvia,Urawa Red Diamonds,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,10:00,Gamba Osaka,Sanfrecce Hiroshima,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,10:00,Mito Hollyhock,Machida Zelvia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,10:30,Shimizu S-Pulse,Kashiwa Reysol,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,10:30,V-Varen Nagasaki,FC Tokyo,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Kawasaki Frontale,JEF United Ichihara-Chiba,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Kyoto Sanga,Avispa Fukuoka,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Nagoya Grampus,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Tokyo Verdy 1969,Kashima Antlers,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Urawa Red Diamonds,Yokohama F. Marinos,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-29,11:00,Vissel Kobe,Cerezo Osaka,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Avispa Fukuoka,Urawa Red Diamonds,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Cerezo Osaka,Kashiwa Reysol,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,JEF United Ichihara-Chiba,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Machida Zelvia,Kawasaki Frontale,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Mito Hollyhock,Kashima Antlers,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Sanfrecce Hiroshima,Nagoya Grampus,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Shimizu S-Pulse,FC Tokyo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Tokyo Verdy 1969,Vissel Kobe,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,V-Varen Nagasaki,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-02,11:00,Yokohama F. Marinos,Kyoto Sanga,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-05,11:00,Avispa Fukuoka,Mito Hollyhock,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,10:00,Fagiano Okayama,Sanfrecce Hiroshima,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,10:00,JEF United Ichihara-Chiba,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,10:00,Kashima Antlers,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,10:00,Nagoya Grampus,Machida Zelvia,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,11:00,Cerezo Osaka,Tokyo Verdy 1969,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,11:00,Kashiwa Reysol,Yokohama F. Marinos,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,11:00,Kawasaki Frontale,Shimizu S-Pulse,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,11:00,Vissel Kobe,V-Varen Nagasaki,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-09-06,11:30,FC Tokyo,Kyoto Sanga,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-11,11:00,Kyoto Sanga,Kashiwa Reysol,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-11,11:00,Vissel Kobe,Kashima Antlers,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,10:00,Mito Hollyhock,Kawasaki Frontale,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,10:30,Shimizu S-Pulse,Avispa Fukuoka,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,11:00,Gamba Osaka,FC Tokyo,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,11:00,Machida Zelvia,Yokohama F. Marinos,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,11:00,Sanfrecce Hiroshima,Cerezo Osaka,6,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-12,11:00,V-Varen Nagasaki,Nagoya Grampus,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-13,10:00,Tokyo Verdy 1969,JEF United Ichihara-Chiba,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-13,10:30,Urawa Red Diamonds,Fagiano Okayama,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,10:00,Avispa Fukuoka,Sanfrecce Hiroshima,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,10:00,Kawasaki Frontale,Kashima Antlers,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,10:30,Shimizu S-Pulse,JEF United Ichihara-Chiba,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,10:30,Urawa Red Diamonds,Tokyo Verdy 1969,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,10:30,V-Varen Nagasaki,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,11:00,FC Tokyo,Nagoya Grampus,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,11:00,Fagiano Okayama,Kyoto Sanga,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-19,11:30,Yokohama F. Marinos,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-20,09:00,Gamba Osaka,Vissel Kobe,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-20,09:00,Machida Zelvia,Kashiwa Reysol,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-09,11:00,Kashima Antlers,Gamba Osaka,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-09,11:00,Kashiwa Reysol,Vissel Kobe,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,06:00,Cerezo Osaka,Yokohama F. Marinos,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,07:00,Avispa Fukuoka,Fagiano Okayama,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,07:00,FC Tokyo,Urawa Red Diamonds,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-10,11:00,Kyoto Sanga,Machida Zelvia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,06:00,JEF United Ichihara-Chiba,V-Varen Nagasaki,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,07:00,Mito Hollyhock,Shimizu S-Pulse,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,07:00,Tokyo Verdy 1969,Sanfrecce Hiroshima,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-10-11,08:00,Kawasaki Frontale,Nagoya Grampus,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,05:00,Shimizu S-Pulse,Gamba Osaka,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,06:00,JEF United Ichihara-Chiba,Yokohama F. Marinos,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,06:00,Sanfrecce Hiroshima,Kyoto Sanga,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,06:00,Tokyo Verdy 1969,FC Tokyo,0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,07:00,Cerezo Osaka,Kawasaki Frontale,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,07:00,Kashima Antlers,V-Varen Nagasaki,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,08:00,Mito Hollyhock,Urawa Red Diamonds,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-17,11:00,Kashiwa Reysol,Nagoya Grampus,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-18,05:55,Fagiano Okayama,Vissel Kobe,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-10-18,08:00,Machida Zelvia,Avispa Fukuoka,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Avispa Fukuoka,Gamba Osaka,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,FC Tokyo,Kashiwa Reysol,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Fagiano Okayama,Mito Hollyhock,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Kawasaki Frontale,Vissel Kobe,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Kyoto Sanga,Kashima Antlers,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Nagoya Grampus,Cerezo Osaka,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Shimizu S-Pulse,Machida Zelvia,0,5,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,V-Varen Nagasaki,Sanfrecce Hiroshima,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:00,Yokohama F. Marinos,Tokyo Verdy 1969,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-21,11:30,Urawa Red Diamonds,JEF United Ichihara-Chiba,3,2,H,,,,,,,,,,,,,,,,,,,,,espn

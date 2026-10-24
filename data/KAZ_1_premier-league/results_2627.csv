@@ -1,107 +1,107 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-15,2026-06-28,,Ertis Pavlodar,Kaisar Kyzylorda,1,2,A,,,,,,,,,,,,,,,,,soccerway
-15,2026-06-28,,Tobol,Altai,3,1,H,,,,,,,,,,,,,,,,,soccerway
-15,2026-06-28,,Ulytau,Ordabasy,0,1,A,,,,,,,,,,,,,,,,,soccerway
-15,2026-06-28,,Zhenis,FC Astana,2,2,D,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-02,,Kairat Almaty,Okzhetpes,5,0,H,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-03,,FC Astana,Zhenis,1,0,H,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-04,,Altai,Tobol,1,0,H,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-04,,Kyzylzhar,Yelimay Semey,0,1,A,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Aktobe,Zhetysu Taldykorgan,2,1,H,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Atyrau,Kaspij Aktau,1,2,A,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Kaisar Kyzylorda,Ertis Pavlodar,0,0,D,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Ordabasy,Ulytau,1,0,H,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Ertis Pavlodar,Zhenis,0,1,A,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Kaspij Aktau,Ordabasy,3,2,H,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Zhetysu Taldykorgan,Altai,0,1,A,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-12,,FC Astana,Aktobe,3,2,H,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-12,,Tobol,Okzhetpes,3,1,H,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-12,,Ulytau,Kaisar Kyzylorda,1,0,H,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-18,,Atyrau,Kairat Almaty,1,3,A,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-18,,Kaisar Kyzylorda,Kaspij Aktau,1,1,D,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-18,,Kyzylzhar,Tobol,1,1,D,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-18,,Okzhetpes,Zhetysu Taldykorgan,2,0,H,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-18,,Zhenis,Ulytau,1,1,D,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-19,,Altai,Aktobe,2,4,A,,,,,,,,,,,,,,,,,soccerway
-18,2026-07-19,,Ordabasy,Yelimay Semey,3,1,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-25,,Aktobe,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-25,,Ulytau,Ertis Pavlodar,1,2,A,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-25,,Zhetysu Taldykorgan,Kyzylzhar,1,2,A,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-26,,FC Astana,Altai,4,1,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-26,,Kairat Almaty,Ordabasy,2,1,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-26,,Kaspij Aktau,Zhenis,3,2,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-26,,Tobol,Atyrau,1,0,H,,,,,,,,,,,,,,,,,soccerway
-19,2026-07-26,,Yelimay Semey,Kaisar Kyzylorda,1,1,D,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-01,,Atyrau,Zhetysu Taldykorgan,1,1,D,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-01,,Ertis Pavlodar,Kaspij Aktau,3,2,H,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-01,,Kyzylzhar,Aktobe,3,1,H,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-02,,Okzhetpes,Altai,4,1,H,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-02,,Ordabasy,Tobol,2,0,H,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-02,,Ulytau,FC Astana,0,2,A,,,,,,,,,,,,,,,,,soccerway
-20,2026-08-02,,Zhenis,Yelimay Semey,0,0,D,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-08,,Altai,Kyzylzhar,3,0,H,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-08,,Kaspij Aktau,Ulytau,1,1,D,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-08,,Zhetysu Taldykorgan,Ordabasy,0,4,A,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-09,,Atyrau,Aktobe,1,1,D,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-09,,FC Astana,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-09,,Yelimay Semey,Ertis Pavlodar,3,1,H,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-15,,Kairat Almaty,Ulytau,3,1,H,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-15,,Kaisar Kyzylorda,Aktobe,1,2,A,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-15,,Ordabasy,Altai,3,1,H,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-15,,Zhenis,Zhetysu Taldykorgan,4,1,H,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-16,,Atyrau,Okzhetpes,0,2,A,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-16,,Ertis Pavlodar,Tobol,0,2,A,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-16,,Kaspij Aktau,Yelimay Semey,2,2,D,,,,,,,,,,,,,,,,,soccerway
-22,2026-08-16,,Kyzylzhar,FC Astana,1,1,D,,,,,,,,,,,,,,,,,soccerway
-21,2026-08-25,,Tobol,Kaisar Kyzylorda,3,2,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-29,,Kaisar Kyzylorda,Okzhetpes,2,3,A,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-29,,Ordabasy,Kyzylzhar,3,0,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-29,,Ulytau,Zhetysu Taldykorgan,3,0,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-29,,Zhenis,Altai,1,0,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-30,,Atyrau,FC Astana,2,3,A,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-30,,Ertis Pavlodar,Aktobe,2,1,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-30,,Kaspij Aktau,Tobol,1,0,H,,,,,,,,,,,,,,,,,soccerway
-24,2026-08-31,,Yelimay Semey,Kairat Almaty,0,2,A,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-05,,Aktobe,Zhenis,1,0,H,,,,,,,,,,,,,,,,,soccerway
-6,2026-09-05,,Kaspij Aktau,Kairat Almaty,0,3,A,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-05,,Kyzylzhar,Atyrau,0,1,A,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-05,,Okzhetpes,Ordabasy,2,1,H,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-05,,Zhetysu Taldykorgan,Ertis Pavlodar,1,0,H,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-06,,Altai,Kaisar Kyzylorda,2,0,H,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-06,,FC Astana,Yelimay Semey,4,0,H,,,,,,,,,,,,,,,,,soccerway
-25,2026-09-06,,Tobol,Ulytau,3,1,H,,,,,,,,,,,,,,,,,soccerway
-21,2026-09-09,,Kairat Almaty,Zhenis,3,0,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-12,,Kaisar Kyzylorda,Atyrau,1,0,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-12,,Kaspij Aktau,Aktobe,1,2,A,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-12,,Ordabasy,FC Astana,1,0,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-12,,Yelimay Semey,Zhetysu Taldykorgan,2,1,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-12,,Zhenis,Kyzylzhar,3,1,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-13,,Ertis Pavlodar,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-13,,Kairat Almaty,Tobol,1,4,A,,,,,,,,,,,,,,,,,soccerway
-26,2026-09-13,,Ulytau,Altai,0,3,A,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-17,,Atyrau,Ordabasy,0,3,A,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-17,,FC Astana,Kairat Almaty,1,0,H,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-17,,Tobol,Yelimay Semey,0,2,A,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-18,,Aktobe,Ulytau,2,2,D,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-18,,Altai,Ertis Pavlodar,1,2,A,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-18,,Kyzylzhar,Kaisar Kyzylorda,1,1,D,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-18,,Okzhetpes,Zhenis,3,1,H,,,,,,,,,,,,,,,,,soccerway
-27,2026-09-18,,Zhetysu Taldykorgan,Kaspij Aktau,0,1,A,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-10,,Ertis Pavlodar,Kyzylzhar,0,2,A,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-10,,Kairat Almaty,Zhetysu Taldykorgan,1,0,H,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-10,,Tobol,FC Astana,2,1,H,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-10,,Yelimay Semey,Aktobe,1,3,A,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-10,,Zhenis,Atyrau,1,2,A,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-11,,Kaisar Kyzylorda,Ordabasy,1,4,A,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-11,,Kaspij Aktau,Altai,2,1,H,,,,,,,,,,,,,,,,,soccerway
-28,2026-10-11,,Ulytau,Okzhetpes,2,0,H,,,,,,,,,,,,,,,,,soccerway
-14,2026-10-14,,Atyrau,Yelimay Semey,1,2,A,,,,,,,,,,,,,,,,,soccerway
-18,2026-10-14,,Ertis Pavlodar,FC Astana,0,1,A,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-17,,Aktobe,Ordabasy,1,3,A,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-17,,Okzhetpes,Kyzylzhar,1,0,H,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-17,,Tobol,Zhenis,4,2,H,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-17,,Zhetysu Taldykorgan,Kaisar Kyzylorda,2,1,H,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-18,,Altai,Atyrau,1,1,D,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-18,,FC Astana,Kaspij Aktau,2,2,D,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-18,,Kairat Almaty,Ertis Pavlodar,5,0,H,,,,,,,,,,,,,,,,,soccerway
-23,2026-10-18,,Yelimay Semey,Ulytau,2,1,H,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+15,2026-06-28,,Ertis Pavlodar,Kaisar Kyzylorda,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-06-28,,Tobol,Altai,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-06-28,,Ulytau,Ordabasy,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-06-28,,Zhenis,FC Astana,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-02,,Kairat Almaty,Okzhetpes,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-03,,FC Astana,Zhenis,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-04,,Altai,Tobol,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-04,,Kyzylzhar,Yelimay Semey,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-05,,Aktobe,Zhetysu Taldykorgan,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-05,,Atyrau,Kaspij Aktau,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-05,,Kaisar Kyzylorda,Ertis Pavlodar,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-07-05,,Ordabasy,Ulytau,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-11,,Ertis Pavlodar,Zhenis,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-11,,Kaspij Aktau,Ordabasy,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-11,,Zhetysu Taldykorgan,Altai,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-12,,FC Astana,Aktobe,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-12,,Tobol,Okzhetpes,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-07-12,,Ulytau,Kaisar Kyzylorda,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-18,,Atyrau,Kairat Almaty,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-18,,Kaisar Kyzylorda,Kaspij Aktau,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-18,,Kyzylzhar,Tobol,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-18,,Okzhetpes,Zhetysu Taldykorgan,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-18,,Zhenis,Ulytau,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-19,,Altai,Aktobe,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-07-19,,Ordabasy,Yelimay Semey,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-25,,Aktobe,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-25,,Ulytau,Ertis Pavlodar,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-25,,Zhetysu Taldykorgan,Kyzylzhar,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-26,,FC Astana,Altai,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-26,,Kairat Almaty,Ordabasy,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-26,,Kaspij Aktau,Zhenis,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-26,,Tobol,Atyrau,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+19,2026-07-26,,Yelimay Semey,Kaisar Kyzylorda,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-01,,Atyrau,Zhetysu Taldykorgan,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-01,,Ertis Pavlodar,Kaspij Aktau,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-01,,Kyzylzhar,Aktobe,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-02,,Okzhetpes,Altai,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-02,,Ordabasy,Tobol,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-02,,Ulytau,FC Astana,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-08-02,,Zhenis,Yelimay Semey,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-08,,Altai,Kyzylzhar,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-08,,Kaspij Aktau,Ulytau,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-08,,Zhetysu Taldykorgan,Ordabasy,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-09,,Atyrau,Aktobe,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-09,,FC Astana,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-09,,Yelimay Semey,Ertis Pavlodar,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-15,,Kairat Almaty,Ulytau,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-15,,Kaisar Kyzylorda,Aktobe,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-15,,Ordabasy,Altai,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-15,,Zhenis,Zhetysu Taldykorgan,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-16,,Atyrau,Okzhetpes,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-16,,Ertis Pavlodar,Tobol,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-16,,Kaspij Aktau,Yelimay Semey,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+22,2026-08-16,,Kyzylzhar,FC Astana,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-08-25,,Tobol,Kaisar Kyzylorda,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-29,,Kaisar Kyzylorda,Okzhetpes,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-29,,Ordabasy,Kyzylzhar,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-29,,Ulytau,Zhetysu Taldykorgan,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-29,,Zhenis,Altai,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-30,,Atyrau,FC Astana,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-30,,Ertis Pavlodar,Aktobe,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-30,,Kaspij Aktau,Tobol,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+24,2026-08-31,,Yelimay Semey,Kairat Almaty,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-05,,Aktobe,Zhenis,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+6,2026-09-05,,Kaspij Aktau,Kairat Almaty,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-05,,Kyzylzhar,Atyrau,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-05,,Okzhetpes,Ordabasy,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-05,,Zhetysu Taldykorgan,Ertis Pavlodar,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-06,,Altai,Kaisar Kyzylorda,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-06,,FC Astana,Yelimay Semey,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+25,2026-09-06,,Tobol,Ulytau,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+21,2026-09-09,,Kairat Almaty,Zhenis,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-12,,Kaisar Kyzylorda,Atyrau,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-12,,Kaspij Aktau,Aktobe,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-12,,Ordabasy,FC Astana,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-12,,Yelimay Semey,Zhetysu Taldykorgan,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-12,,Zhenis,Kyzylzhar,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-13,,Ertis Pavlodar,Okzhetpes,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-13,,Kairat Almaty,Tobol,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-09-13,,Ulytau,Altai,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-17,,Atyrau,Ordabasy,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-17,,FC Astana,Kairat Almaty,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-17,,Tobol,Yelimay Semey,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-18,,Aktobe,Ulytau,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-18,,Altai,Ertis Pavlodar,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-18,,Kyzylzhar,Kaisar Kyzylorda,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-18,,Okzhetpes,Zhenis,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+27,2026-09-18,,Zhetysu Taldykorgan,Kaspij Aktau,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-10,,Ertis Pavlodar,Kyzylzhar,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-10,,Kairat Almaty,Zhetysu Taldykorgan,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-10,,Tobol,FC Astana,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-10,,Yelimay Semey,Aktobe,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-10,,Zhenis,Atyrau,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-11,,Kaisar Kyzylorda,Ordabasy,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-11,,Kaspij Aktau,Altai,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+28,2026-10-11,,Ulytau,Okzhetpes,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-10-14,,Atyrau,Yelimay Semey,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+18,2026-10-14,,Ertis Pavlodar,FC Astana,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-17,,Aktobe,Ordabasy,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-17,,Okzhetpes,Kyzylzhar,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-17,,Tobol,Zhenis,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-17,,Zhetysu Taldykorgan,Kaisar Kyzylorda,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-18,,Altai,Atyrau,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-18,,FC Astana,Kaspij Aktau,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-18,,Kairat Almaty,Ertis Pavlodar,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+23,2026-10-18,,Yelimay Semey,Ulytau,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway

@@ -1,23 +1,23 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-09-26,17:00,Anaitasuna,CD Tedeón,5,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-26,17:00,Atlético Calatayud,CD Baztán,2,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-26,17:00,UB Lebrijana,Ceuta 6 de Junio,5,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-26,18:00,Ribadesella,SD Noja,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-26,19:00,Atlético Pinatarense,Atlético Melilla,8,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-27,,El Espinar Sant Rafel,Prat,1,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-09-27,11:00,Auriense Cented Academy,CD San José,2,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-27,11:00,Sporting Hortaleza,Atlético Unión Güímar,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-09-27,15:00,CF San Rafael,AE Prat,1,5,A,,,,,,,,,,,,,,,,,espn
-1,2026-09-27,16:30,CP Talayuela,Sporting de Alcázar,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-09-27,17:00,Maracena,Tavernes de la Valldigna,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-10-03,16:30,CD Baztán,Atlético Calatayud,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-10-03,17:00,CD Tedeón,Anaitasuna,2,5,A,,,,,,,,,,,,,,,,,espn
-1,2026-10-03,17:00,Ceuta 6 de Junio,UB Lebrijana,1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-10-04,15:00,CD San José,Auriense Cented Academy,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-10-04,15:00,SD Noja,Ribadesella,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-10-04,16:30,Sporting de Alcázar,CP Talayuela,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-10-04,17:00,Atlético Melilla,Atlético Pinatarense,0,3,A,,,,,,,,,,,,,,,,,espn
-1,2026-10-04,17:00,Tavernes de la Valldigna,Maracena,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-10-11,,Prat,El Espinar Sant Rafel,5,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-11,12:00,Atlético Unión Güímar,Sporting Hortaleza,3,3,D,,,,,,,,,,,,,,,,,espn
-3,2026-10-11,15:00,AE Prat,CF San Rafael,5,0,H,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-09-26,17:00,Anaitasuna,CD Tedeón,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-26,17:00,Atlético Calatayud,CD Baztán,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-26,17:00,UB Lebrijana,Ceuta 6 de Junio,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-26,18:00,Ribadesella,SD Noja,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-26,19:00,Atlético Pinatarense,Atlético Melilla,8,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-27,,El Espinar Sant Rafel,Prat,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-09-27,11:00,Auriense Cented Academy,CD San José,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-27,11:00,Sporting Hortaleza,Atlético Unión Güímar,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-27,15:00,CF San Rafael,AE Prat,1,5,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-27,16:30,CP Talayuela,Sporting de Alcázar,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-09-27,17:00,Maracena,Tavernes de la Valldigna,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-03,16:30,CD Baztán,Atlético Calatayud,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-03,17:00,CD Tedeón,Anaitasuna,2,5,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-03,17:00,Ceuta 6 de Junio,UB Lebrijana,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-04,15:00,CD San José,Auriense Cented Academy,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-04,15:00,SD Noja,Ribadesella,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-04,16:30,Sporting de Alcázar,CP Talayuela,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-04,17:00,Atlético Melilla,Atlético Pinatarense,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-04,17:00,Tavernes de la Valldigna,Maracena,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-11,,Prat,El Espinar Sant Rafel,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-11,12:00,Atlético Unión Güímar,Sporting Hortaleza,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-10-11,15:00,AE Prat,CF San Rafael,5,0,H,,,,,,,,,,,,,,,,,,,,,espn

@@ -1,55 +1,55 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-09-08,17:45,AEK Athens,LASK,1,0,H,,,,,,,,,,,,,,,,,fixturedl
-1,2026-09-08,17:45,Club Brugge,Aston Villa,2,3,A,,,,,,,,,,,,,,,,"11,19,22,43,61",fixturedl
-1,2026-09-08,20:00,B. Dortmund,Villarreal,3,2,H,,,,,,,,,,,,,,,,"53,80,85,93",fixturedl
-1,2026-09-08,20:00,Lille,Real Betis,2,3,A,,,,,,,,,,,,,,,,53,fixturedl
-1,2026-09-08,20:00,Porto,Man City,0,2,A,,,,,,,,,,,,,,,,91,fixturedl
-1,2026-09-08,20:00,Real Madrid,Inter,2,1,H,,,,,,,,,,,,,,,,"14,23,77",fixturedl
-1,2026-09-09,17:45,Barcelona,Feyenoord,5,1,H,,,,,,,,,,,,,,,,"3,22,57,82",fixturedl
-1,2026-09-09,17:45,Stuttgart,Viking,3,1,H,,,,,,,,,,,,,,,,"20,22,26",fixturedl
-1,2026-09-09,20:00,Liverpool,Atleti,2,1,H,,,,,,,,,,,,,,,,"17,40,50",fixturedl
-1,2026-09-09,20:00,Napoli,Arsenal,0,1,A,,,,,,,,,,,,,,,,75,fixturedl
-1,2026-09-09,20:00,Paris,S. Bratislava,6,1,H,,,,,,,,,,,,,,,,"17,31,47,57,58,87",fixturedl
-1,2026-09-09,20:00,Sporting CP,Galatasaray,3,1,H,,,,,,,,,,,,,,,,"5,27,57",fixturedl
-1,2026-09-10,17:45,Fenerbahçe,Roma,1,1,D,,,,,,,,,,,,,,,,"39,48",fixturedl
-1,2026-09-10,17:45,PSV,Shakhtar,1,1,D,,,,,,,,,,,,,,,,"46,48",fixturedl
-1,2026-09-10,20:00,Bayern München,Bodø/Glimt,5,0,H,,,,,,,,,,,,,,,,"47,77,83,92",fixturedl
-1,2026-09-10,20:00,Como,Leipzig,4,1,H,,,,,,,,,,,,,,,,"15,38,54,58,90",fixturedl
-1,2026-09-10,20:00,Man Utd,Sabah,4,0,H,,,,,,,,,,,,,,,,"42,45,68",fixturedl
-1,2026-09-10,20:00,Slavia Praha,Lens,2,3,A,,,,,,,,,,,,,,,,"51,73,88,93",fixturedl
-2,2026-10-13,17:45,Lens,Sporting CP,0,2,A,,,,,,,,,,,,,,,,"22,74",fixturedl
-2,2026-10-13,17:45,Sabah,Slavia Praha,2,0,H,,,,,,,,,,,,,,,,"49,88",fixturedl
-2,2026-10-13,20:00,Arsenal,Lille,3,0,H,,,,,,,,,,,,,,,,"64,67,71",fixturedl
-2,2026-10-13,20:00,Atleti,Man Utd,2,0,H,,,,,,,,,,,,,,,,"1,79",fixturedl
-2,2026-10-13,20:00,Galatasaray,Barcelona,1,4,A,,,,,,,,,,,,,,,,"28,43,53,65",fixturedl
-2,2026-10-13,20:00,Inter,Club Brugge,3,4,A,,,,,,,,,,,,,,,,"30,44,63,74,81,87,93",fixturedl
-2,2026-10-13,20:00,Leipzig,PSV,1,0,H,,,,,,,,,,,,,,,,75,fixturedl
-2,2026-10-13,20:00,Viking,Bayern München,3,3,D,,,,,,,,,,,,,,,,"38,54,71,90",fixturedl
-2,2026-10-13,20:00,Villarreal,Napoli,3,1,H,,,,,,,,,,,,,,,,"8,23,26,86",fixturedl
-2,2026-10-14,17:45,Feyenoord,Como,3,2,H,,,,,,,,,,,,,,,,"18,20,52,81,93",fixturedl
-2,2026-10-14,17:45,LASK,Liverpool,3,6,A,,,,,,,,,,,,,,,,"24,37,63,66,72",fixturedl
-2,2026-10-14,20:00,Aston Villa,Fenerbahçe,6,0,H,,,,,,,,,,,,,,,,"31,39,68,72,90",fixturedl
-2,2026-10-14,20:00,Bodø/Glimt,B. Dortmund,1,0,H,,,,,,,,,,,,,,,,52,fixturedl
-2,2026-10-14,20:00,Man City,Paris,2,4,A,,,,,,,,,,,,,,,,"13,32,62,75",fixturedl
-2,2026-10-14,20:00,Real Betis,Porto,3,2,H,,,,,,,,,,,,,,,,"47,61,74,84",fixturedl
-2,2026-10-14,20:00,Roma,Real Madrid,3,4,A,,,,,,,,,,,,,,,,"20,25,51,57,83",fixturedl
-2,2026-10-14,20:00,S. Bratislava,Stuttgart,0,3,A,,,,,,,,,,,,,,,,"29,64",fixturedl
-2,2026-10-14,20:00,Shakhtar,AEK Athens,3,1,H,,,,,,,,,,,,,,,,"28,34,80,86",fixturedl
-3,2026-10-20,17:45,Fenerbahçe,Slavia Praha,2,2,D,,,,,,,,,,,,,,,,"4,11,15,90",fixturedl
-3,2026-10-20,17:45,Sabah,B. Dortmund,1,2,A,,,,,,,,,,,,,,,,10,fixturedl
-3,2026-10-20,20:00,Liverpool,Villarreal,4,3,H,,,,,,,,,,,,,,,,"4,29,65,68",fixturedl
-3,2026-10-20,20:00,Man City,AEK Athens,5,1,H,,,,,,,,,,,,,,,,"12,34,52,57,65,76",fixturedl
-3,2026-10-20,20:00,Napoli,Bodø/Glimt,4,3,H,,,,,,,,,,,,,,,,"27,41,62,88",fixturedl
-3,2026-10-20,20:00,Paris,Barcelona,4,2,H,,,,,,,,,,,,,,,,"38,55,79,81,86",fixturedl
-3,2026-10-20,20:00,Porto,PSV,0,1,A,,,,,,,,,,,,,,,,57,fixturedl
-3,2026-10-20,20:00,Roma,S. Bratislava,4,0,H,,,,,,,,,,,,,,,,"39,52,58",fixturedl
-3,2026-10-20,20:00,Stuttgart,Atleti,1,1,D,,,,,,,,,,,,,,,,"36,47",fixturedl
-3,2026-10-21,17:45,Como,Man Utd,4,1,H,,,,,,,,,,,,,,,,"2,49,57,91",fixturedl
-3,2026-10-21,17:45,Lille,Galatasaray,2,4,A,,,,,,,,,,,,,,,,"2,7,39,52,61",fixturedl
-3,2026-10-21,20:00,Aston Villa,Viking,3,1,H,,,,,,,,,,,,,,,,"37,62",fixturedl
-3,2026-10-21,20:00,Bayern München,Arsenal,2,2,D,,,,,,,,,,,,,,,,"25,35,61,82",fixturedl
-3,2026-10-21,20:00,Club Brugge,Lens,3,0,H,,,,,,,,,,,,,,,,"48,50,72",fixturedl
-3,2026-10-21,20:00,Inter,Shakhtar,1,0,H,,,,,,,,,,,,,,,,77,fixturedl
-3,2026-10-21,20:00,Real Betis,Feyenoord,1,0,H,,,,,,,,,,,,,,,,59,fixturedl
-3,2026-10-21,20:00,Real Madrid,Leipzig,4,1,H,,,,,,,,,,,,,,,,"43,52,83,85",fixturedl
-3,2026-10-21,20:00,Sporting CP,LASK,2,3,A,,,,,,,,,,,,,,,,"5,15,63,68,89",fixturedl
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-09-08,17:45,AEK Athens,LASK,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+1,2026-09-08,17:45,Club Brugge,Aston Villa,2,3,A,,,,,,,,,,,,,,,,,,,,"11,19,22,43,61",fixturedl
+1,2026-09-08,20:00,B. Dortmund,Villarreal,3,2,H,,,,,,,,,,,,,,,,,,,,"53,80,85,93",fixturedl
+1,2026-09-08,20:00,Lille,Real Betis,2,3,A,,,,,,,,,,,,,,,,,,,,53,fixturedl
+1,2026-09-08,20:00,Porto,Man City,0,2,A,,,,,,,,,,,,,,,,,,,,91,fixturedl
+1,2026-09-08,20:00,Real Madrid,Inter,2,1,H,,,,,,,,,,,,,,,,,,,,"14,23,77",fixturedl
+1,2026-09-09,17:45,Barcelona,Feyenoord,5,1,H,,,,,,,,,,,,,,,,,,,,"3,22,57,82",fixturedl
+1,2026-09-09,17:45,Stuttgart,Viking,3,1,H,,,,,,,,,,,,,,,,,,,,"20,22,26",fixturedl
+1,2026-09-09,20:00,Liverpool,Atleti,2,1,H,,,,,,,,,,,,,,,,,,,,"17,40,50",fixturedl
+1,2026-09-09,20:00,Napoli,Arsenal,0,1,A,,,,,,,,,,,,,,,,,,,,75,fixturedl
+1,2026-09-09,20:00,Paris,S. Bratislava,6,1,H,,,,,,,,,,,,,,,,,,,,"17,31,47,57,58,87",fixturedl
+1,2026-09-09,20:00,Sporting CP,Galatasaray,3,1,H,,,,,,,,,,,,,,,,,,,,"5,27,57",fixturedl
+1,2026-09-10,17:45,Fenerbahçe,Roma,1,1,D,,,,,,,,,,,,,,,,,,,,"39,48",fixturedl
+1,2026-09-10,17:45,PSV,Shakhtar,1,1,D,,,,,,,,,,,,,,,,,,,,"46,48",fixturedl
+1,2026-09-10,20:00,Bayern München,Bodø/Glimt,5,0,H,,,,,,,,,,,,,,,,,,,,"47,77,83,92",fixturedl
+1,2026-09-10,20:00,Como,Leipzig,4,1,H,,,,,,,,,,,,,,,,,,,,"15,38,54,58,90",fixturedl
+1,2026-09-10,20:00,Man Utd,Sabah,4,0,H,,,,,,,,,,,,,,,,,,,,"42,45,68",fixturedl
+1,2026-09-10,20:00,Slavia Praha,Lens,2,3,A,,,,,,,,,,,,,,,,,,,,"51,73,88,93",fixturedl
+2,2026-10-13,17:45,Lens,Sporting CP,0,2,A,,,,,,,,,,,,,,,,,,,,"22,74",fixturedl
+2,2026-10-13,17:45,Sabah,Slavia Praha,2,0,H,,,,,,,,,,,,,,,,,,,,"49,88",fixturedl
+2,2026-10-13,20:00,Arsenal,Lille,3,0,H,,,,,,,,,,,,,,,,,,,,"64,67,71",fixturedl
+2,2026-10-13,20:00,Atleti,Man Utd,2,0,H,,,,,,,,,,,,,,,,,,,,"1,79",fixturedl
+2,2026-10-13,20:00,Galatasaray,Barcelona,1,4,A,,,,,,,,,,,,,,,,,,,,"28,43,53,65",fixturedl
+2,2026-10-13,20:00,Inter,Club Brugge,3,4,A,,,,,,,,,,,,,,,,,,,,"30,44,63,74,81,87,93",fixturedl
+2,2026-10-13,20:00,Leipzig,PSV,1,0,H,,,,,,,,,,,,,,,,,,,,75,fixturedl
+2,2026-10-13,20:00,Viking,Bayern München,3,3,D,,,,,,,,,,,,,,,,,,,,"38,54,71,90",fixturedl
+2,2026-10-13,20:00,Villarreal,Napoli,3,1,H,,,,,,,,,,,,,,,,,,,,"8,23,26,86",fixturedl
+2,2026-10-14,17:45,Feyenoord,Como,3,2,H,,,,,,,,,,,,,,,,,,,,"18,20,52,81,93",fixturedl
+2,2026-10-14,17:45,LASK,Liverpool,3,6,A,,,,,,,,,,,,,,,,,,,,"24,37,63,66,72",fixturedl
+2,2026-10-14,20:00,Aston Villa,Fenerbahçe,6,0,H,,,,,,,,,,,,,,,,,,,,"31,39,68,72,90",fixturedl
+2,2026-10-14,20:00,Bodø/Glimt,B. Dortmund,1,0,H,,,,,,,,,,,,,,,,,,,,52,fixturedl
+2,2026-10-14,20:00,Man City,Paris,2,4,A,,,,,,,,,,,,,,,,,,,,"13,32,62,75",fixturedl
+2,2026-10-14,20:00,Real Betis,Porto,3,2,H,,,,,,,,,,,,,,,,,,,,"47,61,74,84",fixturedl
+2,2026-10-14,20:00,Roma,Real Madrid,3,4,A,,,,,,,,,,,,,,,,,,,,"20,25,51,57,83",fixturedl
+2,2026-10-14,20:00,S. Bratislava,Stuttgart,0,3,A,,,,,,,,,,,,,,,,,,,,"29,64",fixturedl
+2,2026-10-14,20:00,Shakhtar,AEK Athens,3,1,H,,,,,,,,,,,,,,,,,,,,"28,34,80,86",fixturedl
+3,2026-10-20,17:45,Fenerbahçe,Slavia Praha,2,2,D,,,,,,,,,,,,,,,,,,,,"4,11,15,90",fixturedl
+3,2026-10-20,17:45,Sabah,B. Dortmund,1,2,A,,,,,,,,,,,,,,,,,,,,10,fixturedl
+3,2026-10-20,20:00,Liverpool,Villarreal,4,3,H,,,,,,,,,,,,,,,,,,,,"4,29,65,68",fixturedl
+3,2026-10-20,20:00,Man City,AEK Athens,5,1,H,,,,,,,,,,,,,,,,,,,,"12,34,52,57,65,76",fixturedl
+3,2026-10-20,20:00,Napoli,Bodø/Glimt,4,3,H,,,,,,,,,,,,,,,,,,,,"27,41,62,88",fixturedl
+3,2026-10-20,20:00,Paris,Barcelona,4,2,H,,,,,,,,,,,,,,,,,,,,"38,55,79,81,86",fixturedl
+3,2026-10-20,20:00,Porto,PSV,0,1,A,,,,,,,,,,,,,,,,,,,,57,fixturedl
+3,2026-10-20,20:00,Roma,S. Bratislava,4,0,H,,,,,,,,,,,,,,,,,,,,"39,52,58",fixturedl
+3,2026-10-20,20:00,Stuttgart,Atleti,1,1,D,,,,,,,,,,,,,,,,,,,,"36,47",fixturedl
+3,2026-10-21,17:45,Como,Man Utd,4,1,H,,,,,,,,,,,,,,,,,,,,"2,49,57,91",fixturedl
+3,2026-10-21,17:45,Lille,Galatasaray,2,4,A,,,,,,,,,,,,,,,,,,,,"2,7,39,52,61",fixturedl
+3,2026-10-21,20:00,Aston Villa,Viking,3,1,H,,,,,,,,,,,,,,,,,,,,"37,62",fixturedl
+3,2026-10-21,20:00,Bayern München,Arsenal,2,2,D,,,,,,,,,,,,,,,,,,,,"25,35,61,82",fixturedl
+3,2026-10-21,20:00,Club Brugge,Lens,3,0,H,,,,,,,,,,,,,,,,,,,,"48,50,72",fixturedl
+3,2026-10-21,20:00,Inter,Shakhtar,1,0,H,,,,,,,,,,,,,,,,,,,,77,fixturedl
+3,2026-10-21,20:00,Real Betis,Feyenoord,1,0,H,,,,,,,,,,,,,,,,,,,,59,fixturedl
+3,2026-10-21,20:00,Real Madrid,Leipzig,4,1,H,,,,,,,,,,,,,,,,,,,,"43,52,83,85",fixturedl
+3,2026-10-21,20:00,Sporting CP,LASK,2,3,A,,,,,,,,,,,,,,,,,,,,"5,15,63,68,89",fixturedl

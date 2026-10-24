@@ -2,7 +2,7 @@
 
 > You are likely an LLM picking up this repository. This file tells you what
 > was done, why things look the way they do, what is fragile, and how to
-> continue without breaking it. Last updated: 2026-10-12.
+> continue without breaking it. Last updated: 2026-10-24.
 
 ## What this project is
 
@@ -19,7 +19,7 @@ data/<COUNTRY>_<TIER>_<league-slug>/
 
 Season code: `2627` (= 2026/27, football-data.co.uk convention).
 
-## The five sources, and WHY each exists
+## The six sources, and WHY each exists
 
 | Client | Source | Role in the pipeline |
 |---|---|---|
@@ -27,6 +27,7 @@ Season code: `2627` (= 2026/27, football-data.co.uk convention).
 | `openligadb_client.py` | api.openligadb.de `getmatchdata/<bl1|bl2|bl3>/2026` | **Authoritative for Germany 1–3**: real matchdays, FT + HT, goal minutes + scorers |
 | `espn_client.py` | site.api.espn.com `/sports/soccer/<slug>/scoreboard` | **Freshness edge**: current round only (see gotcha #1) for 41 leagues incl. all calendar-year leagues (BRA/ARG/MEX/USA/JPN/CHN). Goal minutes via `/summary?event=` for top-5 + UEFA |
 | `fd_client.py` | football-data.co.uk `/mmz4281/2627/<DIV>.csv` | **Stats + HT backfill** (shots/targets/fouls/corners/cards) for 19 leagues; lags ~1–2 GW |
+| `fotmob_corners.py` | fotmob.com `matchDetails` JSON (+ league `__NEXT_DATA__` for the match list) | **Corner splits for the top-10 leagues**: `home/away_corners` totals plus `_1h` and `_2h` from the All/FirstHalf/SecondHalf periods. Finished matches are cached permanently in `.cache/fotmob_corners.json` (match stats never change after FT) |
 | `soccerway_client.py` | soccerway.com `<country>/<league>/(results\|fixtures)/` | **Fill-in for the 43 leagues without full ESPN/fd coverage**: results + upcoming fixtures (no stats). Parses embedded JS data blob — own kickoff from the lead-in `AD` field, scores from `REA/REB` (gotcha #13). `DATE_HINTS` patches known timestamp-less rows (#11). |
 
 `leagues.py` is the registry — folder, display name, and which sources feed
@@ -46,7 +47,10 @@ each league. **Add a league there** and `build.py` picks it up.
    RESULT exists for the same fixture at its NEW (moved) date — the old slot
    must disappear, see #13,
 7. `finalize()` — FT/HT results, CET time, GW assignment, goal flattening,
-8. write `results_/fixtures_/goals_<season>.csv` per league folder.
+8. `fotmob_corners.enrich()` — for the 10 `CORNER_LEAGUES`, attach total,
+   1H and 2H corners to finished rows (cached; missing on failure, never
+   guessed),
+9. write `results_/fixtures_/goals_<season>.csv` per league folder.
 
 ## Critical gotchas (learned the hard way — do not regress)
 
@@ -163,6 +167,32 @@ each league. **Add a league there** and `build.py` picks it up.
       conflicting canonicals cancel each other and break the merge);
     - changed dates in the 13/14-day range were the old neighbour-`AD` bug
       (#14); verify big movers against the live page's `leadAD` field.
+
+## Corners (top-10 leagues only)
+
+`fotmob_corners.py` covers `ENG_1`, `ESP_1`, `ITA_1`, `GER_1`, `FRA_1`,
+`NED_1`, `POR_1`, `BEL_1`, `TUR_1`, `GRE_1` — the ten leagues in
+`CORNER_LEAGUES`. For every played match it writes six values:
+`home_corners`, `away_corners`, `home_corners_1h`, `away_corners_1h`,
+`home_corners_2h`, `away_corners_2h`.
+
+- **Cache**: `.cache/fotmob_corners.json` maps Fotmob match id → the six
+  values. Finished matches are immutable, so entries are never re-fetched;
+  deleting the file just re-scrapes. The cache is gitignored.
+- **Matching pitfall**: short provider names collide inside a round —
+  "Deportivo" is Deportivo A Coruña, but "Deportivo Alavés" also starts with
+  it, so `builder._same_match` (correctly) refuses to guess. `enrich()` falls
+  back to an exact-FT-score + ±3d + shared-token match, accepted only when it
+  leaves exactly one candidate. If a fixture loses its corners, check that
+  fallback before widening anything.
+- **Ambiguous pairings must be deduped first**: fixturedl says "RC
+  Deportivo", ESPN/fd say "Deportivo", Fotmob says "Deportivo A Coruña".
+  All four spellings are aliased to one canonical in `_TEAM_ALIASES`,
+  otherwise the same match appears twice and only one copy can consume the
+  Fotmob id (the other keeps fd totals and blank halves).
+- Adding a league = add `"<folder>": <fotmob league id>` to
+  `CORNER_LEAGUES`; verify its `matchDetails` actually returns Corners in
+  All/FirstHalf/SecondHalf before trusting it.
 
 ## Known data gaps right now (2026-10-12)
 

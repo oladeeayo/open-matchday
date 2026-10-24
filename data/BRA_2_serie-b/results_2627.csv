@@ -1,343 +1,343 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-03-21,00:30,Cuiabá,Sport,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-03-21,21:00,Vila Nova,CRB,2,2,D,,,,,,,,,,,,,,,,,espn
-1,2026-03-21,22:00,Ceará,São Bernardo,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-03-21,22:15,Operário PR,Atlético Goianiense,1,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-03-21,23:15,Botafogo-SP,Fortaleza,4,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-03-22,00:00,Novorizontino,Londrina,1,3,A,,,,,,,,,,,,,,,,,espn
-1,2026-03-22,20:00,Avaí,Juventude,2,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-03-22,20:00,Náutico,Criciúma,0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-03-22,22:00,Athletic,Ponte Preta,2,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-03-22,22:00,Goiás,América Mineiro,3,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-03-31,22:30,Juventude,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-03-31,23:00,Fortaleza,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-01,22:00,América Mineiro,Botafogo-SP,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-01,23:00,Atlético Goianiense,Náutico,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-01,23:00,Londrina,Goiás,2,2,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-01,23:00,Sport,Vila Nova,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-02,01:00,Ponte Preta,Ceará,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-02,01:30,CRB,Avaí,0,1,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-02,01:30,Criciúma,Athletic,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-02,23:00,São Bernardo,Operário PR,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-04,00:00,Vila Nova,Atlético Goianiense,2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-04-04,00:30,Londrina,Sport,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-04,20:00,Fortaleza,Juventude,2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-04-04,22:00,Cuiabá,Ceará,0,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-04,22:00,Náutico,Ponte Preta,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-04-05,00:00,Athletic,América Mineiro,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-05,00:30,Botafogo-SP,São Bernardo,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-04-05,20:00,Avaí,Operário PR,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-04-05,22:00,Novorizontino,CRB,1,1,D,,,,,,,,,,,,,,,,,espn
-3,2026-04-07,01:00,Goiás,Criciúma,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-04-10,00:30,Criciúma,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-04-11,00:30,Ceará,Náutico,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-04-11,20:00,Juventude,Goiás,2,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-04-11,22:00,Ponte Preta,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,espn
-3,2026-04-11,22:00,Sport,Avaí,2,2,D,,,,,,,,,,,,,,,,,espn
-3,2026-04-12,00:00,CRB,Athletic,2,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-04-12,00:30,Atlético Goianiense,Londrina,2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-04-12,22:00,América Mineiro,Novorizontino,0,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-04-12,22:00,Operário PR,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,espn
-3,2026-04-12,22:00,São Bernardo,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,espn
-4,2026-04-18,00:30,Avaí,Ponte Preta,1,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-04-18,00:45,CRB,Juventude,0,1,A,,,,,,,,,,,,,,,,,espn
-4,2026-04-18,22:00,América Mineiro,Sport,0,0,D,,,,,,,,,,,,,,,,,espn
-4,2026-04-18,22:00,Náutico,São Bernardo,0,3,A,,,,,,,,,,,,,,,,,espn
-4,2026-04-18,22:30,Vila Nova,Operário PR,2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-04-19,00:00,Fortaleza,Criciúma,3,2,H,,,,,,,,,,,,,,,,,espn
-4,2026-04-19,00:00,Novorizontino,Athletic,2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-04-19,20:00,Botafogo-SP,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-04-19,20:00,Londrina,Ceará,0,0,D,,,,,,,,,,,,,,,,,espn
-4,2026-04-19,22:00,Goiás,Cuiabá,0,2,A,,,,,,,,,,,,,,,,,espn
-5,2026-04-23,01:30,Cuiabá,Botafogo-SP,1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-04-24,00:00,Ponte Preta,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-25,00:30,Sport,Novorizontino,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,00:30,Atlético Goianiense,Avaí,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,00:30,Criciúma,CRB,3,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,01:00,Juventude,Londrina,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,20:00,São Bernardo,Goiás,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,22:00,Ceará,Vila Nova,3,3,D,,,,,,,,,,,,,,,,,espn
-5,2026-04-26,22:00,Operário PR,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-04-27,23:00,Athletic,Náutico,0,1,A,,,,,,,,,,,,,,,,,espn
-6,2026-05-02,00:30,Fortaleza,Goiás,4,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-05-02,20:00,Botafogo-SP,Náutico,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-05-02,22:30,Cuiabá,Criciúma,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,00:30,América Mineiro,CRB,1,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,00:30,Avaí,Novorizontino,3,3,D,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,20:00,Operário PR,Londrina,3,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,20:00,São Bernardo,Ponte Preta,3,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,22:00,Sport,Ceará,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-05-03,22:30,Atlético Goianiense,Juventude,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-05-04,23:00,Vila Nova,Athletic,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-05-09,00:30,CRB,Operário PR,3,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-05-09,20:00,Goiás,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-05-09,22:00,Athletic,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-05-09,22:30,Ponte Preta,Sport,1,3,A,,,,,,,,,,,,,,,,,espn
-7,2026-05-09,23:00,Ceará,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,espn
-7,2026-05-10,01:15,Juventude,Criciúma,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-05-10,20:00,Náutico,América Mineiro,4,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-05-10,22:30,Avaí,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-05-10,23:30,Novorizontino,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-8,2026-05-12,23:30,Londrina,São Bernardo,1,3,A,,,,,,,,,,,,,,,,,espn
-8,2026-05-16,00:30,Cuiabá,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,espn
-8,2026-05-16,20:00,Operário PR,Náutico,2,6,A,,,,,,,,,,,,,,,,,espn
-8,2026-05-16,20:00,São Bernardo,América Mineiro,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-05-16,22:30,Goiás,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-8,2026-05-17,00:30,Sport,CRB,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-05-17,20:00,Athletic,Juventude,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-05-17,22:00,Vila Nova,Avaí,2,0,H,,,,,,,,,,,,,,,,,espn
-8,2026-05-17,22:30,Ceará,Fortaleza,2,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-05-17,22:30,Criciúma,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-05-18,23:00,Ponte Preta,Londrina,1,4,A,,,,,,,,,,,,,,,,,espn
-9,2026-05-22,23:00,Náutico,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-05-23,00:30,Juventude,Sport,0,1,A,,,,,,,,,,,,,,,,,espn
-9,2026-05-23,20:00,Novorizontino,Ceará,2,1,H,,,,,,,,,,,,,,,,,espn
-9,2026-05-23,22:30,Fortaleza,Londrina,3,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-05-24,00:30,Operário PR,Criciúma,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-05-24,20:00,Atlético Goianiense,São Bernardo,0,1,A,,,,,,,,,,,,,,,,,espn
-9,2026-05-24,20:30,CRB,Ponte Preta,4,2,H,,,,,,,,,,,,,,,,,espn
-9,2026-05-24,22:30,América Mineiro,Vila Nova,1,2,A,,,,,,,,,,,,,,,,,espn
-9,2026-05-24,23:00,Avaí,Goiás,0,2,A,,,,,,,,,,,,,,,,,espn
-10,2026-05-25,23:00,Botafogo-SP,Athletic,1,2,A,,,,,,,,,,,,,,,,,espn
-10,2026-05-30,00:30,Sport,Náutico,2,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-05-30,01:00,Juventude,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-05-30,20:00,Atlético Goianiense,Goiás,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-05-30,20:00,Avaí,Criciúma,1,2,A,,,,,,,,,,,,,,,,,espn
-10,2026-05-30,22:00,Athletic,Fortaleza,1,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-05-31,00:30,Cuiabá,CRB,2,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-05-31,15:00,Londrina,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,espn
-10,2026-05-31,15:00,São Bernardo,Novorizontino,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-05-31,20:00,Ceará,Operário PR,1,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-06-01,23:00,Ponte Preta,Botafogo-SP,0,0,D,,,,,,,,,,,,,,,,,espn
-11,2026-06-05,00:00,Operário PR,Juventude,2,1,H,,,,,,,,,,,,,,,,,espn
-11,2026-06-06,15:00,Criciúma,Londrina,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-06-07,20:00,CRB,São Bernardo,2,3,A,,,,,,,,,,,,,,,,,espn
-12,2026-06-08,00:00,América Mineiro,Atlético Goianiense,1,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-06-08,00:00,Vila Nova,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-06-09,23:00,Náutico,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,espn
-12,2026-06-09,23:00,Ponte Preta,Cuiabá,1,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-06-10,00:00,Ceará,Avaí,2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-06-10,00:00,Goiás,Novorizontino,0,4,A,,,,,,,,,,,,,,,,,espn
-12,2026-06-11,01:00,Sport,Athletic,1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-06-12,23:00,Atlético Goianiense,CRB,3,3,D,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,15:00,Juventude,Ponte Preta,3,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,15:00,São Bernardo,Sport,0,0,D,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,20:00,Athletic,Goiás,1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,21:00,Cuiabá,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,23:00,Botafogo-SP,Operário PR,2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-06-14,23:00,Novorizontino,Náutico,2,2,D,,,,,,,,,,,,,,,,,espn
-13,2026-06-16,00:00,Fortaleza,América Mineiro,0,3,A,,,,,,,,,,,,,,,,,espn
-13,2026-06-16,01:00,Criciúma,Ceará,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-06-16,01:00,Londrina,Avaí,3,2,H,,,,,,,,,,,,,,,,,espn
-13,2026-06-19,01:00,Sport,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-06-20,15:00,Londrina,Athletic,2,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-06-20,23:00,Ceará,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,espn
-13,2026-06-20,23:00,Vila Nova,Náutico,4,3,H,,,,,,,,,,,,,,,,,espn
-13,2026-06-21,15:00,Avaí,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-06-21,20:00,CRB,Fortaleza,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-06-21,21:00,São Bernardo,Juventude,0,1,A,,,,,,,,,,,,,,,,,espn
-13,2026-06-21,22:30,Goiás,Operário PR,0,3,A,,,,,,,,,,,,,,,,,espn
-14,2026-06-22,00:00,Ponte Preta,Novorizontino,0,2,A,,,,,,,,,,,,,,,,,espn
-14,2026-06-23,00:00,América Mineiro,Criciúma,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-06-25,00:30,Cuiabá,Londrina,2,2,D,,,,,,,,,,,,,,,,,espn
-14,2026-06-26,23:00,Novorizontino,Vila Nova,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-27,15:00,Operário PR,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-27,20:00,Criciúma,São Bernardo,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-28,20:00,Athletic,Avaí,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-28,20:00,Atlético Goianiense,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-28,20:00,Juventude,Ceará,2,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-28,22:30,Fortaleza,Sport,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-06-28,22:30,Náutico,Goiás,0,1,A,,,,,,,,,,,,,,,,,espn
-15,2026-06-30,00:00,Botafogo-SP,CRB,0,1,A,,,,,,,,,,,,,,,,,espn
-15,2026-07-02,00:00,Cuiabá,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-03,01:00,Fortaleza,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-04,00:00,Goiás,Ceará,2,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-04,20:00,Criciúma,Sport,1,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-04,20:00,Londrina,CRB,5,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-04,20:00,Novorizontino,Atlético Goianiense,3,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-07-05,00:30,Náutico,Juventude,0,0,D,,,,,,,,,,,,,,,,,espn
-16,2026-07-06,23:00,Botafogo-SP,Avaí,3,1,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-06,23:00,Vila Nova,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-07,00:00,Athletic,Operário PR,0,1,A,,,,,,,,,,,,,,,,,espn
-16,2026-07-08,00:00,Ponte Preta,Criciúma,1,2,A,,,,,,,,,,,,,,,,,espn
-16,2026-07-10,00:00,Sport,Botafogo-SP,3,3,D,,,,,,,,,,,,,,,,,espn
-16,2026-07-10,23:00,Juventude,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-12,15:00,Operário PR,Novorizontino,2,1,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-12,20:00,Avaí,Náutico,2,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-12,20:00,São Bernardo,Cuiabá,2,2,D,,,,,,,,,,,,,,,,,espn
-16,2026-07-12,22:00,Atlético Goianiense,Fortaleza,1,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-07-12,23:00,CRB,Goiás,2,2,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-13,00:30,Ceará,Athletic,0,0,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-13,23:00,América Mineiro,Londrina,1,1,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-16,00:00,CRB,Náutico,2,1,H,,,,,,,,,,,,,,,,,espn
-17,2026-07-17,23:00,América Mineiro,Ceará,1,1,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-17,23:00,Juventude,Cuiabá,2,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-07-17,23:00,São Bernardo,Avaí,1,1,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,01:00,Fortaleza,Novorizontino,1,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,01:00,Londrina,Botafogo-SP,0,0,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,20:00,Criciúma,Vila Nova,2,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,20:00,Ponte Preta,Goiás,1,2,A,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,20:00,Sport,Operário PR,2,2,D,,,,,,,,,,,,,,,,,espn
-17,2026-07-18,22:00,Atlético Goianiense,Athletic,0,0,D,,,,,,,,,,,,,,,,,espn
-18,2026-07-21,23:30,Avaí,América Mineiro,2,1,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-21,23:30,Novorizontino,Criciúma,0,1,A,,,,,,,,,,,,,,,,,espn
-18,2026-07-22,00:30,Goiás,Sport,1,1,D,,,,,,,,,,,,,,,,,espn
-18,2026-07-22,01:35,Vila Nova,Fortaleza,2,1,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-22,23:30,Ceará,CRB,0,1,A,,,,,,,,,,,,,,,,,espn
-18,2026-07-22,23:30,Operário PR,Ponte Preta,3,2,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-23,00:30,Cuiabá,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,espn
-18,2026-07-23,01:30,Náutico,Londrina,2,1,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-23,23:30,Athletic,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-24,01:30,Botafogo-SP,Juventude,4,2,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-26,20:00,Criciúma,Náutico,0,0,D,,,,,,,,,,,,,,,,,espn
-18,2026-07-26,20:00,São Bernardo,Ceará,3,4,A,,,,,,,,,,,,,,,,,espn
-18,2026-07-26,22:30,América Mineiro,Goiás,1,0,H,,,,,,,,,,,,,,,,,espn
-18,2026-07-26,22:30,Londrina,Novorizontino,1,4,A,,,,,,,,,,,,,,,,,espn
-19,2026-07-27,23:30,Atlético Goianiense,Operário PR,3,1,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-27,23:30,CRB,Vila Nova,2,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-27,23:30,Sport,Cuiabá,1,1,D,,,,,,,,,,,,,,,,,espn
-19,2026-07-28,23:30,Juventude,Avaí,1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-28,23:30,Ponte Preta,Athletic,1,1,D,,,,,,,,,,,,,,,,,espn
-19,2026-07-29,01:35,Fortaleza,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-07,00:30,Ceará,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-07,23:30,Operário PR,São Bernardo,1,3,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-08,20:00,Vila Nova,Sport,0,1,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-08,22:30,Botafogo-SP,América Mineiro,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-09,15:00,Athletic,Criciúma,2,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-09,20:00,Novorizontino,Juventude,0,1,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-09,20:00,Náutico,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,espn
-20,2026-08-09,22:00,Cuiabá,Fortaleza,1,1,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-10,23:30,Goiás,Londrina,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-11,23:30,Avaí,CRB,0,1,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-14,00:30,Sport,Londrina,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-14,23:30,Ponte Preta,Náutico,1,1,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-14,23:30,São Bernardo,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-15,20:00,Atlético Goianiense,Vila Nova,0,2,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-15,20:00,Ceará,Cuiabá,1,3,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-15,20:00,Criciúma,Goiás,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-15,22:30,Juventude,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-16,15:00,Operário PR,Avaí,1,2,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-16,22:30,América Mineiro,Athletic,1,3,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-16,22:30,CRB,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-18,23:30,Londrina,Atlético Goianiense,0,0,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,00:30,Cuiabá,Operário PR,1,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,00:30,Vila Nova,Ponte Preta,6,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,01:30,Náutico,Ceará,1,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,01:35,Goiás,Juventude,0,1,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,23:30,Avaí,Sport,2,1,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-19,23:30,Fortaleza,São Bernardo,1,1,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-20,00:30,Novorizontino,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-20,01:30,Botafogo-SP,Criciúma,1,1,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-20,23:30,Athletic,CRB,0,2,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-22,22:00,Ceará,Londrina,2,1,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-22,22:30,Cuiabá,Goiás,1,1,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-23,20:00,Ponte Preta,Avaí,0,2,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-23,20:00,São Bernardo,Náutico,1,1,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-23,22:00,Operário PR,Vila Nova,0,0,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-23,22:30,Criciúma,Fortaleza,0,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-24,23:30,Athletic,Novorizontino,1,4,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-24,23:30,Sport,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-25,23:30,Atlético Goianiense,Botafogo-SP,3,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-25,23:30,Juventude,CRB,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-28,00:30,Novorizontino,Sport,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-28,00:30,Náutico,Athletic,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-28,23:30,Goiás,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-29,22:30,Botafogo-SP,Cuiabá,1,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-30,20:00,América Mineiro,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-30,20:00,Avaí,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-30,22:00,CRB,Criciúma,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-30,22:30,Vila Nova,Ceará,2,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-08-31,23:30,Fortaleza,Operário PR,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-09-01,23:30,Londrina,Juventude,0,0,D,,,,,,,,,,,,,,,,,espn
-24,2026-09-03,00:00,Náutico,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-04,00:30,Athletic,Vila Nova,5,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-04,23:30,Criciúma,Cuiabá,2,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-05,01:30,CRB,América Mineiro,3,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-05,20:00,Goiás,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,espn
-24,2026-09-05,20:00,Novorizontino,Avaí,3,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-05,22:00,Juventude,Atlético Goianiense,2,2,D,,,,,,,,,,,,,,,,,espn
-24,2026-09-05,22:30,Ceará,Sport,2,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-09-06,15:00,Londrina,Operário PR,1,2,A,,,,,,,,,,,,,,,,,espn
-24,2026-09-06,22:30,Ponte Preta,São Bernardo,0,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-08,00:30,Cuiabá,Athletic,3,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-09,00:30,América Mineiro,Náutico,2,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-09,00:30,Operário PR,CRB,3,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-09,01:00,Criciúma,Juventude,0,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-09,23:30,Botafogo-SP,Novorizontino,1,3,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-09,23:30,Fortaleza,Avaí,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-10,01:30,Atlético Goianiense,Ceará,2,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-10,23:30,Vila Nova,Goiás,2,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-11,01:00,São Bernardo,Londrina,1,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-11,01:30,Sport,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-13,20:00,Atlético Goianiense,Criciúma,4,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-13,22:00,Juventude,Athletic,0,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-13,22:30,Fortaleza,Ceará,1,1,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-13,22:30,Novorizontino,Cuiabá,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-14,23:30,América Mineiro,São Bernardo,0,2,A,,,,,,,,,,,,,,,,,espn
-26,2026-09-14,23:30,Botafogo-SP,Goiás,1,3,A,,,,,,,,,,,,,,,,,espn
-26,2026-09-15,01:30,Avaí,Vila Nova,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-15,23:30,Londrina,Ponte Preta,6,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-15,23:30,Náutico,Operário PR,3,3,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-16,01:00,CRB,Sport,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-18,00:30,Ceará,Novorizontino,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-18,23:30,Vila Nova,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-19,01:00,São Bernardo,Atlético Goianiense,1,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-19,20:30,Sport,Juventude,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-19,22:30,Athletic,Botafogo-SP,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-20,15:00,Ponte Preta,CRB,1,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-20,20:00,Goiás,Avaí,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-20,22:30,Londrina,Fortaleza,1,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-22,01:30,Cuiabá,Náutico,3,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-22,23:30,Criciúma,Operário PR,0,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-25,00:30,Vila Nova,Londrina,2,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-25,23:30,Novorizontino,São Bernardo,0,0,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-26,20:30,Náutico,Sport,3,1,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-26,20:30,Operário PR,Ceará,2,2,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-26,22:30,Goiás,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-27,15:00,Criciúma,Avaí,3,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-27,20:00,CRB,Cuiabá,3,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-27,22:30,Fortaleza,Athletic,2,2,D,,,,,,,,,,,,,,,,,espn
-28,2026-09-28,23:30,América Mineiro,Juventude,0,1,A,,,,,,,,,,,,,,,,,espn
-28,2026-09-29,23:30,Botafogo-SP,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-01,00:30,Athletic,Sport,1,2,A,,,,,,,,,,,,,,,,,espn
-28,2026-10-02,00:30,Londrina,Criciúma,0,2,A,,,,,,,,,,,,,,,,,espn
-28,2026-10-02,00:45,Juventude,Operário PR,3,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-02,01:00,Novorizontino,Goiás,3,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-02,23:30,São Bernardo,CRB,3,1,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-03,01:35,Fortaleza,Náutico,1,1,D,,,,,,,,,,,,,,,,,espn
-28,2026-10-03,15:00,Avaí,Ceará,0,1,A,,,,,,,,,,,,,,,,,espn
-28,2026-10-03,20:00,Atlético Goianiense,América Mineiro,2,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-03,21:00,Cuiabá,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-10-03,22:30,Botafogo-SP,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-06,00:30,Goiás,Athletic,2,1,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-06,23:30,Sport,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,00:30,América Mineiro,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,00:30,CRB,Atlético Goianiense,3,1,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,00:30,Vila Nova,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,01:35,Ponte Preta,Juventude,0,2,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,23:30,Avaí,Londrina,2,1,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-07,23:30,Operário PR,Botafogo-SP,1,2,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-08,23:30,Ceará,Criciúma,1,0,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-08,23:30,Náutico,Novorizontino,0,2,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-11,20:00,Juventude,São Bernardo,2,2,D,,,,,,,,,,,,,,,,,espn
-29,2026-10-11,20:10,Atlético Goianiense,Sport,1,1,D,,,,,,,,,,,,,,,,,espn
-29,2026-10-11,21:30,Náutico,Vila Nova,0,2,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-11,22:30,Cuiabá,Avaí,0,1,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-11,22:30,Operário PR,Goiás,0,2,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-12,20:00,Fortaleza,CRB,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-12,23:00,Novorizontino,Ponte Preta,5,1,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-12,23:30,Criciúma,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-13,01:00,Botafogo-SP,Ceará,1,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-13,23:30,Athletic,Londrina,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-16,00:30,Sport,Fortaleza,0,2,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-16,23:30,Ponte Preta,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-17,20:30,Ceará,Juventude,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-17,22:30,América Mineiro,Operário PR,1,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-18,20:00,Avaí,Athletic,0,0,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-18,20:00,CRB,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-18,20:00,São Bernardo,Criciúma,0,1,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-18,22:00,Vila Nova,Novorizontino,2,2,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-19,23:30,Goiás,Náutico,0,0,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-20,23:30,Londrina,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-23,23:30,Operário PR,Athletic,1,0,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-24,01:00,Sport,Criciúma,2,1,H,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-03-21,00:30,Cuiabá,Sport,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-21,21:00,Vila Nova,CRB,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-21,22:00,Ceará,São Bernardo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-21,22:15,Operário PR,Atlético Goianiense,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-21,23:15,Botafogo-SP,Fortaleza,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-22,00:00,Novorizontino,Londrina,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-22,20:00,Avaí,Juventude,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-22,20:00,Náutico,Criciúma,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-22,22:00,Athletic,Ponte Preta,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-03-22,22:00,Goiás,América Mineiro,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-03-31,22:30,Juventude,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-03-31,23:00,Fortaleza,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-01,22:00,América Mineiro,Botafogo-SP,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-01,23:00,Atlético Goianiense,Náutico,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-01,23:00,Londrina,Goiás,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-01,23:00,Sport,Vila Nova,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-02,01:00,Ponte Preta,Ceará,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-02,01:30,CRB,Avaí,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-02,01:30,Criciúma,Athletic,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-02,23:00,São Bernardo,Operário PR,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-04,00:00,Vila Nova,Atlético Goianiense,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-04,00:30,Londrina,Sport,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-04,20:00,Fortaleza,Juventude,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-04,22:00,Cuiabá,Ceará,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-04,22:00,Náutico,Ponte Preta,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-05,00:00,Athletic,América Mineiro,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-05,00:30,Botafogo-SP,São Bernardo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-05,20:00,Avaí,Operário PR,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-04-05,22:00,Novorizontino,CRB,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-07,01:00,Goiás,Criciúma,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-10,00:30,Criciúma,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-11,00:30,Ceará,Náutico,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-11,20:00,Juventude,Goiás,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-11,22:00,Ponte Preta,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-11,22:00,Sport,Avaí,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-12,00:00,CRB,Athletic,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-12,00:30,Atlético Goianiense,Londrina,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-12,22:00,América Mineiro,Novorizontino,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-12,22:00,Operário PR,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-04-12,22:00,São Bernardo,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-18,00:30,Avaí,Ponte Preta,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-18,00:45,CRB,Juventude,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-18,22:00,América Mineiro,Sport,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-18,22:00,Náutico,São Bernardo,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-18,22:30,Vila Nova,Operário PR,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-19,00:00,Fortaleza,Criciúma,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-19,00:00,Novorizontino,Athletic,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-19,20:00,Botafogo-SP,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-19,20:00,Londrina,Ceará,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-04-19,22:00,Goiás,Cuiabá,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-23,01:30,Cuiabá,Botafogo-SP,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-24,00:00,Ponte Preta,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-25,00:30,Sport,Novorizontino,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,00:30,Atlético Goianiense,Avaí,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,00:30,Criciúma,CRB,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,01:00,Juventude,Londrina,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,20:00,São Bernardo,Goiás,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,22:00,Ceará,Vila Nova,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-04-26,22:00,Operário PR,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-04-27,23:00,Athletic,Náutico,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-02,00:30,Fortaleza,Goiás,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-02,20:00,Botafogo-SP,Náutico,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-02,22:30,Cuiabá,Criciúma,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,00:30,América Mineiro,CRB,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,00:30,Avaí,Novorizontino,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,20:00,Operário PR,Londrina,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,20:00,São Bernardo,Ponte Preta,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,22:00,Sport,Ceará,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-05-03,22:30,Atlético Goianiense,Juventude,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-04,23:00,Vila Nova,Athletic,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-09,00:30,CRB,Operário PR,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-09,20:00,Goiás,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-09,22:00,Athletic,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-09,22:30,Ponte Preta,Sport,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-09,23:00,Ceará,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-10,01:15,Juventude,Criciúma,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-10,20:00,Náutico,América Mineiro,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-10,22:30,Avaí,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-05-10,23:30,Novorizontino,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-12,23:30,Londrina,São Bernardo,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-16,00:30,Cuiabá,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-16,20:00,Operário PR,Náutico,2,6,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-16,20:00,São Bernardo,América Mineiro,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-16,22:30,Goiás,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-17,00:30,Sport,CRB,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-17,20:00,Athletic,Juventude,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-17,22:00,Vila Nova,Avaí,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-17,22:30,Ceará,Fortaleza,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-05-17,22:30,Criciúma,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-18,23:00,Ponte Preta,Londrina,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-22,23:00,Náutico,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-23,00:30,Juventude,Sport,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-23,20:00,Novorizontino,Ceará,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-23,22:30,Fortaleza,Londrina,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-24,00:30,Operário PR,Criciúma,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-24,20:00,Atlético Goianiense,São Bernardo,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-24,20:30,CRB,Ponte Preta,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-24,22:30,América Mineiro,Vila Nova,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-05-24,23:00,Avaí,Goiás,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-25,23:00,Botafogo-SP,Athletic,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-30,00:30,Sport,Náutico,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-30,01:00,Juventude,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-30,20:00,Atlético Goianiense,Goiás,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-30,20:00,Avaí,Criciúma,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-30,22:00,Athletic,Fortaleza,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-31,00:30,Cuiabá,CRB,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-31,15:00,Londrina,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-31,15:00,São Bernardo,Novorizontino,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-05-31,20:00,Ceará,Operário PR,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-06-01,23:00,Ponte Preta,Botafogo-SP,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-06-05,00:00,Operário PR,Juventude,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-06-06,15:00,Criciúma,Londrina,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-06-07,20:00,CRB,São Bernardo,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-08,00:00,América Mineiro,Atlético Goianiense,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-08,00:00,Vila Nova,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-09,23:00,Náutico,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-09,23:00,Ponte Preta,Cuiabá,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-10,00:00,Ceará,Avaí,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-10,00:00,Goiás,Novorizontino,0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-11,01:00,Sport,Athletic,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-12,23:00,Atlético Goianiense,CRB,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,15:00,Juventude,Ponte Preta,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,15:00,São Bernardo,Sport,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,20:00,Athletic,Goiás,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,21:00,Cuiabá,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,23:00,Botafogo-SP,Operário PR,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-06-14,23:00,Novorizontino,Náutico,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-16,00:00,Fortaleza,América Mineiro,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-16,01:00,Criciúma,Ceará,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-16,01:00,Londrina,Avaí,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-19,01:00,Sport,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-20,15:00,Londrina,Athletic,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-20,23:00,Ceará,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-20,23:00,Vila Nova,Náutico,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-21,15:00,Avaí,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-21,20:00,CRB,Fortaleza,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-21,21:00,São Bernardo,Juventude,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-06-21,22:30,Goiás,Operário PR,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-22,00:00,Ponte Preta,Novorizontino,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-23,00:00,América Mineiro,Criciúma,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-25,00:30,Cuiabá,Londrina,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-26,23:00,Novorizontino,Vila Nova,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-27,15:00,Operário PR,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-27,20:00,Criciúma,São Bernardo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-28,20:00,Athletic,Avaí,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-28,20:00,Atlético Goianiense,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-28,20:00,Juventude,Ceará,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-28,22:30,Fortaleza,Sport,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-06-28,22:30,Náutico,Goiás,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-06-30,00:00,Botafogo-SP,CRB,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-02,00:00,Cuiabá,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-03,01:00,Fortaleza,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-04,00:00,Goiás,Ceará,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-04,20:00,Criciúma,Sport,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-04,20:00,Londrina,CRB,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-04,20:00,Novorizontino,Atlético Goianiense,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-07-05,00:30,Náutico,Juventude,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-06,23:00,Botafogo-SP,Avaí,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-06,23:00,Vila Nova,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-07,00:00,Athletic,Operário PR,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-08,00:00,Ponte Preta,Criciúma,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-10,00:00,Sport,Botafogo-SP,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-10,23:00,Juventude,Vila Nova,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-12,15:00,Operário PR,Novorizontino,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-12,20:00,Avaí,Náutico,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-12,20:00,São Bernardo,Cuiabá,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-12,22:00,Atlético Goianiense,Fortaleza,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-07-12,23:00,CRB,Goiás,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-13,00:30,Ceará,Athletic,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-13,23:00,América Mineiro,Londrina,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-16,00:00,CRB,Náutico,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-17,23:00,América Mineiro,Ceará,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-17,23:00,Juventude,Cuiabá,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-17,23:00,São Bernardo,Avaí,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,01:00,Fortaleza,Novorizontino,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,01:00,Londrina,Botafogo-SP,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,20:00,Criciúma,Vila Nova,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,20:00,Ponte Preta,Goiás,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,20:00,Sport,Operário PR,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-07-18,22:00,Atlético Goianiense,Athletic,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-21,23:30,Avaí,América Mineiro,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-21,23:30,Novorizontino,Criciúma,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-22,00:30,Goiás,Sport,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-22,01:35,Vila Nova,Fortaleza,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-22,23:30,Ceará,CRB,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-22,23:30,Operário PR,Ponte Preta,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-23,00:30,Cuiabá,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-23,01:30,Náutico,Londrina,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-23,23:30,Athletic,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-24,01:30,Botafogo-SP,Juventude,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-26,20:00,Criciúma,Náutico,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-26,20:00,São Bernardo,Ceará,3,4,A,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-26,22:30,América Mineiro,Goiás,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-07-26,22:30,Londrina,Novorizontino,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-27,23:30,Atlético Goianiense,Operário PR,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-27,23:30,CRB,Vila Nova,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-27,23:30,Sport,Cuiabá,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-28,23:30,Juventude,Avaí,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-28,23:30,Ponte Preta,Athletic,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-29,01:35,Fortaleza,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-07,00:30,Ceará,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-07,23:30,Operário PR,São Bernardo,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-08,20:00,Vila Nova,Sport,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-08,22:30,Botafogo-SP,América Mineiro,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-09,15:00,Athletic,Criciúma,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-09,20:00,Novorizontino,Juventude,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-09,20:00,Náutico,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-09,22:00,Cuiabá,Fortaleza,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-10,23:30,Goiás,Londrina,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-11,23:30,Avaí,CRB,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-14,00:30,Sport,Londrina,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-14,23:30,Ponte Preta,Náutico,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-14,23:30,São Bernardo,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-15,20:00,Atlético Goianiense,Vila Nova,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-15,20:00,Ceará,Cuiabá,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-15,20:00,Criciúma,Goiás,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-15,22:30,Juventude,Fortaleza,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-16,15:00,Operário PR,Avaí,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-16,22:30,América Mineiro,Athletic,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-16,22:30,CRB,Novorizontino,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-18,23:30,Londrina,Atlético Goianiense,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,00:30,Cuiabá,Operário PR,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,00:30,Vila Nova,Ponte Preta,6,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,01:30,Náutico,Ceará,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,01:35,Goiás,Juventude,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,23:30,Avaí,Sport,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-19,23:30,Fortaleza,São Bernardo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-20,00:30,Novorizontino,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-20,01:30,Botafogo-SP,Criciúma,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-20,23:30,Athletic,CRB,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-22,22:00,Ceará,Londrina,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-22,22:30,Cuiabá,Goiás,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-23,20:00,Ponte Preta,Avaí,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-23,20:00,São Bernardo,Náutico,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-23,22:00,Operário PR,Vila Nova,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-23,22:30,Criciúma,Fortaleza,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-24,23:30,Athletic,Novorizontino,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-24,23:30,Sport,América Mineiro,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-25,23:30,Atlético Goianiense,Botafogo-SP,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-25,23:30,Juventude,CRB,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-28,00:30,Novorizontino,Sport,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-28,00:30,Náutico,Athletic,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-28,23:30,Goiás,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-29,22:30,Botafogo-SP,Cuiabá,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-30,20:00,América Mineiro,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-30,20:00,Avaí,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-30,22:00,CRB,Criciúma,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-30,22:30,Vila Nova,Ceará,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-31,23:30,Fortaleza,Operário PR,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-01,23:30,Londrina,Juventude,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-03,00:00,Náutico,Botafogo-SP,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-04,00:30,Athletic,Vila Nova,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-04,23:30,Criciúma,Cuiabá,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-05,01:30,CRB,América Mineiro,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-05,20:00,Goiás,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-05,20:00,Novorizontino,Avaí,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-05,22:00,Juventude,Atlético Goianiense,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-05,22:30,Ceará,Sport,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-06,15:00,Londrina,Operário PR,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-09-06,22:30,Ponte Preta,São Bernardo,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-08,00:30,Cuiabá,Athletic,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-09,00:30,América Mineiro,Náutico,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-09,00:30,Operário PR,CRB,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-09,01:00,Criciúma,Juventude,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-09,23:30,Botafogo-SP,Novorizontino,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-09,23:30,Fortaleza,Avaí,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-10,01:30,Atlético Goianiense,Ceará,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-10,23:30,Vila Nova,Goiás,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-11,01:00,São Bernardo,Londrina,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-11,01:30,Sport,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-13,20:00,Atlético Goianiense,Criciúma,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-13,22:00,Juventude,Athletic,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-13,22:30,Fortaleza,Ceará,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-13,22:30,Novorizontino,Cuiabá,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-14,23:30,América Mineiro,São Bernardo,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-14,23:30,Botafogo-SP,Goiás,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-15,01:30,Avaí,Vila Nova,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-15,23:30,Londrina,Ponte Preta,6,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-15,23:30,Náutico,Operário PR,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-16,01:00,CRB,Sport,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-18,00:30,Ceará,Novorizontino,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-18,23:30,Vila Nova,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-19,01:00,São Bernardo,Atlético Goianiense,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-19,20:30,Sport,Juventude,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-19,22:30,Athletic,Botafogo-SP,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-20,15:00,Ponte Preta,CRB,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-20,20:00,Goiás,Avaí,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-20,22:30,Londrina,Fortaleza,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-22,01:30,Cuiabá,Náutico,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-22,23:30,Criciúma,Operário PR,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-25,00:30,Vila Nova,Londrina,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-25,23:30,Novorizontino,São Bernardo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-26,20:30,Náutico,Sport,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-26,20:30,Operário PR,Ceará,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-26,22:30,Goiás,Atlético Goianiense,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-27,15:00,Criciúma,Avaí,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-27,20:00,CRB,Cuiabá,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-27,22:30,Fortaleza,Athletic,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-28,23:30,América Mineiro,Juventude,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-29,23:30,Botafogo-SP,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-01,00:30,Athletic,Sport,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-02,00:30,Londrina,Criciúma,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-02,00:45,Juventude,Operário PR,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-02,01:00,Novorizontino,Goiás,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-02,23:30,São Bernardo,CRB,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,01:35,Fortaleza,Náutico,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,15:00,Avaí,Ceará,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,20:00,Atlético Goianiense,América Mineiro,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,21:00,Cuiabá,Ponte Preta,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-10-03,22:30,Botafogo-SP,Vila Nova,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-06,00:30,Goiás,Athletic,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-06,23:30,Sport,São Bernardo,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,00:30,América Mineiro,Fortaleza,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,00:30,CRB,Atlético Goianiense,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,00:30,Vila Nova,Cuiabá,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,01:35,Ponte Preta,Juventude,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,23:30,Avaí,Londrina,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-07,23:30,Operário PR,Botafogo-SP,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-08,23:30,Ceará,Criciúma,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-08,23:30,Náutico,Novorizontino,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,20:00,Juventude,São Bernardo,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,20:10,Atlético Goianiense,Sport,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,21:30,Náutico,Vila Nova,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,22:30,Cuiabá,Avaí,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-11,22:30,Operário PR,Goiás,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-12,20:00,Fortaleza,CRB,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-12,23:00,Novorizontino,Ponte Preta,5,1,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-12,23:30,Criciúma,América Mineiro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-13,01:00,Botafogo-SP,Ceará,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-13,23:30,Athletic,Londrina,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-16,00:30,Sport,Fortaleza,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-16,23:30,Ponte Preta,Atlético Goianiense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-17,20:30,Ceará,Juventude,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-17,22:30,América Mineiro,Operário PR,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-18,20:00,Avaí,Athletic,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-18,20:00,CRB,Botafogo-SP,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-18,20:00,São Bernardo,Criciúma,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-18,22:00,Vila Nova,Novorizontino,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-19,23:30,Goiás,Náutico,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-20,23:30,Londrina,Cuiabá,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-23,23:30,Operário PR,Athletic,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-24,01:00,Sport,Criciúma,2,1,H,,,,,,,,,,,,,,,,,,,,,espn

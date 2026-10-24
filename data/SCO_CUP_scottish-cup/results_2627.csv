@@ -1,31 +1,31 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-10-02,,Cumnock Juniors,Auchinleck Talbot,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Beith,Huntly,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Bo'ness United,Irvine Meadow,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Bonnyton Thistle,East Stirlingshire,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Brechin,Buckie Thistle,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Caledonian Braves,Fraserburgh,4,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Civil Service Strollers,Formartine Utd,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Clachnacuddin,Bonnyrigg Rose,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Cowdenbeath,Berwick,4,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Deveronvale,Troon FC,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Dunipace,Preston Athletic,5,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Forres Mechanics,Stirling University,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Gala Fairydean,Largs Thistle,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Haddington Athletic,Cumbernauld Colts,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Hill Of Beath,Glasgow University,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Keith,Stonehaven,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Kirkintilloch Rob Roy,Banks O' Dee,1,1,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Linlithgow Rose,Clydebank FC,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Lochee United,Inverurie,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Musselburgh,Lossiemouth,2,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Nairn County,Gretna 2008,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Newton Stewart,Johnstone Burgh,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Penicuik,Kilwinning Rangers,3,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Pollok,Albion Rovers,4,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Renfrew,Broxburn Athletic,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Rothes,Brora Rangers,0,9,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Strathspey Thistle,Dalbeattie Star,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Tayport,Wick Academy,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Threave Rovers,Invergordon,3,2,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-03,,Tranent,Turriff Utd,3,1,H,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-10-02,,Cumnock Juniors,Auchinleck Talbot,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Beith,Huntly,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Bo'ness United,Irvine Meadow,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Bonnyton Thistle,East Stirlingshire,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Brechin,Buckie Thistle,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Caledonian Braves,Fraserburgh,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Civil Service Strollers,Formartine Utd,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Clachnacuddin,Bonnyrigg Rose,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Cowdenbeath,Berwick,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Deveronvale,Troon FC,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Dunipace,Preston Athletic,5,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Forres Mechanics,Stirling University,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Gala Fairydean,Largs Thistle,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Haddington Athletic,Cumbernauld Colts,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Hill Of Beath,Glasgow University,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Keith,Stonehaven,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Kirkintilloch Rob Roy,Banks O' Dee,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Linlithgow Rose,Clydebank FC,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Lochee United,Inverurie,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Musselburgh,Lossiemouth,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Nairn County,Gretna 2008,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Newton Stewart,Johnstone Burgh,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Penicuik,Kilwinning Rangers,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Pollok,Albion Rovers,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Renfrew,Broxburn Athletic,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Rothes,Brora Rangers,0,9,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Strathspey Thistle,Dalbeattie Star,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Tayport,Wick Academy,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Threave Rovers,Invergordon,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-03,,Tranent,Turriff Utd,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway

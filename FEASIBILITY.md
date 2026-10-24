@@ -43,3 +43,31 @@ FT + HT + goal minutes where available.
   history once it catches up.
 - fd.co.uk URLs 302-redirect: always use `-L`.
 - eng.6/7/8 and ger.3 slugs don't exist on ESPN (ger.3 → OpenLigaDB instead).
+
+## Corners — verified 2026-10-24
+
+**Possible and easy for the top-10 leagues.** Fotmob's keyless
+`/api/data/matchDetails?matchId=` response contains a `Corners` stat in the
+`All`, `FirstHalf` and `SecondHalf` periods, so one request per match yields
+home/away totals **and** both halves. The league fixture list comes from the
+same site's `__NEXT_DATA__` blob, so no extra provider is needed.
+
+| League | Fotmob id | Corners total | 1H | 2H |
+|---|---|---|---|---|
+| ENG 1 Premier League | 47 | ✅ | ✅ | ✅ |
+| ESP 1 La Liga | 87 | ✅ | ✅ | ✅ |
+| ITA 1 Serie A | 55 | ✅ | ✅ | ✅ |
+| GER 1 Bundesliga | 54 | ✅ | ✅ | ✅ |
+| FRA 1 Ligue 1 | 53 | ✅ | ✅ | ✅ |
+| NED 1 Eredivisie | 57 | ✅ | ✅ | ✅ |
+| POR 1 Primeira Liga | 61 | ✅ | ✅ | ✅ |
+| BEL 1 Pro League | 40 | ✅ | ✅ | ✅ |
+| TUR 1 Süper Lig | 71 | ✅ | ✅ | ✅ |
+| GRE 1 Super League | 135 | ✅ | ✅ | ✅ |
+
+Cost: ~1 request per newly finished match (cached permanently afterwards), so
+a daily build only pays for the matches that kicked off since the last run.
+The same endpoint exposes shots, shots on target, fouls, yellow/red cards and
+possession by period — extend `fotmob_corners.py` if you want those for the
+top-10 too. Leagues outside the ten are skipped; their 1H/2H corner columns
+stay blank and the fd.co.uk total (where available) is kept.

@@ -41,7 +41,8 @@ def main() -> int:
             info = build_league(lg, args.season)
             errs = "; ".join(info["errors"]) or "-"
             print(f"[{lg.folder:32s}] results={info['results']:4d} "
-                  f"fixtures={info['fixtures']:4d} latest={info['latest'] or '-'} err={errs}")
+                  f"fixtures={info['fixtures']:4d} corners={info.get('corners', 0):4d} "
+                  f"latest={info['latest'] or '-'} err={errs}")
             summary.append(info)
         except Exception as e:  # noqa: BLE001
             print(f"[{lg.folder}] FAILED: {e}", file=sys.stderr)

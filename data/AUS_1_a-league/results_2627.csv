@@ -1,7 +1,7 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-10-16,10:00,Sydney FC,Western Sydney Wanderers FC,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-10-17,05:00,Auckland FC,Melbourne City FC,3,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-10-17,07:00,Macarthur FC,Perth Glory FC,2,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-10-17,09:40,Central Coast Mariners FC,Newcastle Jets,2,2,D,,,,,,,,,,,,,,,,,espn
-1,2026-10-18,03:00,Wellington Phoenix,Melbourne Victory,2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-10-23,10:00,Brisbane Roar FC,Perth Glory FC,2,1,H,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-10-16,10:00,Sydney FC,Western Sydney Wanderers FC,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-17,05:00,Auckland FC,Melbourne City FC,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-17,07:00,Macarthur FC,Perth Glory FC,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-17,09:40,Central Coast Mariners FC,Newcastle Jets,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-10-18,03:00,Wellington Phoenix,Melbourne Victory,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-10-23,10:00,Brisbane Roar FC,Perth Glory FC,2,1,H,,,,,,,,,,,,,,,,,,,,,espn

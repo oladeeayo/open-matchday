@@ -1,107 +1,107 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-25,00:00,Venados FC,Alebrijes de Oaxaca,3,0,H,,,,,,,,,,,,,,,,,espn
-1,2026-07-25,02:00,Mineros de Zacatecas,Correcaminos UAT,3,3,D,,,,,,,,,,,,,,,,,espn
-1,2026-07-25,02:00,Tepatitlán FC,Durango,0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-07-25,23:00,Tlaxcala FC,Leones Negros,2,4,A,,,,,,,,,,,,,,,,,espn
-1,2026-07-26,00:00,Tapatío,Cruz Azul Hidalgo,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-07-26,02:00,Club Atlético Morelia,Club Atlético La Paz,4,2,H,,,,,,,,,,,,,,,,,espn
-1,2026-07-26,02:00,Club Jaiba Brava,Piratas,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-07-31,02:00,Alebrijes de Oaxaca,Dorados de Sinaloa,0,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-01,00:00,Tapatío,Club Jaiba Brava,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-01,02:00,Correcaminos UAT,Tepatitlán FC,3,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-01,02:00,Mineros de Zacatecas,Tlaxcala FC,3,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-08-01,04:00,Club Atlético La Paz,Durango,0,1,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-01,22:45,Cruz Azul Hidalgo,Venados FC,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-08-02,02:00,Cancún FC,Leones Negros,0,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-08-02,02:00,Piratas,Club Atlético Morelia,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-08-06,23:00,Tlaxcala FC,Alebrijes de Oaxaca,0,2,A,,,,,,,,,,,,,,,,,espn
-3,2026-08-07,02:00,Dorados de Sinaloa,Mineros de Zacatecas,2,2,D,,,,,,,,,,,,,,,,,espn
-3,2026-08-07,02:00,Leones Negros,Correcaminos UAT,1,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-08-08,00:00,Venados FC,Tapatío,3,2,H,,,,,,,,,,,,,,,,,espn
-3,2026-08-08,02:00,Durango,Piratas,0,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-08-08,02:00,Tepatitlán FC,Club Atlético La Paz,0,5,A,,,,,,,,,,,,,,,,,espn
-3,2026-08-09,02:00,Club Atlético Morelia,Cancún FC,4,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-08-09,02:00,Club Jaiba Brava,Cruz Azul Hidalgo,3,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-08-14,02:00,Alebrijes de Oaxaca,Tepatitlán FC,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-08-15,02:00,Correcaminos UAT,Tapatío,2,3,A,,,,,,,,,,,,,,,,,espn
-4,2026-08-15,02:00,Mineros de Zacatecas,Venados FC,5,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-08-15,04:00,Club Atlético La Paz,Piratas,2,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-08-15,19:00,Cruz Azul Hidalgo,Club Atlético Morelia,1,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-08-16,02:00,Cancún FC,Durango,2,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-08-16,02:00,Dorados de Sinaloa,Tlaxcala FC,2,2,D,,,,,,,,,,,,,,,,,espn
-4,2026-08-16,19:00,Leones Negros,Club Jaiba Brava,4,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-08-20,00:00,Venados FC,Dorados de Sinaloa,4,2,H,,,,,,,,,,,,,,,,,espn
-5,2026-08-21,02:00,Club Atlético Morelia,Correcaminos UAT,1,3,A,,,,,,,,,,,,,,,,,espn
-5,2026-08-21,02:00,Tepatitlán FC,Tlaxcala FC,3,2,H,,,,,,,,,,,,,,,,,espn
-5,2026-08-22,04:00,Club Atlético La Paz,Cruz Azul Hidalgo,1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-08-23,02:00,Club Jaiba Brava,Alebrijes de Oaxaca,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-08-23,02:00,Durango,Leones Negros,1,2,A,,,,,,,,,,,,,,,,,espn
-5,2026-08-23,02:00,Piratas,Cancún FC,0,1,A,,,,,,,,,,,,,,,,,espn
-6,2026-08-24,02:00,Tapatío,Mineros de Zacatecas,4,2,H,,,,,,,,,,,,,,,,,espn
-6,2026-08-28,02:00,Alebrijes de Oaxaca,Tapatío,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-08-28,02:00,Cancún FC,Club Atlético La Paz,1,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-08-29,02:00,Correcaminos UAT,Durango,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-08-29,02:00,Dorados de Sinaloa,Club Atlético Morelia,0,1,A,,,,,,,,,,,,,,,,,espn
-6,2026-08-29,19:00,Cruz Azul Hidalgo,Tepatitlán FC,6,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-08-29,23:00,Tlaxcala FC,Venados FC,3,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-08-30,02:00,Mineros de Zacatecas,Club Jaiba Brava,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-08-30,19:00,Leones Negros,Piratas,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-09-04,02:00,Tepatitlán FC,Dorados de Sinaloa,1,4,A,,,,,,,,,,,,,,,,,espn
-7,2026-09-05,02:00,Durango,Tlaxcala FC,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-09-05,04:00,Club Atlético La Paz,Mineros de Zacatecas,3,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-09-06,00:00,Tapatío,Leones Negros,1,3,A,,,,,,,,,,,,,,,,,espn
-7,2026-09-06,02:00,Cancún FC,Cruz Azul Hidalgo,6,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-09-06,02:00,Club Atlético Morelia,Alebrijes de Oaxaca,4,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-09-06,02:00,Club Jaiba Brava,Venados FC,4,3,H,,,,,,,,,,,,,,,,,espn
-7,2026-09-06,02:00,Piratas,Correcaminos UAT,4,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-09-11,02:00,Alebrijes de Oaxaca,Durango,1,0,H,,,,,,,,,,,,,,,,,espn
-8,2026-09-11,19:00,Cruz Azul Hidalgo,Piratas,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-09-12,00:00,Venados FC,Tepatitlán FC,5,0,H,,,,,,,,,,,,,,,,,espn
-8,2026-09-12,02:00,Correcaminos UAT,Cancún FC,2,2,D,,,,,,,,,,,,,,,,,espn
-8,2026-09-12,23:00,Tlaxcala FC,Club Jaiba Brava,3,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-09-13,02:00,Dorados de Sinaloa,Tapatío,3,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-09-13,02:00,Mineros de Zacatecas,Club Atlético Morelia,0,1,A,,,,,,,,,,,,,,,,,espn
-8,2026-09-13,19:00,Leones Negros,Club Atlético La Paz,2,2,D,,,,,,,,,,,,,,,,,espn
-9,2026-09-16,02:00,Dorados de Sinaloa,Cancún FC,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-09-18,02:00,Durango,Cruz Azul Hidalgo,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-19,02:00,Piratas,Venados FC,2,1,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-19,02:00,Tepatitlán FC,Mineros de Zacatecas,0,1,A,,,,,,,,,,,,,,,,,espn
-9,2026-09-19,04:00,Club Atlético La Paz,Correcaminos UAT,3,1,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-20,00:00,Tapatío,Tlaxcala FC,4,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-20,02:00,Cancún FC,Alebrijes de Oaxaca,3,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-20,02:00,Club Atlético Morelia,Leones Negros,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-09-20,02:00,Club Jaiba Brava,Dorados de Sinaloa,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-09-25,02:00,Alebrijes de Oaxaca,Club Atlético La Paz,1,3,A,,,,,,,,,,,,,,,,,espn
-10,2026-09-25,02:00,Mineros de Zacatecas,Piratas,3,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-09-26,00:00,Venados FC,Club Atlético Morelia,2,1,H,,,,,,,,,,,,,,,,,espn
-10,2026-09-26,02:00,Correcaminos UAT,Club Jaiba Brava,1,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-09-26,19:00,Cruz Azul Hidalgo,Leones Negros,1,2,A,,,,,,,,,,,,,,,,,espn
-10,2026-09-26,23:00,Tlaxcala FC,Cancún FC,4,1,H,,,,,,,,,,,,,,,,,espn
-10,2026-09-27,02:00,Dorados de Sinaloa,Durango,0,1,A,,,,,,,,,,,,,,,,,espn
-11,2026-10-03,02:00,Correcaminos UAT,Cruz Azul Hidalgo,0,0,D,,,,,,,,,,,,,,,,,espn
-11,2026-10-03,02:00,Tepatitlán FC,Club Jaiba Brava,3,1,H,,,,,,,,,,,,,,,,,espn
-11,2026-10-03,04:00,Club Atlético La Paz,Venados FC,1,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-10-04,02:00,Cancún FC,Tapatío,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-10-04,02:00,Club Atlético Morelia,Tlaxcala FC,1,1,D,,,,,,,,,,,,,,,,,espn
-11,2026-10-04,02:00,Durango,Mineros de Zacatecas,4,2,H,,,,,,,,,,,,,,,,,espn
-11,2026-10-04,02:00,Piratas,Alebrijes de Oaxaca,4,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-10-04,19:00,Leones Negros,Dorados de Sinaloa,6,3,H,,,,,,,,,,,,,,,,,espn
-12,2026-10-09,00:00,Tapatío,Club Atlético La Paz,2,4,A,,,,,,,,,,,,,,,,,espn
-12,2026-10-09,02:00,Alebrijes de Oaxaca,Correcaminos UAT,2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-10-10,00:00,Venados FC,Leones Negros,1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-10-10,02:00,Tepatitlán FC,Club Atlético Morelia,1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-10-10,23:00,Tlaxcala FC,Piratas,4,2,H,,,,,,,,,,,,,,,,,espn
-12,2026-10-11,02:00,Club Jaiba Brava,Durango,0,0,D,,,,,,,,,,,,,,,,,espn
-12,2026-10-11,02:00,Dorados de Sinaloa,Cruz Azul Hidalgo,1,3,A,,,,,,,,,,,,,,,,,espn
-12,2026-10-11,02:00,Mineros de Zacatecas,Cancún FC,2,2,D,,,,,,,,,,,,,,,,,espn
-13,2026-10-13,00:00,Tapatío,Tepatitlán FC,4,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-10-17,02:00,Correcaminos UAT,Dorados de Sinaloa,1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-10-17,04:00,Club Atlético La Paz,Tlaxcala FC,2,2,D,,,,,,,,,,,,,,,,,espn
-13,2026-10-17,19:00,Cruz Azul Hidalgo,Mineros de Zacatecas,2,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-10-18,02:00,Cancún FC,Venados FC,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-10-18,02:00,Club Atlético Morelia,Club Jaiba Brava,1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-10-18,02:00,Piratas,Tepatitlán FC,3,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-10-18,04:00,Durango,Tapatío,5,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-10-18,19:00,Leones Negros,Alebrijes de Oaxaca,1,2,A,,,,,,,,,,,,,,,,,espn
-14,2026-10-23,02:00,Alebrijes de Oaxaca,Cruz Azul Hidalgo,2,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-10-24,02:00,Tepatitlán FC,Cancún FC,0,4,A,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-07-25,00:00,Venados FC,Alebrijes de Oaxaca,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-25,02:00,Mineros de Zacatecas,Correcaminos UAT,3,3,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-25,02:00,Tepatitlán FC,Durango,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-25,23:00,Tlaxcala FC,Leones Negros,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-26,00:00,Tapatío,Cruz Azul Hidalgo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-26,02:00,Club Atlético Morelia,Club Atlético La Paz,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-07-26,02:00,Club Jaiba Brava,Piratas,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-07-31,02:00,Alebrijes de Oaxaca,Dorados de Sinaloa,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-01,00:00,Tapatío,Club Jaiba Brava,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-01,02:00,Correcaminos UAT,Tepatitlán FC,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-01,02:00,Mineros de Zacatecas,Tlaxcala FC,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-01,04:00,Club Atlético La Paz,Durango,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-01,22:45,Cruz Azul Hidalgo,Venados FC,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-02,02:00,Cancún FC,Leones Negros,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-08-02,02:00,Piratas,Club Atlético Morelia,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-06,23:00,Tlaxcala FC,Alebrijes de Oaxaca,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-07,02:00,Dorados de Sinaloa,Mineros de Zacatecas,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-07,02:00,Leones Negros,Correcaminos UAT,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-08,00:00,Venados FC,Tapatío,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-08,02:00,Durango,Piratas,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-08,02:00,Tepatitlán FC,Club Atlético La Paz,0,5,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-09,02:00,Club Atlético Morelia,Cancún FC,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-08-09,02:00,Club Jaiba Brava,Cruz Azul Hidalgo,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-14,02:00,Alebrijes de Oaxaca,Tepatitlán FC,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-15,02:00,Correcaminos UAT,Tapatío,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-15,02:00,Mineros de Zacatecas,Venados FC,5,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-15,04:00,Club Atlético La Paz,Piratas,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-15,19:00,Cruz Azul Hidalgo,Club Atlético Morelia,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-16,02:00,Cancún FC,Durango,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-16,02:00,Dorados de Sinaloa,Tlaxcala FC,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-08-16,19:00,Leones Negros,Club Jaiba Brava,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-20,00:00,Venados FC,Dorados de Sinaloa,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-21,02:00,Club Atlético Morelia,Correcaminos UAT,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-21,02:00,Tepatitlán FC,Tlaxcala FC,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-22,04:00,Club Atlético La Paz,Cruz Azul Hidalgo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-23,02:00,Club Jaiba Brava,Alebrijes de Oaxaca,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-23,02:00,Durango,Leones Negros,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-08-23,02:00,Piratas,Cancún FC,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-24,02:00,Tapatío,Mineros de Zacatecas,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-28,02:00,Alebrijes de Oaxaca,Tapatío,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-28,02:00,Cancún FC,Club Atlético La Paz,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-29,02:00,Correcaminos UAT,Durango,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-29,02:00,Dorados de Sinaloa,Club Atlético Morelia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-29,19:00,Cruz Azul Hidalgo,Tepatitlán FC,6,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-29,23:00,Tlaxcala FC,Venados FC,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-30,02:00,Mineros de Zacatecas,Club Jaiba Brava,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-08-30,19:00,Leones Negros,Piratas,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-04,02:00,Tepatitlán FC,Dorados de Sinaloa,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-05,02:00,Durango,Tlaxcala FC,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-05,04:00,Club Atlético La Paz,Mineros de Zacatecas,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-06,00:00,Tapatío,Leones Negros,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-06,02:00,Cancún FC,Cruz Azul Hidalgo,6,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-06,02:00,Club Atlético Morelia,Alebrijes de Oaxaca,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-06,02:00,Club Jaiba Brava,Venados FC,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-09-06,02:00,Piratas,Correcaminos UAT,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-11,02:00,Alebrijes de Oaxaca,Durango,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-11,19:00,Cruz Azul Hidalgo,Piratas,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-12,00:00,Venados FC,Tepatitlán FC,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-12,02:00,Correcaminos UAT,Cancún FC,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-12,23:00,Tlaxcala FC,Club Jaiba Brava,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-13,02:00,Dorados de Sinaloa,Tapatío,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-13,02:00,Mineros de Zacatecas,Club Atlético Morelia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-09-13,19:00,Leones Negros,Club Atlético La Paz,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-16,02:00,Dorados de Sinaloa,Cancún FC,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-18,02:00,Durango,Cruz Azul Hidalgo,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-19,02:00,Piratas,Venados FC,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-19,02:00,Tepatitlán FC,Mineros de Zacatecas,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-19,04:00,Club Atlético La Paz,Correcaminos UAT,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-20,00:00,Tapatío,Tlaxcala FC,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-20,02:00,Cancún FC,Alebrijes de Oaxaca,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-20,02:00,Club Atlético Morelia,Leones Negros,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-09-20,02:00,Club Jaiba Brava,Dorados de Sinaloa,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-25,02:00,Alebrijes de Oaxaca,Club Atlético La Paz,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-25,02:00,Mineros de Zacatecas,Piratas,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-26,00:00,Venados FC,Club Atlético Morelia,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-26,02:00,Correcaminos UAT,Club Jaiba Brava,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-26,19:00,Cruz Azul Hidalgo,Leones Negros,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-26,23:00,Tlaxcala FC,Cancún FC,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-09-27,02:00,Dorados de Sinaloa,Durango,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-03,02:00,Correcaminos UAT,Cruz Azul Hidalgo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-03,02:00,Tepatitlán FC,Club Jaiba Brava,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-03,04:00,Club Atlético La Paz,Venados FC,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-04,02:00,Cancún FC,Tapatío,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-04,02:00,Club Atlético Morelia,Tlaxcala FC,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-04,02:00,Durango,Mineros de Zacatecas,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-04,02:00,Piratas,Alebrijes de Oaxaca,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-04,19:00,Leones Negros,Dorados de Sinaloa,6,3,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-09,00:00,Tapatío,Club Atlético La Paz,2,4,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-09,02:00,Alebrijes de Oaxaca,Correcaminos UAT,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-10,00:00,Venados FC,Leones Negros,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-10,02:00,Tepatitlán FC,Club Atlético Morelia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-10,23:00,Tlaxcala FC,Piratas,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-11,02:00,Club Jaiba Brava,Durango,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-11,02:00,Dorados de Sinaloa,Cruz Azul Hidalgo,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-10-11,02:00,Mineros de Zacatecas,Cancún FC,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-13,00:00,Tapatío,Tepatitlán FC,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-17,02:00,Correcaminos UAT,Dorados de Sinaloa,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-17,04:00,Club Atlético La Paz,Tlaxcala FC,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-17,19:00,Cruz Azul Hidalgo,Mineros de Zacatecas,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-18,02:00,Cancún FC,Venados FC,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-18,02:00,Club Atlético Morelia,Club Jaiba Brava,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-18,02:00,Piratas,Tepatitlán FC,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-18,04:00,Durango,Tapatío,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-10-18,19:00,Leones Negros,Alebrijes de Oaxaca,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-10-23,02:00,Alebrijes de Oaxaca,Cruz Azul Hidalgo,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-10-24,02:00,Tepatitlán FC,Cancún FC,0,4,A,,,,,,,,,,,,,,,,,,,,,espn

@@ -1,49 +1,49 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-08-14,,Kosova Neuchatel,Lausanne,0,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-14,,Rotkreuz,Bellinzona,4,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-14,,Tuggen,Zurich,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-14,,Wiesendangen,Bruhl,0,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Amical Saint-Prex,Stade Nyonnais,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Bavois,Servette,0,7,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Brunnen,Taverne,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Collex-Bossy,Etoile-Carouge,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Courtetelle,Basel,1,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,FC Aesch,Langenthal,1,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Genolier-Begnins,Pully,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Interlaken,Bulle,1,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Liestal,Young Boys,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Meyrin,Xamax,0,0,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Mutschellen,FC Winkeln SG,3,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Regensdorf,Grasshoppers,0,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Rorschach,Schaffhausen,2,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,YF Juventus,Rapperswil-Jona,1,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-15,,Zurich City SC,Winterthur,1,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Biel,Aarau,3,3,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Buochs,Luzern,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Cham,Kriens,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Courrendlin-Courroux,Grenchen,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Italien,Lausanne Ouchy,1,8,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Kaufdorf,Old Boys,0,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Kerzers,Sion,1,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Koniz,Munsingen,3,1,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Rebstein,Wil,2,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Saxon-Sports,Thun,0,6,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Terre Sainte,Yverdon,0,5,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Thalwil,St. Gallen,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-08-16,,Vedeggio,Lugano,1,10,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-16,,Lausanne Ouchy,Etoile-Carouge,3,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-16,,Rapperswil-Jona,St. Gallen,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-16,,Rotkreuz,Servette,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-16,,Stade Nyonnais,Basel,0,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Bulle,Wil,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Cham,Sion,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Grenchen,Grasshoppers,0,8,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Koniz,Bruhl,0,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Old Boys,Yverdon,1,2,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-17,,Winterthur,Luzern,0,1,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Aarau,Zurich,2,0,H,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,FC Winkeln SG,Lausanne,0,7,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Langenthal,Xamax,2,3,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Pully,Lugano,0,4,A,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Schaffhausen,Thun,2,2,D,,,,,,,,,,,,,,,,,soccerway
-1,2026-10-18,,Taverne,Young Boys,0,5,A,,,,,,,,,,,,,,,,,soccerway
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-08-14,,Kosova Neuchatel,Lausanne,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-14,,Rotkreuz,Bellinzona,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-14,,Tuggen,Zurich,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-14,,Wiesendangen,Bruhl,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Amical Saint-Prex,Stade Nyonnais,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Bavois,Servette,0,7,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Brunnen,Taverne,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Collex-Bossy,Etoile-Carouge,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Courtetelle,Basel,1,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,FC Aesch,Langenthal,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Genolier-Begnins,Pully,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Interlaken,Bulle,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Liestal,Young Boys,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Meyrin,Xamax,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Mutschellen,FC Winkeln SG,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Regensdorf,Grasshoppers,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Rorschach,Schaffhausen,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,YF Juventus,Rapperswil-Jona,1,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-15,,Zurich City SC,Winterthur,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Biel,Aarau,3,3,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Buochs,Luzern,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Cham,Kriens,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Courrendlin-Courroux,Grenchen,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Italien,Lausanne Ouchy,1,8,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Kaufdorf,Old Boys,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Kerzers,Sion,1,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Koniz,Munsingen,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Rebstein,Wil,2,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Saxon-Sports,Thun,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Terre Sainte,Yverdon,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Thalwil,St. Gallen,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-08-16,,Vedeggio,Lugano,1,10,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-16,,Lausanne Ouchy,Etoile-Carouge,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-16,,Rapperswil-Jona,St. Gallen,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-16,,Rotkreuz,Servette,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-16,,Stade Nyonnais,Basel,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Bulle,Wil,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Cham,Sion,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Grenchen,Grasshoppers,0,8,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Koniz,Bruhl,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Old Boys,Yverdon,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-17,,Winterthur,Luzern,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Aarau,Zurich,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,FC Winkeln SG,Lausanne,0,7,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Langenthal,Xamax,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Pully,Lugano,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Schaffhausen,Thun,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+1,2026-10-18,,Taverne,Young Boys,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway

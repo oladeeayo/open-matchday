@@ -1,448 +1,448 @@
-gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-01-22,00:00,Banfield,Huracán,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-01-22,00:00,Unión (Santa Fe),Platense,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-01-22,21:00,Aldosivi,Defensa y Justicia,0,0,D,,,,,,,,,,,,,,,,,espn
-1,2026-01-23,00:00,Independiente,Estudiantes de La Plata,1,1,D,,,,,,,,,,,,,,,,,espn
-1,2026-01-23,02:15,Central Córdoba (Santiago del Estero),Gimnasia (Mendoza),0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-01-23,02:15,Instituto (Córdoba),Vélez Sarsfield,0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-01-23,23:00,San Lorenzo,Lanús,2,3,A,,,,,,,,,,,,,,,,,espn
-1,2026-01-24,02:15,Independiente Rivadavia,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-01-24,02:15,Talleres (Córdoba),Newell's Old Boys,2,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-01-24,21:00,Barracas Central,River Plate,0,1,A,,,,,,,,,,,,,,,,,espn
-1,2026-01-24,23:30,Gimnasia La Plata,Racing Club,2,1,H,,,,,,,,,,,,,,,,,espn
-1,2026-01-25,02:00,Rosario Central,Belgrano (Córdoba),1,2,A,,,,,,,,,,,,,,,,,espn
-1,2026-01-25,22:30,Boca Juniors,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-26,01:00,Argentinos Juniors,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-26,01:00,Tigre,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-26,21:00,Platense,Instituto (Córdoba),2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-27,00:00,Gimnasia (Mendoza),San Lorenzo,0,1,A,,,,,,,,,,,,,,,,,espn
-2,2026-01-27,00:00,Huracán,Independiente Rivadavia,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-01-27,21:45,Vélez Sarsfield,Talleres (Córdoba),2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-28,00:00,River Plate,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-28,02:15,Atlético Tucumán,Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-01-28,02:15,Newell's Old Boys,Independiente,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-01-28,21:00,Aldosivi,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-01-28,23:00,Racing Club,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-01-29,02:15,Estudiantes de La Plata,Boca Juniors,0,0,D,,,,,,,,,,,,,,,,,espn
-2,2026-01-29,21:00,Deportivo Riestra,Defensa y Justicia,0,1,A,,,,,,,,,,,,,,,,,espn
-2,2026-01-29,23:15,Belgrano (Córdoba),Tigre,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-01-29,23:15,Lanús,Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-30,01:30,Sarmiento (Junín),Banfield,1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-31,21:30,San Lorenzo,Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,espn
-2,2026-01-31,23:45,Independiente,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-01,02:00,Atlético Tucumán,Huracán,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-01,02:00,Talleres (Córdoba),Platense,1,2,A,,,,,,,,,,,,,,,,,espn
-2,2026-02-01,21:00,Barracas Central,Deportivo Riestra,1,1,D,,,,,,,,,,,,,,,,,espn
-2,2026-02-01,23:15,Boca Juniors,Newell's Old Boys,2,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-02,01:30,Rosario Central,River Plate,0,0,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-02,21:30,Gimnasia La Plata,Aldosivi,3,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-02,23:45,Defensa y Justicia,Estudiantes de La Plata,0,0,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-02,23:45,Tigre,Racing Club,3,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-03,02:00,Argentinos Juniors,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-03,02:00,Unión (Santa Fe),Gimnasia (Mendoza),4,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-03,23:00,Banfield,Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-04,01:15,Independiente Rivadavia,Sarmiento (Junín),2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-04,01:15,Instituto (Córdoba),Lanús,2,2,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-07,00:00,River Plate,Tigre,1,4,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-07,01:00,Central Córdoba (Santiago del Estero),Unión (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-07,21:00,Aldosivi,Rosario Central,1,1,D,,,,,,,,,,,,,,,,,espn
-3,2026-02-07,22:00,Racing Club,Argentinos Juniors,2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-08,02:15,Belgrano (Córdoba),Banfield,1,0,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-08,02:15,Newell's Old Boys,Defensa y Justicia,2,3,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-08,21:00,Platense,Independiente,0,1,A,,,,,,,,,,,,,,,,,espn
-3,2026-02-08,21:00,Sarmiento (Junín),Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,espn
-3,2026-02-08,23:15,Huracán,San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-09,02:15,Gimnasia (Mendoza),Instituto (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-09,02:15,Vélez Sarsfield,Boca Juniors,2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-09,21:00,Barracas Central,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-09,23:15,Estudiantes de La Plata,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-09,23:15,Lanús,Talleres (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-02-10,01:30,Estudiantes de Río Cuarto,Independiente Rivadavia,0,1,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-12,23:00,Tigre,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-13,00:00,Independiente,Lanús,2,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-13,01:15,Argentinos Juniors,River Plate,0,0,D,,,,,,,,,,,,,,,,,espn
-4,2026-02-14,02:15,Defensa y Justicia,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-4,2026-02-14,02:15,Unión (Santa Fe),San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,espn
-4,2026-02-14,21:30,Banfield,Racing Club,0,2,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-14,23:45,Huracán,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-14,23:45,Talleres (Córdoba),Gimnasia (Mendoza),2,1,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-15,02:00,Atlético Tucumán,Estudiantes de Río Cuarto,4,0,H,,,,,,,,,,,,,,,,,espn
-4,2026-02-15,02:00,Independiente Rivadavia,Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-4,2026-02-15,21:00,Gimnasia La Plata,Estudiantes de La Plata,0,0,D,,,,,,,,,,,,,,,,,espn
-5,2026-02-16,02:00,Instituto (Córdoba),Central Córdoba (Santiago del Estero),2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-16,02:00,Rosario Central,Barracas Central,2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-16,23:00,Deportivo Riestra,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-02-20,00:00,Boca Juniors,Racing Club,0,0,D,,,,,,,,,,,,,,,,,espn
-5,2026-02-20,00:00,Instituto (Córdoba),Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-20,21:15,Defensa y Justicia,Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-5,2026-02-20,21:45,Estudiantes de La Plata,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,02:15,Gimnasia (Mendoza),Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,02:15,Rosario Central,Talleres (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,21:00,Independiente Rivadavia,Independiente,3,2,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,21:00,Platense,Barracas Central,1,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,23:15,Banfield,Newell's Old Boys,3,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-21,23:15,Deportivo Riestra,Huracán,0,0,D,,,,,,,,,,,,,,,,,espn
-5,2026-02-22,01:30,Central Córdoba (Santiago del Estero),Tigre,2,1,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-22,21:00,San Lorenzo,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,espn
-5,2026-02-22,23:15,Vélez Sarsfield,River Plate,1,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-23,01:30,Unión (Santa Fe),Aldosivi,1,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-24,21:00,Platense,Defensa y Justicia,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-02-24,23:15,San Lorenzo,Instituto (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-02-25,01:30,Belgrano (Córdoba),Atlético Tucumán,3,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-25,02:00,Gimnasia (Mendoza),Independiente,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-02-25,21:00,Gimnasia La Plata,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-02-25,23:30,Newell's Old Boys,Estudiantes de La Plata,0,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-02-25,23:30,Vélez Sarsfield,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-02-26,21:15,Racing Club,Independiente Rivadavia,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-02-26,21:15,Sarmiento (Junín),Unión (Santa Fe),1,3,A,,,,,,,,,,,,,,,,,espn
-6,2026-02-26,23:30,Estudiantes de Río Cuarto,Huracán,2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-26,23:30,River Plate,Banfield,3,1,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-28,00:00,Independiente,Central Córdoba (Santiago del Estero),2,0,H,,,,,,,,,,,,,,,,,espn
-6,2026-02-28,21:45,Boca Juniors,Gimnasia (Mendoza),1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-03-01,02:15,Talleres (Córdoba),San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,espn
-6,2026-03-01,21:00,Newell's Old Boys,Rosario Central,0,2,A,,,,,,,,,,,,,,,,,espn
-6,2026-03-01,23:15,Argentinos Juniors,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,espn
-6,2026-03-01,23:15,Instituto (Córdoba),Unión (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-02,01:30,Defensa y Justicia,Lanús,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-02,01:30,Tigre,Gimnasia La Plata,2,2,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-02,23:15,Deportivo Riestra,Platense,0,0,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-02,23:15,Estudiantes de La Plata,Vélez Sarsfield,0,1,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-03,01:30,Banfield,Aldosivi,2,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-03,01:30,Independiente Rivadavia,River Plate,1,1,D,,,,,,,,,,,,,,,,,espn
-7,2026-03-03,23:00,Sarmiento (Junín),Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-03,23:15,Huracán,Belgrano (Córdoba),3,1,H,,,,,,,,,,,,,,,,,espn
-7,2026-03-04,01:15,Atlético Tucumán,Racing Club,0,3,A,,,,,,,,,,,,,,,,,espn
-7,2026-03-05,01:00,Lanús,Boca Juniors,0,3,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-10,23:45,Independiente,Unión (Santa Fe),4,4,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-10,23:45,Tigre,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-11,02:00,Newell's Old Boys,Platense,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-11,02:00,Sarmiento (Junín),Racing Club,0,0,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-11,21:30,Argentinos Juniors,Rosario Central,0,0,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-11,21:30,Banfield,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-11,23:45,Boca Juniors,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,02:00,Atlético Tucumán,Aldosivi,1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,02:00,Independiente Rivadavia,Barracas Central,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,21:00,Defensa y Justicia,Central Córdoba (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,21:00,Deportivo Riestra,Gimnasia (Mendoza),0,0,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,23:15,Estudiantes de Río Cuarto,Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-12,23:15,Talleres (Córdoba),Instituto (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-8,2026-03-13,00:00,Estudiantes de La Plata,Lanús,0,1,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-13,01:30,Huracán,River Plate,1,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-14,23:00,Platense,Vélez Sarsfield,0,2,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-15,01:00,Rosario Central,Banfield,2,1,H,,,,,,,,,,,,,,,,,espn
-8,2026-03-15,19:15,Gimnasia La Plata,Independiente Rivadavia,2,3,A,,,,,,,,,,,,,,,,,espn
-8,2026-03-15,23:45,River Plate,Sarmiento (Junín),2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,00:00,Racing Club,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,02:00,Tigre,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,02:00,Unión (Santa Fe),Boca Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,19:30,Aldosivi,Huracán,0,0,D,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,19:30,Barracas Central,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-16,22:30,San Lorenzo,Defensa y Justicia,2,5,A,,,,,,,,,,,,,,,,,espn
-9,2026-03-17,02:15,Instituto (Córdoba),Independiente,2,1,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-17,23:00,Lanús,Newell's Old Boys,5,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-18,01:15,Central Córdoba (Santiago del Estero),Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-18,01:15,Gimnasia (Mendoza),Estudiantes de La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,00:00,Independiente,Talleres (Córdoba),1,2,A,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,01:00,Atlético Tucumán,Gimnasia La Plata,1,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,01:00,Banfield,Tigre,1,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,19:30,Vélez Sarsfield,Lanús,0,1,A,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,21:45,Defensa y Justicia,Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-21,21:45,Newell's Old Boys,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-22,00:00,Boca Juniors,Instituto (Córdoba),2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-22,02:15,Belgrano (Córdoba),Racing Club,1,2,A,,,,,,,,,,,,,,,,,espn
-9,2026-03-22,19:30,Sarmiento (Junín),Aldosivi,2,0,H,,,,,,,,,,,,,,,,,espn
-9,2026-03-22,21:45,Estudiantes de Río Cuarto,River Plate,0,2,A,,,,,,,,,,,,,,,,,espn
-10,2026-03-23,02:15,Argentinos Juniors,Platense,1,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-03-23,02:15,Independiente Rivadavia,Rosario Central,2,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-03-23,23:00,Estudiantes de La Plata,Central Córdoba (Santiago del Estero),5,0,H,,,,,,,,,,,,,,,,,espn
-10,2026-03-24,01:15,Huracán,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,espn
-10,2026-03-25,23:00,Deportivo Riestra,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,espn
-10,2026-03-27,01:00,Argentinos Juniors,Lanús,2,1,H,,,,,,,,,,,,,,,,,espn
-11,2026-03-31,18:00,Aldosivi,Argentinos Juniors,0,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-01,00:00,Lanús,Platense,0,0,D,,,,,,,,,,,,,,,,,espn
-11,2026-04-02,00:30,Talleres (Córdoba),Boca Juniors,0,1,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-02,19:00,Barracas Central,Sarmiento (Junín),1,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-02,21:30,Tigre,Independiente Rivadavia,0,2,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-03,19:00,Gimnasia (Mendoza),Vélez Sarsfield,3,2,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-03,21:15,Unión (Santa Fe),Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-03,23:30,San Lorenzo,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-04,17:30,Aldosivi,Estudiantes de Río Cuarto,0,0,D,,,,,,,,,,,,,,,,,espn
-11,2026-04-04,21:30,Independiente,Racing Club,1,0,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-05,00:30,Central Córdoba (Santiago del Estero),Newell's Old Boys,1,3,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-05,01:00,Rosario Central,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,espn
-11,2026-04-05,19:30,Gimnasia La Plata,Huracán,0,3,A,,,,,,,,,,,,,,,,,espn
-11,2026-04-05,22:00,River Plate,Belgrano (Córdoba),3,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-06,23:00,Argentinos Juniors,Banfield,3,2,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-07,01:15,Instituto (Córdoba),Defensa y Justicia,2,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-11,01:00,Belgrano (Córdoba),Aldosivi,1,0,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-11,19:00,Deportivo Riestra,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-11,19:30,Independiente Rivadavia,Argentinos Juniors,3,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-11,21:15,Estudiantes de La Plata,Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,espn
-12,2026-04-11,23:30,Boca Juniors,Independiente,1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,00:00,Racing Club,River Plate,0,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,01:45,Estudiantes de Río Cuarto,Barracas Central,1,2,A,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,19:00,Newell's Old Boys,San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,19:00,Platense,Gimnasia (Mendoza),1,1,D,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,21:30,Atlético Tucumán,Tigre,0,0,D,,,,,,,,,,,,,,,,,espn
-12,2026-04-12,21:30,Huracán,Rosario Central,3,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-13,20:30,Defensa y Justicia,Talleres (Córdoba),1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-13,20:30,Sarmiento (Junín),Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-13,23:00,Lanús,Banfield,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-14,01:30,Vélez Sarsfield,Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-17,00:30,Unión (Santa Fe),Newell's Old Boys,2,3,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-18,19:00,Gimnasia La Plata,Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-18,21:15,Instituto (Córdoba),Estudiantes de La Plata,0,1,A,,,,,,,,,,,,,,,,,espn
-13,2026-04-18,23:30,Independiente,Defensa y Justicia,3,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-19,00:30,Rosario Central,Sarmiento (Junín),2,1,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-19,00:30,Talleres (Córdoba),Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-19,01:45,Argentinos Juniors,Atlético Tucumán,1,0,H,,,,,,,,,,,,,,,,,espn
-13,2026-04-19,17:30,Aldosivi,Racing Club,1,1,D,,,,,,,,,,,,,,,,,espn
-13,2026-04-19,21:00,River Plate,Boca Juniors,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-04-20,19:00,Barracas Central,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-20,21:15,Banfield,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-20,21:15,Central Córdoba (Santiago del Estero),Platense,4,3,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-20,23:30,San Lorenzo,Vélez Sarsfield,0,0,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-21,01:45,Gimnasia (Mendoza),Lanús,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-21,01:45,Tigre,Huracán,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-23,00:00,Defensa y Justicia,Boca Juniors,0,4,A,,,,,,,,,,,,,,,,,espn
-14,2026-04-24,21:00,Deportivo Riestra,Independiente,2,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-24,23:15,Estudiantes de Río Cuarto,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,espn
-14,2026-04-24,23:15,Lanús,Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-25,01:30,Platense,San Lorenzo,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-04-25,01:30,Racing Club,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-25,21:00,Estudiantes de La Plata,Talleres (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-25,23:15,Sarmiento (Junín),Tigre,1,0,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-26,00:00,Atlético Tucumán,Banfield,1,1,D,,,,,,,,,,,,,,,,,espn
-14,2026-04-26,01:30,River Plate,Aldosivi,3,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-26,19:00,Independiente Rivadavia,Gimnasia (Mendoza),5,1,H,,,,,,,,,,,,,,,,,espn
-14,2026-04-26,21:30,Belgrano (Córdoba),Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,espn
-14,2026-04-26,21:30,Newell's Old Boys,Instituto (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-15,2026-04-27,22:45,Vélez Sarsfield,Unión (Santa Fe),2,2,D,,,,,,,,,,,,,,,,,espn
-15,2026-04-28,01:00,Huracán,Argentinos Juniors,1,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-02,18:00,Barracas Central,Banfield,1,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-02,18:30,Lanús,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-02,20:15,Central Córdoba (Santiago del Estero),Boca Juniors,1,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-02,22:45,San Lorenzo,Independiente,1,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-02,22:45,Unión (Santa Fe),Talleres (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,01:15,Platense,Estudiantes de La Plata,0,2,A,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,17:30,Aldosivi,Independiente Rivadavia,1,1,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,20:00,Belgrano (Córdoba),Sarmiento (Junín),4,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,20:00,Gimnasia La Plata,Argentinos Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,20:00,Racing Club,Huracán,0,0,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,20:00,Rosario Central,Tigre,1,1,D,,,,,,,,,,,,,,,,,espn
-15,2026-05-03,22:30,River Plate,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-04,21:00,Gimnasia (Mendoza),Defensa y Justicia,2,1,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-04,23:15,Vélez Sarsfield,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,espn
-16,2026-05-05,01:30,Estudiantes de Río Cuarto,Instituto (Córdoba),0,2,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-09,20:30,Talleres (Córdoba),Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-09,23:00,Boca Juniors,Huracán,2,3,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-10,01:30,Independiente Rivadavia,Unión (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-10,02:15,Argentinos Juniors,Lanús,2,0,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-10,19:00,Rosario Central,Independiente,3,1,H,,,,,,,,,,,,,,,,,espn
-16,2026-05-10,21:00,Estudiantes de La Plata,Racing Club,0,1,A,,,,,,,,,,,,,,,,,espn
-16,2026-05-10,23:00,River Plate,San Lorenzo,2,2,D,,,,,,,,,,,,,,,,,espn
-17,2026-05-11,01:30,Vélez Sarsfield,Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,espn
-17,2026-05-12,23:00,Belgrano (Córdoba),Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-13,01:30,Argentinos Juniors,Huracán,1,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-13,22:45,Rosario Central,Racing Club,2,1,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-14,01:45,River Plate,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-16,23:30,River Plate,Rosario Central,1,0,H,,,,,,,,,,,,,,,,,espn
-17,2026-05-17,21:00,Argentinos Juniors,Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-18,2026-05-24,19:30,River Plate,Belgrano (Córdoba),2,3,A,,,,,,,,,,,,,,,,,espn
-19,2026-07-23,23:30,Belgrano (Córdoba),Rosario Central,2,1,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-23,23:30,Sarmiento (Junín),Argentinos Juniors,2,3,A,,,,,,,,,,,,,,,,,espn
-19,2026-07-24,01:45,Defensa y Justicia,Aldosivi,1,1,D,,,,,,,,,,,,,,,,,espn
-19,2026-07-24,20:45,Gimnasia (Mendoza),Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-24,23:00,Racing Club,Gimnasia La Plata,2,1,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-24,23:00,Vélez Sarsfield,Instituto (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-25,01:15,Huracán,Banfield,1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-25,01:15,Platense,Unión (Santa Fe),2,2,D,,,,,,,,,,,,,,,,,espn
-19,2026-07-25,18:45,Estudiantes de Río Cuarto,Tigre,1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-25,21:00,Newell's Old Boys,Talleres (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-25,23:15,River Plate,Barracas Central,0,1,A,,,,,,,,,,,,,,,,,espn
-19,2026-07-26,01:30,Lanús,San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,espn
-19,2026-07-26,19:00,Atlético Tucumán,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,espn
-19,2026-07-26,21:15,Estudiantes de La Plata,Independiente,0,2,A,,,,,,,,,,,,,,,,,espn
-19,2026-07-26,23:30,Deportivo Riestra,Boca Juniors,3,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-28,23:00,Banfield,Sarmiento (Junín),3,2,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-28,23:00,San Lorenzo,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-29,01:15,Argentinos Juniors,Estudiantes de Río Cuarto,3,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-29,01:15,Rosario Central,Racing Club,0,0,D,,,,,,,,,,,,,,,,,espn
-20,2026-07-29,18:30,Barracas Central,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-29,21:00,Defensa y Justicia,Deportivo Riestra,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-29,23:15,Gimnasia La Plata,River Plate,1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-30,01:30,Instituto (Córdoba),Platense,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-30,23:00,Independiente Rivadavia,Huracán,2,1,H,,,,,,,,,,,,,,,,,espn
-20,2026-07-30,23:00,Talleres (Córdoba),Vélez Sarsfield,1,3,A,,,,,,,,,,,,,,,,,espn
-20,2026-07-31,01:15,Central Córdoba (Santiago del Estero),Atlético Tucumán,0,2,A,,,,,,,,,,,,,,,,,espn
-20,2026-07-31,01:15,Independiente,Newell's Old Boys,1,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-01,00:30,Racing Club,Tigre,1,3,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-01,19:30,Estudiantes de Río Cuarto,Banfield,0,0,D,,,,,,,,,,,,,,,,,espn
-20,2026-08-01,19:30,Gimnasia (Mendoza),Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-01,22:00,Belgrano (Córdoba),Argentinos Juniors,0,1,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-01,22:00,Estudiantes de La Plata,Defensa y Justicia,3,0,H,,,,,,,,,,,,,,,,,espn
-20,2026-08-02,18:30,Aldosivi,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-02,18:30,Deportivo Riestra,Barracas Central,0,1,A,,,,,,,,,,,,,,,,,espn
-20,2026-08-02,21:00,Newell's Old Boys,Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,espn
-20,2026-08-02,23:15,River Plate,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-03,01:30,Lanús,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-03,20:45,Sarmiento (Junín),Independiente Rivadavia,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-03,23:00,Platense,Talleres (Córdoba),0,4,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-03,23:00,Vélez Sarsfield,Independiente,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-04,01:15,Central Córdoba (Santiago del Estero),San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-04,01:15,Huracán,Atlético Tucumán,0,0,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-05,23:00,Boca Juniors,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-06,01:15,Tigre,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-06,23:00,Unión (Santa Fe),Lanús,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-07,23:30,Rosario Central,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-08,01:45,Independiente Rivadavia,Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-08,18:45,Atlético Tucumán,Sarmiento (Junín),1,2,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-08,18:45,Deportivo Riestra,Estudiantes de La Plata,2,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-08,21:00,Tigre,River Plate,1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-08,23:15,Boca Juniors,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,00:15,Argentinos Juniors,Racing Club,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,01:30,Independiente,Platense,0,1,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,01:30,Instituto (Córdoba),Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,19:00,San Lorenzo,Huracán,0,2,A,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,21:45,Defensa y Justicia,Newell's Old Boys,2,1,H,,,,,,,,,,,,,,,,,espn
-21,2026-08-09,21:45,Gimnasia La Plata,Barracas Central,2,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-10,23:00,Banfield,Belgrano (Córdoba),0,2,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-11,01:15,Unión (Santa Fe),Central Córdoba (Santiago del Estero),1,2,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-12,01:00,Talleres (Córdoba),Lanús,0,3,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-14,00:30,Racing Club,Banfield,0,1,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-15,18:30,Aldosivi,Tigre,0,0,D,,,,,,,,,,,,,,,,,espn
-22,2026-08-15,18:30,San Lorenzo,Unión (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-15,20:45,Estudiantes de La Plata,Gimnasia La Plata,4,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-15,23:00,Belgrano (Córdoba),Independiente Rivadavia,2,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-15,23:00,Newell's Old Boys,Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-16,00:15,Barracas Central,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-16,00:15,Central Córdoba (Santiago del Estero),Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-22,2026-08-16,01:15,Platense,Boca Juniors,2,0,H,,,,,,,,,,,,,,,,,espn
-22,2026-08-16,19:00,Sarmiento (Junín),Huracán,2,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-17,18:45,Estudiantes de Río Cuarto,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-17,21:00,Lanús,Independiente,1,3,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-17,23:15,Vélez Sarsfield,Defensa y Justicia,1,1,D,,,,,,,,,,,,,,,,,espn
-23,2026-08-18,01:30,Gimnasia (Mendoza),Talleres (Córdoba),3,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-21,00:00,Estudiantes de Río Cuarto,San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,espn
-23,2026-08-21,18:30,Aldosivi,Unión (Santa Fe),1,3,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-22,20:00,Atlético Tucumán,Instituto (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-23,2026-08-22,20:00,Gimnasia La Plata,Gimnasia (Mendoza),2,3,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-22,22:30,Independiente,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,01:00,Huracán,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,01:00,Newell's Old Boys,Banfield,2,1,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,18:45,Barracas Central,Platense,1,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,18:45,Sarmiento (Junín),Estudiantes de La Plata,2,0,H,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,21:00,Belgrano (Córdoba),Defensa y Justicia,1,2,A,,,,,,,,,,,,,,,,,espn
-23,2026-08-23,23:15,River Plate,Vélez Sarsfield,2,2,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-24,01:30,Racing Club,Boca Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-24,23:00,Tigre,Central Córdoba (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-08-25,01:15,Lanús,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-25,01:15,Talleres (Córdoba),Rosario Central,2,2,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-28,23:00,Unión (Santa Fe),Sarmiento (Junín),4,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-08-29,01:30,Boca Juniors,Lanús,1,0,H,,,,,,,,,,,,,,,,,espn
-24,2026-08-29,18:45,Deportivo Riestra,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-29,21:00,Rosario Central,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-24,2026-08-29,23:00,Huracán,Estudiantes de Río Cuarto,1,1,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-30,01:30,Atlético Tucumán,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-30,01:30,Talleres (Córdoba),Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,espn
-24,2026-08-30,19:00,Banfield,River Plate,2,3,A,,,,,,,,,,,,,,,,,espn
-24,2026-08-30,21:00,Argentinos Juniors,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,espn
-24,2026-08-30,23:15,Independiente,Gimnasia (Mendoza),0,3,A,,,,,,,,,,,,,,,,,espn
-25,2026-08-31,01:30,Independiente Rivadavia,Racing Club,3,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-08-31,23:00,Defensa y Justicia,Platense,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-08-31,23:00,Estudiantes de La Plata,Newell's Old Boys,0,0,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-01,01:15,Instituto (Córdoba),San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-01,01:15,Tigre,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-04,20:45,Estudiantes de Río Cuarto,Sarmiento (Junín),0,2,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-04,23:00,Belgrano (Córdoba),Huracán,1,1,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-04,23:00,Platense,Deportivo Riestra,1,1,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-05,17:30,Aldosivi,Banfield,3,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-05,18:30,Gimnasia La Plata,Tigre,2,1,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-05,20:30,Gimnasia (Mendoza),Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-05,23:00,San Lorenzo,Talleres (Córdoba),1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-06,01:15,Vélez Sarsfield,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-06,18:45,Rosario Central,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,espn
-25,2026-09-06,21:00,Central Córdoba (Santiago del Estero),Independiente,0,1,A,,,,,,,,,,,,,,,,,espn
-25,2026-09-06,21:00,Lanús,Defensa y Justicia,1,0,H,,,,,,,,,,,,,,,,,espn
-25,2026-09-06,23:15,River Plate,Independiente Rivadavia,3,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-07,01:30,Racing Club,Atlético Tucumán,1,2,A,,,,,,,,,,,,,,,,,espn
-26,2026-09-07,23:00,Barracas Central,Argentinos Juniors,0,0,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-08,01:15,Unión (Santa Fe),Instituto (Córdoba),3,2,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-11,21:00,Newell's Old Boys,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-11,23:15,Defensa y Justicia,Gimnasia (Mendoza),2,0,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-12,00:00,Talleres (Córdoba),Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-12,01:30,Boca Juniors,Central Córdoba (Santiago del Estero),3,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-12,18:45,Estudiantes de La Plata,Platense,2,1,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-12,18:45,Independiente Rivadavia,Aldosivi,4,3,H,,,,,,,,,,,,,,,,,espn
-26,2026-09-12,21:30,Atlético Tucumán,River Plate,1,2,A,,,,,,,,,,,,,,,,,espn
-26,2026-09-13,18:45,Sarmiento (Junín),Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-13,18:45,Tigre,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,espn
-26,2026-09-13,21:00,Argentinos Juniors,Gimnasia La Plata,1,1,D,,,,,,,,,,,,,,,,,espn
-26,2026-09-13,23:15,Independiente,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-14,01:30,Huracán,Racing Club,2,1,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-14,23:00,Banfield,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-14,23:00,Deportivo Riestra,Lanús,0,3,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-15,01:15,Instituto (Córdoba),Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-18,22:00,Central Córdoba (Santiago del Estero),Defensa y Justicia,2,2,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-19,01:15,Racing Club,Sarmiento (Junín),3,1,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-19,18:30,Gimnasia (Mendoza),Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-19,18:30,Gimnasia La Plata,Banfield,2,2,D,,,,,,,,,,,,,,,,,espn
-27,2026-09-19,20:45,Unión (Santa Fe),Independiente,1,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-19,23:00,River Plate,Huracán,1,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-20,01:15,Instituto (Córdoba),Talleres (Córdoba),3,1,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-20,18:45,San Lorenzo,Boca Juniors,0,2,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-20,21:00,Platense,Newell's Old Boys,0,1,A,,,,,,,,,,,,,,,,,espn
-27,2026-09-20,21:00,Rosario Central,Argentinos Juniors,1,0,H,,,,,,,,,,,,,,,,,espn
-27,2026-09-20,23:15,Belgrano (Córdoba),Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,espn
-28,2026-09-21,01:30,Vélez Sarsfield,Tigre,3,2,H,,,,,,,,,,,,,,,,,espn
-28,2026-09-21,18:30,Aldosivi,Atlético Tucumán,1,0,H,,,,,,,,,,,,,,,,,espn
-28,2026-09-21,23:00,Barracas Central,Independiente Rivadavia,0,1,A,,,,,,,,,,,,,,,,,espn
-28,2026-09-22,01:15,Lanús,Estudiantes de La Plata,2,1,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-02,23:15,Independiente,Instituto (Córdoba),1,4,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-03,01:30,Boca Juniors,Unión (Santa Fe),3,0,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-03,01:30,Independiente Rivadavia,Gimnasia La Plata,1,1,D,,,,,,,,,,,,,,,,,espn
-29,2026-10-03,18:45,Defensa y Justicia,San Lorenzo,3,0,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-03,21:00,Atlético Tucumán,Barracas Central,2,3,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-03,21:00,Newell's Old Boys,Lanús,0,0,D,,,,,,,,,,,,,,,,,espn
-29,2026-10-04,18:45,Huracán,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,espn
-29,2026-10-04,21:00,Talleres (Córdoba),Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-29,2026-10-04,23:15,Argentinos Juniors,Tigre,2,1,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-05,01:30,Estudiantes de Río Cuarto,Racing Club,1,2,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-05,20:45,Deportivo Riestra,Central Córdoba (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-05,23:00,Estudiantes de La Plata,Gimnasia (Mendoza),3,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-05,23:00,Vélez Sarsfield,Platense,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-06,01:15,Banfield,Rosario Central,1,1,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-09,18:30,Aldosivi,Sarmiento (Junín),1,3,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-09,22:00,Gimnasia La Plata,Atlético Tucumán,1,1,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-09,23:30,Instituto (Córdoba),Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-10,01:45,Unión (Santa Fe),Defensa y Justicia,0,2,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-10,19:45,Barracas Central,Huracán,2,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-10,21:00,Central Córdoba (Santiago del Estero),Estudiantes de La Plata,2,2,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-10,23:15,Tigre,Banfield,1,2,A,,,,,,,,,,,,,,,,,espn
-30,2026-10-11,01:30,River Plate,Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-11,18:45,San Lorenzo,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-11,21:00,Platense,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,espn
-30,2026-10-11,21:00,Rosario Central,Independiente Rivadavia,5,0,H,,,,,,,,,,,,,,,,,espn
-30,2026-10-11,23:15,Racing Club,Belgrano (Córdoba),0,2,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-12,01:30,Talleres (Córdoba),Independiente,0,0,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-12,20:00,Lanús,Vélez Sarsfield,2,0,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-12,22:30,Gimnasia (Mendoza),Newell's Old Boys,1,0,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-14,23:00,Sarmiento (Junín),River Plate,1,1,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-15,00:00,Huracán,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-16,23:00,Defensa y Justicia,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,00:00,Atlético Tucumán,Rosario Central,2,3,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,00:00,Vélez Sarsfield,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,01:30,Boca Juniors,Talleres (Córdoba),2,1,H,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,19:00,Banfield,Argentinos Juniors,0,1,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,21:30,Independiente Rivadavia,Tigre,2,2,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-17,21:30,Platense,Lanús,0,1,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-18,00:15,Belgrano (Córdoba),River Plate,0,3,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-18,18:45,Racing Club,Independiente,1,1,D,,,,,,,,,,,,,,,,,espn
-31,2026-10-18,22:00,Estudiantes de La Plata,San Lorenzo,1,2,A,,,,,,,,,,,,,,,,,espn
-31,2026-10-18,22:00,Estudiantes de Río Cuarto,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,espn
-32,2026-10-19,23:00,Newell's Old Boys,Central Córdoba (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,espn
-32,2026-10-19,23:00,Sarmiento (Junín),Barracas Central,1,1,D,,,,,,,,,,,,,,,,,espn
-32,2026-10-20,01:15,Deportivo Riestra,Unión (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,espn
-32,2026-10-23,22:00,Gimnasia La Plata,Sarmiento (Junín),2,0,H,,,,,,,,,,,,,,,,,espn
-32,2026-10-23,22:30,Gimnasia (Mendoza),Platense,1,2,A,,,,,,,,,,,,,,,,,espn
-32,2026-10-24,01:15,Tigre,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,espn
+gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
+1,2026-01-22,00:00,Banfield,Huracán,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-22,00:00,Unión (Santa Fe),Platense,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-22,21:00,Aldosivi,Defensa y Justicia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-23,00:00,Independiente,Estudiantes de La Plata,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-23,02:15,Central Córdoba (Santiago del Estero),Gimnasia (Mendoza),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-23,02:15,Instituto (Córdoba),Vélez Sarsfield,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-23,23:00,San Lorenzo,Lanús,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-24,02:15,Independiente Rivadavia,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-24,02:15,Talleres (Córdoba),Newell's Old Boys,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-24,21:00,Barracas Central,River Plate,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-24,23:30,Gimnasia La Plata,Racing Club,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-25,02:00,Rosario Central,Belgrano (Córdoba),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+1,2026-01-25,22:30,Boca Juniors,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-26,01:00,Argentinos Juniors,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-26,01:00,Tigre,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-26,21:00,Platense,Instituto (Córdoba),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-27,00:00,Gimnasia (Mendoza),San Lorenzo,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-27,00:00,Huracán,Independiente Rivadavia,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-27,21:45,Vélez Sarsfield,Talleres (Córdoba),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-28,00:00,River Plate,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-28,02:15,Atlético Tucumán,Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-28,02:15,Newell's Old Boys,Independiente,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-28,21:00,Aldosivi,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-28,23:00,Racing Club,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-29,02:15,Estudiantes de La Plata,Boca Juniors,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-29,21:00,Deportivo Riestra,Defensa y Justicia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-29,23:15,Belgrano (Córdoba),Tigre,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-29,23:15,Lanús,Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-30,01:30,Sarmiento (Junín),Banfield,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-31,21:30,San Lorenzo,Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-01-31,23:45,Independiente,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-01,02:00,Atlético Tucumán,Huracán,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-01,02:00,Talleres (Córdoba),Platense,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-01,21:00,Barracas Central,Deportivo Riestra,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+2,2026-02-01,23:15,Boca Juniors,Newell's Old Boys,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-02,01:30,Rosario Central,River Plate,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-02,21:30,Gimnasia La Plata,Aldosivi,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-02,23:45,Defensa y Justicia,Estudiantes de La Plata,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-02,23:45,Tigre,Racing Club,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-03,02:00,Argentinos Juniors,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-03,02:00,Unión (Santa Fe),Gimnasia (Mendoza),4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-03,23:00,Banfield,Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-04,01:15,Independiente Rivadavia,Sarmiento (Junín),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-04,01:15,Instituto (Córdoba),Lanús,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-07,00:00,River Plate,Tigre,1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-07,01:00,Central Córdoba (Santiago del Estero),Unión (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-07,21:00,Aldosivi,Rosario Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-07,22:00,Racing Club,Argentinos Juniors,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-08,02:15,Belgrano (Córdoba),Banfield,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-08,02:15,Newell's Old Boys,Defensa y Justicia,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-08,21:00,Platense,Independiente,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-08,21:00,Sarmiento (Junín),Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+3,2026-02-08,23:15,Huracán,San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-09,02:15,Gimnasia (Mendoza),Instituto (Córdoba),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-09,02:15,Vélez Sarsfield,Boca Juniors,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-09,21:00,Barracas Central,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-09,23:15,Estudiantes de La Plata,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-09,23:15,Lanús,Talleres (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-10,01:30,Estudiantes de Río Cuarto,Independiente Rivadavia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-12,23:00,Tigre,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-13,00:00,Independiente,Lanús,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-13,01:15,Argentinos Juniors,River Plate,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-14,02:15,Defensa y Justicia,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-14,02:15,Unión (Santa Fe),San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-14,21:30,Banfield,Racing Club,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-14,23:45,Huracán,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-14,23:45,Talleres (Córdoba),Gimnasia (Mendoza),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-15,02:00,Atlético Tucumán,Estudiantes de Río Cuarto,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-15,02:00,Independiente Rivadavia,Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+4,2026-02-15,21:00,Gimnasia La Plata,Estudiantes de La Plata,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-16,02:00,Instituto (Córdoba),Central Córdoba (Santiago del Estero),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-16,02:00,Rosario Central,Barracas Central,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-16,23:00,Deportivo Riestra,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-20,00:00,Boca Juniors,Racing Club,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-20,00:00,Instituto (Córdoba),Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-20,21:15,Defensa y Justicia,Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-20,21:45,Estudiantes de La Plata,Sarmiento (Junín),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,02:15,Gimnasia (Mendoza),Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,02:15,Rosario Central,Talleres (Córdoba),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,21:00,Independiente Rivadavia,Independiente,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,21:00,Platense,Barracas Central,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,23:15,Banfield,Newell's Old Boys,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-21,23:15,Deportivo Riestra,Huracán,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-22,01:30,Central Córdoba (Santiago del Estero),Tigre,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-22,21:00,San Lorenzo,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+5,2026-02-22,23:15,Vélez Sarsfield,River Plate,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-23,01:30,Unión (Santa Fe),Aldosivi,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-24,21:00,Platense,Defensa y Justicia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-24,23:15,San Lorenzo,Instituto (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-25,01:30,Belgrano (Córdoba),Atlético Tucumán,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-25,02:00,Gimnasia (Mendoza),Independiente,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-25,21:00,Gimnasia La Plata,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-25,23:30,Newell's Old Boys,Estudiantes de La Plata,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-25,23:30,Vélez Sarsfield,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-26,21:15,Racing Club,Independiente Rivadavia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-26,21:15,Sarmiento (Junín),Unión (Santa Fe),1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-26,23:30,Estudiantes de Río Cuarto,Huracán,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-26,23:30,River Plate,Banfield,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-28,00:00,Independiente,Central Córdoba (Santiago del Estero),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-02-28,21:45,Boca Juniors,Gimnasia (Mendoza),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-01,02:15,Talleres (Córdoba),San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-01,21:00,Newell's Old Boys,Rosario Central,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-01,23:15,Argentinos Juniors,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+6,2026-03-01,23:15,Instituto (Córdoba),Unión (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-02,01:30,Defensa y Justicia,Lanús,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-02,01:30,Tigre,Gimnasia La Plata,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-02,23:15,Deportivo Riestra,Platense,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-02,23:15,Estudiantes de La Plata,Vélez Sarsfield,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-03,01:30,Banfield,Aldosivi,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-03,01:30,Independiente Rivadavia,River Plate,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-03,23:00,Sarmiento (Junín),Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-03,23:15,Huracán,Belgrano (Córdoba),3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-04,01:15,Atlético Tucumán,Racing Club,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+7,2026-03-05,01:00,Lanús,Boca Juniors,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-10,23:45,Independiente,Unión (Santa Fe),4,4,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-10,23:45,Tigre,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-11,02:00,Newell's Old Boys,Platense,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-11,02:00,Sarmiento (Junín),Racing Club,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-11,21:30,Argentinos Juniors,Rosario Central,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-11,21:30,Banfield,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-11,23:45,Boca Juniors,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,02:00,Atlético Tucumán,Aldosivi,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,02:00,Independiente Rivadavia,Barracas Central,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,21:00,Defensa y Justicia,Central Córdoba (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,21:00,Deportivo Riestra,Gimnasia (Mendoza),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,23:15,Estudiantes de Río Cuarto,Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-12,23:15,Talleres (Córdoba),Instituto (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-13,00:00,Estudiantes de La Plata,Lanús,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-13,01:30,Huracán,River Plate,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-14,23:00,Platense,Vélez Sarsfield,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-15,01:00,Rosario Central,Banfield,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-15,19:15,Gimnasia La Plata,Independiente Rivadavia,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+8,2026-03-15,23:45,River Plate,Sarmiento (Junín),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,00:00,Racing Club,Estudiantes de Río Cuarto,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,02:00,Tigre,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,02:00,Unión (Santa Fe),Boca Juniors,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,19:30,Aldosivi,Huracán,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,19:30,Barracas Central,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-16,22:30,San Lorenzo,Defensa y Justicia,2,5,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-17,02:15,Instituto (Córdoba),Independiente,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-17,23:00,Lanús,Newell's Old Boys,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-18,01:15,Central Córdoba (Santiago del Estero),Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-18,01:15,Gimnasia (Mendoza),Estudiantes de La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,00:00,Independiente,Talleres (Córdoba),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,01:00,Atlético Tucumán,Gimnasia La Plata,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,01:00,Banfield,Tigre,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,19:30,Vélez Sarsfield,Lanús,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,21:45,Defensa y Justicia,Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-21,21:45,Newell's Old Boys,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-22,00:00,Boca Juniors,Instituto (Córdoba),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-22,02:15,Belgrano (Córdoba),Racing Club,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-22,19:30,Sarmiento (Junín),Aldosivi,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+9,2026-03-22,21:45,Estudiantes de Río Cuarto,River Plate,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-23,02:15,Argentinos Juniors,Platense,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-23,02:15,Independiente Rivadavia,Rosario Central,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-23,23:00,Estudiantes de La Plata,Central Córdoba (Santiago del Estero),5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-24,01:15,Huracán,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-25,23:00,Deportivo Riestra,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-03-27,01:00,Argentinos Juniors,Lanús,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-03-31,18:00,Aldosivi,Argentinos Juniors,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-01,00:00,Lanús,Platense,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-02,00:30,Talleres (Córdoba),Boca Juniors,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-02,19:00,Barracas Central,Sarmiento (Junín),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-02,21:30,Tigre,Independiente Rivadavia,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-03,19:00,Gimnasia (Mendoza),Vélez Sarsfield,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-03,21:15,Unión (Santa Fe),Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-03,23:30,San Lorenzo,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-04,17:30,Aldosivi,Estudiantes de Río Cuarto,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-04,21:30,Independiente,Racing Club,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-05,00:30,Central Córdoba (Santiago del Estero),Newell's Old Boys,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-05,01:00,Rosario Central,Atlético Tucumán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-05,19:30,Gimnasia La Plata,Huracán,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-04-05,22:00,River Plate,Belgrano (Córdoba),3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-06,23:00,Argentinos Juniors,Banfield,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-07,01:15,Instituto (Córdoba),Defensa y Justicia,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-11,01:00,Belgrano (Córdoba),Aldosivi,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-11,19:00,Deportivo Riestra,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-11,19:30,Independiente Rivadavia,Argentinos Juniors,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-11,21:15,Estudiantes de La Plata,Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-11,23:30,Boca Juniors,Independiente,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,00:00,Racing Club,River Plate,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,01:45,Estudiantes de Río Cuarto,Barracas Central,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,19:00,Newell's Old Boys,San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,19:00,Platense,Gimnasia (Mendoza),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,21:30,Atlético Tucumán,Tigre,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+12,2026-04-12,21:30,Huracán,Rosario Central,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-13,20:30,Defensa y Justicia,Talleres (Córdoba),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-13,20:30,Sarmiento (Junín),Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-13,23:00,Lanús,Banfield,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-14,01:30,Vélez Sarsfield,Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-17,00:30,Unión (Santa Fe),Newell's Old Boys,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-18,19:00,Gimnasia La Plata,Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-18,21:15,Instituto (Córdoba),Estudiantes de La Plata,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-18,23:30,Independiente,Defensa y Justicia,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-19,00:30,Rosario Central,Sarmiento (Junín),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-19,00:30,Talleres (Córdoba),Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-19,01:45,Argentinos Juniors,Atlético Tucumán,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-19,17:30,Aldosivi,Racing Club,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+13,2026-04-19,21:00,River Plate,Boca Juniors,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-20,19:00,Barracas Central,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-20,21:15,Banfield,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-20,21:15,Central Córdoba (Santiago del Estero),Platense,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-20,23:30,San Lorenzo,Vélez Sarsfield,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-21,01:45,Gimnasia (Mendoza),Lanús,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-21,01:45,Tigre,Huracán,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-23,00:00,Defensa y Justicia,Boca Juniors,0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-24,21:00,Deportivo Riestra,Independiente,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-24,23:15,Estudiantes de Río Cuarto,Rosario Central,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-24,23:15,Lanús,Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-25,01:30,Platense,San Lorenzo,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-25,01:30,Racing Club,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-25,21:00,Estudiantes de La Plata,Talleres (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-25,23:15,Sarmiento (Junín),Tigre,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-26,00:00,Atlético Tucumán,Banfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-26,01:30,River Plate,Aldosivi,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-26,19:00,Independiente Rivadavia,Gimnasia (Mendoza),5,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-26,21:30,Belgrano (Córdoba),Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-04-26,21:30,Newell's Old Boys,Instituto (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-04-27,22:45,Vélez Sarsfield,Unión (Santa Fe),2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-04-28,01:00,Huracán,Argentinos Juniors,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-02,18:00,Barracas Central,Banfield,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-02,18:30,Lanús,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-02,20:15,Central Córdoba (Santiago del Estero),Boca Juniors,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-02,22:45,San Lorenzo,Independiente,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-02,22:45,Unión (Santa Fe),Talleres (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,01:15,Platense,Estudiantes de La Plata,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,17:30,Aldosivi,Independiente Rivadavia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,20:00,Belgrano (Córdoba),Sarmiento (Junín),4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,20:00,Gimnasia La Plata,Argentinos Juniors,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,20:00,Racing Club,Huracán,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,20:00,Rosario Central,Tigre,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-05-03,22:30,River Plate,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-04,21:00,Gimnasia (Mendoza),Defensa y Justicia,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-04,23:15,Vélez Sarsfield,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-05,01:30,Estudiantes de Río Cuarto,Instituto (Córdoba),0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-09,20:30,Talleres (Córdoba),Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-09,23:00,Boca Juniors,Huracán,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-10,01:30,Independiente Rivadavia,Unión (Santa Fe),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-10,02:15,Argentinos Juniors,Lanús,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-10,19:00,Rosario Central,Independiente,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-10,21:00,Estudiantes de La Plata,Racing Club,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-05-10,23:00,River Plate,San Lorenzo,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-11,01:30,Vélez Sarsfield,Gimnasia La Plata,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-12,23:00,Belgrano (Córdoba),Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-13,01:30,Argentinos Juniors,Huracán,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-13,22:45,Rosario Central,Racing Club,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-14,01:45,River Plate,Gimnasia La Plata,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-16,23:30,River Plate,Rosario Central,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+17,2026-05-17,21:00,Argentinos Juniors,Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+18,2026-05-24,19:30,River Plate,Belgrano (Córdoba),2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,23:30,Belgrano (Córdoba),Rosario Central,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-23,23:30,Sarmiento (Junín),Argentinos Juniors,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-24,01:45,Defensa y Justicia,Aldosivi,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-24,20:45,Gimnasia (Mendoza),Central Córdoba (Santiago del Estero),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-24,23:00,Racing Club,Gimnasia La Plata,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-24,23:00,Vélez Sarsfield,Instituto (Córdoba),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,01:15,Huracán,Banfield,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,01:15,Platense,Unión (Santa Fe),2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,18:45,Estudiantes de Río Cuarto,Tigre,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,21:00,Newell's Old Boys,Talleres (Córdoba),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-25,23:15,River Plate,Barracas Central,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,01:30,Lanús,San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,19:00,Atlético Tucumán,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,21:15,Estudiantes de La Plata,Independiente,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+19,2026-07-26,23:30,Deportivo Riestra,Boca Juniors,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-28,23:00,Banfield,Sarmiento (Junín),3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-28,23:00,San Lorenzo,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,01:15,Argentinos Juniors,Estudiantes de Río Cuarto,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,01:15,Rosario Central,Racing Club,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,18:30,Barracas Central,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,21:00,Defensa y Justicia,Deportivo Riestra,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-29,23:15,Gimnasia La Plata,River Plate,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,01:30,Instituto (Córdoba),Platense,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,23:00,Independiente Rivadavia,Huracán,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-30,23:00,Talleres (Córdoba),Vélez Sarsfield,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-31,01:15,Central Córdoba (Santiago del Estero),Atlético Tucumán,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-07-31,01:15,Independiente,Newell's Old Boys,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-01,00:30,Racing Club,Tigre,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-01,19:30,Estudiantes de Río Cuarto,Banfield,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-01,19:30,Gimnasia (Mendoza),Unión (Santa Fe),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-01,22:00,Belgrano (Córdoba),Argentinos Juniors,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-01,22:00,Estudiantes de La Plata,Defensa y Justicia,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-02,18:30,Aldosivi,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-02,18:30,Deportivo Riestra,Barracas Central,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-02,21:00,Newell's Old Boys,Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+20,2026-08-02,23:15,River Plate,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-03,01:30,Lanús,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-03,20:45,Sarmiento (Junín),Independiente Rivadavia,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-03,23:00,Platense,Talleres (Córdoba),0,4,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-03,23:00,Vélez Sarsfield,Independiente,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-04,01:15,Central Córdoba (Santiago del Estero),San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-04,01:15,Huracán,Atlético Tucumán,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-05,23:00,Boca Juniors,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-06,01:15,Tigre,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-06,23:00,Unión (Santa Fe),Lanús,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-07,23:30,Rosario Central,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,01:45,Independiente Rivadavia,Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,18:45,Atlético Tucumán,Sarmiento (Junín),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,18:45,Deportivo Riestra,Estudiantes de La Plata,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,21:00,Tigre,River Plate,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-08,23:15,Boca Juniors,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,00:15,Argentinos Juniors,Racing Club,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,01:30,Independiente,Platense,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,01:30,Instituto (Córdoba),Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,19:00,San Lorenzo,Huracán,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,21:45,Defensa y Justicia,Newell's Old Boys,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+21,2026-08-09,21:45,Gimnasia La Plata,Barracas Central,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-10,23:00,Banfield,Belgrano (Córdoba),0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-11,01:15,Unión (Santa Fe),Central Córdoba (Santiago del Estero),1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-12,01:00,Talleres (Córdoba),Lanús,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-14,00:30,Racing Club,Banfield,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,18:30,Aldosivi,Tigre,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,18:30,San Lorenzo,Unión (Santa Fe),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,20:45,Estudiantes de La Plata,Gimnasia La Plata,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,23:00,Belgrano (Córdoba),Independiente Rivadavia,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-15,23:00,Newell's Old Boys,Deportivo Riestra,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,00:15,Barracas Central,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,00:15,Central Córdoba (Santiago del Estero),Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,01:15,Platense,Boca Juniors,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+22,2026-08-16,19:00,Sarmiento (Junín),Huracán,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-17,18:45,Estudiantes de Río Cuarto,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-17,21:00,Lanús,Independiente,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-17,23:15,Vélez Sarsfield,Defensa y Justicia,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-18,01:30,Gimnasia (Mendoza),Talleres (Córdoba),3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-21,00:00,Estudiantes de Río Cuarto,San Lorenzo,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-21,18:30,Aldosivi,Unión (Santa Fe),1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,20:00,Atlético Tucumán,Instituto (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,20:00,Gimnasia La Plata,Gimnasia (Mendoza),2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-22,22:30,Independiente,Independiente Rivadavia,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,01:00,Huracán,Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,01:00,Newell's Old Boys,Banfield,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,18:45,Barracas Central,Platense,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,18:45,Sarmiento (Junín),Estudiantes de La Plata,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,21:00,Belgrano (Córdoba),Defensa y Justicia,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+23,2026-08-23,23:15,River Plate,Vélez Sarsfield,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-24,01:30,Racing Club,Boca Juniors,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-24,23:00,Tigre,Central Córdoba (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-25,01:15,Lanús,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-25,01:15,Talleres (Córdoba),Rosario Central,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-28,23:00,Unión (Santa Fe),Sarmiento (Junín),4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,01:30,Boca Juniors,Lanús,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,18:45,Deportivo Riestra,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,21:00,Rosario Central,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-29,23:00,Huracán,Estudiantes de Río Cuarto,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,01:30,Atlético Tucumán,Belgrano (Córdoba),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,01:30,Talleres (Córdoba),Central Córdoba (Santiago del Estero),0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,19:00,Banfield,River Plate,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,21:00,Argentinos Juniors,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+24,2026-08-30,23:15,Independiente,Gimnasia (Mendoza),0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-08-31,01:30,Independiente Rivadavia,Racing Club,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-08-31,23:00,Defensa y Justicia,Platense,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-08-31,23:00,Estudiantes de La Plata,Newell's Old Boys,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-01,01:15,Instituto (Córdoba),San Lorenzo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-01,01:15,Tigre,Barracas Central,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-04,20:45,Estudiantes de Río Cuarto,Sarmiento (Junín),0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-04,23:00,Belgrano (Córdoba),Huracán,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-04,23:00,Platense,Deportivo Riestra,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,17:30,Aldosivi,Banfield,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,18:30,Gimnasia La Plata,Tigre,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,20:30,Gimnasia (Mendoza),Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-05,23:00,San Lorenzo,Talleres (Córdoba),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,01:15,Vélez Sarsfield,Estudiantes de La Plata,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,18:45,Rosario Central,Newell's Old Boys,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,21:00,Central Córdoba (Santiago del Estero),Independiente,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,21:00,Lanús,Defensa y Justicia,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+25,2026-09-06,23:15,River Plate,Independiente Rivadavia,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-07,01:30,Racing Club,Atlético Tucumán,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-07,23:00,Barracas Central,Argentinos Juniors,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-08,01:15,Unión (Santa Fe),Instituto (Córdoba),3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-11,21:00,Newell's Old Boys,Vélez Sarsfield,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-11,23:15,Defensa y Justicia,Gimnasia (Mendoza),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,00:00,Talleres (Córdoba),Unión (Santa Fe),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,01:30,Boca Juniors,Central Córdoba (Santiago del Estero),3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,18:45,Estudiantes de La Plata,Platense,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,18:45,Independiente Rivadavia,Aldosivi,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-12,21:30,Atlético Tucumán,River Plate,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,18:45,Sarmiento (Junín),Belgrano (Córdoba),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,18:45,Tigre,Rosario Central,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,21:00,Argentinos Juniors,Gimnasia La Plata,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+26,2026-09-13,23:15,Independiente,San Lorenzo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-14,01:30,Huracán,Racing Club,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-14,23:00,Banfield,Barracas Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-14,23:00,Deportivo Riestra,Lanús,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-15,01:15,Instituto (Córdoba),Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-18,22:00,Central Córdoba (Santiago del Estero),Defensa y Justicia,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,01:15,Racing Club,Sarmiento (Junín),3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,18:30,Gimnasia (Mendoza),Deportivo Riestra,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,18:30,Gimnasia La Plata,Banfield,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,20:45,Unión (Santa Fe),Independiente,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-19,23:00,River Plate,Huracán,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,01:15,Instituto (Córdoba),Talleres (Córdoba),3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,18:45,San Lorenzo,Boca Juniors,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,21:00,Platense,Newell's Old Boys,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,21:00,Rosario Central,Argentinos Juniors,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+27,2026-09-20,23:15,Belgrano (Córdoba),Estudiantes de Río Cuarto,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-21,01:30,Vélez Sarsfield,Tigre,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-21,18:30,Aldosivi,Atlético Tucumán,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-21,23:00,Barracas Central,Independiente Rivadavia,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+28,2026-09-22,01:15,Lanús,Estudiantes de La Plata,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-02,23:15,Independiente,Instituto (Córdoba),1,4,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-03,01:30,Boca Juniors,Unión (Santa Fe),3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-03,01:30,Independiente Rivadavia,Gimnasia La Plata,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-03,18:45,Defensa y Justicia,San Lorenzo,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-03,21:00,Atlético Tucumán,Barracas Central,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-03,21:00,Newell's Old Boys,Lanús,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-04,18:45,Huracán,Aldosivi,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-04,21:00,Talleres (Córdoba),Belgrano (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+29,2026-10-04,23:15,Argentinos Juniors,Tigre,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-05,01:30,Estudiantes de Río Cuarto,Racing Club,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-05,20:45,Deportivo Riestra,Central Córdoba (Santiago del Estero),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-05,23:00,Estudiantes de La Plata,Gimnasia (Mendoza),3,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-05,23:00,Vélez Sarsfield,Platense,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-06,01:15,Banfield,Rosario Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-09,18:30,Aldosivi,Sarmiento (Junín),1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-09,22:00,Gimnasia La Plata,Atlético Tucumán,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-09,23:30,Instituto (Córdoba),Boca Juniors,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-10,01:45,Unión (Santa Fe),Defensa y Justicia,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-10,19:45,Barracas Central,Huracán,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-10,21:00,Central Córdoba (Santiago del Estero),Estudiantes de La Plata,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-10,23:15,Tigre,Banfield,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-11,01:30,River Plate,Estudiantes de Río Cuarto,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-11,18:45,San Lorenzo,Deportivo Riestra,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-11,21:00,Platense,Argentinos Juniors,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-11,21:00,Rosario Central,Independiente Rivadavia,5,0,H,,,,,,,,,,,,,,,,,,,,,espn
+30,2026-10-11,23:15,Racing Club,Belgrano (Córdoba),0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-12,01:30,Talleres (Córdoba),Independiente,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-12,20:00,Lanús,Vélez Sarsfield,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-12,22:30,Gimnasia (Mendoza),Newell's Old Boys,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-14,23:00,Sarmiento (Junín),River Plate,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-15,00:00,Huracán,Gimnasia La Plata,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-16,23:00,Defensa y Justicia,Instituto (Córdoba),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,00:00,Atlético Tucumán,Rosario Central,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,00:00,Vélez Sarsfield,Gimnasia (Mendoza),1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,01:30,Boca Juniors,Talleres (Córdoba),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,19:00,Banfield,Argentinos Juniors,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,21:30,Independiente Rivadavia,Tigre,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-17,21:30,Platense,Lanús,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-18,00:15,Belgrano (Córdoba),River Plate,0,3,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-18,18:45,Racing Club,Independiente,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-18,22:00,Estudiantes de La Plata,San Lorenzo,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+31,2026-10-18,22:00,Estudiantes de Río Cuarto,Aldosivi,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-19,23:00,Newell's Old Boys,Central Córdoba (Santiago del Estero),2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-19,23:00,Sarmiento (Junín),Barracas Central,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-20,01:15,Deportivo Riestra,Unión (Santa Fe),1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-23,22:00,Gimnasia La Plata,Sarmiento (Junín),2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-23,22:30,Gimnasia (Mendoza),Platense,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+32,2026-10-24,01:15,Tigre,Atlético Tucumán,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
