@@ -76,9 +76,13 @@ const MatchPage = (() => {
       }
 
       const pred = Predict.predictMatch(model, HOME, AWAY);
-      const corners = (cornerLeague && cornerTeams.size)
-        ? Predict.predictCorners(cornerTeams, cornerLeague, HOME, AWAY)
-        : null;
+      let corners = null;
+      if (cornerLeague && cornerTeams.size) {
+        corners = Predict.predictCorners(cornerTeams, cornerLeague, HOME, AWAY);
+        if (!corners) {
+          corners = Predict.buildCornerModels ? null : Predict.legacyPredictCorners(cornerLeague, HOME, AWAY);
+        }
+      }
 
       if (!pred) {
         showError(`Could not build a prediction for this fixture.`);

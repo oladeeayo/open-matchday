@@ -622,6 +622,165 @@ input[type="date"]:focus { border-color: var(--navy); outline: none; }
 .state-body {
   margin: 0 0 12px;
   color: var(--muted);
+}
+
+/* ---------- match page ---------- */
+
+.page-match .match-hero {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 22px 20px;
+  text-align: center;
+}
+
+.page-match .match-hero-teams {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.page-match .match-hero-teams .teams {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+}
+
+.page-match .match-hero-teams .team {
+  flex: 1;
+  min-width: 0;
+  max-width: 420px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
+
+.page-match .match-hero-teams .team-name {
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+  word-break: break-word;
+}
+
+.page-match .match-hero-teams .team-rank {
+  font-size: 12px;
+  color: var(--faint);
+}
+
+.page-match .match-hero-teams .team-meta {
+  font-size: 12.5px;
+  color: var(--muted);
+}
+
+.page-match .match-hero-teams .vs {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--faint);
+  letter-spacing: 0.08em;
+  padding: 4px 0;
+}
+
+.page-match .match-hero-meta {
+  margin-top: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 8px 18px;
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.page-match .match-hero-meta .meta-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.page-match .match-hero-meta .meta-item .k {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--faint);
+}
+
+.page-match #match-root {
+  width: 100%;
+}
+
+.page-match .match-root .match-section {
+  margin-top: 6px;
+}
+
+.page-match .match-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+}
+
+.page-match .match-table th,
+.page-match .match-table td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid var(--line);
+  vertical-align: middle;
+}
+
+.page-match .match-table thead th {
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--faint);
+  background: var(--surface-2);
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.page-match .match-table tbody tr:last-child td {
+  border-bottom: 0;
+}
+
+.page-match .match-table tbody tr:hover {
+  background: var(--row-hover);
+}
+
+.page-match .match-table .num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.page-match .match-table .market-pill {
+  display: inline-block;
+  padding: 1px 7px;
+  border-radius: 9999px;
+  background: var(--navy-soft);
+  color: var(--navy);
+  font-weight: 600;
+  font-size: 12px;
+}
+
+.page-match .match-table .tip {
+  font-weight: 700;
+  color: var(--navy);
+}
+
+.page-match .match-table .team-name {
+  font-weight: 600;
+}
+
+.page-match .match-table .corner-row td {
+  text-align: center;
+}
+
+.page-match .match-table .corner-row .num {
+  text-align: center;
+}
   font-size: 13.5px;
   max-width: 42ch;
   margin-left: auto;

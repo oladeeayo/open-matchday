@@ -407,6 +407,21 @@ const Predict = (() => {
       markets,
       fair: Object.fromEntries(markets.map((m) => [m.key, 1 / Math.max(m.p / 100, 0.01)])),
       tip: markets[0],
+      // corners crumbs for match page
+      cornersT: Math.round(cT * 10) / 10,
+      cornersH: Math.round(cH * 10) / 10,
+      cornersA: Math.round(cA * 10) / 10,
+      o75corners: Math.round((0.7 * o75 + 0.3 * o75e) * 1000) / 10,
+      o85corners: Math.round((0.7 * o85 + 0.3 * o85e) * 1000) / 10,
+      hCornerRate: Math.round(hRate * 100) / 100,
+      aCornerRate: Math.round(aRate * 100) / 100,
+      hPace: Math.round(hPace * 100) / 100,
+      aPace: Math.round(aPace * 100) / 100,
+      hWidth: Math.round(hWidth * 100) / 100,
+      aWidth: Math.round(aWidth * 100) / 100,
+      hTrap: Math.round(hTrap * 100) / 100,
+      aTrap: Math.round(aTrap * 100) / 100,
+      context: contextLabel({ homeBottom, awayBottom, homeTop, awayTop, gap, nearEqual, weakAttH: weakAtt(home), weakAttA: weakAtt(away), strongH: strongAtt(home), strongA: strongAtt(away) }),
       confidence: Math.round(confidence * 100),
       homeRank: home.rank, awayRank: away.rank,
       homeMp: home.mp, awayMp: away.mp,
@@ -425,33 +440,115 @@ const Predict = (() => {
 
   const pct1 = (p) => Math.round(p * 1000) / 10;
 
-  /** Corner prediction for one fixture (multiplicative Poisson + empirical blend). */
+  /** Corner prediction for one fixture.
+   * Expected total = league mean corners * (homeRate + awayRate)/2 * pace * width * trap factors,
+   * floored at 4, then Poisson P(>=8) and P(>=9) blended with league empirical over-lines. */
   function predictCorners(teams, league, homeName, awayName) {
     const home = teams.get(homeName);
     const away = teams.get(awayName);
     if (!home || !away || !league) return null;
-    const cornersH = (home.attCornerH * away.defCornerA) / Math.max(league.avgAwayCorners, 0.3);
-    const cornersA = (away.attCornerA * home.defCornerH) / Math.max(league.avgHomeCorners, 0.3);
-    const cH = clamp(cornersH, 1.5, 14);
-    const cA = clamp(cornersA, 1.5, 14);
-    const cT = cH + cA;
-    const o75 = poissonAtLeast(8, cT);
-    const o85 = poissonAtLeast(9, cT);
-    const mpMin = Math.min(home.mp, away.mp);
+    const hRate = home.cornerRate != null ? home.cornerRate : league.mc;
+    const aRate = away.cornerRate != null ? away.cornerRate : league.mc;
+    const hPace = home.pace != null ? home.pace : 0;
+    const aPace = away.pace != null ? away.pace : 0;
+    const hWidth = home.width != null ? home.width : 0;
+    const aWidth = away.width != null ? away.width : 0;
+    const hTrap = home.trap != null ? home.trap : 0;
+    const aTrap = away.trap != null ? away.trap : 0;
+    var total = (league.mc * (hRate + aRate) / 2) * (1 + 0.04 * (hPace + aPace)) * (1 + 0.03 * (hWidth + aWidth)) * (1 - 0.04 * (hTrap + aTrap));
+    total = Math.max(total, 4);
+    const cT = total;
+    const mpMin = Math.min(5, home.mp, away.mp);
     const w = clamp((mpMin - 2) / 12, 0, 0.3);
     const o75e = league.o75Rate * (1 - w) + w * (home.o75Rate + away.o75Rate) / 2;
     const o85e = league.o85Rate * (1 - w) + w * (home.o85Rate + away.o85Rate) / 2;
     return {
-      cornersH: Math.round(cH * 10) / 10,
-      cornersA: Math.round(cA * 10) / 10,
+      cornersH: Math.round(cT / 2 * 10) / 10,
+      cornersA: Math.round(cT / 2 * 10) / 10,
       cornersT: Math.round(cT * 10) / 10,
-      o75: Math.round((0.75 * o75 + 0.25 * o75e) * 1000) / 10,
-      o85: Math.round((0.75 * o85 + 0.25 * o85e) * 1000) / 10,
+      hCornerRate: Math.round(hRate * 100) / 100,
+      aCornerRate: Math.round(aRate * 100) / 100,
+      hPace: Math.round(hPace * 100) / 100,
+      aPace: Math.round(aPace * 100) / 100,
+      hWidth: Math.round(hWidth * 100) / 100,
+      aWidth: Math.round(aWidth * 100) / 100,
+      hTrap: Math.round(hTrap * 100) / 100,
+      aTrap: Math.round(aTrap * 100) / 100,
+      o75: Math.round((0.75 * poissonAtLeast(8, cT) + 0.25 * o75e) * 1000) / 10,
+      o85: Math.round((0.75 * poissonAtLeast(9, cT) + 0.25 * o85e) * 1000) / 10,
     };
   }
 
   return { buildLeague, predictMatch, poissonAtLeast, poissonPmf, bestScore, clamp,
-           buildCornerLeague, buildCornerModels, predictCorners };
+           buildCornerLeague, buildCornerModels, predictCorners,
+           cornerModelParams: cornerModelParams };
 })();
 
 window.Predict = Predict;
+(function cornerModelParamsFactory() {
+  window.Predict.cornerModelParams = function cornerModelParams(seasonResults, leagueFixtures) {
+    const teams = new Map();
+    const Mf = seasonResults || [];
+    const Lf = leagueFixtures || [];
+    for (const r of Mf) {
+      const hc = r.home_corners != null ? r.home_corners : null;
+      const ac = r.away_corners != null ? r.away_corners : null;
+      if (hc == null || ac == null) continue;
+      const H = (t) => {
+        if (!teams.has(t)) teams.set(t, { mp: 0, hMp: 0, aMp: 0, cornersHome: 0, cornersAway: 0, o75: 0, o85: 0, pace: 0, width: 0, trap: 0, last: [] });
+        return teams.get(t);
+      };
+      const h = H(r.home), a = H(r.away);
+      h.mp++; a.mp++;
+      h.hMp++; a.aMp++;
+      h.cornersHome += hc; h.cornersAway += ac;
+      a.cornersHome += ac; a.cornersAway += hc;
+      const total = hc + ac;
+      if (total >= 8) { h.o75++; a.o75++; }
+      if (total >= 9) { h.o85++; a.o85++; }
+      h.last.push(total); a.last.push(total);
+    }
+    const leagueLaps = Lf.reduce((s, r) => s + (r.home_corners != null ? r.home_corners + (r.away_corners != null ? r.away_corners : 0) : 0), 0);
+    const leagueMc = leagueLaps / Math.max(Mf.reduce((s, r) => s + (r.home_corners != null && r.away_corners != null ? 1 : 0), 0), 1);
+    for (const [name, t] of teams) {
+      const mp = Math.max(t.mp, 1);
+      const homeRate = t.hMp ? t.cornersHome / t.hMp : (t.cornersHome + t.cornersAway) / mp;
+      const awayRate = t.aMp ? t.cornersAway / t.aMp : (t.cornersHome + t.cornersAway) / mp;
+      t.cornerRate = (t.hMp ? homeRate : 0) + (t.aMp ? awayRate : 0);
+      t.pace = t.last.length ? t.last.slice(-5).reduce((s, v) => s + v, 0) / Math.min(5, t.last.length) : 0;
+      t.width = t.last.length ? (function(){ var mn = Infinity, mx = -Infinity; for (const v of t.last) { if (v < mn) mn = v; if (v > mx) mx = v; } return (mx - mn) / Math.max(t.last.reduce((s,v)=>s+v,0)/t.last.length, 1); })() : 0;
+      t.trap = t.last.length ? t.last.filter(v => v < 7).length / Math.min(t.last.length, 5) : 0;
+    }
+    return teams;
+  };
+})();
+(function legacyCornerPredictWrapper() {
+  window.Predict.legacyPredictCorners = function(league, homeName, awayName) {
+    if (!league || !homeName || !awayName) return null;
+    const teams = (function() {
+      const m = new Map();
+      const Mf = league._results || [];
+      for (const r of Mf) {
+        const hc = r.home_corners != null ? r.home_corners : null;
+        const ac = r.away_corners != null ? r.away_corners : null;
+        if (hc == null || ac == null) continue;
+        const H = (t) => {
+          if (!m.has(t)) m.set(t, { mp: 0, hMp: 0, aMp: 0, cornersHome: 0, cornersAway: 0, o75: 0, o85: 0, pace: 0, width: 0, trap: 0, last: [] });
+          return m.get(t);
+        };
+        const h = H(r.home), a = H(r.away);
+        h.mp++; a.mp++;
+        h.hMp++; a.aMp++;
+        h.cornersHome += hc; h.cornersAway += ac;
+        a.cornersHome += ac; a.cornersAway += hc;
+        const total = hc + ac;
+        if (total >= 8) { h.o75++; a.o75++; }
+        if (total >= 9) { h.o85++; a.o85++; }
+        h.last.push(total); a.last.push(total);
+      }
+      return m;
+    })();
+    if (!teams.size) return null;
+    return Predict.predictCorners(teams, league, homeName, awayName);
+  };
+})();
