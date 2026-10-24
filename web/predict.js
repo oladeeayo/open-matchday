@@ -405,6 +405,7 @@ const Predict = (() => {
       btts: pct1(btts),
       h2: pct1(po.h2), a2: pct1(po.a2),
       markets,
+      fair: Object.fromEntries(markets.map((m) => [m.key, 1 / Math.max(m.p / 100, 0.01)])),
       tip: markets[0],
       confidence: Math.round(confidence * 100),
       homeRank: home.rank, awayRank: away.rank,
