@@ -582,6 +582,25 @@ const GL = (() => {
     escapeHtml, fmt, heatColor, formStripHtml, sortRows, applyFilters,
     buildHead, renderTable, toCsv, openTeamPanel, closeTeamPanel,
     countryFlag, countryTag,
+
+    /** Top-10 leagues by UEFA association coefficient (tier-1 domestic leagues only).
+     *  Used to scope corner predictions to the highest-profile leagues.
+     */
+    CORNER_LEAGUES: (() => {
+      const UEFA_COEFF = {
+        England: 103.796, Spain: 83.243, Germany: 81.545, Italy: 88.589,
+        France: 69.153, Portugal: 65.750, Belgium: 59.450, Netherlands: 52.562,
+        Turkey: 50.275, Poland: 45.125, Scotland: 38.750, Greece: 31.250,
+        Switzerland: 41.250, Austria: 36.500, Denmark: 33.500, Sweden: 33.000,
+        Norway: 31.750, Romania: 29.500, Russia: 35.000, Ireland: 27.000,
+        Brazil: 58.500, Argentina: 49.500,
+        Mexico: 41.500, USA: 38.250, Japan: 47.500, "South Korea": 43.000,
+        Australia: 35.500,
+      };
+      const tier1 = LEAGUES.filter((l) => /_[1]_/.test(l.folder));
+      tier1.sort((a, b) => (UEFA_COEFF[b.country] || 0) - (UEFA_COEFF[a.country] || 0));
+      return new Set(tier1.slice(0, 10).map((l) => l.folder));
+    })(),
   };
 })();
 

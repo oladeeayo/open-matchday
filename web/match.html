@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Match — over25stats</title>
+<meta name="description" content="Goal-market prediction for a single fixture: xG, O1.5/O2.5/O3.5, BTTS, team 2+ goals, 1X2, scorelines, corners and bookmaker odds.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="page-match">
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">over<span>25</span>stats</span>
+      <span class="brand-page">Match</span>
+    </a>
+    <nav class="site-nav" aria-label="Views">
+      <a href="index.html">Predictions</a>
+      <a href="leagues.html">By league</a>
+      <a href="all.html">All teams</a>
+      <a href="corners.html">Corners</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <aside class="ad-slot ad-leaderboard" data-ad="leaderboard" aria-label="Advertisement"></aside>
+
+  <div class="state" id="state-loading" hidden>
+    <p class="state-title">Loading match…</p>
+  </div>
+  <div class="state" id="state-error" hidden>
+    <p class="state-title">Could not load this match.</p>
+    <p class="state-body" id="error-detail"></p>
+    <a class="btn" href="index.html">Back to predictions</a>
+  </div>
+
+  <div id="match-root" hidden></div>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <p>Season 2026/27 match data. The model runs entirely in your browser. <b>over25stats</b> is free and informational. Never stake what you cannot afford to lose.</p>
+  </div>
+</footer>
+
+<div class="sr-live" id="live" role="status" aria-live="polite"></div>
+<script src="lib.js"></script>
+<script src="predict.js"></script>
+<script src="match.js"></script>
+</body>
+</html>

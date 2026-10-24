@@ -166,6 +166,107 @@ const Predict = (() => {
     return { league, teams, rankOrder: table.map((t) => t.team), size };
   }
 
+  /* ---------- corner models ---------- */
+
+  /**
+   * Build per-league corner summary from finished matches.
+   * Uses home_corners / away_corners columns from the results CSV.
+   */
+  function buildCornerLeague(matches) {
+    const n = matches.length;
+    if (!n) return null;
+    let sumHomeCorners = 0, sumAwayCorners = 0;
+    let over75 = 0, over85 = 0;
+    for (const m of matches) {
+      const hc = m.home_corners != null ? m.home_corners : (m.cornersH != null ? m.cornersH : null);
+      const ac = m.away_corners != null ? m.away_corners : (m.cornersA != null ? m.cornersA : null);
+      if (hc == null || ac == null) continue;
+      sumHomeCorners += hc;
+      sumAwayCorners += ac;
+      const total = hc + ac;
+      if (total >= 8) over75++;
+      if (total >= 9) over85++;
+    }
+    const actualN = matches.filter(m => m.home_corners != null && m.away_corners != null).length;
+    if (!actualN) return null;
+    return {
+      n: actualN,
+      avgHomeCorners: sumHomeCorners / actualN,
+      avgAwayCorners: sumAwayCorners / actualN,
+      avgTotalCorners: (sumHomeCorners + sumAwayCorners) / actualN,
+      o75Rate: over75 / actualN,
+      o85Rate: over85 / actualN,
+    };
+  }
+
+  /**
+   * Build per-team corner models from finished matches.
+   * Returns Map: team name -> { mp, hMp, aMp, attCornerH, attCornerA,
+   *   defCornerH, defCornerA, o75Rate, o85Rate, mp }
+   */
+  function buildCornerModels(matches) {
+    const raw = new Map();
+    function side(name) {
+      if (!raw.has(name)) {
+        raw.set(name, {
+          team: name,
+          hMp: 0, hCornersFor: 0, hCornersAgainst: 0,
+          aMp: 0, aCornersFor: 0, aCornersAgainst: 0,
+          mp: 0, cornersFor: 0, cornersAgainst: 0,
+          o75: 0, o85: 0,
+        });
+      }
+      return raw.get(name);
+    }
+
+    for (const m of matches) {
+      const hc = m.home_corners != null ? m.home_corners : null;
+      const ac = m.away_corners != null ? m.away_corners : null;
+      if (hc == null || ac == null) continue;
+
+      const H = side(m.home);
+      const A = side(m.away);
+      H.hMp++; A.aMp++;
+      H.hCornersFor += hc; H.hCornersAgainst += ac;
+      A.aCornersFor += ac; A.aCornersAgainst += hc;
+      H.mp++; A.mp++;
+      H.cornersFor += hc; H.cornersAgainst += ac;
+      A.cornersFor += ac; A.cornersAgainst += hc;
+      const total = hc + ac;
+      if (total >= 8) { H.o75++; A.o75++; }
+      if (total >= 9) { H.o85++; A.o85++; }
+    }
+
+    // league means for shrinkage
+    let sumHFor = 0, sumHAgainst = 0, sumAMp = 0;
+    for (const t of raw.values()) {
+      sumHFor += t.hCornersFor; sumHAgainst += t.hCornersAgainst;
+      sumAMp += t.aMp;
+    }
+    const leagueHomeFor = sumHFor / Math.max(raw.size, 1);
+    const leagueHomeAgainst = sumHAgainst / Math.max(raw.size, 1);
+    const leagueAwayFor = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersFor, 0) / Math.max(raw.size, 1) : 0;
+    const leagueAwayAgainst = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersAgainst, 0) / Math.max(raw.size, 1) : 0;
+
+    const K = 4;
+    const teams = new Map();
+    for (const t of raw.values()) {
+      const attCornerH = t.hMp ? (t.hCornersFor + K * leagueHomeFor) / (t.hMp + K) : leagueHomeFor;
+      const attCornerA = t.aMp ? (t.aCornersFor + K * leagueAwayFor) / (t.aMp + K) : leagueAwayFor;
+      const defCornerH = t.hMp ? (t.hCornersAgainst + K * leagueHomeAgainst) / (t.hMp + K) : leagueHomeAgainst;
+      const defCornerA = t.aMp ? (t.aCornersAgainst + K * leagueAwayAgainst) / (t.aMp + K) : leagueAwayAgainst;
+
+      teams.set(t.team, {
+        team: t.team,
+        mp: t.mp, hMp: t.hMp, aMp: t.aMp,
+        attCornerH, attCornerA, defCornerH, defCornerA,
+        o75Rate: t.mp ? t.o75 / t.mp : 0,
+        o85Rate: t.mp ? t.o85 / t.mp : 0,
+      });
+    }
+    return teams;
+  }
+
   /* ---------- match prediction ---------- */
 
   /**
@@ -323,7 +424,11 @@ const Predict = (() => {
 
   const pct1 = (p) => Math.round(p * 1000) / 10;
 
-  return { buildLeague, predictMatch, poissonAtLeast, poissonPmf, bestScore, clamp };
+  return { buildLeague, predictMatch, poissonAtLeast, poissonPmf, bestScore, clamp,
+           buildCornerLeague, buildCornerModels, predictCorners };
 })();
+
+// expose predictCorners for the corner page
+Predict.predictCorners = predictCorners;
 
 window.Predict = Predict;
