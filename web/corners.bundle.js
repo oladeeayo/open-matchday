@@ -639,9 +639,13 @@ window.Predict = Predict;
       // Build set of played date|home|away keys from the already-loaded results
       const playedSet = state.playedByLeague ? state.playedByLeague.get(league.folder) || new Set() : new Set();
 
+      const today = new Date(); let y = today.getFullYear(), m = today.getMonth() + 1, d = today.getDate(); const mm = String(m).padStart(2, "0"), dd = String(d).padStart(2, "0"); const todayStr = `${y}-${mm}-${dd}`;
+
       const upcoming = (fixtures || []).filter((f) => {
         const key = `${f.date}|${f.home}|${f.away}`;
-        return !playedSet.has(key);
+        if (playedSet.has(key)) return false;
+        if (f.date < todayStr) return false;   // past fixture not yet in results — skip
+        return true;
       }).sort((a, b) => a.date.localeCompare(b.date) || (a.time || "").localeCompare(b.time || ""));
 
       if (!upcoming.length) continue;
