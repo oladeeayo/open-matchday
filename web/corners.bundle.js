@@ -484,13 +484,7 @@ const Predict = (() => {
 
 window.Predict = Predict;
 
-
-/* over25stats — corner prediction page for top-10 leagues.
-   Loads fixtures for each CORNER_LEAGUES league, predicts
-   over 7.5 / over 8.5 for the NEXT unplayed fixture only,
-   renders one card per league — like the predictions index. */
-
-const Corners = (() => {
+(function() {
   const els = {
     board: () => document.getElementById("board"),
     sections: () => document.getElementById("sections"),
