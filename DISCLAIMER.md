@@ -20,6 +20,16 @@ and is shared for **informational, non-commercial use**.
   data, in whole or in part, directly or as part of a paid product.
 - You may not present this data as your own commercial data feed.
 
+## Attribution
+
+If you use this repository publicly — a dashboard, article, paper, app or
+open-source project — please credit **open-matchday** and link to
+<https://github.com/oladeeayo/open-matchday>. Keep any provider credit that
+applies to the competitions you use (for example football-data.co.uk).
+
+Attribution is a condition of the non-commercial use granted here, and it is
+also the practical way users can verify where a number came from.
+
 ## Provider terms — the data belongs to its publishers
 
 Every row originates from one of these sources. Their own terms apply to

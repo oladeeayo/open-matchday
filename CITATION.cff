@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "open-matchday: free 2026/27 football results, fixtures and match statistics"
+abstract: >-
+  A daily-updated CSV dataset of 2026/27 football match results, upcoming
+  fixtures, half-time scores, goal minutes and match statistics (shots, fouls,
+  cards, corners) for 75 competitions across Europe and the world, compiled
+  from free, keyless public sources.
+authors:
+  - name: "open-matchday contributors"
+repository-code: "https://github.com/oladeeayo/open-matchday"
+url: "https://github.com/oladeeayo/open-matchday"
+keywords:
+  - football
+  - soccer
+  - sports data
+  - open data
+  - dataset
+  - CSV
+  - match results
+  - fixtures
+  - football statistics
+  - 2026/27 season
+license: other
+license-url: "https://github.com/oladeeayo/open-matchday/blob/master/DISCLAIMER.md"
+version: "2026.27"
+date-released: "2026-10-24"
