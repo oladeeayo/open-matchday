@@ -424,11 +424,33 @@ const Predict = (() => {
 
   const pct1 = (p) => Math.round(p * 1000) / 10;
 
+  /** Corner prediction for one fixture (multiplicative Poisson + empirical blend). */
+  function predictCorners(teams, league, homeName, awayName) {
+    const home = teams.get(homeName);
+    const away = teams.get(awayName);
+    if (!home || !away || !league) return null;
+    const cornersH = (home.attCornerH * away.defCornerA) / Math.max(league.avgAwayCorners, 0.3);
+    const cornersA = (away.attCornerA * home.defCornerH) / Math.max(league.avgHomeCorners, 0.3);
+    const cH = clamp(cornersH, 1.5, 14);
+    const cA = clamp(cornersA, 1.5, 14);
+    const cT = cH + cA;
+    const o75 = poissonAtLeast(8, cT);
+    const o85 = poissonAtLeast(9, cT);
+    const mpMin = Math.min(home.mp, away.mp);
+    const w = clamp((mpMin - 2) / 12, 0, 0.3);
+    const o75e = league.o75Rate * (1 - w) + w * (home.o75Rate + away.o75Rate) / 2;
+    const o85e = league.o85Rate * (1 - w) + w * (home.o85Rate + away.o85Rate) / 2;
+    return {
+      cornersH: Math.round(cH * 10) / 10,
+      cornersA: Math.round(cA * 10) / 10,
+      cornersT: Math.round(cT * 10) / 10,
+      o75: Math.round((0.75 * o75 + 0.25 * o75e) * 1000) / 10,
+      o85: Math.round((0.75 * o85 + 0.25 * o85e) * 1000) / 10,
+    };
+  }
+
   return { buildLeague, predictMatch, poissonAtLeast, poissonPmf, bestScore, clamp,
            buildCornerLeague, buildCornerModels, predictCorners };
 })();
-
-// expose predictCorners for the corner page
-Predict.predictCorners = predictCorners;
 
 window.Predict = Predict;

@@ -207,6 +207,8 @@ const GL = (() => {
           date: r.date || "",
           home: r.home, away: r.away,
           fh, fa, total: fh + fa,
+          home_corners: num(r.home_corners),
+          away_corners: num(r.away_corners),
         };
       })
       .filter(Boolean)

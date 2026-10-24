@@ -87,7 +87,7 @@ const Corners = (() => {
 
     try {
       await loadAllLeagues();
-      renderAll();
+      await renderAll();
     } catch (err) {
       els.loading().hidden = true;
       els.error().hidden = false;
@@ -99,6 +99,7 @@ const Corners = (() => {
     const cornerLeagues = state.leagues;
     const fxByLeague = new Map();
     const modelsByLeague = new Map();
+    const playedByLeague = new Map(); // folder -> Set of "date|home|away" keys
 
     for (const league of cornerLeagues) {
       try {
@@ -115,6 +116,13 @@ const Corners = (() => {
         if (cornerLeague && cornerTeams.size) {
           modelsByLeague.set(league.folder, { league: cornerLeague, teams: cornerTeams });
         }
+        // cache played keys so renderAll doesn't re-fetch
+        const keys = new Set();
+        for (const m of matches) {
+          keys.add(`${m.date}|${m.home}|${m.away}`);
+          keys.add(`${m.date}|${m.away}|${m.home}`);
+        }
+        playedByLeague.set(league.folder, keys);
       } catch {
         // league may have no data yet — skip gracefully
       }
@@ -122,11 +130,10 @@ const Corners = (() => {
 
     state.fixturesByLeague = fxByLeague;
     state.cornerModelsByLeague = modelsByLeague;
+    state.playedByLeague = playedByLeague;
   }
 
-  /* ---------- render ---------- */
-
-  function renderAll() {
+  /* ---------- render ---------- */  async function renderAll() {
     const sectionsEl = els.sections();
     if (!sectionsEl) return;
 
@@ -140,41 +147,24 @@ const Corners = (() => {
     for (const league of cornerLeagues) {
       if (selectedLeague !== "all" && league.folder !== selectedLeague) continue;
 
-      const fixtures = state.fixturesByLeague.get(league.flag ? league.folder : league.folder) ||
-                       state.fixturesByLeague.get(league.folder);
+      const fixtures = state.fixturesByLeague.get(league.folder);
       const modelData = state.cornerModelsByLeague.get(league.folder);
       if (!fixtures || !fixtures.length) continue;
-      if (!modelData) continue;  // no corner data for this league yet
+      if (!modelData) continue;
 
-      const unplayed = fixtures.filter((f) => {
-        // a fixture is "unplayed" if it doesn't have a result in the results CSV
-        // we check by looking for a match on the same date with both teams
-        const matches = GL.buildMatches(
-          (() => {
-            try { return GL.fetchResults(league.folder).then(r => r.rows); } catch { return []; }
-          })()
-        );
-        // simpler: if the fixture date is in the future relative to "now" or has no result
-        // We'll use the matches from the already-loaded results
-        return true; // we filter by checking against loaded matches below
-      });
-
-      // Build set of played dates/teams from results
-      let playedMatches = [];
-      try {
-        const results = await GL.fetchResults(league.folder);
-        playedMatches = GL.buildMatches(results.rows);
-      } catch { /* use empty */ }
-
-      const playedSet = new Set(playedMatches.map((m) => `${m.date}|${m.home}|${m.away}`));
+      // Build set of played date|home|away keys from the already-loaded results
+      const playedSet = state.playedByLeague ? state.playedByLeague.get(league.folder) || new Set() : new Set();
 
       const upcoming = (fixtures || []).filter((f) => {
         const key = `${f.date}|${f.home}|${f.away}`;
-        const revKey = `${f.date}|${f.away}|${f.home}`;
-        return !playedSet.has(key) && !playedSet.has(revKey);
+        return !playedSet.has(key);
       }).sort((a, b) => a.date.localeCompare(b.date) || (a.time || "").localeCompare(b.time || ""));
 
       if (!upcoming.length) continue;
+
+      const showO75 = selectedLine === "both" || selectedLine === "o75";
+      const showO85 = selectedLine === "both" || selectedLine === "o85";
+      if (!showO75 && !showO85) continue;
 
       const rows = [];
       for (const fx of upcoming) {
@@ -186,17 +176,10 @@ const Corners = (() => {
         );
         if (!pred) continue;
 
-        const showO75 = selectedLine === "both" || selectedLine === "o75";
-        const showO85 = selectedLine === "both" || selectedLine === "o85";
-        if (!showO75 && !showO85) continue;
-
-        // time label
         let timeLabel = "";
         if (fx.time) {
           const [h, m] = fx.time.split(":").map(Number);
           if (Number.isFinite(h) && Number.isFinite(m)) {
-            const d = new Date();
-            d.setHours(h, m, 0, 0);
             const ampm = h >= 12 ? "PM" : "AM";
             const hh = h % 12 || 12;
             timeLabel = `${hh}:${String(m).padStart(2, "0")} ${ampm}`;
@@ -234,7 +217,7 @@ const Corners = (() => {
                 ${showO85 ? `<th scope="col" class="corner-th-num num">Over 8.5</th>` : ""}
               </tr>
             </thead>
-            <tbody>${rows.join("")}</tbody>
+            <tbody>${rows.join("") }</tbody>
           </table>
         </section>`;
     }

@@ -16,11 +16,11 @@ const MatchPage = (() => {
   const live = () => document.getElementById("live");
   const say = (msg) => { if (live()) live().textContent = msg; };
 
-  const URL = new URL(location.href, location.origin);
+  const pageUrl = new URL(location.href, location.origin);
 
-  const LEAGUE = URL.searchParams.get("league") || "";
-  const HOME = URL.searchParams.get("home") || "";
-  const AWAY = URL.searchParams.get("away") || "";
+  const LEAGUE = pageUrl.searchParams.get("league") || "";
+  const HOME = pageUrl.searchParams.get("home") || "";
+  const AWAY = pageUrl.searchParams.get("away") || "";
 
   /* ---------- markets ---------- */
 
