@@ -2660,3 +2660,56 @@ table.stats-table {
   .corner-teams { flex-wrap: wrap; }
 }
 
+/* ---------- match detail page ---------- */
+
+.page-match .site-header-inner {
+  max-width: var(--page);
+  margin: 0 auto;
+}
+
+.page-match main {
+  min-width: 0;
+}
+
+.page-match #match-root {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 16px var(--rail);
+}
+
+.page-match .match-hero {
+  text-align: center;
+}
+
+.page-match .match-hero-header {
+  justify-content: center;
+}
+
+.page-match .mcard {
+  text-align: left;
+}
+
+.page-match .mcard-title {
+  text-align: center;
+}
+
+.page-match .mtable {
+  margin: 0 auto;
+}
+
+.page-match .mtable thead th {
+  text-align: center;
+}
+
+.page-match .mtable thead th.num {
+  text-align: center;
+}
+
+.page-match .mrow td {
+  text-align: center;
+}
+
+.page-match .mrow td.mname {
+  text-align: left;
+}
+
