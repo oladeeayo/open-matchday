@@ -1,6 +1,5 @@
 gw,date,time,home,away
 12,2026-10-24,,Brno,Bohemians
-12,2026-10-24,,Liberec,Ostrava
 12,2026-10-24,,Slavia Prague,Mlada Boleslav
 12,2026-10-24,,Teplice,Artis Brno
 12,2026-10-24,,Zlin,Sigma Olomouc
@@ -15,6 +14,7 @@ gw,date,time,home,away
 13,2026-11-01,,Bohemians,Sparta Prague
 13,2026-11-01,,Mlada Boleslav,Hradec Kralove
 13,2026-11-01,,Ostrava,Plzen
+11,2026-11-04,,Artis Brno,Bohemians
 14,2026-11-07,,Brno,Ostrava
 14,2026-11-07,,Hradec Kralove,Sigma Olomouc
 14,2026-11-07,,Liberec,Bohemians

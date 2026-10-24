@@ -4,7 +4,6 @@ gw,date,time,home,away
 9,2026-10-03,15:00,Barnsley,MK Dons
 9,2026-10-03,15:00,Bromley,Wycombe Wanderers
 9,2026-10-03,15:00,Peterborough United,Notts County
-9,2026-10-03,15:00,Wigan Athletic,Mansfield Town
 13,2026-10-24,12:30,Huddersfield Town,Wigan Athletic
 13,2026-10-24,12:30,Luton Town,Leicester City
 13,2026-10-24,15:00,AFC Wimbledon,Wycombe Wanderers
@@ -35,6 +34,7 @@ gw,date,time,home,away
 14,2026-10-31,16:00,Wycombe Wanderers,Burton Albion
 14,2026-11-01,15:00,Sheffield Wednesday,Blackpool
 8,2026-11-03,20:45,Huddersfield Town,Luton Town
+13,2026-11-03,20:45,Wigan Athletic,Mansfield Town
 3,2026-11-04,20:45,Oxford United,Reading
 15,2026-11-14,16:00,AFC Wimbledon,Blackpool
 15,2026-11-14,16:00,Bromley,Notts County

@@ -1,6 +1,4 @@
 gw,date,time,home,away
-13,2026-10-23,,Kleczew,Slask Wroclaw II
-13,2026-10-23,,Zawisza,Swit Szczecin
 13,2026-10-24,,Bielsko-Biala,R. Rzeszow
 13,2026-10-24,,Chojniczanka,Legia II
 13,2026-10-24,,Hutnik Krakow,Ol. Grudziadz
@@ -44,13 +42,13 @@ gw,date,time,home,away
 17,2026-11-21,,Swit Szczecin,S. Wola
 17,2026-11-22,,Hutnik Krakow,R. Rzeszow
 17,2026-11-22,,Zawisza,Podhale Nowy Targ
+18,2026-11-27,,S. Wola,Legia II
 18,2026-11-28,,Bielsko-Biala,Zielona Gora
 18,2026-11-28,,Hutnik Krakow,Sandecja Nowy S.
 18,2026-11-28,,Kleczew,Zawisza
 18,2026-11-28,,Leczna,Swit Szczecin
 18,2026-11-28,,Ol. Grudziadz,Avia Swidnik
 18,2026-11-28,,R. Rzeszow,Pruszkow
-18,2026-11-28,,S. Wola,Legia II
 18,2026-11-28,,Slask Wroclaw II,Podhale Nowy Targ
 18,2026-11-28,,Tychy,Chojniczanka
 19,2026-12-05,,Avia Swidnik,Leczna

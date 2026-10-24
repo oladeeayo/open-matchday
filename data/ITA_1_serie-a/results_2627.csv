@@ -69,3 +69,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-18,19:45,Juventus,Lazio,0,3,A,0,1,A,9,9,2,3,8,7,5,7,0,2,0,0,"66,89",fixturedl
 7,2026-10-19,17:30,Monza,Cagliari,4,0,H,1,0,H,14,16,6,5,10,14,2,7,1,2,0,0,"39,47,66,79",fixturedl
 7,2026-10-19,19:45,Parma,Torino,0,3,A,0,2,A,25,9,8,3,7,16,6,2,3,2,0,0,"4,69",fixturedl
+8,2026-10-23,19:45,Torino,Monza,3,2,H,,,,,,,,,,,,,,,,"39,47,61,72,94",fixturedl
