@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>over25stats — all leagues, every team</title>
+<meta name="description" content="Over 1.5, over 2.5, over 3.5 and scoring percentages for every team across every league in the open-matchday 2026/27 data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body class="page-all">
+<header class="site-header">
+  <div class="site-header-inner">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">over<span>25</span>stats</span>
+      <span class="brand-page">All teams</span>
+    </a>
+    <nav class="site-nav" aria-label="Views">
+      <a href="index.html">Predictions</a>
+      <a href="leagues.html">By league</a>
+      <a href="all.html" class="is-here" aria-current="page">All teams</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <aside class="ad-slot ad-leaderboard" data-ad="leaderboard" aria-label="Advertisement">
+    <span class="ad-tag">ad</span>
+  </aside>
+
+  <section class="page-head">
+    <h1>All teams</h1>
+    <p>Every team across every league — sort, filter, and click a team for detail.</p>
+  </section>
+
+  <section class="controls controls-4" aria-label="Filters">
+    <div class="field">
+      <label for="league-filter">League</label>
+      <select id="league-filter">
+        <option value="all">All leagues</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <label for="country-filter">Country</label>
+      <select id="country-filter">
+        <option value="all">All countries</option>
+      </select>
+    </div>
+
+    <div class="field">
+      <span class="field-label" id="venue-label">Venue</span>
+      <div class="segmented" role="radiogroup" aria-labelledby="venue-label" data-group="venue">
+        <button type="button" role="radio" aria-checked="true" data-venue="all" class="is-on">All</button>
+        <button type="button" role="radio" aria-checked="false" data-venue="home">Home</button>
+        <button type="button" role="radio" aria-checked="false" data-venue="away">Away</button>
+      </div>
+    </div>
+
+    <div class="field">
+      <label for="search">Find team</label>
+      <div class="search-row">
+        <input id="search" type="search" placeholder="e.g. Arsenal" autocomplete="off" spellcheck="false">
+        <button type="button" id="copy-btn" class="btn" disabled>Copy CSV</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="readout" id="readout" aria-label="Aggregate summary" hidden>
+    <div class="readout-cell"><span class="readout-key">leagues</span><span class="readout-val" id="ro-leagues">—</span></div>
+    <div class="readout-cell"><span class="readout-key">teams</span><span class="readout-val" id="ro-teams">—</span></div>
+    <div class="readout-cell"><span class="readout-key">matches</span><span class="readout-val" id="ro-matches">—</span></div>
+    <div class="readout-cell"><span class="readout-key">goals / match</span><span class="readout-val" id="ro-gpm">—</span></div>
+    <div class="readout-cell heat"><span class="readout-key">over 1.5</span><span class="readout-val" id="ro-o15">—</span></div>
+    <div class="readout-cell heat"><span class="readout-key">over 2.5</span><span class="readout-val" id="ro-o25">—</span></div>
+    <div class="readout-cell heat"><span class="readout-key">over 3.5</span><span class="readout-val" id="ro-o35">—</span></div>
+    <div class="readout-cell"><span class="readout-key">btts</span><span class="readout-val" id="ro-btts">—</span></div>
+    <p class="readout-note" id="ro-note"></p>
+  </section>
+
+  <section>
+    <div class="state" id="state-loading">
+      <p class="state-title" id="loading-text">Fetching leagues…</p>
+      <div class="skeleton" aria-hidden="true">
+        <span></span><span></span><span></span><span></span><span></span><span></span>
+      </div>
+    </div>
+
+    <div class="state" id="state-error" hidden>
+      <p class="state-title">Could not load the data.</p>
+      <p class="state-body" id="error-detail"></p>
+      <button type="button" class="btn" id="retry-btn">Retry</button>
+    </div>
+
+    <div class="stats-table-wrap" id="table-scroll" hidden>
+      <table class="stats-table" id="stats-table">
+        <tbody id="tbody"></tbody>
+      </table>
+      <p class="table-foot" id="table-foot"></p>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="site-footer-inner">
+    <p>Data: <a href="https://github.com/oladeeayo/open-matchday" rel="noopener">open-matchday</a> results CSVs (2026/27). Percentages are computed client-side. Free and informational. <b>over25stats</b></p>
+  </div>
+</footer>
+
+<div class="sr-live" id="live" role="status" aria-live="polite"></div>
+<script src="lib.js"></script>
+<script src="all.js"></script>
+</body>
+</html>
