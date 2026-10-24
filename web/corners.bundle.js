@@ -1,12 +1,8 @@
-/* over25stats � corner prediction page for top-10 leagues.
+/* over25stats — corner prediction page for top-10 leagues.
    Next-fixture only, one card per league. Model: multiplicative
    Poisson + empirical blend with wider shrinkage (K=8).
    Built from predict.js + corners.js.
    Bundled: 2026-10-24. */
-
-/* over25stats — goal-market prediction engine.
-   Poisson xG from league-relative strengths + form + position context.
-   Pure functions; depends on GL (lib.js) only for types if loaded first. */
 
 const Predict = (() => {
   const FACT = [1, 1, 2, 6, 24, 120, 720, 5040, 40320, 362880, 3628800];
@@ -243,18 +239,28 @@ const Predict = (() => {
       if (total >= 9) { H.o85++; A.o85++; }
     }
 
-    // league means for shrinkage
-    let sumHFor = 0, sumHAgainst = 0, sumAMp = 0;
+    // League per-match averages (sum of team totals / number of matches)
+    // used both as the shrinkage target and as the divisor in the
+    // multiplicative formula. Per-match averages are required because
+    // predictCorners divides by league.avgHomeCorners/avgAwayCorners.
+    let sumHFor = 0, sumHAgainst = 0;
     for (const t of raw.values()) {
-      sumHFor += t.hCornersFor; sumHAgainst += t.hCornersAgainst;
-      sumAMp += t.aMp;
+      sumHFor += t.hCornersFor;
+      sumHAgainst += t.hCornersAgainst;
     }
-    const leagueHomeFor = sumHFor / Math.max(raw.size, 1);
-    const leagueHomeAgainst = sumHAgainst / Math.max(raw.size, 1);
-    const leagueAwayFor = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersFor, 0) / Math.max(raw.size, 1) : 0;
-    const leagueAwayAgainst = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersAgainst, 0) / Math.max(raw.size, 1) : 0;
+    const leagueHomeFor = raw.size ? sumHFor / matches.length : 0;
+    const leagueHomeAgainst = raw.size ? sumHAgainst / matches.length : 0;
+    const leagueAwayFor = raw.size
+      ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersFor, 0) / matches.length
+      : 0;
+    const leagueAwayAgainst = raw.size
+      ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersAgainst, 0) / matches.length
+      : 0;
 
-    const K = 4;
+    // Shrinkage prior: k=8 pseudo-observations toward the league per-match
+    // mean. Corners are noisy and early-season samples (3-7 games) produce
+    // unstable rates, so the prior is deliberately conservative.
+    const K = 8;
     const teams = new Map();
     for (const t of raw.values()) {
       const attCornerH = t.hMp ? (t.hCornersFor + K * leagueHomeFor) / (t.hMp + K) : leagueHomeFor;
@@ -435,23 +441,40 @@ const Predict = (() => {
     const home = teams.get(homeName);
     const away = teams.get(awayName);
     if (!home || !away || !league) return null;
+
+    // Multiplicative model: each side's corner attack × opponent's corner
+    // defence, scaled by the league average for the relevant venue. Uses per-match
+    // league averages (from buildCornerModels) so the product is anchored to what
+    // actually happens in the league.
     const cornersH = (home.attCornerH * away.defCornerA) / Math.max(league.avgAwayCorners, 0.3);
     const cornersA = (away.attCornerA * home.defCornerH) / Math.max(league.avgHomeCorners, 0.3);
     const cH = clamp(cornersH, 1.5, 14);
     const cA = clamp(cornersA, 1.5, 14);
     const cT = cH + cA;
+
     const o75 = poissonAtLeast(8, cT);
     const o85 = poissonAtLeast(9, cT);
+
+    // Empirically observed over-line rate for the league, blended with the
+    // Poisson tail. Weight the empirical blend more heavily when both teams
+    // have very few matches — the Poisson tail from a shrunken lambda is
+    // essentially the league average anyway, so anchoring to the observed
+    // league rate keeps the forecast honest.
     const mpMin = Math.min(home.mp, away.mp);
     const w = clamp((mpMin - 2) / 12, 0, 0.3);
     const o75e = league.o75Rate * (1 - w) + w * (home.o75Rate + away.o75Rate) / 2;
     const o85e = league.o85Rate * (1 - w) + w * (home.o85Rate + away.o85Rate) / 2;
+
+    const poissonW = clamp(0.6 + mpMin / 20, 0.6, 0.8);
+    const o75Blended = clamp(poissonW * o75 + (1 - poissonW) * o75e, 0.02, 0.97);
+    const o85Blended = clamp(poissonW * o85 + (1 - poissonW) * o85e, 0.02, 0.97);
+
     return {
       cornersH: Math.round(cH * 10) / 10,
       cornersA: Math.round(cA * 10) / 10,
       cornersT: Math.round(cT * 10) / 10,
-      o75: Math.round((0.75 * o75 + 0.25 * o75e) * 1000) / 10,
-      o85: Math.round((0.75 * o85 + 0.25 * o85e) * 1000) / 10,
+      o75: Math.round(o75Blended * 1000) / 10,
+      o85: Math.round(o85Blended * 1000) / 10,
     };
   }
 
@@ -464,7 +487,8 @@ window.Predict = Predict;
 
 /* over25stats — corner prediction page for top-10 leagues.
    Loads fixtures for each CORNER_LEAGUES league, predicts
-   over 7.5 / over 8.5 for unplayed matches, renders as league sections. */
+   over 7.5 / over 8.5 for the NEXT unplayed fixture only,
+   renders one card per league — like the predictions index. */
 
 const Corners = (() => {
   const els = {
@@ -597,7 +621,9 @@ const Corners = (() => {
     state.playedByLeague = playedByLeague;
   }
 
-  /* ---------- render ---------- */  async function renderAll() {
+  /* ---------- render ---------- */
+
+  async function renderAll() {
     const sectionsEl = els.sections();
     if (!sectionsEl) return;
 
@@ -626,44 +652,31 @@ const Corners = (() => {
 
       if (!upcoming.length) continue;
 
+      // Show only the NEXT fixture for this league, like the predictions index.
+      const fx = upcoming[0];
+
       const showO75 = selectedLine === "both" || selectedLine === "o75";
       const showO85 = selectedLine === "both" || selectedLine === "o85";
       if (!showO75 && !showO85) continue;
 
-      const rows = [];
-      for (const fx of upcoming) {
-        const pred = Predict.predictCorners(
-          modelData.teams,
-          modelData.league,
-          fx.home,
-          fx.away
-        );
-        if (!pred) continue;
+      const pred = Predict.predictCorners(
+        modelData.teams,
+        modelData.league,
+        fx.home,
+        fx.away
+      );
+      if (!pred) continue;
 
-        let timeLabel = "";
-        if (fx.time) {
-          const [h, m] = fx.time.split(":").map(Number);
-          if (Number.isFinite(h) && Number.isFinite(m)) {
-            const ampm = h >= 12 ? "PM" : "AM";
-            const hh = h % 12 || 12;
-            timeLabel = `${hh}:${String(m).padStart(2, "0")} ${ampm}`;
-          }
+      let timeLabel = "";
+      if (fx.time) {
+        const [h, m] = fx.time.split(":").map(Number);
+        if (Number.isFinite(h) && Number.isFinite(m)) {
+          const ampm = h >= 12 ? "PM" : "AM";
+          const hh = h % 12 || 12;
+          timeLabel = `${hh}:${String(m).padStart(2, "0")} ${ampm}`;
         }
-
-        rows.push(`
-          <tr class="corner-row">
-            <td class="corner-teams">
-              <span class="corner-home">${escHtml(fx.home)}</span>
-              <span class="corner-vs">v</span>
-              <span class="corner-away">${escHtml(fx.away)}</span>
-            </td>
-            <td class="corner-date">${fx.date} ${timeLabel ? `<span class="corner-time">${escHtml(timeLabel)}</span>` : ""}</td>
-            ${showO75 ? `<td class="corner-o75 num">${pred.o75.toFixed(1)}%</td>` : ""}
-            ${showO85 ? `<td class="corner-o85 num">${pred.o85.toFixed(1)}%</td>` : ""}
-          </tr>`);
       }
 
-      if (!rows.length) continue;
       anyRows = true;
 
       html += `
@@ -675,13 +688,24 @@ const Corners = (() => {
           <table class="corner-table">
             <thead>
               <tr>
-                <th scope="col" class="corner-th-teams">Fixture</th>
+                <th scope="col" class="corner-th-teams">Next fixture</th>
                 <th scope="col" class="corner-th-date">Date</th>
                 ${showO75 ? `<th scope="col" class="corner-th-num num">Over 7.5</th>` : ""}
                 ${showO85 ? `<th scope="col" class="corner-th-num num">Over 8.5</th>` : ""}
               </tr>
             </thead>
-            <tbody>${rows.join("") }</tbody>
+            <tbody>
+              <tr class="corner-row">
+                <td class="corner-teams">
+                  <span class="corner-home">${escHtml(fx.home)}</span>
+                  <span class="corner-vs">v</span>
+                  <span class="corner-away">${escHtml(fx.away)}</span>
+                </td>
+                <td class="corner-date">${fx.date} ${timeLabel ? `<span class="corner-time">${escHtml(timeLabel)}</span>` : ""}</td>
+                ${showO75 ? `<td class="corner-o75 num">${pred.o75.toFixed(1)}%</td>` : ""}
+                ${showO85 ? `<td class="corner-o85 num">${pred.o85.toFixed(1)}%</td>` : ""}
+              </tr>
+            </tbody>
           </table>
         </section>`;
     }
@@ -723,4 +747,3 @@ const Corners = (() => {
 
   return {};
 })();
-
