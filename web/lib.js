@@ -52,10 +52,15 @@ const GL = (() => {
 
   const HEAT_DOMAINS = {
     o15: [55, 95], o25: [25, 75], o35: [5, 45],
-    scored: [50, 95], btts: [30, 70], cs: [10, 55],
+    scored: [50, 95], s2: [20, 60], btts: [30, 70], cs: [10, 55],
   };
   const HEAT_KEYS = ["o15", "o25", "o35", "scored", "btts", "cs"];
   const LOW_SAMPLE = 5;
+
+  /* Confidence line for RESULT MARKS: a finished fixture only gets a check /
+     cross (and the ledger only counts a call in its hit rate) when the model
+     rated the market this high or better. */
+  const CONF_MARK = 70;
 
   const TREE_URL = "https://api.github.com/repos/oladeeayo/open-matchday/git/trees/master?recursive=1";
 
@@ -93,6 +98,94 @@ const GL = (() => {
     return code ? code.toUpperCase().replace("GB-", "") : "";
   }
 
+  /* ---------- club badges (badges/badges.js manifest) ---------- */
+
+  const BADGE_STOP = new Set([
+    "fc", "afc", "cf", "sc", "ac", "af", "sk", "sv", "vfb", "vfl", "tsg", "bsg",
+    "fk", "nk", "hnk", "of", "de", "del", "da", "la", "le", "and", "club",
+    "united", "city", "town", "university", "ii", "u21", "09", "1888", "1899",
+    "as", "cd", "ud", "sd", "rc", "cp", "ca", "sg", "ss",
+  ]);
+  const BADGE_SYN = { utd: "united" };
+  let badgeIndex = null;
+  const badgeSeen = new Map();
+
+  function badgeWords(str) {
+    return str
+      .replace(/\([^)]*\)/g, " ")
+      .replace(/[æ]/g, "ae").replace(/[ø]/g, "o")
+      .replace(/[ðđ]/g, "d").replace(/ß/g, "ss")
+      .normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
+      .split(" ").filter(Boolean)
+      .map((w) => BADGE_SYN[w] || w)
+      .filter((w) => w.length > 1 && !BADGE_STOP.has(w));
+  }
+
+  function buildBadgeIndex() {
+    const keys = [];
+    const byWord = new Map();
+    for (const [key, src] of Object.entries(window.BADGES || {})) {
+      const i = keys.push([new Set(badgeWords(key)), src, /\([^)]*\)/.test(key)]) - 1;
+      for (const w of keys[i][0]) {
+        if (!byWord.has(w)) byWord.set(w, []);
+        byWord.get(w).push(i);
+      }
+    }
+    return { keys, byWord };
+  }
+
+  function badgeFallback(name) {
+    const want = badgeWords(name);
+    if (!want.length) return "";
+    const idx = badgeIndex || (badgeIndex = buildBadgeIndex());
+    const posts = want.map((w) => idx.byWord.get(w));
+    if (posts.some((p) => !p)) return "";
+    let best = "", bestExtra = Infinity, bestParen = true, tied = false;
+    const shortest = posts.slice().sort((a, b) => a.length - b.length)[0];
+    for (const i of shortest) {
+      const [set, src, paren] = idx.keys[i];
+      if (!want.every((w) => set.has(w))) continue;
+      const extra = set.size - want.length;
+      if (extra < bestExtra) {
+        best = src; bestExtra = extra; bestParen = paren; tied = false;
+      } else if (extra === bestExtra && src !== best) {
+        // "FC Twente" and "Twente (Ned)" are one club — prefer the plain key
+        if (!paren && bestParen) { best = src; bestParen = false; tied = false; }
+        else if (paren && !bestParen) { /* keep the plain key */ }
+        else tied = true;
+      }
+    }
+    return tied ? "" : best;
+  }
+
+  /** Local club badge (badges/badges.js manifest). Empty string when unknown. */
+  function badgeSrc(name) {
+    const badges = window.BADGES;
+    if (!badges || !name) return "";
+    if (badges[name]) return badges[name];
+    if (badgeSeen.has(name)) return badgeSeen.get(name);
+    const src = badgeFallback(name);
+    badgeSeen.set(name, src);
+    return src;
+  }
+
+  /** Markup for a badge inside a team name; empty when the club has no badge. */
+  function badgeHtml(name) {
+    const src = badgeSrc(name);
+    if (!src) return "";
+    return `<img class="badge" src="${escapeHtml(src)}" alt="" width="18" height="18" loading="lazy" onerror="this.remove()">`;
+  }
+
+  /**
+   * Picker label for a league. Flags cannot render inside a native <option>,
+   * so the country is only spelled out when two leagues share a name.
+   */
+  function optionLabel(leagues, lg) {
+    const clash = leagues.filter((l) => l.name === lg.name).length > 1;
+    return clash ? `${lg.name} — ${lg.country}` : lg.name;
+  }
+
   function leagueFromFolder(folder) {
     const known = LEAGUES.find((l) => l.folder === folder);
     if (known) return known;
@@ -126,6 +219,11 @@ const GL = (() => {
   /* ---------- data ---------- */
 
   const cache = new Map();
+
+  /** Drop every cached CSV so the next read hits the network again. */
+  function clearCache() {
+    cache.clear();
+  }
 
   function parseCsv(text) {
     const rows = [];
@@ -722,7 +820,8 @@ const GL = (() => {
     buildMatches, teamStats, leagueSummary, standingsFrom, nextFixtures,
     escapeHtml, fmt, heatColor, formStripHtml, sortRows, applyFilters,
     buildHead, renderTable, toCsv, openTeamPanel, closeTeamPanel,
-    countryFlag, countryTag,
+    countryFlag, countryTag, optionLabel, clearCache, badgeHtml, badgeSrc,
+    HEAT_DOMAINS, CONF_MARK,
     UEFA_COEFF, leagueRating, teamExternal,
     teamElo, teamEloFull, eloFromCoeff, eloKey,
 
