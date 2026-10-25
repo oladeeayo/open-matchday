@@ -2902,3 +2902,29 @@ table.stats-table {
   text-align: left;
 }
 
+
+/* ============================================================
+   Sortable table headers (GL.makeSortable)
+   Any table with a <thead> can opt in; headers get a click and
+   keyboard toggle plus an active-direction indicator.
+   ============================================================ */
+th.sortable {
+  cursor: pointer;
+  user-select: none;
+  -webkit-user-select: none;
+}
+th.sortable:hover { color: var(--ink); }
+th.sortable::after {
+  content: "\21C5"; /* up-down arrow */
+  margin-left: 4px;
+  font-size: 9px;
+  opacity: 0.35;
+}
+th.sortable.is-sorted { color: var(--ink); }
+th.sortable.is-sorted::after { opacity: 0.9; }
+th.sortable.is-sorted-asc::after { content: "\2191"; }  /* ↑ */
+th.sortable.is-sorted-desc::after { content: "\2193"; } /* ↓ */
+th.sortable:focus-visible {
+  outline: 2px solid var(--focus);
+  outline-offset: 1px;
+}

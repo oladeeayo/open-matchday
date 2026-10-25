@@ -599,6 +599,105 @@ const GL = (() => {
     return headRow;
   }
 
+  /* ------------------------------------------------------------------
+     Sortable tables — a generic header sorter for any <table> with a
+     <thead>. Clicking (or Enter/Space on) a column header sorts the
+     body rows by that column: numbers, times and dates sort
+     numerically, everything else as text. A cell's data-sort-value
+     attribute wins over its visible text (use it for team cells that
+     also show a rank badge). First click picks the sensible direction
+     (desc for numbers, asc for text); further clicks toggle
+     asc → desc → back to the original order. Rows are sorted stably by
+     their document index, so ties keep their relative order. Call it
+     again after every innerHTML re-render of the table.
+  ------------------------------------------------------------------ */
+  const SORT_ATTR = "data-sort-index";
+
+  function sortableValue(cell) {
+    if (!cell) return null;
+    const raw = (cell.dataset.sortValue ?? cell.textContent ?? "").trim();
+    if (!raw) return null;
+    const compact = raw.replace(/[, %]/g, "");
+    if (/^-?\d+(?:\.\d+)?$/.test(compact)) {
+      const n = Number(compact);
+      if (Number.isFinite(n)) return n;
+    }
+    // bare date/time strings like "2026-11-01 15:00" → digits only
+    if (/^[\d:\-/. ]+$/.test(raw)) {
+      const d = raw.replace(/\D/g, "");
+      if (d) return Number(d);
+    }
+    return raw.toLowerCase();
+  }
+
+  function sortableFirstDir(th, index) {
+    const table = th.closest("table");
+    const body = table && table.tBodies[0];
+    const cell = body && body.rows[0] && body.rows[0].cells[index];
+    return typeof sortableValue(cell) === "number" ? -1 : 1;
+  }
+
+  function sortableSort(table, st) {
+    const head = table.tHead.rows[table.tHead.rows.length - 1];
+    [...head.cells].forEach((th, i) => {
+      const on = i === st.key && st.dir !== 0;
+      th.classList.toggle("is-sorted", on);
+      th.classList.toggle("is-sorted-asc", on && st.dir === 1);
+      th.classList.toggle("is-sorted-desc", on && st.dir === -1);
+      th.setAttribute("aria-sort", on ? (st.dir === 1 ? "ascending" : "descending") : "none");
+    });
+    for (const tb of table.tBodies) {
+      const rows = [...tb.rows];
+      const order = new Map(rows.map((r, i) => {
+        const v = Number(r.getAttribute(SORT_ATTR));
+        return [r, Number.isFinite(v) ? v : i];  // row 0's "0" is falsy — check finite, not truthy
+      }));
+      if (st.dir) {
+        rows.sort((a, b) => {
+          const av = sortableValue(a.cells[st.key]);
+          const bv = sortableValue(b.cells[st.key]);
+          if (av === bv) return order.get(a) - order.get(b);
+          if (av === null) return 1;
+          if (bv === null) return -1;
+          if (typeof av === "number" && typeof bv === "number") return (av - bv) * st.dir;
+          return String(av).localeCompare(String(bv)) * st.dir;
+        });
+      } else {
+        rows.sort((a, b) => order.get(a) - order.get(b));
+      }
+      rows.forEach((r) => tb.appendChild(r));
+    }
+  }
+
+  function makeSortable(table) {
+    if (!table || !table.tHead || !table.tBodies.length) return;
+    const head = table.tHead.rows[table.tHead.rows.length - 1];
+    if (!head) return;
+    const st = { key: -1, dir: 0 };
+    [...head.cells].forEach((th, index) => {
+      if ((th.colSpan || 1) > 1 || !th.textContent.trim()) return; // spacer headers
+      th.classList.add("sortable");
+      th.tabIndex = 0;
+      const fire = () => {
+        if (st.key !== index) { st.key = index; st.dir = sortableFirstDir(th, index); }
+        else {
+          const first = sortableFirstDir(th, index);
+          // cycle: first direction → opposite → back to original order
+          st.dir = st.dir === first ? -first : st.dir === -first ? 0 : first;
+        }
+        sortableSort(table, st);
+      };
+      th.addEventListener("click", fire);
+      th.addEventListener("keydown", (e) => {
+        if (e.key === "Enter" || e.key === " ") { e.preventDefault(); fire(); }
+      });
+    });
+    // remember original order so "unsorted" restores it
+    for (const tb of table.tBodies) {
+      [...tb.rows].forEach((r, i) => r.setAttribute(SORT_ATTR, String(i)));
+    }
+  }
+
   function renderTable(cfg) {
     const { cols, rows, tbody, sortKey, sortDir, openKey, onToggle, headRow } = cfg;
     const keys = cols.flatMap((g) => g.keys);
@@ -819,7 +918,7 @@ const GL = (() => {
     parseCsv, fetchResults, fetchFixtures, discoverLeagues,
     buildMatches, teamStats, leagueSummary, standingsFrom, nextFixtures,
     escapeHtml, fmt, heatColor, formStripHtml, sortRows, applyFilters,
-    buildHead, renderTable, toCsv, openTeamPanel, closeTeamPanel,
+    buildHead, renderTable, makeSortable, toCsv, openTeamPanel, closeTeamPanel,
     countryFlag, countryTag, optionLabel, clearCache, badgeHtml, badgeSrc,
     HEAT_DOMAINS, CONF_MARK,
     UEFA_COEFF, leagueRating, teamExternal,

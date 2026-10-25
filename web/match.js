@@ -237,6 +237,7 @@ const MatchPage = (() => {
     `;
 
     // re-bind dynamic bits
+    els.root().querySelectorAll("table.mtable").forEach((t) => GL.makeSortable(t));
     document.title = `${p.home} v ${p.away} — over25stats`;
   }
 

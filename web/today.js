@@ -409,6 +409,8 @@ function renderSections(sections) {
   }
   els.sections.replaceChildren(frag);
   els.sections.hidden = false;
+  // make each league's fixture table sortable by any column
+  els.sections.querySelectorAll("table.match-table").forEach((t) => GL.makeSortable(t));
 }
 
 function matchRow(p) {
@@ -417,15 +419,15 @@ function matchRow(p) {
   const isBestFocus = tip.key === state.market;
   return `<tr class="match-row">
     <td class="num time-cell${p.time ? "" : " no-time"}">${p.time ? esc(p.time) : ""}</td>
-    <td class="num home-team team"><span class="tname">${esc(p.home)}</span><span class="pos">${p.homeRank}</span></td>
-    <td class="away-team team"><span class="pos">${p.awayRank}</span><span class="tname">${esc(p.away)}</span></td>
+    <td class="num home-team team" data-sort-value="${esc(p.home)}"><span class="tname">${esc(p.home)}</span><span class="pos">${p.homeRank}</span></td>
+    <td class="away-team team" data-sort-value="${esc(p.away)}"><span class="pos">${p.awayRank}</span><span class="tname">${esc(p.away)}</span></td>
     ${probCell(p.o15, "o15")}
     ${probCell(p.o25, "o25")}
     ${probCell(p.o35, "o35")}
     ${probCell(p.btts, "btts")}
     ${probCell(p.h2, "h2")}
     ${probCell(p.a2, "a2")}
-    <td class="tip-cell ${tipOn ? "is-on" : ""}${isBestFocus ? " is-focus" : ""}"><span class="tip-inner">${isBestFocus ? `<span class="best-mark">Best</span>` : ""}<span class="tip-label">${esc(tip.label)}</span><span class="tip-p">${tip.p.toFixed(0)}%</span></span></td>
+    <td class="tip-cell ${tipOn ? "is-on" : ""}${isBestFocus ? " is-focus" : ""}" data-sort-value="${tip.p.toFixed(0)}"><span class="tip-inner">${isBestFocus ? `<span class="best-mark">Best</span>` : ""}<span class="tip-label">${esc(tip.label)}</span><span class="tip-p">${tip.p.toFixed(0)}%</span></span></td>
   </tr>`;
 }
 

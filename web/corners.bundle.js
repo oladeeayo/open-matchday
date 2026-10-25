@@ -1,3 +1,5 @@
+/* corners.bundle.js — built from predict.js + corners.js (do not edit;
+   regenerate with tools/build_bundle.py). */
 /* over25stats — goal-market prediction engine.
    Poisson xG from league-relative strengths + form + position context.
    Pure functions; depends on GL (lib.js) only for types if loaded first. */
@@ -693,7 +695,7 @@ const Corners = (() => {
         if (!pred) continue;
         rows.push(`
           <tr class="corner-row">
-            <td class="corner-teams">
+            <td class="corner-teams" data-sort-value="${escHtml(fx.home)} v ${escHtml(fx.away)}">
               <span class="corner-home">${escHtml(fx.home)}</span>
               <span class="corner-vs">v</span>
               <span class="corner-away">${escHtml(fx.away)}</span>
@@ -742,6 +744,8 @@ const Corners = (() => {
     els.empty().hidden = true;
     sectionsEl.innerHTML = html;
     sectionsEl.hidden = false;
+    // make every corner table sortable by fixture, kick-off or probability
+    sectionsEl.querySelectorAll("table.corner-table").forEach((t) => GL.makeSortable(t));
 
     say(`Loaded ${totalRows} upcoming fixtures across ${entries.length} leagues.`);
   }
