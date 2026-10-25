@@ -577,6 +577,145 @@ const GL = (() => {
     return lines.join("\n");
   }
 
+  const UEFA_COEFF = {
+    England: 103.796, Italy: 88.589, Spain: 83.243, Germany: 81.545,
+    France: 69.153, Portugal: 65.750, Belgium: 59.450, Netherlands: 52.562,
+    Turkey: 50.275, Czechia: 45.125, Poland: 45.125, Greece: 45.012,
+    Norway: 38.612, Denmark: 38.306, Cyprus: 34.693, Switzerland: 30.200,
+    Austria: 28.250, Hungary: 27.812, Scotland: 26.250, Croatia: 25.906,
+    Sweden: 25.750,
+    Romania: 24.750, Israel: 23.375, Slovenia: 22.718, Ukraine: 22.587,
+    Azerbaijan: 21.687, Slovakia: 20.500, Bulgaria: 20.437, Serbia: 17.750,
+    Russia: 17.332, Iceland: 17.020, Ireland: 16.218, Armenia: 15.437,
+    Kosovo: 13.781, Latvia: 13.500, "Bosnia & Herzegovina": 13.468,
+    Finland: 13.125, Kazakhstan: 12.375, Moldova: 10.250,
+    "Faroe Islands": 9.750, "North Macedonia": 8.967, Albania: 8.750,
+    Belarus: 8.708, Lithuania: 7.875, Malta: 7.625, Andorra: 7.498,
+    Estonia: 7.041, Gibraltar: 6.874, Georgia: 6.500,
+    "Northern Ireland": 6.375, Luxembourg: 5.500, Montenegro: 5.833,
+    Wales: 4.500, "San Marino": 2.999,
+    // non-UEFA estimates for the leagues the data covers
+    Argentina: 18.000, Australia: 10.000, Brazil: 28.000, China: 12.000,
+    Japan: 20.000, Mexico: 18.000, USA: 16.000, "South Korea": 12.000,
+    Austria_U21: 0, Europe: 0,  // UEFA-level competitions — no country rating
+  };
+
+  /** UEFA association coefficient for a league's country, for context.
+   *  Returns 0 for UEFA-level competitions (no country rating applies). */
+  function leagueRating(country) {
+    return UEFA_COEFF[country] || 0;
+  }
+
+  /** Domestic-league profile for a team from team_index.js:
+   *  { folder, country, coeff, mp, attRel, defRel, tier } or null. */
+  function teamExternal(name) {
+    const idx = window.TEAM_INDEX && window.TEAM_INDEX[name];
+    if (!idx) return null;
+    const [fidx, mp, attRel, defRel, tier] = idx;
+    const folder = (window.TEAM_FOLDERS || [])[fidx] || "";
+    if (!folder) return null;
+    const known = LEAGUES.find((l) => l.folder === folder);
+    const code = folder.split("_")[0];
+    const country = known ? known.country : (COUNTRY[code] || "");
+    return {
+      folder, country, coeff: leagueRating(country),
+      mp: mp || 0, attRel: attRel || 1, defRel: defRel || 1, tier: tier || 0,
+    };
+  }
+
+  /* Club Elo (elo.js) — reputation prior for cross-league fixtures.
+     window.CLUB_ELO      = { clubelo name: [elo, fed, level], ... }
+     window.CLUB_ELO_ALIASES = { data-folder name: clubelo name, ... }
+     Lookup order: exact → alias → normalized key → unique token subset.
+     Misses fall back to the coefficient estimate (elo ≈ 1551 + 1.112*coeff,
+     fitted against 25 federation level-1 means), or null when the country
+     carries no coefficient (UEFA-level-only teams). */
+  const ELO_DROP = new Set([
+    "fc", "cf", "sc", "ac", "afc", "af", "sk", "sv", "vfb", "vfl", "tsg", "bsg",
+    "fk", "nk", "hnk", "of", "de", "del", "da", "la", "le", "and", "club",
+    "united", "city", "town", "university", "ii", "iii", "u19", "u21", "u23",
+    "as", "cd", "ud", "sd", "rc", "cp", "ca", "sg", "ss", "bs", "if",
+    "09", "1846", "1848", "1860", "1878", "1887", "1888", "1893", "1897",
+    "1899", "1900", "1905", "1907", "1908", "1909", "1910", "1911", "1912",
+    "1919", "1920", "1928", "1946", "1960", "1965", "1967", "1970", "1974",
+    "1988", "1999", "b", "c", "1", "2", "3",
+  ]);
+  const ELO_SYN = { utd: "united", intl: "internazionale" };
+
+  function eloKey(s) {
+    s = String(s || "");
+    s = s.normalize("NFKD").replace(/[\u0300-\u036f]/g, "");
+    s = s.replace(/ø/gi, "o").replace(/æ/gi, "ae").replace(/ß/g, "ss");
+    s = s.replace(/&/g, " and ").replace(/['’.]/g, " ").replace(/[-–—/]/g, " ");
+    s = s.replace(/[^A-Za-z ]/g, " ").toLowerCase();
+    return s.split(/\s+/).filter(Boolean)
+      .map((w) => ELO_SYN[w] || w)
+      .filter((w) => w && !ELO_DROP.has(w))
+      .join(" ");
+  }
+
+  let _eloIndex = null;
+  function eloIndex() {
+    if (_eloIndex) return _eloIndex;
+    const table = window.CLUB_ELO || {};
+    const idx = new Map();
+    for (const [name, rec] of Object.entries(table)) {
+      const k = eloKey(name);
+      const prev = idx.get(k);
+      // level-1 first, then higher Elo — Everton ENG beats Everton CHI
+      if (!prev || (rec[2] > prev.level) || (rec[2] === prev.level && rec[0] > prev.elo)) {
+        idx.set(k, { name, elo: rec[0], fed: rec[1], level: rec[2] });
+      }
+    }
+    _eloIndex = idx;
+    return idx;
+  }
+
+  /** Club Elo rating for a data-folder team name, or null.
+   *  Returns { name, elo, fed, level } — name is Club Elo's own spelling. */
+  function teamElo(name) {
+    if (!name) return null;
+    const table = window.CLUB_ELO || {};
+    const hit = table[name];
+    if (hit) return { name, elo: hit[0], fed: hit[1], level: hit[2] };
+    const ali = (window.CLUB_ELO_ALIASES || {})[name];
+    if (ali && table[ali]) {
+      return { name: ali, elo: table[ali][0], fed: table[ali][1], level: table[ali][2] };
+    }
+    const idx = eloIndex();
+    const kHit = idx.get(eloKey(name));
+    if (kHit) return kHit;
+    // badge-style fallback: unique clubelo key containing every query word
+    const want = eloKey(name).split(" ");
+    if (!want.length) return null;
+    let best = null, bestExtra = Infinity, tied = false;
+    for (const [ek, club] of idx) {
+      const kw = ek.split(" ");
+      if (!kw.length || !want.every((w) => kw.includes(w))) continue;
+      const extra = kw.length - want.length;
+      if (extra < bestExtra) { best = club; bestExtra = extra; tied = false; }
+      else if (extra === bestExtra && club.name !== best.name) tied = true;
+    }
+    return tied ? null : best;
+  }
+
+  /** Elo estimate from a UEFA association coefficient — the fallback when a
+   *  side has no Club Elo entry. Returns null for coefficient 0 (no rating). */
+  function eloFromCoeff(coeff) {
+    if (!coeff || coeff <= 0) return null;
+    return Math.round(1551 + 1.112 * coeff);
+  }
+
+  /** Full lookup for the predictor: real Club Elo when the table knows the
+   *  club, otherwise a coefficient-based estimate. src is "club" or "est". */
+  function teamEloFull(name, ex) {
+    const hit = teamElo(name);
+    if (hit) return { elo: hit.elo, src: "club", fed: hit.fed, level: hit.level };
+    const est = eloFromCoeff(ex ? ex.coeff : 0);
+    if (est) return { elo: est, src: "est", fed: "", level: 0 };
+    return null;
+  }
+
   return {
     SEASON, SEASON_LABEL, LEAGUES, HEAT_KEYS, LOW_SAMPLE,
     parseCsv, fetchResults, fetchFixtures, discoverLeagues,
@@ -584,6 +723,8 @@ const GL = (() => {
     escapeHtml, fmt, heatColor, formStripHtml, sortRows, applyFilters,
     buildHead, renderTable, toCsv, openTeamPanel, closeTeamPanel,
     countryFlag, countryTag,
+    UEFA_COEFF, leagueRating, teamExternal,
+    teamElo, teamEloFull, eloFromCoeff, eloKey,
 
     /** Top-10 leagues by UEFA association coefficient (tier-1 domestic leagues only).
      *  Used to scope corner predictions to the highest-profile leagues.
