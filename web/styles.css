@@ -2298,6 +2298,20 @@ table.stats-table {
   padding-top: 10px;
 }
 
+/* hero info strips sit on the same centred axis as the team names:
+   label | value | note in the same 1fr auto 1fr rhythm as .match-teams */
+.match-hero .match-xg {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: baseline;
+  justify-items: center;
+  gap: 8px;
+  text-align: center;
+}
+
+.match-hero .match-xg .mxg-k { justify-self: end; }
+.match-hero .match-xg .mxg-total { justify-self: start; }
+
 .mxg-k {
   font-size: 11px;
   text-transform: uppercase;
@@ -2546,6 +2560,8 @@ table.stats-table {
 
 /* ---------- corner markets ---------- */
 
+.page-match .mcard .match-xg { justify-content: space-between; }
+
 .mcard-corners .match-xg {
   justify-content: center;
 }
@@ -2672,6 +2688,7 @@ table.stats-table {
 
 .corner-table {
   width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   font-size: 13px;
 }
@@ -2689,8 +2706,9 @@ table.stats-table {
 
 .corner-table thead th.num { text-align: right; }
 
-.corner-th-teams { width: 50%; }
-.corner-th-date { width: 25%; }
+.corner-th-teams { width: 40%; }
+.corner-th-date { width: 22%; }
+.corner-th-full { display: inline; }
 
 .corner-row td {
   padding: 8px 10px;
@@ -2698,7 +2716,7 @@ table.stats-table {
   vertical-align: middle;
 }
 
-.corner-row tr:last-child td { border-bottom: 0; }
+.corner-row:last-child td { border-bottom: 0; }
 
 .corner-teams {
   display: flex;
@@ -2738,6 +2756,13 @@ table.stats-table {
 
 .corner-o75 { color: var(--navy); }
 .corner-o85 { color: var(--ink-2); }
+
+.corner-exp {
+  text-align: right;
+  color: var(--muted);
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
 
 /* ---------- method panel ---------- */
 
@@ -2817,6 +2842,11 @@ table.stats-table {
   .x2-p { margin-left: 0; font-size: 16px; }
   .scorelines { flex-direction: column; }
   .corner-teams { flex-wrap: wrap; }
+  .corner-table thead th { font-size: 10px; letter-spacing: 0.03em; padding: 6px 4px; }
+  .corner-row td { padding: 8px 4px; }
+  .corner-th-date { width: 28%; }
+  .corner-date { font-size: 11px; }
+  .corner-th-full { display: none; }
 }
 
 /* ---------- match detail page ---------- */

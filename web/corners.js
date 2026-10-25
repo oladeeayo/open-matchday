@@ -1,10 +1,9 @@
-/* over25stats — corner prediction page for top-10 leagues.
-   Loads fixtures for each CORNER_LEAGUES league, predicts
-   over 7.5 / over 8.5 for unplayed matches, renders as league sections. */
+/* over25stats — corner prediction page for the top-10 leagues.
+   Loads the next unplayed matchday for each league, predicts over 7.5 / over 8.5
+   corners with Predict.predictCorners, and renders one section per league. */
 
 const Corners = (() => {
   const els = {
-    board: () => document.getElementById("board"),
     sections: () => document.getElementById("sections"),
     loading: () => document.getElementById("state-loading"),
     empty: () => document.getElementById("state-empty"),
@@ -20,17 +19,18 @@ const Corners = (() => {
 
   /* ---------- state ---------- */
 
-  let state = {
-    leagues: [],          // [{folder, name, country, flag}]
-    fixturesByLeague: new Map(),  // folder -> [fixture, ...]
-    cornerModelsByLeague: new Map(),  // folder -> {league, teams}
+  const state = {
+    leagues: [],                  // [{folder, name, country}]
+    roundsByLeague: new Map(),    // folder -> { fixture, gw, model, played }
     selectedLeague: "all",
     selectedLine: "both",
+    loaded: false,
   };
 
   /* ---------- init ---------- */
 
   function init() {
+    if (!document.getElementById("board")) return;
     populateLeagueFilter();
     bindControls();
     loadAll();
@@ -39,8 +39,9 @@ const Corners = (() => {
   function populateLeagueFilter() {
     const select = els.leagueFilter();
     if (!select) return;
-    const cornerLeagues = GL.LEAGUES.filter((l) => GL.CORNER_LEAGUES.has(l.folder));
-    cornerLeagues.sort((a, b) => a.name.localeCompare(b.name));
+    const cornerLeagues = GL.LEAGUES
+      .filter((l) => GL.CORNER_LEAGUES.has(l.folder))
+      .sort((a, b) => a.name.localeCompare(b.name));
     state.leagues = cornerLeagues;
     for (const l of cornerLeagues) {
       const opt = document.createElement("option");
@@ -55,7 +56,7 @@ const Corners = (() => {
     if (leagueFilter) {
       leagueFilter.addEventListener("change", () => {
         state.selectedLeague = leagueFilter.value;
-        loadAll();
+        if (state.loaded) renderAll();
       });
     }
 
@@ -86,106 +87,110 @@ const Corners = (() => {
     els.error().hidden = true;
 
     try {
-      await loadAllLeagues();
+      await Promise.all(state.leagues.map(loadLeague));
+      state.loaded = true;
       await renderAll();
     } catch (err) {
       els.loading().hidden = true;
       els.error().hidden = false;
-      els.errorDetail().textContent = err.message || "Network error.";
+      els.errorDetail().textContent = err && err.message ? err.message : "Network error.";
     }
   }
 
-  async function loadAllLeagues() {
-    const cornerLeagues = state.leagues;
-    const fxByLeague = new Map();
-    const modelsByLeague = new Map();
-    const playedByLeague = new Map(); // folder -> Set of "date|home|away" keys
+  async function loadLeague(league) {
+    try {
+      const [fixtures, results] = await Promise.all([
+        GL.fetchFixtures(league.folder),
+        GL.fetchResults(league.folder),
+      ]);
 
-    for (const league of cornerLeagues) {
-      try {
-        const [fixtures, results] = await Promise.all([
-          GL.fetchFixtures(league.folder),
-          GL.fetchResults(league.folder),
-        ]);
+      const matches = GL.buildMatches(results.rows);
+      const cornerLeague = Predict.buildCornerLeague(matches);
+      const cornerTeams = Predict.buildCornerModels(matches);
+      if (!cornerLeague || !cornerTeams.size) return;
 
-        const matches = GL.buildMatches(results.rows);
-        const cornerLeague = Predict.buildCornerLeague(matches);
-        const cornerTeams = Predict.buildCornerModels(matches);
-
-        fxByLeague.set(league.folder, fixtures);
-        if (cornerLeague && cornerTeams.size) {
-          modelsByLeague.set(league.folder, { league: cornerLeague, teams: cornerTeams });
-        }
-        // cache played keys so renderAll doesn't re-fetch
-        const keys = new Set();
-        for (const m of matches) {
-          keys.add(`${m.date}|${m.home}|${m.away}`);
-          keys.add(`${m.date}|${m.away}|${m.home}`);
-        }
-        playedByLeague.set(league.folder, keys);
-      } catch {
-        // league may have no data yet — skip gracefully
+      const played = new Set();
+      for (const m of matches) {
+        played.add(`${m.date}|${m.home}|${m.away}`);
+        played.add(`${m.date}|${m.away}|${m.home}`);
       }
-    }
 
-    state.fixturesByLeague = fxByLeague;
-    state.cornerModelsByLeague = modelsByLeague;
-    state.playedByLeague = playedByLeague;
+      const round = nextRound(fixtures, played);
+      if (!round.fixtures.length) return;
+
+      state.roundsByLeague.set(league.folder, {
+        fixtures: round.fixtures,
+        gw: round.gw,
+        league: cornerLeague,
+        teams: cornerTeams,
+      });
+    } catch {
+      // a league with no data yet is simply skipped
+    }
   }
 
-  /* ---------- render ---------- */  async function renderAll() {
+  /**
+   * The next matchday = the lowest gameweek that still has unplayed fixtures,
+   * with any fixture dated before today dropped (they are awaiting results).
+   * Falls back to the earliest remaining date when a fixtures file has no gw.
+   */
+  function nextRound(fixtures, played) {
+    const today = new Date().toISOString().slice(0, 10);
+    const upcoming = (fixtures || []).filter((f) => {
+      if (!f || !f.home || !f.away) return false;
+      if (played.has(`${f.date}|${f.home}|${f.away}`)) return false;
+      if (played.has(`${f.date}|${f.away}|${f.home}`)) return false;
+      if (f.date && f.date < today) return false;
+      return true;
+    });
+
+    if (!upcoming.length) return { fixtures: [], gw: null };
+
+    const byKickoff = (a, b) =>
+      String(a.date).localeCompare(String(b.date)) ||
+      String(a.time || "").localeCompare(String(b.time || ""));
+
+    const gws = upcoming.map((f) => Number(f.gw)).filter((n) => Number.isFinite(n) && n > 0);
+    if (gws.length) {
+      const gw = Math.min(...gws);
+      return {
+        gw,
+        fixtures: upcoming.filter((f) => Number(f.gw) === gw).sort(byKickoff),
+      };
+    }
+
+    const date = upcoming.map((f) => f.date).sort()[0];
+    return { gw: null, fixtures: upcoming.filter((f) => f.date === date).sort(byKickoff) };
+  }
+
+  /* ---------- render ---------- */
+
+  function renderAll() {
     const sectionsEl = els.sections();
     if (!sectionsEl) return;
 
-    const cornerLeagues = state.leagues;
-    const selectedLeague = state.selectedLeague;
-    const selectedLine = state.selectedLine;
+    const showO75 = state.selectedLine === "both" || state.selectedLine === "o75";
+    const showO85 = state.selectedLine === "both" || state.selectedLine === "o85";
+
+    const entries = [];
+    for (const league of state.leagues) {
+      if (state.selectedLeague !== "all" && league.folder !== state.selectedLeague) continue;
+      const data = state.roundsByLeague.get(league.folder);
+      if (!data) continue;
+      entries.push({ league, data });
+    }
+
+    entries.sort((a, b) => String(a.data.fixtures[0].date).localeCompare(String(b.data.fixtures[0].date)));
 
     let html = "";
     let anyRows = false;
+    let totalRows = 0;
 
-    for (const league of cornerLeagues) {
-      if (selectedLeague !== "all" && league.folder !== selectedLeague) continue;
-
-      const fixtures = state.fixturesByLeague.get(league.folder);
-      const modelData = state.cornerModelsByLeague.get(league.folder);
-      if (!fixtures || !fixtures.length) continue;
-      if (!modelData) continue;
-
-      // Build set of played date|home|away keys from the already-loaded results
-      const playedSet = state.playedByLeague ? state.playedByLeague.get(league.folder) || new Set() : new Set();
-
-      const upcoming = (fixtures || []).filter((f) => {
-        const key = `${f.date}|${f.home}|${f.away}`;
-        return !playedSet.has(key);
-      }).sort((a, b) => a.date.localeCompare(b.date) || (a.time || "").localeCompare(b.time || ""));
-
-      if (!upcoming.length) continue;
-
-      const showO75 = selectedLine === "both" || selectedLine === "o75";
-      const showO85 = selectedLine === "both" || selectedLine === "o85";
-      if (!showO75 && !showO85) continue;
-
+    for (const { league, data } of entries) {
       const rows = [];
-      for (const fx of upcoming) {
-        const pred = Predict.predictCorners(
-          modelData.teams,
-          modelData.league,
-          fx.home,
-          fx.away
-        );
+      for (const fx of data.fixtures) {
+        const pred = Predict.predictCorners(data.teams, data.league, fx.home, fx.away);
         if (!pred) continue;
-
-        let timeLabel = "";
-        if (fx.time) {
-          const [h, m] = fx.time.split(":").map(Number);
-          if (Number.isFinite(h) && Number.isFinite(m)) {
-            const ampm = h >= 12 ? "PM" : "AM";
-            const hh = h % 12 || 12;
-            timeLabel = `${hh}:${String(m).padStart(2, "0")} ${ampm}`;
-          }
-        }
-
         rows.push(`
           <tr class="corner-row">
             <td class="corner-teams">
@@ -193,39 +198,42 @@ const Corners = (() => {
               <span class="corner-vs">v</span>
               <span class="corner-away">${escHtml(fx.away)}</span>
             </td>
-            <td class="corner-date">${fx.date} ${timeLabel ? `<span class="corner-time">${escHtml(timeLabel)}</span>` : ""}</td>
+            <td class="corner-date">${escHtml(fx.date)}${fx.time ? ` <span class="corner-time">${escHtml(fx.time)}</span>` : ""}</td>
             ${showO75 ? `<td class="corner-o75 num">${pred.o75.toFixed(1)}%</td>` : ""}
             ${showO85 ? `<td class="corner-o85 num">${pred.o85.toFixed(1)}%</td>` : ""}
+            <td class="corner-exp num">${pred.cornersT.toFixed(1)}</td>
           </tr>`);
       }
-
       if (!rows.length) continue;
       anyRows = true;
+      totalRows += rows.length;
 
+      const gwLabel = data.gw ? `Matchday ${data.gw} · ` : "";
       html += `
         <section class="corner-league">
           <div class="corner-league-head">
             <h2 class="corner-league-title">${escHtml(league.name)}</h2>
-            <span class="corner-league-meta">${cornerDataSummary(modelData.league)}</span>
+            <span class="corner-league-meta">${gwLabel}${cornerDataSummary(data.league)}</span>
           </div>
           <table class="corner-table">
             <thead>
               <tr>
                 <th scope="col" class="corner-th-teams">Fixture</th>
-                <th scope="col" class="corner-th-date">Date</th>
+                <th scope="col" class="corner-th-date">Kick-off</th>
                 ${showO75 ? `<th scope="col" class="corner-th-num num">Over 7.5</th>` : ""}
                 ${showO85 ? `<th scope="col" class="corner-th-num num">Over 8.5</th>` : ""}
+                <th scope="col" class="corner-th-num num">Exp.<span class="corner-th-full"> corners</span></th>
               </tr>
             </thead>
-            <tbody>${rows.join("") }</tbody>
+            <tbody>${rows.join("")}</tbody>
           </table>
         </section>`;
     }
 
     if (!anyRows) {
       els.loading().hidden = true;
-      els.empty().hidden = false;
       els.sections().hidden = true;
+      els.empty().hidden = false;
       return;
     }
 
@@ -235,12 +243,12 @@ const Corners = (() => {
     sectionsEl.innerHTML = html;
     sectionsEl.hidden = false;
 
-    say(`Loaded corner predictions for ${cornerLeagues.length} leagues.`);
+    say(`Loaded ${totalRows} upcoming fixtures across ${entries.length} leagues.`);
   }
 
   function cornerDataSummary(league) {
     if (!league) return "";
-    return `avg ${league.avgTotalCorners.toFixed(1)} corners · O7.5 ${Math.round(league.o75Rate * 100)}% · O8.5 ${Math.round(league.o85Rate * 100)}%`;
+    return `avg ${league.avgTotalCorners.toFixed(1)} corners · O7.5 ${Math.round(league.o75Rate * 100)}% · O8.5 ${Math.round(league.o85Rate * 100)}% · ${league.n} played`;
   }
 
   function escHtml(s) {

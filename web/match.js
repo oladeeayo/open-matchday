@@ -76,13 +76,9 @@ const MatchPage = (() => {
       }
 
       const pred = Predict.predictMatch(model, HOME, AWAY);
-      let corners = null;
-      if (cornerLeague && cornerTeams.size) {
-        corners = Predict.predictCorners(cornerTeams, cornerLeague, HOME, AWAY);
-        if (!corners) {
-          corners = Predict.buildCornerModels ? null : Predict.legacyPredictCorners(cornerLeague, HOME, AWAY);
-        }
-      }
+      const corners = (cornerLeague && cornerTeams.size)
+        ? Predict.predictCorners(cornerTeams, cornerLeague, HOME, AWAY)
+        : null;
 
       if (!pred) {
         showError(`Could not build a prediction for this fixture.`);
@@ -100,13 +96,15 @@ const MatchPage = (() => {
   }
 
   function findFixture(fixtures, home, away) {
-    for (const f of fixtures || []) {
-      if ((f.home === home && f.away === away) ||
-          (f.home === away && f.away === home)) {
-        return f;
-      }
-    }
-    return null;
+    const today = new Date().toISOString().slice(0, 10);
+    const pairing = (fixtures || []).filter((f) =>
+      (f.home === home && f.away === away) || (f.home === away && f.away === home)
+    );
+    if (!pairing.length) return null;
+    const byDate = (a, b) => String(a.date).localeCompare(String(b.date));
+    const upcoming = pairing.filter((f) => !f.date || f.date >= today).sort(byDate);
+    if (upcoming.length) return upcoming[0];
+    return pairing.sort(byDate).pop();
   }
 
   function showError(msg) {
@@ -158,7 +156,7 @@ const MatchPage = (() => {
       </tr>`;
     }).join("");
 
-    els.root.innerHTML = `
+    els.root().innerHTML = `
       <section class="match-hero">
         <div class="match-hero-header">
         <div class="match-meta">
@@ -172,12 +170,12 @@ const MatchPage = (() => {
         <div class="match-teams">
           <div class="mteam mteam-home">
             <span class="mteam-name">${escHtml(p.home)}</span>
-            <span class="mteam-sub">#${p.homeRank || ""}${p.homeRank ? " · " : ""}${p.homeMp ? `Elo n/a · ${p.homeMp} played` : ""}</span>
+            <span class="mteam-sub">${rankLine(p.homeRank, p.homeMp)}</span>
           </div>
           <div class="match-vs">v</div>
           <div class="mteam mteam-away">
             <span class="mteam-name">${escHtml(p.away)}</span>
-            <span class="mteam-sub">#${p.awayRank || ""}${p.awayRank ? " · " : ""}${p.awayMp ? `Elo n/a · ${p.awayMp} played` : ""}</span>
+            <span class="mteam-sub">${rankLine(p.awayRank, p.awayMp)}</span>
           </div>
         </div>
         ${actualWrap}
@@ -186,6 +184,12 @@ const MatchPage = (() => {
           <span class="mxg-v">${p.xgH.toFixed(2)} <i>–</i> ${p.xgA.toFixed(2)}</span>
           <span class="mxg-total">total ${p.xgT.toFixed(2)}</span>
         </div>
+        ${corners ? `
+        <div class="match-xg match-xg-corners">
+          <span class="mxg-k">Expected corners</span>
+          <span class="mxg-v">${corners.cornersH.toFixed(1)} <i>–</i> ${corners.cornersA.toFixed(1)}</span>
+          <span class="mxg-total">total ${corners.cornersT.toFixed(1)}</span>
+        </div>` : ""}
       </section>
 
       <div class="match-grid">
@@ -237,12 +241,20 @@ const MatchPage = (() => {
   }
 
   function x2Row(k, label, prob, ft) {
+    const value = Number.isFinite(prob) ? prob : 0;
     const res = ft ? `<span class="x2-res ${ft[k.toLowerCase()] ? "hit-yes" : "hit-no"}">${ft[k.toLowerCase()] ? "✓" : "✗"}</span>` : "";
     return `<div class="x2-row">
       <span class="x2-label">${escHtml(label)}</span>
-      <span class="x2-p">${prob.toFixed(1)}<i>%</i></span>
+      <span class="x2-p">${value.toFixed(1)}<i>%</i></span>
       ${res}
     </div>`;
+  }
+
+  function rankLine(rank, mp) {
+    const bits = [];
+    if (rank) bits.push(`#${rank}`);
+    if (mp) bits.push(`${mp} played`);
+    return bits.join(" · ");
   }
 
   function pctCell(v) {
@@ -279,7 +291,7 @@ const MatchPage = (() => {
           <span class="mxg-v">${corners.cornersH.toFixed(1)} <i>–</i> ${corners.cornersA.toFixed(1)}</span>
           <span class="mxg-total">total ${corners.cornersT.toFixed(1)}</span>
         </div>
-        <p class="mcard-note">Model corners from season corner frequency (home/away, time-decayed Poisson). Informational only — not betting advice.</p>
+        <p class="mcard-note">Expected corners use home/away corner rates shrunk toward the league venue mean, blended with the league's observed over-line rate.</p>
       </section>`;
   }
 

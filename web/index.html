@@ -8,7 +8,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body class="page-today">
 <!--
@@ -38,59 +38,6 @@
       <a href="all.html">All teams</a>
       <a href="corners.html">Corners</a>
     </nav>
-  <section class="page-head">
-    <h1>Corner predictions</h1>
-    <p>Over 7.5 and over 8.5 corners for upcoming fixtures in the top-10 leagues by UEFA coefficient. Probabilities from season corner frequency — Poisson model, blended with each league's empirical over-line rate.</p>
-  </section>
-
-  <section class="controls controls-2" aria-label="Filters">
-    <div class="field">
-      <label for="league-filter">League</label>
-      <select id="league-filter">
-        <option value="all">All top-10 leagues</option>
-      </select>
-    </div>
-    <div class="field">
-      <label for="line-filter">Line</label>
-      <div class="segmented" role="radiogroup" aria-labelledby="line-filter" data-group="line">
-        <button type="button" role="radio" aria-checked="true" data-line="both" class="is-on">Both</button>
-        <button type="button" role="radio" aria-checked="false" data-line="o75">Over 7.5</button>
-        <button type="button" role="radio" aria-checked="false" data-line="o85">Over 8.5</button>
-      </div>
-    </div>
-  </section>
-
-  <div id="board" aria-live="polite">
-    <div class="state" id="state-loading" hidden>
-      <p class="state-title">Loading fixtures…</p>
-      <div class="skeleton" aria-hidden="true">
-        <span></span><span></span><span></span><span></span><span></span><span></span>
-      </div>
-    </div>
-
-    <div class="state" id="state-empty" hidden>
-      <p class="state-title">No upcoming fixtures for the selected filter.</p>
-      <p class="state-body">Try a different league or line.</p>
-    </div>
-
-    <div class="state" id="state-error" hidden>
-      <p class="state-title">Could not load corner data.</p>
-      <p class="state-body" id="error-detail"></p>
-      <button type="button" class="btn" id="retry-btn">Retry</button>
-    </div>
-
-    <div id="sections" hidden></div>
-  </div>
-
-  <details class="method" id="method-corners">
-    <summary>How the corner predictions work</summary>
-    <div class="method-body">
-      <p>Each team's home and away corner rates (corners earned and conceded per match) are computed from finished results in the <b>open-matchday</b> CSV data, with a shrinkage prior (k=4) so early-season samples do not over-react.</p>
-      <p>Expected total corners for a fixture = <b>league mean corners × (home rate + away rate) ÷ 2</b>, adjusted by pace (last-5 average corners per game) and team game-width and low-corner frequency.  A <b>Poisson distribution</b> converts the expected total into P(over 7.5) and P(over 8.5).</p>
-      <p>Corners arrive in clusters, so the variance is higher than a plain Poisson assumes.  We partially compensate by blending with each league's empirical over-line rate weighted by team sample size.  Academic work (Yip et al., 2021) models the clustering explicitly with a compound Poisson; the multiplicative + empirical blend is the standard practical approach.</p>
-      <p>Only the <b>top-10 leagues by UEFA association coefficient</b> are shown, and only fixtures without a recorded result yet (i.e. upcoming). Probabilities are informational, not betting advice.</p>
-    </div>
-  </details>
   </div>
 </header>
 
@@ -247,7 +194,6 @@
 <div class="sr-live" id="live" role="status" aria-live="polite"></div>
 <script src="lib.js"></script>
 <script src="predict.js"></script>
-<script src="corners.js"></script>
 <script src="today.js"></script>
 </body>
 </html>

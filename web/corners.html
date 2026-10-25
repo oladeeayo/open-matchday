@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>over25stats — corner predictions</title>
-<meta name="description" content="Over 7.5 and over 8.5 corner probabilities for upcoming fixtures in the top-10 UEFA coefficient leagues — Poisson corner model from season corner frequency.">
+<meta name="description" content="Over 7.5 and over 8.5 corner probabilities for each league's next matchday in the top-10 UEFA coefficient leagues — Poisson corner model from season corner frequency.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="styles.css?v=5">
 </head>
 <body class="page-corners">
 <header class="site-header">
@@ -33,7 +33,7 @@
 
   <section class="page-head">
     <h1>Corner predictions</h1>
-    <p>Over 7.5 and over 8.5 corners for upcoming fixtures in the top-10 leagues by UEFA coefficient. Probabilities from season corner frequency — Poisson model, blended with each league's empirical over-line rate.</p>
+    <p>Over 7.5 and over 8.5 corners for the next matchday in each of the top-10 leagues by UEFA coefficient. Expected corners come from each side's home/away corner rates; the over-line probabilities are Poisson estimates blended with the league's observed rate.</p>
   </section>
 
   <section class="controls controls-2" aria-label="Filters">
@@ -78,10 +78,10 @@
   <details class="method" id="method">
     <summary>How the corner predictions work</summary>
     <div class="method-body">
-      <p>Each team's home and away corner rates (corners earned and conceded per match) are computed from finished results in the <b>open-matchday</b> CSV data, with a shrinkage prior (k=4) so early-season samples do not over-react.</p>
-      <p>Expected total corners for a fixture = <b>home attacking corner rate × away defensive corner rate / league average away corners</b> + the symmetric away calculation.  A <b>Poisson distribution</b> converts the expected total into P(over 7.5) and P(over 8.5).</p>
-      <p>Corners arrive in clusters (a team taking a corner often leads to another shortly after), so the variance is higher than a plain Poisson assumes.  We partially compensate by blending with each league's empirical over-line rate weighted by team sample size.  Academic work (Yip et al., 2021) models the clustering explicitly with a compound Poisson; the multiplicative + empirical blend is the standard practical approach.</p>
-      <p>Only the <b>top-10 leagues by UEFA association coefficient</b> are shown, and only fixtures without a recorded result yet (i.e. upcoming). Probabilities are informational, not betting advice.</p>
+      <p>Each team's corner rates are built from finished matches in the <b>open-matchday</b> results: corners won at home, corners won away, corners conceded at home and away.  Every rate is shrunk toward the league's venue mean (six pseudo-games), so a short early-season sample cannot swing a team to an extreme.</p>
+      <p>Expected home corners = <b>home side's corners won at home × away side's corners conceded away ÷ league average home corners</b>, and the away total is the mirror image.  The two expected values are summed, then a <b>Poisson distribution</b> turns that total into P(over 7.5) = P(total ≥ 8) and P(over 8.5) = P(total ≥ 9).</p>
+      <p>Corner counts arrive in clusters and the pure Poisson tail runs a little hot, so the final number is blended with the league's observed over-line rate (tilted toward both teams' own rates, weight 45% once a league has a full sample).  That keeps the published probability calibrated against what the league is actually producing rather than over-confident.</p>
+      <p>Only the <b>top-10 leagues by UEFA association coefficient</b> are shown, and only fixtures from each league's next unplayed matchday. Probabilities are informational, not betting advice.</p>
     </div>
   </details>
 </main>
@@ -94,6 +94,6 @@
 
 <div class="sr-live" id="live" role="status" aria-live="polite"></div>
 <script src="lib.js?v=2"></script>
-<script src="corners.bundle.js?v=4"></script>
+<script src="corners.bundle.js?v=6"></script>
 </body>
 </html>

@@ -173,21 +173,18 @@ const Predict = (() => {
    * Uses home_corners / away_corners columns from the results CSV.
    */
   function buildCornerLeague(matches) {
-    const n = matches.length;
-    if (!n) return null;
-    let sumHomeCorners = 0, sumAwayCorners = 0;
+    let actualN = 0, sumHomeCorners = 0, sumAwayCorners = 0;
     let over75 = 0, over85 = 0;
     for (const m of matches) {
-      const hc = m.home_corners != null ? m.home_corners : (m.cornersH != null ? m.cornersH : null);
-      const ac = m.away_corners != null ? m.away_corners : (m.cornersA != null ? m.cornersA : null);
+      const hc = m.home_corners, ac = m.away_corners;
       if (hc == null || ac == null) continue;
+      actualN++;
       sumHomeCorners += hc;
       sumAwayCorners += ac;
       const total = hc + ac;
       if (total >= 8) over75++;
       if (total >= 9) over85++;
     }
-    const actualN = matches.filter(m => m.home_corners != null && m.away_corners != null).length;
     if (!actualN) return null;
     return {
       n: actualN,
@@ -206,60 +203,62 @@ const Predict = (() => {
    */
   function buildCornerModels(matches) {
     const raw = new Map();
-    function side(name) {
+    const side = (name) => {
       if (!raw.has(name)) {
         raw.set(name, {
           team: name,
-          hMp: 0, hCornersFor: 0, hCornersAgainst: 0,
-          aMp: 0, aCornersFor: 0, aCornersAgainst: 0,
-          mp: 0, cornersFor: 0, cornersAgainst: 0,
+          mp: 0, hMp: 0, aMp: 0,
+          hFor: 0, hAgainst: 0, aFor: 0, aAgainst: 0,
+          forTotal: 0, againstTotal: 0,
           o75: 0, o85: 0,
         });
       }
       return raw.get(name);
-    }
+    };
 
     for (const m of matches) {
-      const hc = m.home_corners != null ? m.home_corners : null;
-      const ac = m.away_corners != null ? m.away_corners : null;
+      const hc = m.home_corners, ac = m.away_corners;
       if (hc == null || ac == null) continue;
 
       const H = side(m.home);
       const A = side(m.away);
       H.hMp++; A.aMp++;
-      H.hCornersFor += hc; H.hCornersAgainst += ac;
-      A.aCornersFor += ac; A.aCornersAgainst += hc;
+      H.hFor += hc; H.hAgainst += ac;
+      A.aFor += ac; A.aAgainst += hc;
       H.mp++; A.mp++;
-      H.cornersFor += hc; H.cornersAgainst += ac;
-      A.cornersFor += ac; A.cornersAgainst += hc;
+      H.forTotal += hc; H.againstTotal += ac;
+      A.forTotal += ac; A.againstTotal += hc;
       const total = hc + ac;
       if (total >= 8) { H.o75++; A.o75++; }
       if (total >= 9) { H.o85++; A.o85++; }
     }
+    if (!raw.size) return new Map();
 
-    // league means for shrinkage
-    let sumHFor = 0, sumHAgainst = 0, sumAMp = 0;
+    // league venue means (per match), computed across teams
+    let hFor = 0, hAgainst = 0, aFor = 0, aAgainst = 0, hMp = 0, aMp = 0;
     for (const t of raw.values()) {
-      sumHFor += t.hCornersFor; sumHAgainst += t.hCornersAgainst;
-      sumAMp += t.aMp;
+      hFor += t.hFor; hAgainst += t.hAgainst;
+      aFor += t.aFor; aAgainst += t.aAgainst;
+      hMp += t.hMp; aMp += t.aMp;
     }
-    const leagueHomeFor = sumHFor / Math.max(raw.size, 1);
-    const leagueHomeAgainst = sumHAgainst / Math.max(raw.size, 1);
-    const leagueAwayFor = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersFor, 0) / Math.max(raw.size, 1) : 0;
-    const leagueAwayAgainst = raw.size ? Array.from(raw.values()).reduce((s, t) => s + t.aCornersAgainst, 0) / Math.max(raw.size, 1) : 0;
+    const lgHomeFor = hMp ? hFor / hMp : 5;
+    const lgHomeAgainst = hMp ? hAgainst / hMp : 5;
+    const lgAwayFor = aMp ? aFor / aMp : 4;
+    const lgAwayAgainst = aMp ? aAgainst / aMp : 4;
 
-    const K = 4;
+    const K = 6; // pseudo-games of shrinkage toward the league venue mean
     const teams = new Map();
     for (const t of raw.values()) {
-      const attCornerH = t.hMp ? (t.hCornersFor + K * leagueHomeFor) / (t.hMp + K) : leagueHomeFor;
-      const attCornerA = t.aMp ? (t.aCornersFor + K * leagueAwayFor) / (t.aMp + K) : leagueAwayFor;
-      const defCornerH = t.hMp ? (t.hCornersAgainst + K * leagueHomeAgainst) / (t.hMp + K) : leagueHomeAgainst;
-      const defCornerA = t.aMp ? (t.aCornersAgainst + K * leagueAwayAgainst) / (t.aMp + K) : leagueAwayAgainst;
+      const attCornerH = (t.hFor + K * lgHomeFor) / (t.hMp + K);
+      const attCornerA = (t.aFor + K * lgAwayFor) / (t.aMp + K);
+      const defCornerH = (t.hAgainst + K * lgHomeAgainst) / (t.hMp + K);
+      const defCornerA = (t.aAgainst + K * lgAwayAgainst) / (t.aMp + K);
 
       teams.set(t.team, {
         team: t.team,
         mp: t.mp, hMp: t.hMp, aMp: t.aMp,
         attCornerH, attCornerA, defCornerH, defCornerA,
+        cornersFor: t.forTotal, cornersAgainst: t.againstTotal,
         o75Rate: t.mp ? t.o75 / t.mp : 0,
         o85Rate: t.mp ? t.o85 / t.mp : 0,
       });
@@ -395,23 +394,39 @@ const Predict = (() => {
       { key: "a2", label: "A2+", p: po.a2 },
     ].sort((a, b) => b.p - a.p);
 
+    // 1X2 + most likely scorelines from the same independent-Poisson grid
+    let pH = 0, pD = 0, pA = 0;
+    const grid = [];
+    for (let h = 0; h <= 10; h++) {
+      for (let a = 0; a <= 10; a++) {
+        const pr = poissonPmf(h, xgH) * poissonPmf(a, xgA);
+        if (h > a) pH += pr;
+        else if (h === a) pD += pr;
+        else pA += pr;
+        grid.push({ h, a, p: pr });
+      }
+    }
+    const gridSum = pH + pD + pA || 1;
+    const topScores = grid.sort((x, y) => y.p - x.p).slice(0, 5);
+
     return {
       home: homeName, away: awayName,
       xgH: Math.round(xgH * 100) / 100,
       xgA: Math.round(xgA * 100) / 100,
       xgT: Math.round(xgT * 100) / 100,
       score,
+      topScores,
+      hw: pct1(pH / gridSum), dr: pct1(pD / gridSum), aw: pct1(pA / gridSum),
       o15: pct1(o15), o25: pct1(o25), o35: pct1(o35),
       btts: pct1(btts),
       h2: pct1(po.h2), a2: pct1(po.a2),
       markets,
       fair: Object.fromEntries(markets.map((m) => [m.key, 1 / Math.max(m.p / 100, 0.01)])),
       tip: markets[0],
+      context: contextLabel({ homeBottom, awayBottom, homeTop, awayTop, gap, nearEqual, weakAttH: weakAtt(home), weakAttA: weakAtt(away), strongH: strongAtt(home), strongA: strongAtt(away) }),
       confidence: Math.round(confidence * 100),
       homeRank: home.rank, awayRank: away.rank,
       homeMp: home.mp, awayMp: away.mp,
-      // explainability crumbs
-      context: contextLabel({ homeBottom, awayBottom, homeTop, awayTop, gap, nearEqual, weakAttH: weakAtt(home), weakAttA: weakAtt(away), strongH: strongAtt(home), strongA: strongAtt(away) }),
     };
   }
 
@@ -425,130 +440,70 @@ const Predict = (() => {
 
   const pct1 = (p) => Math.round(p * 1000) / 10;
 
-  /** Corner prediction for one fixture (multiplicative Poisson + empirical blend). */
+  /** Corner prediction for one fixture.
+   *
+   * Multiplicative Poisson, same shape as the goal model:
+   *   lambda_home = corners the home side wins at home
+   *               x corners the away side concedes away / league home mean
+   *   lambda_away = mirror image using the away side's away rate
+   * P(over 7.5) = P(total >= 8), P(over 8.5) = P(total >= 9) from a Poisson on
+   * lambda_home + lambda_away, blended with the league's observed over-line rate
+   * (tilted toward the two teams' own rates). Corners cluster within a match, so
+   * the pure Poisson right tail runs slightly hot; the empirical blend keeps the
+   * published number calibrated instead of over-confident. */
   function predictCorners(teams, league, homeName, awayName) {
     const home = teams.get(homeName);
     const away = teams.get(awayName);
     if (!home || !away || !league) return null;
-    const hRate = home.cornerRate != null ? home.cornerRate : league.mc;
-    const aRate = away.cornerRate != null ? away.cornerRate : league.mc;
-    const hPace = home.pace != null ? home.pace : 0;
-    const aPace = away.pace != null ? away.pace : 0;
-    const hWidth = home.width != null ? home.width : 0;
-    const aWidth = away.width != null ? away.width : 0;
-    const hTrap = home.trap != null ? home.trap : 0;
-    const aTrap = away.trap != null ? away.trap : 0;
-    var total = (league.mc * (hRate + aRate) / 2) * (1 + 0.04 * (hPace + aPace)) * (1 + 0.03 * (hWidth + aWidth)) * (1 - 0.04 * (hTrap + aTrap));
-    total = Math.max(total, 4);
-    const cT = total;
-    const cH = Math.round(cT / 2 * 10) / 10;
-    const cA = Math.round(cT / 2 * 10) / 10;
-    const o75raw = poissonAtLeast(8, cT);
-    const o85raw = poissonAtLeast(9, cT);
-    const mpMin = Math.min(5, home.mp, away.mp);
-    const w = clamp((mpMin - 2) / 12, 0, 0.3);
-    const o75e = league.o75Rate * (1 - w) + w * (home.o75Rate + away.o75Rate) / 2;
-    const o85e = league.o85Rate * (1 - w) + w * (home.o85Rate + away.o85Rate) / 2;
+    if (home.attCornerH == null || away.attCornerA == null) return null;
+
+    let lamH = clamp(
+      (home.attCornerH * away.defCornerA) / Math.max(league.avgHomeCorners, 0.5),
+      1.2, 11
+    );
+    let lamA = clamp(
+      (away.attCornerA * home.defCornerH) / Math.max(league.avgAwayCorners, 0.5),
+      1.0, 10
+    );
+    const cap = 16;
+    if (lamH + lamA > cap) {
+      const k = cap / (lamH + lamA);
+      lamH *= k;
+      lamA *= k;
+    }
+    const lam = lamH + lamA;
+
+    const p75 = poissonAtLeast(8, lam);
+    const p85 = poissonAtLeast(9, lam);
+
+    // empirical over-rates: league observed, tilted toward both teams' own rates
+    const mpMin = Math.min(home.mp || 0, away.mp || 0);
+    const wTeam = clamp(mpMin / 14, 0, 0.4);
+    const e75 = league.o75Rate * (1 - wTeam) + wTeam * ((home.o75Rate + away.o75Rate) / 2);
+    const e85 = league.o85Rate * (1 - wTeam) + wTeam * ((home.o85Rate + away.o85Rate) / 2);
+    const wEmp = clamp(league.n / (league.n + 40), 0.1, 0.45);
+
     return {
-      cornersH: cH,
-      cornersA: cA,
-      cornersT: Math.round(cT * 10) / 10,
-      hCornerRate: Math.round(hRate * 100) / 100,
-      aCornerRate: Math.round(aRate * 100) / 100,
-      hPace: Math.round(hPace * 100) / 100,
-      aPace: Math.round(aPace * 100) / 100,
-      hWidth: Math.round(hWidth * 100) / 100,
-      aWidth: Math.round(aWidth * 100) / 100,
-      hTrap: Math.round(hTrap * 100) / 100,
-      aTrap: Math.round(aTrap * 100) / 100,
-      o75: Math.round((0.75 * o75raw + 0.25 * o75e) * 1000) / 10,
-      o85: Math.round((0.75 * o85raw + 0.25 * o85e) * 1000) / 10,
+      cornersH: Math.round(lamH * 10) / 10,
+      cornersA: Math.round(lamA * 10) / 10,
+      cornersT: Math.round(lam * 10) / 10,
+      o75: Math.round(clamp((1 - wEmp) * p75 + wEmp * e75, 0.08, 0.92) * 1000) / 10,
+      o85: Math.round(clamp((1 - wEmp) * p85 + wEmp * e85, 0.05, 0.88) * 1000) / 10,
     };
   }
 
   return { buildLeague, predictMatch, poissonAtLeast, poissonPmf, bestScore, clamp,
-           buildCornerLeague, buildCornerModels, predictCorners,
-           cornerModelParams: cornerModelParams };
+           buildCornerLeague, buildCornerModels, predictCorners };
 })();
 
 window.Predict = Predict;
-(function cornerModelParamsFactory() {
-  window.Predict.cornerModelParams = function cornerModelParams(seasonResults, leagueFixtures) {
-    const teams = new Map();
-    const Mf = seasonResults || [];
-    const Lf = leagueFixtures || [];
-    for (const r of Mf) {
-      const hc = r.home_corners != null ? r.home_corners : null;
-      const ac = r.away_corners != null ? r.away_corners : null;
-      if (hc == null || ac == null) continue;
-      const H = (t) => {
-        if (!teams.has(t)) teams.set(t, { mp: 0, hMp: 0, aMp: 0, cornersHome: 0, cornersAway: 0, o75: 0, o85: 0, pace: 0, width: 0, trap: 0, last: [] });
-        return teams.get(t);
-      };
-      const h = H(r.home), a = H(r.away);
-      h.mp++; a.mp++;
-      h.hMp++; a.aMp++;
-      h.cornersHome += hc; h.cornersAway += ac;
-      a.cornersHome += ac; a.cornersAway += hc;
-      const total = hc + ac;
-      if (total >= 8) { h.o75++; a.o75++; }
-      if (total >= 9) { h.o85++; a.o85++; }
-      h.last.push(total); a.last.push(total);
-    }
-    const leagueLaps = Lf.reduce((s, r) => s + (r.home_corners != null ? r.home_corners + (r.away_corners != null ? r.away_corners : 0) : 0), 0);
-    const leagueMc = leagueLaps / Math.max(Mf.reduce((s, r) => s + (r.home_corners != null && r.away_corners != null ? 1 : 0), 0), 1);
-    for (const [name, t] of teams) {
-      const mp = Math.max(t.mp, 1);
-      const homeRate = t.hMp ? t.cornersHome / t.hMp : (t.cornersHome + t.cornersAway) / mp;
-      const awayRate = t.aMp ? t.cornersAway / t.aMp : (t.cornersHome + t.cornersAway) / mp;
-      t.cornerRate = (t.hMp ? homeRate : 0) + (t.aMp ? awayRate : 0);
-      t.pace = t.last.length ? t.last.slice(-5).reduce((s, v) => s + v, 0) / Math.min(5, t.last.length) : 0;
-      t.width = t.last.length ? (function(){ var mn = Infinity, mx = -Infinity; for (const v of t.last) { if (v < mn) mn = v; if (v > mx) mx = v; } return (mx - mn) / Math.max(t.last.reduce((s,v)=>s+v,0)/t.last.length, 1); })() : 0;
-      t.trap = t.last.length ? t.last.filter(v => v < 7).length / Math.min(t.last.length, 5) : 0;
-    }
-    return teams;
-  };
-})();
-(function legacyCornerPredictWrapper() {
-  window.Predict.legacyPredictCorners = function(league, homeName, awayName) {
-    if (!league || !homeName || !awayName) return null;
-    const teams = (function() {
-      const m = new Map();
-      const Mf = league._results || [];
-      for (const r of Mf) {
-        const hc = r.home_corners != null ? r.home_corners : null;
-        const ac = r.away_corners != null ? r.away_corners : null;
-        if (hc == null || ac == null) continue;
-        const H = (t) => {
-          if (!m.has(t)) m.set(t, { mp: 0, hMp: 0, aMp: 0, cornersHome: 0, cornersAway: 0, o75: 0, o85: 0, pace: 0, width: 0, trap: 0, last: [] });
-          return m.get(t);
-        };
-        const h = H(r.home), a = H(r.away);
-        h.mp++; a.mp++;
-        h.hMp++; a.aMp++;
-        h.cornersHome += hc; h.cornersAway += ac;
-        a.cornersHome += ac; a.cornersAway += hc;
-        const total = hc + ac;
-        if (total >= 8) { h.o75++; a.o75++; }
-        if (total >= 9) { h.o85++; a.o85++; }
-        h.last.push(total); a.last.push(total);
-      }
-      return m;
-    })();
-    if (!teams.size) return null;
-    return Predict.predictCorners(teams, league, homeName, awayName);
-  };
-})();
 
-
-(function() {
-/* over25stats — corner prediction page for top-10 leagues.
-   Loads fixtures for each CORNER_LEAGUES league, predicts
-   over 7.5 / over 8.5 for unplayed matches, renders as league sections. */
+/* over25stats — corner prediction page for the top-10 leagues.
+   Loads the next unplayed matchday for each league, predicts over 7.5 / over 8.5
+   corners with Predict.predictCorners, and renders one section per league. */
 
 const Corners = (() => {
   const els = {
-    board: () => document.getElementById("board"),
     sections: () => document.getElementById("sections"),
     loading: () => document.getElementById("state-loading"),
     empty: () => document.getElementById("state-empty"),
@@ -564,17 +519,18 @@ const Corners = (() => {
 
   /* ---------- state ---------- */
 
-  let state = {
-    leagues: [],          // [{folder, name, country, flag}]
-    fixturesByLeague: new Map(),  // folder -> [fixture, ...]
-    cornerModelsByLeague: new Map(),  // folder -> {league, teams}
+  const state = {
+    leagues: [],                  // [{folder, name, country}]
+    roundsByLeague: new Map(),    // folder -> { fixture, gw, model, played }
     selectedLeague: "all",
     selectedLine: "both",
+    loaded: false,
   };
 
   /* ---------- init ---------- */
 
   function init() {
+    if (!document.getElementById("board")) return;
     populateLeagueFilter();
     bindControls();
     loadAll();
@@ -583,8 +539,9 @@ const Corners = (() => {
   function populateLeagueFilter() {
     const select = els.leagueFilter();
     if (!select) return;
-    const cornerLeagues = GL.LEAGUES.filter((l) => GL.CORNER_LEAGUES.has(l.folder));
-    cornerLeagues.sort((a, b) => a.name.localeCompare(b.name));
+    const cornerLeagues = GL.LEAGUES
+      .filter((l) => GL.CORNER_LEAGUES.has(l.folder))
+      .sort((a, b) => a.name.localeCompare(b.name));
     state.leagues = cornerLeagues;
     for (const l of cornerLeagues) {
       const opt = document.createElement("option");
@@ -599,7 +556,7 @@ const Corners = (() => {
     if (leagueFilter) {
       leagueFilter.addEventListener("change", () => {
         state.selectedLeague = leagueFilter.value;
-        loadAll();
+        if (state.loaded) renderAll();
       });
     }
 
@@ -630,106 +587,110 @@ const Corners = (() => {
     els.error().hidden = true;
 
     try {
-      await loadAllLeagues();
+      await Promise.all(state.leagues.map(loadLeague));
+      state.loaded = true;
       await renderAll();
     } catch (err) {
       els.loading().hidden = true;
       els.error().hidden = false;
-      els.errorDetail().textContent = err.message || "Network error.";
+      els.errorDetail().textContent = err && err.message ? err.message : "Network error.";
     }
   }
 
-  async function loadAllLeagues() {
-    const cornerLeagues = state.leagues;
-    const fxByLeague = new Map();
-    const modelsByLeague = new Map();
-    const playedByLeague = new Map(); // folder -> Set of "date|home|away" keys
+  async function loadLeague(league) {
+    try {
+      const [fixtures, results] = await Promise.all([
+        GL.fetchFixtures(league.folder),
+        GL.fetchResults(league.folder),
+      ]);
 
-    for (const league of cornerLeagues) {
-      try {
-        const [fixtures, results] = await Promise.all([
-          GL.fetchFixtures(league.folder),
-          GL.fetchResults(league.folder),
-        ]);
+      const matches = GL.buildMatches(results.rows);
+      const cornerLeague = Predict.buildCornerLeague(matches);
+      const cornerTeams = Predict.buildCornerModels(matches);
+      if (!cornerLeague || !cornerTeams.size) return;
 
-        const matches = GL.buildMatches(results.rows);
-        const cornerLeague = Predict.buildCornerLeague(matches);
-        const cornerTeams = Predict.buildCornerModels(matches);
-
-        fxByLeague.set(league.folder, fixtures);
-        if (cornerLeague && cornerTeams.size) {
-          modelsByLeague.set(league.folder, { league: cornerLeague, teams: cornerTeams });
-        }
-        // cache played keys so renderAll doesn't re-fetch
-        const keys = new Set();
-        for (const m of matches) {
-          keys.add(`${m.date}|${m.home}|${m.away}`);
-          keys.add(`${m.date}|${m.away}|${m.home}`);
-        }
-        playedByLeague.set(league.folder, keys);
-      } catch {
-        // league may have no data yet — skip gracefully
+      const played = new Set();
+      for (const m of matches) {
+        played.add(`${m.date}|${m.home}|${m.away}`);
+        played.add(`${m.date}|${m.away}|${m.home}`);
       }
-    }
 
-    state.fixturesByLeague = fxByLeague;
-    state.cornerModelsByLeague = modelsByLeague;
-    state.playedByLeague = playedByLeague;
+      const round = nextRound(fixtures, played);
+      if (!round.fixtures.length) return;
+
+      state.roundsByLeague.set(league.folder, {
+        fixtures: round.fixtures,
+        gw: round.gw,
+        league: cornerLeague,
+        teams: cornerTeams,
+      });
+    } catch {
+      // a league with no data yet is simply skipped
+    }
   }
 
-  /* ---------- render ---------- */  async function renderAll() {
+  /**
+   * The next matchday = the lowest gameweek that still has unplayed fixtures,
+   * with any fixture dated before today dropped (they are awaiting results).
+   * Falls back to the earliest remaining date when a fixtures file has no gw.
+   */
+  function nextRound(fixtures, played) {
+    const today = new Date().toISOString().slice(0, 10);
+    const upcoming = (fixtures || []).filter((f) => {
+      if (!f || !f.home || !f.away) return false;
+      if (played.has(`${f.date}|${f.home}|${f.away}`)) return false;
+      if (played.has(`${f.date}|${f.away}|${f.home}`)) return false;
+      if (f.date && f.date < today) return false;
+      return true;
+    });
+
+    if (!upcoming.length) return { fixtures: [], gw: null };
+
+    const byKickoff = (a, b) =>
+      String(a.date).localeCompare(String(b.date)) ||
+      String(a.time || "").localeCompare(String(b.time || ""));
+
+    const gws = upcoming.map((f) => Number(f.gw)).filter((n) => Number.isFinite(n) && n > 0);
+    if (gws.length) {
+      const gw = Math.min(...gws);
+      return {
+        gw,
+        fixtures: upcoming.filter((f) => Number(f.gw) === gw).sort(byKickoff),
+      };
+    }
+
+    const date = upcoming.map((f) => f.date).sort()[0];
+    return { gw: null, fixtures: upcoming.filter((f) => f.date === date).sort(byKickoff) };
+  }
+
+  /* ---------- render ---------- */
+
+  function renderAll() {
     const sectionsEl = els.sections();
     if (!sectionsEl) return;
 
-    const cornerLeagues = state.leagues;
-    const selectedLeague = state.selectedLeague;
-    const selectedLine = state.selectedLine;
+    const showO75 = state.selectedLine === "both" || state.selectedLine === "o75";
+    const showO85 = state.selectedLine === "both" || state.selectedLine === "o85";
+
+    const entries = [];
+    for (const league of state.leagues) {
+      if (state.selectedLeague !== "all" && league.folder !== state.selectedLeague) continue;
+      const data = state.roundsByLeague.get(league.folder);
+      if (!data) continue;
+      entries.push({ league, data });
+    }
+
+    entries.sort((a, b) => String(a.data.fixtures[0].date).localeCompare(String(b.data.fixtures[0].date)));
 
     let html = "";
     let anyRows = false;
+    let totalRows = 0;
 
-    for (const league of cornerLeagues) {
-      if (selectedLeague !== "all" && league.folder !== selectedLeague) continue;
-
-      const fixtures = state.fixturesByLeague.get(league.folder);
-      const modelData = state.cornerModelsByLeague.get(league.folder);
-      if (!fixtures || !fixtures.length) continue;
-      if (!modelData) continue;
-
-      // Build set of played date|home|away keys from the already-loaded results
-      const playedSet = state.playedByLeague ? state.playedByLeague.get(league.folder) || new Set() : new Set();
-
-      const upcoming = (fixtures || []).filter((f) => {
-        const key = `${f.date}|${f.home}|${f.away}`;
-        return !playedSet.has(key);
-      }).sort((a, b) => a.date.localeCompare(b.date) || (a.time || "").localeCompare(b.time || ""));
-
-      if (!upcoming.length) continue;
-
-      const showO75 = selectedLine === "both" || selectedLine === "o75";
-      const showO85 = selectedLine === "both" || selectedLine === "o85";
-      if (!showO75 && !showO85) continue;
-
+    for (const { league, data } of entries) {
       const rows = [];
-      for (const fx of upcoming) {
-        const pred = Predict.predictCorners(
-          modelData.teams,
-          modelData.league,
-          fx.home,
-          fx.away
-        );
+      for (const fx of data.fixtures) {
+        const pred = Predict.predictCorners(data.teams, data.league, fx.home, fx.away);
         if (!pred) continue;
-
-        let timeLabel = "";
-        if (fx.time) {
-          const [h, m] = fx.time.split(":").map(Number);
-          if (Number.isFinite(h) && Number.isFinite(m)) {
-            const ampm = h >= 12 ? "PM" : "AM";
-            const hh = h % 12 || 12;
-            timeLabel = `${hh}:${String(m).padStart(2, "0")} ${ampm}`;
-          }
-        }
-
         rows.push(`
           <tr class="corner-row">
             <td class="corner-teams">
@@ -737,39 +698,42 @@ const Corners = (() => {
               <span class="corner-vs">v</span>
               <span class="corner-away">${escHtml(fx.away)}</span>
             </td>
-            <td class="corner-date">${fx.date} ${timeLabel ? `<span class="corner-time">${escHtml(timeLabel)}</span>` : ""}</td>
+            <td class="corner-date">${escHtml(fx.date)}${fx.time ? ` <span class="corner-time">${escHtml(fx.time)}</span>` : ""}</td>
             ${showO75 ? `<td class="corner-o75 num">${pred.o75.toFixed(1)}%</td>` : ""}
             ${showO85 ? `<td class="corner-o85 num">${pred.o85.toFixed(1)}%</td>` : ""}
+            <td class="corner-exp num">${pred.cornersT.toFixed(1)}</td>
           </tr>`);
       }
-
       if (!rows.length) continue;
       anyRows = true;
+      totalRows += rows.length;
 
+      const gwLabel = data.gw ? `Matchday ${data.gw} · ` : "";
       html += `
         <section class="corner-league">
           <div class="corner-league-head">
             <h2 class="corner-league-title">${escHtml(league.name)}</h2>
-            <span class="corner-league-meta">${cornerDataSummary(modelData.league)}</span>
+            <span class="corner-league-meta">${gwLabel}${cornerDataSummary(data.league)}</span>
           </div>
           <table class="corner-table">
             <thead>
               <tr>
                 <th scope="col" class="corner-th-teams">Fixture</th>
-                <th scope="col" class="corner-th-date">Date</th>
+                <th scope="col" class="corner-th-date">Kick-off</th>
                 ${showO75 ? `<th scope="col" class="corner-th-num num">Over 7.5</th>` : ""}
                 ${showO85 ? `<th scope="col" class="corner-th-num num">Over 8.5</th>` : ""}
+                <th scope="col" class="corner-th-num num">Exp.<span class="corner-th-full"> corners</span></th>
               </tr>
             </thead>
-            <tbody>${rows.join("") }</tbody>
+            <tbody>${rows.join("")}</tbody>
           </table>
         </section>`;
     }
 
     if (!anyRows) {
       els.loading().hidden = true;
-      els.empty().hidden = false;
       els.sections().hidden = true;
+      els.empty().hidden = false;
       return;
     }
 
@@ -779,12 +743,12 @@ const Corners = (() => {
     sectionsEl.innerHTML = html;
     sectionsEl.hidden = false;
 
-    say(`Loaded corner predictions for ${cornerLeagues.length} leagues.`);
+    say(`Loaded ${totalRows} upcoming fixtures across ${entries.length} leagues.`);
   }
 
   function cornerDataSummary(league) {
     if (!league) return "";
-    return `avg ${league.avgTotalCorners.toFixed(1)} corners · O7.5 ${Math.round(league.o75Rate * 100)}% · O8.5 ${Math.round(league.o85Rate * 100)}%`;
+    return `avg ${league.avgTotalCorners.toFixed(1)} corners · O7.5 ${Math.round(league.o75Rate * 100)}% · O8.5 ${Math.round(league.o85Rate * 100)}% · ${league.n} played`;
   }
 
   function escHtml(s) {
@@ -802,6 +766,4 @@ const Corners = (() => {
   }
 
   return {};
-})();
-
 })();
