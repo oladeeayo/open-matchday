@@ -1,16 +1,4 @@
 gw,date,time,home,away
-13,2026-10-24,,AFC Telford,Hebburn Town
-13,2026-10-24,,Brackley Town,Radcliffe
-13,2026-10-24,,Chorley,Buxton
-13,2026-10-24,,Darlington,Spennymoor
-13,2026-10-24,,Harborough,Worksop
-13,2026-10-24,,Hednesford,Spalding United
-13,2026-10-24,,King’s Lynn,Southport
-13,2026-10-24,,Macclesfield,Hereford
-13,2026-10-24,,Marine,Oxford City
-13,2026-10-24,,Merthyr Town,Morecambe
-13,2026-10-24,,Scarborough,Bedford
-13,2026-10-24,,South Shields,Chester
 14,2026-10-27,,Bedford,Hednesford
 14,2026-10-27,,Buxton,Harborough
 14,2026-10-27,,Chester,Marine
@@ -112,3 +100,15 @@ gw,date,time,home,away
 21,2026-12-08,,Spalding United,Radcliffe
 21,2026-12-08,,Spennymoor,Morecambe
 21,2026-12-08,,Worksop,Darlington
+22,2026-12-19,,AFC Telford,Worksop
+22,2026-12-19,,Buxton,Southport
+22,2026-12-19,,Chorley,South Shields
+22,2026-12-19,,Darlington,Bedford
+22,2026-12-19,,Hebburn Town,Brackley Town
+22,2026-12-19,,King’s Lynn,Chester
+22,2026-12-19,,Marine,Hereford
+22,2026-12-19,,Merthyr Town,Spennymoor
+22,2026-12-19,,Morecambe,Harborough
+22,2026-12-19,,Oxford City,Spalding United
+22,2026-12-19,,Radcliffe,Macclesfield
+22,2026-12-19,,Scarborough,Hednesford

@@ -1,8 +1,4 @@
 gw,date,time,home,away
-12,2026-10-24,,Akron Togliatti,Dynamo Moscow
-12,2026-10-24,,Fakel Voronezh,Rodina Moscow
-12,2026-10-24,,Krasnodar,Baltika
-12,2026-10-24,,Rubin Kazan,Krylya Sovetov
 12,2026-10-25,,CSKA Moscow,Spartak Moscow
 12,2026-10-25,,FK Rostov,Lokomotiv Moscow
 12,2026-10-25,,Zenit,Dynamo Makhachkala
@@ -107,3 +103,11 @@ gw,date,time,home,away
 25,2027-04-24,,Krasnodar,Dynamo Makhachkala
 25,2027-04-24,,Orenburg,Fakel Voronezh
 25,2027-04-24,,Rubin Kazan,Lokomotiv Moscow
+26,2027-05-01,,Dynamo Makhachkala,Akhmat Grozny
+26,2027-05-01,,Dynamo Moscow,Akron Togliatti
+26,2027-05-01,,FK Rostov,Orenburg
+26,2027-05-01,,Fakel Voronezh,Rubin Kazan
+26,2027-05-01,,Krylya Sovetov,CSKA Moscow
+26,2027-05-01,,Lokomotiv Moscow,Rodina Moscow
+26,2027-05-01,,Spartak Moscow,Baltika
+26,2027-05-01,,Zenit,Krasnodar

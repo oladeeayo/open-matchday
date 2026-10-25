@@ -1,7 +1,4 @@
 gw,date,time,home,away
-13,2026-10-24,,Csikszereda M. Ciuc,FC Voluntari
-13,2026-10-24,,FC Arges,UTA Arad
-13,2026-10-24,,FCSB,FC Rapid Bucuresti
 13,2026-10-25,,CFR Cluj,Dinamo Bucuresti
 13,2026-10-25,,Farul Constanta,Otelul
 13,2026-10-26,,Sepsi Sf. Gheorghe,Univ. Craiova
@@ -109,3 +106,11 @@ gw,date,time,home,away
 26,2027-02-13,,Petrolul,Farul Constanta
 26,2027-02-13,,UTA Arad,FC Botosani
 26,2027-02-13,,Univ. Craiova,Csikszereda M. Ciuc
+27,2027-02-20,,CFR Cluj,UTA Arad
+27,2027-02-20,,Corvinul,FC Rapid Bucuresti
+27,2027-02-20,,Csikszereda M. Ciuc,Otelul
+27,2027-02-20,,FC Arges,U. Cluj
+27,2027-02-20,,FC Botosani,Dinamo Bucuresti
+27,2027-02-20,,FCSB,FC Voluntari
+27,2027-02-20,,Farul Constanta,Univ. Craiova
+27,2027-02-20,,Sepsi Sf. Gheorghe,Petrolul

@@ -154,3 +154,13 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-10,15:00,Woking,Harrogate Town,0,1,A,0,1,A,3,5,3,3,14,14,10,3,,,,,3,3,0,0,,espn
 10,2026-10-10,15:00,Worthing,Solihull Moors,5,0,H,3,0,H,13,7,8,4,16,12,4,7,,,,,0,1,0,0,,espn
 10,2026-10-10,17:30,Forest Green Rovers,Hartlepool United,2,4,A,0,1,A,14,7,4,7,9,15,9,5,,,,,2,3,0,0,,espn
+11,2026-10-24,12:30,Eastleigh,Boston United,4,2,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,12:30,Harrogate Town,Sutton United,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Aldershot Town,Wealdstone,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Boreham Wood,AFC Fylde,4,0,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Hartlepool United,AFC Hornchurch,2,1,H,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Scunthorpe United,Woking,2,3,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Solihull Moors,Carlisle United,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Southend United,FC Halifax Town,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,15:00,Yeovil Town,Altrincham,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+11,2026-10-24,17:30,Kidderminster Harriers,Worthing,1,2,A,,,,,,,,,,,,,,,,,,,,,espn

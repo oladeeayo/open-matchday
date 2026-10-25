@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-26,,Avia Swidnik,Ol. Grudziadz,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-26,,Chojniczanka,Tychy,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,Pruszkow,Legia II,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-07-31,,S. Wola,Tychy,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Hutnik Krakow,Swit Szczecin,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -102,3 +100,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-18,,Slask Wroclaw II,Avia Swidnik,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-23,,Kleczew,Slask Wroclaw II,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-23,,Zawisza,Swit Szczecin,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Bielsko-Biala,R. Rzeszow,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Chojniczanka,Legia II,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Hutnik Krakow,Ol. Grudziadz,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,S. Wola,Sandecja Nowy S.,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Zielona Gora,Leczna,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway

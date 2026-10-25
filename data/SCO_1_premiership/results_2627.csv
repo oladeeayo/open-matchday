@@ -53,3 +53,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-10-17,15:00,St. Johnstone,Dundee United,1,1,D,1,0,H,11,14,5,7,11,15,4,7,,,,,2,4,0,0,,fixturedl
 9,2026-10-17,20:00,Dundee,Rangers,2,2,D,1,1,D,10,21,6,9,13,10,3,6,,,,,2,2,0,0,,fixturedl
 9,2026-10-18,15:00,Celtic,Heart of Midlothian,7,1,H,5,1,H,18,20,10,5,17,8,6,3,,,,,3,1,0,0,,fixturedl
+10,2026-10-24,15:00,Dundee United,Aberdeen,3,2,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-24,15:00,Falkirk,Kilmarnock,3,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-24,15:00,Rangers,St. Johnstone,4,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+10,2026-10-24,15:00,St. Mirren,Dundee,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl

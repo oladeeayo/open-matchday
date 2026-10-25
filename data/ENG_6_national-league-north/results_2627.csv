@@ -1,16 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-3,2026-08-18,,Bedford,Buxton,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Brackley Town,King’s Lynn,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Darlington,Chester,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Hebburn Town,Worksop,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Hednesford,Southport,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Hereford,Radcliffe,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Marine,Chorley,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Merthyr Town,AFC Telford,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Morecambe,South Shields,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Oxford City,Harborough,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Scarborough,Spennymoor,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-18,,Spalding United,Macclesfield,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-22,,AFC Telford,Hednesford,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-22,,Buxton,Hebburn Town,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-22,,Chester,Spalding United,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -113,3 +101,15 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-17,,Hednesford,Brackley Town,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-17,,Merthyr Town,King’s Lynn,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-17,,Southport,Radcliffe,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,AFC Telford,Hebburn Town,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Brackley Town,Radcliffe,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Chorley,Buxton,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Darlington,Spennymoor,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Harborough,Worksop,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Hednesford,Spalding United,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,King’s Lynn,Southport,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Macclesfield,Hereford,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Marine,Oxford City,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Merthyr Town,Morecambe,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,Scarborough,Bedford,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-24,,South Shields,Chester,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway

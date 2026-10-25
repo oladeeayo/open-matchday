@@ -100,3 +100,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-18,15:30,MSV Duisburg,Viktoria Köln,1,1,D,1,0,H,,,,,,,,,,,,,,,,,"28,74",openligadb
 10,2026-10-18,18:30,SV Meppen,TSV Havelse,2,1,H,1,1,D,,,,,,,,,,,,,,,,,"13,15",openligadb
 11,2026-10-23,18:00,Rot-Weiss Essen,Jahn Regensburg,1,0,H,1,0,H,,,,,,,,,,,,,,,,,15,openligadb
+11,2026-10-24,13:00,FC Ingolstadt 04,MSV Duisburg,2,1,H,0,0,D,,,,,,,,,,,,,,,,,"4,21,51",openligadb
+11,2026-10-24,13:00,Hansa Rostock,Fortuna Düsseldorf,1,1,D,0,0,D,,,,,,,,,,,,,,,,,"44,46",openligadb
+11,2026-10-24,13:00,SV Meppen,Würzburger Kickers,4,0,H,0,0,D,,,,,,,,,,,,,,,,,"26,39,61,73",openligadb
+11,2026-10-24,13:00,SV Wehen Wiesbaden,SG Sonnenhof Großaspach,7,1,H,0,0,D,,,,,,,,,,,,,,,,,"16,30,35,39,50,66,72,91",openligadb
+11,2026-10-24,13:00,Viktoria Köln,SC Verl,3,1,H,0,0,D,,,,,,,,,,,,,,,,,"48,71,86,88",openligadb
+11,2026-10-24,15:30,VfB Stuttgart II,Alemannia Aachen,1,2,A,0,1,A,,,,,,,,,,,,,,,,,"12,48,52",openligadb
