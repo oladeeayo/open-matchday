@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-24,,Pogon Szczecin,Legia,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-24,,Radomiak Radom,Wieczysta Krakow,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-25,,Gornik Zabrze,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-25,,Jagiellonia,Korona Kielce,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-25,,Lech Poznan,Cracovia,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -102,3 +100,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-24,,Piast Gliwice,Cracovia,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-24,,Pogon Szczecin,Radomiak Radom,4,3,H,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-24,,Wisla,Rakow,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-25,,Jagiellonia,Wisla Plock,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-25,,Legia,Lech Poznan,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+12,2026-10-25,,Slask Wroclaw,Wieczysta Krakow,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

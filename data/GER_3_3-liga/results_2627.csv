@@ -98,7 +98,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-17,15:30,Würzburger Kickers,SV Waldhof Mannheim,2,0,H,1,0,H,,,,,,,,,,,,,,,,,"44,89",openligadb
 10,2026-10-18,12:30,TSG 1899 Hoffenheim II,SC Verl,2,1,H,2,1,H,,,,,,,,,,,,,,,,,"5,15,22",openligadb
 10,2026-10-18,15:30,MSV Duisburg,Viktoria Köln,1,1,D,1,0,H,,,,,,,,,,,,,,,,,"28,74",openligadb
-10,2026-10-18,18:30,SV Meppen,TSV Havelse,2,1,H,1,1,D,,,,,,,,,,,,,,,,,"13,15",openligadb
+10,2026-10-18,18:30,SV Meppen,TSV Havelse,1,1,D,1,1,D,,,,,,,,,,,,,,,,,"13,15",openligadb
 11,2026-10-23,18:00,Rot-Weiss Essen,Jahn Regensburg,1,0,H,1,0,H,,,,,,,,,,,,,,,,,15,openligadb
 11,2026-10-24,13:00,FC Ingolstadt 04,MSV Duisburg,2,1,H,0,0,D,,,,,,,,,,,,,,,,,"4,21,51",openligadb
 11,2026-10-24,13:00,Hansa Rostock,Fortuna Düsseldorf,1,1,D,0,0,D,,,,,,,,,,,,,,,,,"44,46",openligadb
@@ -106,3 +106,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-10-24,13:00,SV Wehen Wiesbaden,SG Sonnenhof Großaspach,7,1,H,0,0,D,,,,,,,,,,,,,,,,,"16,30,35,39,50,66,72,91",openligadb
 11,2026-10-24,13:00,Viktoria Köln,SC Verl,3,1,H,0,0,D,,,,,,,,,,,,,,,,,"48,71,86,88",openligadb
 11,2026-10-24,15:30,VfB Stuttgart II,Alemannia Aachen,1,2,A,0,1,A,,,,,,,,,,,,,,,,,"12,48,52",openligadb
+11,2026-10-25,13:30,TSV Havelse,1. FC Saarbrücken,3,2,H,1,1,D,,,,,,,,,,,,,,,,,"14,37,47,88,91",openligadb
+11,2026-10-25,16:30,Preußen Münster,Fortuna Köln,1,0,H,0,0,D,,,,,,,,,,,,,,,,,78,openligadb
+11,2026-10-25,19:30,SV Waldhof Mannheim,TSG 1899 Hoffenheim II,4,1,H,0,1,A,,,,,,,,,,,,,,,,,"3,57,78,88,90",openligadb

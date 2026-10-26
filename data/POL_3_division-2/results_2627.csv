@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-2,2026-07-31,,Pruszkow,Legia II,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-07-31,,S. Wola,Tychy,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Hutnik Krakow,Swit Szczecin,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Kleczew,Podhale Nowy Targ,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-01,,Leczna,Avia Swidnik,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -105,3 +103,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-10-24,,Hutnik Krakow,Ol. Grudziadz,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-24,,S. Wola,Sandecja Nowy S.,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-24,,Zielona Gora,Leczna,0,6,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-25,,Avia Swidnik,Pruszkow,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-25,,Tychy,Podhale Nowy Targ,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway

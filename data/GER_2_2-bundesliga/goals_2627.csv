@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -236,3 +236,11 @@ gw,date,home,away,minute,score_home,score_away,scorer
 9,2026-10-24,1. FC Magdeburg,Karlsruher SC,93,6,1,Leon Mergner
 9,2026-10-24,Hertha BSC,DSC Arminia Bielefeld,93,1,0,J. Brekalo
 9,2026-10-24,1. FC Nürnberg,1. FC Kaiserslautern,58,0,1,Erencan Yardimci
+9,2026-10-25,Eintracht Braunschweig,Hannover 96,17,1,0,Max Marie
+9,2026-10-25,Eintracht Braunschweig,Hannover 96,92,2,0,Y. Sturm
+9,2026-10-25,Holstein Kiel,Dynamo Dresden,9,1,0,Giorgi Kvilitaia
+9,2026-10-25,Holstein Kiel,Dynamo Dresden,73,2,0,J. Therkelsen
+9,2026-10-25,Holstein Kiel,Dynamo Dresden,85,3,0,Phil Harres
+9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,37,1,0,Daniel Kofi Kyereh
+9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,39,2,0,R. Meißner
+9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,75,3,0,I. Badjie

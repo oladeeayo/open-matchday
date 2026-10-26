@@ -1,10 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-10,2026-06-13,,Ilves,TPS,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-06-13,,Inter Turku,AC Oulu,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-06-13,,Jaro,HJK,2,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-06-13,,Lahti,SJK,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-06-13,,Mariehamn,Gnistan,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-06-13,,VPS,KuPS,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 11,2026-06-17,,Gnistan,Lahti,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 11,2026-06-17,,HJK,Inter Turku,3,3,D,,,,,,,,,,,,,,,,,,,,,soccerway
 11,2026-06-17,,Ilves,Jaro,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -106,6 +100,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 27,2026-10-17,,Jaro,Mariehamn,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 27,2026-10-17,,Lahti,TPS,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 28,2026-10-18,,KuPS,VPS,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-17,2026-10-21,,PK-35,Jaro,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-10-21,,PK-35,Jaro,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 29,2026-10-24,,Gnistan,AC Oulu,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 29,2026-10-24,,VPS,Inter Turku,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+29,2026-10-25,,HJK,KuPS,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-10-25,,Jaro,PK-35,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

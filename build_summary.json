@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-25T02:55:06Z",
+  "generated_utc": "2026-10-26T02:53:42Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -9,11 +9,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 75,
-      "results": 75,
-      "fixtures": 305,
+      "corners": 80,
+      "results": 80,
+      "fixtures": 300,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "La Liga",
@@ -22,11 +22,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 94,
-      "results": 94,
-      "fixtures": 286,
+      "corners": 98,
+      "results": 98,
+      "fixtures": 282,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Bundesliga",
@@ -35,11 +35,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 61,
-      "results": 61,
-      "fixtures": 245,
+      "corners": 63,
+      "results": 63,
+      "fixtures": 243,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Serie A",
@@ -48,11 +48,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 75,
-      "results": 75,
-      "fixtures": 305,
+      "corners": 80,
+      "results": 80,
+      "fixtures": 300,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Ligue 1",
@@ -61,11 +61,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 1,
       "dropped_stale_postponed": 0,
-      "corners": 65,
-      "results": 65,
-      "fixtures": 241,
+      "corners": 71,
+      "results": 71,
+      "fixtures": 235,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "UEFA Champions League",
@@ -206,7 +206,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 46,
-      "fixtures": 4,
+      "fixtures": 19,
       "errors": [],
       "latest": "2026-10-24"
     },
@@ -348,10 +348,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 58,
-      "fixtures": 139,
+      "results": 60,
+      "fixtures": 137,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Scottish Championship",
@@ -400,10 +400,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 78,
-      "fixtures": 228,
+      "results": 81,
+      "fixtures": 225,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "3. Liga",
@@ -413,10 +413,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 107,
-      "fixtures": 273,
+      "results": 110,
+      "fixtures": 270,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Primeira Liga",
@@ -425,11 +425,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 76,
-      "results": 76,
-      "fixtures": 230,
+      "corners": 80,
+      "results": 80,
+      "fixtures": 226,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Eredivisie",
@@ -438,11 +438,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 85,
-      "results": 85,
-      "fixtures": 221,
+      "corners": 90,
+      "results": 90,
+      "fixtures": 216,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Belgian Pro League",
@@ -451,11 +451,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 76,
-      "results": 76,
-      "fixtures": 230,
+      "corners": 80,
+      "results": 80,
+      "fixtures": 226,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Süper Lig",
@@ -464,11 +464,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 76,
-      "results": 76,
-      "fixtures": 230,
+      "corners": 78,
+      "results": 78,
+      "fixtures": 228,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Super League Greece",
@@ -477,11 +477,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 51,
-      "results": 51,
-      "fixtures": 131,
+      "corners": 54,
+      "results": 55,
+      "fixtures": 127,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Swiss Super League",
@@ -491,10 +491,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 63,
-      "fixtures": 69,
+      "results": 66,
+      "fixtures": 66,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Austrian Bundesliga",
@@ -504,10 +504,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 58,
-      "fixtures": 74,
+      "results": 60,
+      "fixtures": 72,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Danish Superliga",
@@ -517,10 +517,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 67,
-      "fixtures": 65,
+      "results": 71,
+      "fixtures": 61,
       "errors": [],
-      "latest": "2026-10-23"
+      "latest": "2026-10-25"
     },
     {
       "league": "Allsvenskan",
@@ -530,10 +530,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 107,
-      "fixtures": 42,
+      "results": 103,
+      "fixtures": 40,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Eliteserien",
@@ -544,9 +544,9 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 110,
-      "fixtures": 54,
+      "fixtures": 48,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Liga I",
@@ -556,10 +556,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 101,
-      "fixtures": 115,
+      "results": 103,
+      "fixtures": 113,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Russian Premier Liga",
@@ -569,10 +569,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 92,
-      "fixtures": 112,
+      "results": 95,
+      "fixtures": 109,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "League of Ireland First Division",
@@ -608,10 +608,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 103,
-      "fixtures": 113,
+      "results": 104,
+      "fixtures": 110,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "I Liga",
@@ -621,10 +621,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 104,
-      "fixtures": 112,
+      "results": 105,
+      "fixtures": 118,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "II Liga",
@@ -635,9 +635,9 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 106,
-      "fixtures": 110,
+      "fixtures": 117,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Pro League U21",
@@ -699,10 +699,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 51,
-      "fixtures": 109,
+      "results": 52,
+      "fixtures": 108,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Chance Liga",
@@ -712,10 +712,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 91,
-      "fixtures": 116,
+      "results": 94,
+      "fixtures": 113,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Ukrainian Premier League",
@@ -725,10 +725,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 75,
-      "fixtures": 116,
+      "results": 77,
+      "fixtures": 114,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Cyprus League",
@@ -738,10 +738,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 44,
-      "fixtures": 110,
+      "results": 47,
+      "fixtures": 114,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Nike Liga",
@@ -751,10 +751,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 68,
-      "fixtures": 64,
+      "results": 70,
+      "fixtures": 62,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Prva Liga",
@@ -777,10 +777,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 110,
-      "fixtures": 11,
+      "results": 106,
+      "fixtures": 9,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Kazakhstan Premier League",
@@ -790,10 +790,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 104,
-      "fixtures": 12,
+      "results": 106,
+      "fixtures": 8,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Segunda División",
@@ -803,10 +803,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 116,
-      "fixtures": 335,
+      "results": 120,
+      "fixtures": 331,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Serie B",
@@ -816,10 +816,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 78,
-      "fixtures": 302,
+      "results": 80,
+      "fixtures": 300,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Ligue 2",
@@ -878,13 +878,13 @@
       "folder": "data/ARG_1_liga-profesional",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 2,
+      "dropped_reversed_dupes": 1,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 451,
-      "fixtures": 36,
+      "results": 456,
+      "fixtures": 32,
       "errors": [],
-      "latest": "2026-10-25"
+      "latest": "2026-10-26"
     },
     {
       "league": "Primera Nacional",
@@ -894,10 +894,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 616,
-      "fixtures": 32,
+      "results": 627,
+      "fixtures": 21,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Liga MX",
@@ -907,10 +907,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 118,
-      "fixtures": 35,
+      "results": 121,
+      "fixtures": 32,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Liga de Expansión MX",
@@ -920,10 +920,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 107,
-      "fixtures": 13,
+      "results": 112,
+      "fixtures": 8,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Major League Soccer",
@@ -933,8 +933,8 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 493,
-      "fixtures": 52,
+      "results": 497,
+      "fixtures": 48,
       "errors": [],
       "latest": "2026-10-25"
     },
@@ -946,10 +946,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 313,
-      "fixtures": 84,
+      "results": 318,
+      "fixtures": 79,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "A-Leagues",
@@ -959,10 +959,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 9,
-      "fixtures": 147,
+      "results": 11,
+      "fixtures": 145,
       "errors": [],
-      "latest": "2026-10-24"
+      "latest": "2026-10-25"
     },
     {
       "league": "Chinese Super League",

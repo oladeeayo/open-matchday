@@ -64,3 +64,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-18,19:45,Olympique Lyonnais,OGC Nice,2,1,H,2,1,H,8,12,4,5,6,14,1,9,1,1,0,8,0,4,1,0,"18,32",fixturedl
 8,2026-10-23,19:45,Stade Brestois 29,OGC Nice,1,2,A,,,,,,,,,,3,7,1,4,2,3,,,,,"15,61,83",fixturedl
 8,2026-10-24,19:45,RC Lens,Paris FC,2,1,H,,,,,,,,,,6,1,1,0,5,1,,,,,"47,63,83",fixturedl
+8,2026-10-25,15:00,AS Monaco,LOSC Lille,1,1,D,,,,,,,,,,6,1,0,1,6,0,,,,,"24,74",fixturedl
+8,2026-10-25,17:15,AJ Auxerre,Le Mans FC,1,1,D,,,,,,,,,,7,1,1,0,6,1,,,,,,fixturedl
+8,2026-10-25,17:15,Angers SCO,FC Lorient,0,0,D,,,,,,,,,,6,7,2,4,4,3,,,,,,fixturedl
+8,2026-10-25,17:15,Olympique de Marseille,Havre Athletic Club,4,3,H,,,,,,,,,,4,3,2,1,2,2,,,,,"33,50,55,77",fixturedl
+8,2026-10-25,17:15,Stade Rennais FC,RC Strasbourg Alsace,3,0,H,,,,,,,,,,2,4,0,2,2,2,,,,,"34,41,61",fixturedl
+8,2026-10-25,17:15,Toulouse FC,Estac Troyes,0,0,D,,,,,,,,,,4,2,2,1,2,1,,,,,,fixturedl
