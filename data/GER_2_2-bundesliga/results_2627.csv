@@ -71,12 +71,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-10-18,12:30,DSC Arminia Bielefeld,VfL Osnabrück,2,1,H,1,1,D,15,8,3,1,14,11,6,0,,,,,3,1,0,0,"16,26,85",openligadb
 8,2026-10-18,12:30,Dynamo Dresden,1. FC Magdeburg,2,0,H,1,0,H,12,14,6,4,8,9,3,0,,,,,1,0,0,0,"9,50",openligadb
 8,2026-10-18,12:30,Karlsruher SC,SV Darmstadt 98,4,0,H,2,0,H,15,9,7,1,15,10,4,4,,,,,1,2,0,0,"6,13,51,65",openligadb
-9,2026-10-23,17:30,SV Darmstadt 98,FC St. Pauli,0,0,D,0,0,D,,,,,,,,,,,,,,,,,,openligadb
-9,2026-10-23,17:30,VfL Bochum,VfL Wolfsburg,1,1,D,0,1,A,,,,,,,,,,,,,,,,,"2,63",openligadb
-9,2026-10-24,12:00,1. FC Heidenheim 1846,Energie Cottbus,1,1,D,0,1,A,,,,,,,,,,,,,,,,,"40,49",openligadb
-9,2026-10-24,12:00,1. FC Magdeburg,Karlsruher SC,6,1,H,1,0,H,,,,,,,,,,,,,,,,,"39,51,54,59,66,82,93",openligadb
-9,2026-10-24,12:00,Hertha BSC,DSC Arminia Bielefeld,1,0,H,0,0,D,,,,,,,,,,,,,,,,,93,openligadb
-9,2026-10-24,19:30,1. FC Nürnberg,1. FC Kaiserslautern,0,1,A,0,0,D,,,,,,,,,,,,,,,,,58,openligadb
-9,2026-10-25,13:30,Eintracht Braunschweig,Hannover 96,2,0,H,1,0,H,,,,,,,,,,,,,,,,,"17,92",openligadb
-9,2026-10-25,13:30,Holstein Kiel,Dynamo Dresden,3,0,H,1,0,H,,,,,,,,,,,,,,,,,"9,73,85",openligadb
-9,2026-10-25,13:30,VfL Osnabrück,SpVgg Greuther Fürth,3,0,H,2,0,H,,,,,,,,,,,,,,,,,"37,39,75",openligadb
+9,2026-10-23,17:30,SV Darmstadt 98,FC St. Pauli,0,0,D,0,0,D,12,18,0,2,13,13,2,6,,,,,3,4,0,0,,openligadb
+9,2026-10-23,17:30,VfL Bochum,VfL Wolfsburg,1,1,D,0,1,A,19,14,5,5,19,9,5,7,,,,,0,2,0,0,"2,63",openligadb
+9,2026-10-24,12:00,1. FC Heidenheim 1846,Energie Cottbus,1,1,D,0,1,A,34,7,8,3,6,7,15,2,,,,,2,2,0,0,"40,49",openligadb
+9,2026-10-24,12:00,1. FC Magdeburg,Karlsruher SC,6,1,H,1,0,H,16,12,8,4,5,14,4,4,,,,,2,1,0,0,"39,51,54,59,66,82,93",openligadb
+9,2026-10-24,12:00,Hertha BSC,DSC Arminia Bielefeld,1,0,H,0,0,D,15,6,4,1,11,11,4,2,,,,,1,2,0,0,93,openligadb
+9,2026-10-24,19:30,1. FC Nürnberg,1. FC Kaiserslautern,0,1,A,0,0,D,31,12,8,7,9,16,11,3,,,,,0,5,0,0,58,openligadb
+9,2026-10-25,12:30,Eintracht Braunschweig,Hannover 96,2,0,H,1,0,H,14,14,4,6,15,16,8,4,,,,,3,3,0,0,"17,92",openligadb
+9,2026-10-25,12:30,Holstein Kiel,Dynamo Dresden,3,0,H,1,0,H,15,13,4,4,11,5,5,10,,,,,5,1,0,0,"9,73,85",openligadb
+9,2026-10-25,12:30,VfL Osnabrück,SpVgg Greuther Fürth,3,0,H,2,0,H,14,13,9,1,8,6,6,7,,,,,1,0,0,0,"37,39,75",openligadb

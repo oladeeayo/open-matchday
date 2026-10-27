@@ -120,3 +120,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 15,2026-10-25,00:00,Atlas,Puebla,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
 15,2026-10-25,02:00,Monterrey,Guadalajara,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
 15,2026-10-25,04:10,Pumas UNAM,Tigres UANL,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-10-26,02:00,Querétaro,Cruz Azul,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-10-26,02:05,América,Pachuca,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
+16,2026-10-26,04:10,Tijuana,Santos,4,1,H,,,,,,,,,,,,,,,,,,,,,espn

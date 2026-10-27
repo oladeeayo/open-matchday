@@ -53,12 +53,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 6,2026-10-17,17:30,FC Bayern München,RB Leipzig,6,1,H,3,0,H,29,12,17,4,15,6,11,3,5,1,6,2,1,0,0,0,"12,26,34,47,53,69,91",openligadb
 6,2026-10-18,14:30,Bayer 04 Leverkusen,SC Freiburg,2,1,H,1,1,D,12,11,5,2,12,5,4,3,2,1,2,2,0,1,0,0,"14,19,76",openligadb
 6,2026-10-18,16:30,Borussia Mönchengladbach,TSG Hoffenheim,1,2,A,0,1,A,9,14,3,8,13,13,3,6,2,1,1,5,3,2,0,0,"11,49,54",openligadb
-7,2026-10-23,19:30,VfB Stuttgart,Borussia Mönchengladbach,2,3,A,1,1,D,,,,,,,6,5,3,2,3,3,,,,,"5,38,51,66,83",openligadb
-7,2026-10-24,14:30,1. FC Köln,FC Schalke 04,0,0,D,0,0,D,,,,,,,6,5,5,2,1,3,,,,,,openligadb
-7,2026-10-24,14:30,1. FSV Mainz 05,SV Werder Bremen,2,3,A,1,2,A,,,,,,,6,6,2,1,4,5,,,,,"6,24,33,61,64",openligadb
-7,2026-10-24,14:30,FC Augsburg,1. FC Union Berlin,1,1,D,0,0,D,,,,,,,5,1,3,0,2,1,,,,,"71,74",openligadb
-7,2026-10-24,14:30,RB Leipzig,SV 07 Elversberg,4,0,H,0,0,D,,,,,,,4,6,1,5,3,1,,,,,"48,66,84,94",openligadb
-7,2026-10-24,14:30,SC Paderborn 07,Hamburger SV,1,0,H,0,0,D,,,,,,,6,3,4,1,2,2,,,,,88,openligadb
-7,2026-10-24,17:30,Borussia Dortmund,Eintracht Frankfurt,1,0,H,0,0,D,,,,,,,13,1,8,0,5,1,,,,,80,openligadb
-7,2026-10-25,15:30,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,H,0,0,D,,,,,,,5,3,3,1,2,2,,,,,"78,90,95",openligadb
-7,2026-10-25,17:30,SC Freiburg,FC Bayern München,1,3,A,0,2,A,,,,,,,5,6,1,2,4,4,,,,,"16,42,82,95",openligadb
+7,2026-10-23,19:30,VfB Stuttgart,Borussia Mönchengladbach,2,3,A,1,1,D,15,16,5,6,9,14,6,5,3,2,3,3,2,4,0,0,"5,38,51,66,83",openligadb
+7,2026-10-24,14:30,1. FC Köln,FC Schalke 04,0,0,D,0,0,D,14,9,5,1,8,12,6,5,5,2,1,3,2,3,0,0,,openligadb
+7,2026-10-24,14:30,1. FSV Mainz 05,SV Werder Bremen,2,3,A,1,2,A,18,17,8,8,7,5,6,6,2,1,4,5,2,1,0,0,"6,24,33,61,64",openligadb
+7,2026-10-24,14:30,FC Augsburg,1. FC Union Berlin,1,1,D,0,0,D,27,6,5,1,10,9,5,1,3,0,2,1,0,3,1,1,"71,74",openligadb
+7,2026-10-24,14:30,RB Leipzig,SV 07 Elversberg,4,0,H,0,0,D,13,5,6,1,10,18,4,6,1,5,3,1,1,1,0,0,"48,66,84,94",openligadb
+7,2026-10-24,14:30,SC Paderborn 07,Hamburger SV,1,0,H,0,0,D,16,8,6,1,12,15,6,3,4,1,2,2,1,2,0,0,88,openligadb
+7,2026-10-24,17:30,Borussia Dortmund,Eintracht Frankfurt,1,0,H,0,0,D,18,8,5,3,7,12,13,1,8,0,5,1,0,2,0,0,80,openligadb
+7,2026-10-25,14:30,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,H,0,0,D,20,9,6,1,14,6,5,3,3,1,2,2,4,4,1,0,"78,90,95",openligadb
+7,2026-10-25,16:30,SC Freiburg,FC Bayern München,1,3,A,0,2,A,16,17,4,9,9,11,5,6,1,2,4,4,3,1,0,0,"16,42,82,95",openligadb
