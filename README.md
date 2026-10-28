@@ -1,28 +1,29 @@
 # open-matchday
 
-**Free, open 2026/27 football data — 75 competitions as clean per-league CSV, rebuilt every day.**
+**Free, open football data for 2026/27 — 75 competitions as clean CSV files, refreshed every day.**
 
-[![Daily data update](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml/badge.svg)](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml)
 ![Updated daily](https://img.shields.io/badge/data-updated%20daily-brightgreen)
-![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+![Season 2026/27](https://img.shields.io/badge/season-2026%2F27-blue)
 ![CSV](https://img.shields.io/badge/format-CSV-informational)
+![No API key](https://img.shields.io/badge/API%20key-none-brightgreen)
 ![Free for non-commercial use](https://img.shields.io/badge/use-free%20non--commercial-lightgrey)
 
-Match results, upcoming fixtures, half-time scores, goal minutes and match stats
-(shots, fouls, cards, corners) for **75 football competitions** — European top
-flights and second tiers, the UEFA Champions/Europa/Conference Leagues, domestic
-cups, and calendar-year leagues across South America, North America, Asia and
-Oceania.
+Match results, upcoming fixtures, half-time scores, goal minutes and detailed
+match statistics — **shots, shots on target, fouls, yellow/red cards and
+corners** (including first- and second-half corner splits) — for the
+**Premier League, La Liga, Serie A, Bundesliga and Ligue 1**, the UEFA
+Champions/Europa/Conference Leagues, and 70 more competitions across Europe,
+South America, North America, Asia and Oceania.
 
-One schema across every league. No API key, no signup, no paid feed, no
-rate-limited endpoint — just CSV files you can `curl`, load with pandas/DuckDB/R,
-or commit into your own project.
+One fixed schema across every league. No API key, no signup, no rate limits,
+no paid feed — plain UTF-8 CSV you can `curl`, load with pandas/DuckDB/R, or
+commit into your own project.
 
 ```bash
 curl -O https://raw.githubusercontent.com/oladeeayo/open-matchday/master/data/ENG_1_premier-league/results_2627.csv
 ```
 
-> **Season:** folder and file names use `2627` = 2026/27. Calendar-year
+> **Season code:** folder and file names use `2627` = 2026/27. Calendar-year
 > competitions (Brazil, Argentina, Mexico, USA, Japan, China) run Jan–Dec and
 > therefore also contain their early-2026 matches.
 
@@ -30,38 +31,53 @@ curl -O https://raw.githubusercontent.com/oladeeayo/open-matchday/master/data/EN
 
 ## Contents
 
-- [What you get](#what-you-get)
+- [Get the data](#get-the-data)
 - [Quick start](#quick-start)
+- [What you get](#what-you-get)
 - [Find your competition](#find-your-competition)
 - [Data dictionary](#data-dictionary)
 - [Coverage and freshness](#coverage-and-freshness)
 - [How it is built](#how-it-is-built)
 - [Limitations](#limitations)
 - [License and attribution](#license-and-attribution)
+- [Need more advanced data?](#need-more-advanced-data)
 - [Citation](#citation)
-- [Contributing](#contributing)
 - [Repository layout](#repository-layout)
 
-## What you get
+## Get the data
 
-| | |
-|---|---|
-| **Competitions** | 75 (see [LEAGUE_INDEX.md](LEAGUE_INDEX.md)) |
-| **Finished matches** | 8,000+ result rows and growing daily |
-| **Upcoming fixtures** | 9,500+ fixture rows |
-| **Goal events** | 1,800+ goal rows (top-5 leagues, Germany 1–3, UEFA) |
-| **Format** | UTF-8 CSV, one folder per competition, fixed header |
-| **Update cadence** | Daily via GitHub Actions (00:00 UTC) |
-| **Access** | Git clone, raw.githubusercontent.com, jsDelivr CDN |
-| **Cost** | Free for informational, non-commercial use |
+Four ways, pick whichever fits you:
 
-Every competition folder contains:
+**1. One-off download — no git needed.** Grab the whole dataset as a ZIP:
 
 ```
-data/ENG_1_premier-league/
-    results_2627.csv    finished matches — score, HT, stats, corners, goal minutes
-    fixtures_2627.csv   upcoming matches — gw, date, time, home, away
-    goals_2627.csv      goal-by-goal detail (only where a provider supplies it)
+https://github.com/oladeeayo/open-matchday/archive/refs/heads/master.zip
+```
+
+**2. Single file with `curl`.**
+
+```bash
+curl -O https://raw.githubusercontent.com/oladeeayo/open-matchday/master/data/ESP_1_la-liga/results_2627.csv
+```
+
+**3. Shallow clone (only the current state, no history):**
+
+```bash
+git clone --depth 1 https://github.com/oladeeayo/open-matchday.git
+```
+
+**4. Hotlink via CDN.** [jsDelivr](https://www.jsdelivr.com/) mirrors the
+repository with edge caching — friendlier for web apps and repeated reads:
+
+```
+https://cdn.jsdelivr.net/gh/oladeeayo/open-matchday@master/data/ENG_1_premier-league/results_2627.csv
+```
+
+For reproducible research, pin a commit SHA instead of `master`:
+
+```bash
+git rev-parse HEAD
+# then use .../open-matchday/<sha>/data/...
 ```
 
 ## Quick start
@@ -100,28 +116,26 @@ df <- read.csv("https://raw.githubusercontent.com/oladeeayo/open-matchday/master
 subset(df, home == "Real Madrid")
 ```
 
-### CDN / cached access
+## What you get
 
-jsDelivr mirrors the repository and adds CDN caching, which is friendlier for
-web apps and repeated reads:
+| | |
+|---|---|
+| **Competitions** | 75 (see [LEAGUE_INDEX.md](LEAGUE_INDEX.md)) |
+| **Finished matches** | 8,500+ result rows and growing daily |
+| **Upcoming fixtures** | 9,100+ fixture rows |
+| **Goal events** | 1,900+ goal rows (top-5 leagues, Germany 1–3, UEFA) |
+| **Format** | UTF-8 CSV, one folder per competition, fixed header |
+| **Update cadence** | Daily at 00:00 UTC via GitHub Actions |
+| **Access** | ZIP download, git clone, raw GitHub, jsDelivr CDN |
+| **Cost** | Free for informational, non-commercial use |
+
+Every competition folder contains:
 
 ```
-https://cdn.jsdelivr.net/gh/oladeeayo/open-matchday@master/data/ENG_1_premier-league/results_2627.csv
-```
-
-For reproducible research, pin a commit SHA instead of `master`:
-
-```bash
-git rev-parse HEAD
-# then use .../open-matchday/<sha>/data/...
-```
-
-### Clone once, read locally
-
-```bash
-git clone https://github.com/oladeeayo/open-matchday.git
-cd open-matchday
-python -c "import pandas as pd; print(pd.read_csv('data/GER_1_bundesliga/results_2627.csv').tail())"
+data/ENG_1_premier-league/
+    results_2627.csv    finished matches — score, HT, stats, corners, goal minutes
+    fixtures_2627.csv   upcoming matches — gw, date, time, home, away
+    goals_2627.csv      goal-by-goal detail (only where a provider supplies it)
 ```
 
 ## Find your competition
@@ -146,9 +160,7 @@ Folder names follow `<COUNTRY>_<TIER>_<league-slug>`:
 | `USA_1_mls` | Major League Soccer |
 
 The complete list of all 75 competitions, with the source used for each, is in
-**[LEAGUE_INDEX.md](LEAGUE_INDEX.md)**. The machine-readable registry is
-maintained with the build pipeline in the private
-[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline).
+**[LEAGUE_INDEX.md](LEAGUE_INDEX.md)**.
 
 ## Data dictionary
 
@@ -182,17 +194,16 @@ but detailed stats depend on which free provider covers that league.
 | Data | Coverage |
 |---|---|
 | Results + fixtures | **All 75 competitions** (cups gain fixtures round by round) |
-| Half-time scores | ~20% of result rows (fd.co.uk and OpenLigaDB leagues) |
+| Half-time scores | ~20% of result rows (football-data.co.uk and OpenLigaDB leagues) |
 | Shots / fouls / cards | ~19% of result rows (football-data.co.uk leagues) |
 | Corner totals | ~19% of result rows |
-| Corner 1H + 2H splits | **Every played match in the top-10 leagues** (699 at the time of writing) |
+| Corner 1H + 2H splits | **Every played match in the top-10 leagues** (784 rows and growing) |
 | Goal minutes | ~8% of result rows (top-5, Germany 1–3, UEFA) |
 
-- **Updated daily** at 00:00 UTC by the private
-  [opendatapipeline build workflow](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml),
-  which publishes only generated CSVs and the league index to this repository.
+- **Updated daily** at 00:00 UTC by GitHub Actions; a red run means the
+  dataset was *not* published, so what you see here always passes validation.
 - football-data.co.uk supplies match statistics and may lag by a gameweek or
-  two; the pipeline combines it with the other providers as described above.
+  two; scores are refreshed daily from fresher sources.
 - The last build timestamp and per-league counts live in
   [build_summary.json](build_summary.json).
 - Fixture lists are complete where a provider publishes a full-season spine;
@@ -200,30 +211,24 @@ but detailed stats depend on which free provider covers that league.
 
 ## How it is built
 
-A small Python 3.10+ pipeline (standard library only, no dependencies),
-maintained in the private
-[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline),
-merges several keyless free sources into one normalised record per match, then
-publishes generated CSVs here:
+A small Python pipeline (standard library only, no dependencies) merges
+several keyless free sources into one normalised record per match, then
+publishes the generated CSVs to this repository daily:
 
 ```
 fixturedownload.com ─┐
 OpenLigaDB ──────────┤
 ESPN site API ───────┼─► merge / normalise / dedupe ─► data/<league>/*.csv
-football-data.co.uk ─┤        (builder.py)
+football-data.co.uk ─┤
 Fotmob ──────────────┤
 Soccerway ───────────┘
 ```
 
 Merge priority is `OpenLigaDB > fixturedownload > ESPN > football-data.co.uk >
 Soccerway`, with fuzzy team-name matching, ambiguity guards and postponement
-handling. The private pipeline repository contains maintainer notes and
-source feasibility research; the public [data dictionary](DATA_DICTIONARY.md)
-and [league index](LEAGUE_INDEX.md) describe the published outputs.
-
-The top-10 leagues additionally get per-match corners (total and each half)
-from Fotmob's keyless `matchDetails` endpoint, cached permanently per finished
-match.
+handling. The top-10 leagues additionally get per-match corner totals and
+half-by-half splits from FotMob. The build pipeline itself runs in a private
+repository; this one stays focused on the published data and its documentation.
 
 ## Limitations
 
@@ -251,13 +256,31 @@ This compilation is shared for **informational, non-commercial use**.
 - **Attribute** by linking to this repository and naming `open-matchday` as the
   source.
 - **Provider rights remain with the providers.** football-data.co.uk, ESPN,
-  Fotmob, Soccerway, OpenLigaDB and fixturedownload have their own terms; this
+  FotMob, Soccerway, OpenLigaDB and fixturedownload have their own terms; this
   repository's compilation does not override them. Read
   [DISCLAIMER.md](DISCLAIMER.md) before redistributing.
 
 There is no OSI-approved license file because the upstream data is
 non-commercial; the terms above and in [DISCLAIMER.md](DISCLAIMER.md) are the
 license.
+
+## Need more advanced data?
+
+The published CSVs are deliberately broad and free. If you need something
+**more sophisticated or advanced** — xG, lineups, per-shot events, historical
+seasons, odds, a bespoke export for your model or study — here's how to reach
+out:
+
+- **Open an issue** for questions, data requests, or ideas. This is the best
+  first step: we can scope what you need, and the answer stays visible to
+  everyone who wants the same thing.
+- **Open a pull request** when you already have a concrete fix or addition —
+  a correction backed by an official source, a new competition, or a schema
+  improvement. Keep the CSV schema stable and describe your source in the PR.
+- **For research collaborations or larger custom datasets**, open an issue and
+  say what you're building; we'll work out the details there.
+
+Feature requests are welcome — this dataset grows because users ask for things.
 
 ## Citation
 
@@ -270,19 +293,9 @@ machine-readable record is provided in [CITATION.cff](CITATION.cff).
   author       = {{open-matchday contributors}},
   year         = {2026},
   howpublished = {\url{https://github.com/oladeeayo/open-matchday}},
-  note         = {Season 2026/27, accessed 2026-10-24}
+  note         = {Season 2026/27, accessed 2026-10-28}
 }
 ```
-
-## Contributing
-
-- **Data corrections:** open an issue with the competition, match, the current
-  value and the official source for the correct one.
-- **Bug reports:** include the failing league folder and the build output.
-- **Data corrections:** open an issue or pull request with the competition,
-  match, current value, and a link to the official source.
-- **Pipeline changes:** the build source is maintained separately in the
-  private opendatapipeline repository.
 
 ## Repository layout
 
@@ -297,8 +310,5 @@ DATA_DICTIONARY.md         field-by-field schema reference
 CITATION.cff               citation metadata
 DISCLAIMER.md              provider terms, data rights, no-warranty notice
 ```
-
-The source pipeline and daily publisher are maintained in the private
-[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline).
 
 *Not affiliated with any league, club, federation or commercial data provider.*
