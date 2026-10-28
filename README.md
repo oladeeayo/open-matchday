@@ -2,7 +2,7 @@
 
 **Free, open 2026/27 football data — 75 competitions as clean per-league CSV, rebuilt every day.**
 
-[![Daily data update](https://github.com/oladeeayo/open-matchday/actions/workflows/daily-update.yml/badge.svg)](https://github.com/oladeeayo/open-matchday/actions/workflows/daily-update.yml)
+[![Daily data update](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml/badge.svg)](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml)
 ![Updated daily](https://img.shields.io/badge/data-updated%20daily-brightgreen)
 ![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
 ![CSV](https://img.shields.io/badge/format-CSV-informational)
@@ -146,8 +146,9 @@ Folder names follow `<COUNTRY>_<TIER>_<league-slug>`:
 | `USA_1_mls` | Major League Soccer |
 
 The complete list of all 75 competitions, with the source used for each, is in
-**[LEAGUE_INDEX.md](LEAGUE_INDEX.md)**. `leagues.py` is the machine-readable
-registry.
+**[LEAGUE_INDEX.md](LEAGUE_INDEX.md)**. The machine-readable registry is
+maintained with the build pipeline in the private
+[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline).
 
 ## Data dictionary
 
@@ -187,10 +188,11 @@ but detailed stats depend on which free provider covers that league.
 | Corner 1H + 2H splits | **Every played match in the top-10 leagues** (699 at the time of writing) |
 | Goal minutes | ~8% of result rows (top-5, Germany 1–3, UEFA) |
 
-- **Updated daily** at 00:00 UTC by
-  [`.github/workflows/daily-update.yml`](.github/workflows/daily-update.yml).
-- football-data.co.uk supplies stats with a ~1–2 gameweek lag; ESPN and
-  fixturedownload carry the freshest scores.
+- **Updated daily** at 00:00 UTC by the private
+  [opendatapipeline build workflow](https://github.com/oladeeayo/opendatapipeline/actions/workflows/daily-publish.yml),
+  which publishes only generated CSVs and the league index to this repository.
+- football-data.co.uk supplies match statistics and may lag by a gameweek or
+  two; the pipeline combines it with the other providers as described above.
 - The last build timestamp and per-league counts live in
   [build_summary.json](build_summary.json).
 - Fixture lists are complete where a provider publishes a full-season spine;
@@ -198,9 +200,11 @@ but detailed stats depend on which free provider covers that league.
 
 ## How it is built
 
-A small Python 3.10+ pipeline (standard library only, no dependencies) merges
-several keyless free sources into one normalised record per match, then writes
-the CSVs:
+A small Python 3.10+ pipeline (standard library only, no dependencies),
+maintained in the private
+[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline),
+merges several keyless free sources into one normalised record per match, then
+publishes generated CSVs here:
 
 ```
 fixturedownload.com ─┐
@@ -213,9 +217,9 @@ Soccerway ───────────┘
 
 Merge priority is `OpenLigaDB > fixturedownload > ESPN > football-data.co.uk >
 Soccerway`, with fuzzy team-name matching, ambiguity guards and postponement
-handling. Provider details and the full architecture are in
-[LLM_NOTES.md](LLM_NOTES.md); source feasibility probes are in
-[FEASIBILITY.md](FEASIBILITY.md).
+handling. The private pipeline repository contains maintainer notes and
+source feasibility research; the public [data dictionary](DATA_DICTIONARY.md)
+and [league index](LEAGUE_INDEX.md) describe the published outputs.
 
 The top-10 leagues additionally get per-match corners (total and each half)
 from Fotmob's keyless `matchDetails` endpoint, cached permanently per finished
@@ -275,10 +279,10 @@ machine-readable record is provided in [CITATION.cff](CITATION.cff).
 - **Data corrections:** open an issue with the competition, match, the current
   value and the official source for the correct one.
 - **Bug reports:** include the failing league folder and the build output.
-- **New competitions:** add an entry to `leagues.py` and run
-  `python build.py --only <folder>`.
-- **Pull requests:** keep the CSV schema stable and run
-  `python scripts/check_data.py` before submitting.
+- **Data corrections:** open an issue or pull request with the competition,
+  match, current value, and a link to the official source.
+- **Pipeline changes:** the build source is maintained separately in the
+  private opendatapipeline repository.
 
 ## Repository layout
 
@@ -287,26 +291,14 @@ data/<COUNTRY>_<TIER>_<league-slug>/
     results_<season>.csv   finished matches
     fixtures_<season>.csv  upcoming matches
     goals_<season>.csv     goal events (where available)
-leagues.py                 competition registry (folder, name, sources)
-build.py                   CLI runner: python build.py [--only FOLDER ...]
-builder.py                 merge / normalise / dedupe / write
-espn_client.py             ESPN site API (current round, goal minutes)
-fixturedl_client.py        fixturedownload.com (full-season fixtures, rounds)
-openligadb_client.py       OpenLigaDB (Germany 1–3, goal minutes + scorers)
-fd_client.py               football-data.co.uk (stats, half-time backfill)
-fotmob_corners.py          Fotmob matchDetails (corner splits, top-10)
-soccerway_client.py        Soccerway (results/fixtures, 43 competitions)
-httpx_util.py              polite HTTP with retries and rate limiting
-scripts/                   build diff, data checks, league index generator
-build_summary.json         per-league stats from the last build
+build_summary.json         per-league row counts and errors from the last build
 LEAGUE_INDEX.md            generated index of all 75 competitions
 DATA_DICTIONARY.md         field-by-field schema reference
 CITATION.cff               citation metadata
 DISCLAIMER.md              provider terms, data rights, no-warranty notice
 ```
 
-`python build.py` rebuilds everything; `python build.py --only ENG_1_premier-league`
-rebuilds one competition. The build is idempotent, incremental and safe to
-re-run.
+The source pipeline and daily publisher are maintained in the private
+[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline).
 
 *Not affiliated with any league, club, federation or commercial data provider.*
