@@ -1,6 +1,4 @@
 gw,date,time,home,away
-9,2026-10-03,15:00,Walsall,Crawley Town
-9,2026-10-27,20:45,Barnet,York City
 14,2026-10-30,20:45,Newport County,Chesterfield
 14,2026-10-31,13:30,Grimsby Town,York City
 14,2026-10-31,13:30,Port Vale,Rochdale
@@ -77,6 +75,7 @@ gw,date,time,home,away
 19,2026-12-12,16:00,Salford City,Colchester United
 19,2026-12-12,16:00,Shrewsbury Town,Port Vale
 9,2026-12-15,20:45,Colchester United,Port Vale
+19,2026-12-15,20:45,Walsall,Crawley Town
 20,2026-12-17,21:00,Crewe Alexandra,Salford City
 20,2026-12-19,13:30,Colchester United,Fleetwood Town
 20,2026-12-19,13:30,Northampton Town,Exeter City

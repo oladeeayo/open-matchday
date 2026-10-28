@@ -1,5 +1,4 @@
 gw,date,time,home,away
-7,2026-10-27,,Ross County,Hamilton
 13,2026-10-31,,Airdrieonians,Cove Rangers
 13,2026-10-31,,East Fife,Queen of South
 13,2026-10-31,,East Kilbride,Ross County
@@ -105,3 +104,8 @@ gw,date,time,home,away
 33,2027-04-10,,Hamilton,East Fife
 33,2027-04-10,,Montrose,Peterhead
 33,2027-04-10,,Ross County,Cove Rangers
+34,2027-04-17,,Alloa,Ross County
+34,2027-04-17,,Cove Rangers,Hamilton
+34,2027-04-17,,East Fife,Airdrieonians
+34,2027-04-17,,Peterhead,East Kilbride
+34,2027-04-17,,Queen of South,Montrose

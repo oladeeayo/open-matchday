@@ -4,7 +4,7 @@ gw,date,time,home,away
 9,2026-11-01,16:00,Levadiakos,Aris
 9,2026-11-01,17:00,Panetolikos,OFI Crete
 9,2026-11-01,18:00,PAOK,Asteras Tripoli
-9,2026-11-01,18:00,Panathinaikos,AEK Athens
+9,2026-11-01,18:30,Panathinaikos,AEK Athens
 10,2026-11-02,17:00,Atromitos,Volos NFC
 10,2026-11-02,18:30,Kalamata,Iraklis
 10,2026-11-07,16:00,Volos NFC,Kifisia
@@ -47,8 +47,8 @@ gw,date,time,home,away
 15,2026-12-19,19:00,Kifisia,Atromitos
 15,2026-12-20,16:00,Olympiacos,Panetolikos
 15,2026-12-20,16:30,Panathinaikos,Iraklis
+15,2026-12-20,17:30,OFI Crete,Kalamata
 15,2026-12-20,18:30,Aris,AEK Athens
-15,2026-12-20,18:30,OFI Crete,Kalamata
 16,2027-01-09,16:00,Levadiakos,OFI Crete
 16,2027-01-09,18:00,AEK Athens,Atromitos
 16,2027-01-09,18:30,Kalamata,Olympiacos
