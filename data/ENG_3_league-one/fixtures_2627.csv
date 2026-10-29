@@ -1,7 +1,6 @@
 gw,date,time,home,away
 8,2026-09-26,15:00,Mansfield Town,Leyton Orient
 8,2026-09-26,15:00,Notts County,Blackpool
-9,2026-10-03,15:00,Barnsley,MK Dons
 9,2026-10-03,15:00,Bromley,Wycombe Wanderers
 9,2026-10-03,15:00,Peterborough United,Notts County
 14,2026-10-31,13:30,Bradford City,Huddersfield Town
@@ -82,6 +81,7 @@ gw,date,time,home,away
 19,2026-12-12,16:00,Notts County,Plymouth Argyle
 19,2026-12-12,16:00,Oxford United,Blackpool
 19,2026-12-12,16:00,Peterborough United,Barnsley
+19,2026-12-15,20:45,Barnsley,Milton Keynes Dons
 8,2026-12-15,20:45,Doncaster Rovers,Oxford United
 20,2026-12-18,20:45,Cambridge United,Stevenage
 20,2026-12-19,13:30,Barnsley,Huddersfield Town

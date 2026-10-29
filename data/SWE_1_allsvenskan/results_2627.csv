@@ -1,7 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-13,2026-07-17,,Goteborg,Brommapojkarna,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-07-17,,Mjallby,Vasteras SK,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-07-18,,AIK,GAIS,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-07-19,,Elfsborg,Sirius,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-07-19,,Halmstad,Hacken,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-07-19,,Hammarby,Degerfors,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -103,3 +100,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 25,2026-10-25,,GAIS,Goteborg,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 25,2026-10-25,,Mjallby,Hammarby,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 26,2026-10-27,,AIK,Elfsborg,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-28,,Brommapojkarna,Hacken,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-28,,Degerfors,Vasteras SK,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-28,,Goteborg,Djurgarden,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-10-28,,Halmstad,Malmo FF,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway

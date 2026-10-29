@@ -1,8 +1,4 @@
 gw,date,time,home,away
-11,2026-10-24,15:00,Barrow,Forest Green Rovers
-12,2026-10-28,20:45,Carlisle United,Harrogate Town
-12,2026-10-28,20:45,Forest Green Rovers,Eastleigh
-12,2026-10-28,20:45,Sutton United,Aldershot Town
 12,2026-10-30,20:45,AFC Fylde,AFC Hornchurch
 12,2026-10-31,13:30,FC Halifax Town,Yeovil Town
 12,2026-10-31,13:30,Forest Green Rovers,Harrogate Town
@@ -88,6 +84,7 @@ gw,date,time,home,away
 18,2026-12-09,20:45,Barrow,Tamworth
 18,2026-12-09,20:45,Gateshead,FC Halifax Town
 18,2026-12-09,20:45,Yeovil Town,Wealdstone
+19,2026-12-15,20:45,Barrow,Forest Green Rovers
 19,2026-12-18,20:45,AFC Fylde,Southend United
 19,2026-12-19,13:30,AFC Hornchurch,Harrogate Town
 19,2026-12-19,13:30,Boston United,Yeovil Town

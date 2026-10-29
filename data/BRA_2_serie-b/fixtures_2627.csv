@@ -1,8 +1,7 @@
 gw,date,time,home,away
-32,2026-10-27,00:00,Ceará,Goiás
 32,2026-10-30,23:30,Criciúma,Ponte Preta
 32,2026-10-31,20:00,Botafogo-SP,Sport
-32,2026-10-31,22:00,Vila Nova,Juventude
+32,2026-10-31,21:30,Vila Nova,Juventude
 32,2026-10-31,23:30,Náutico,Avaí
 32,2026-11-01,20:00,Londrina,América Mineiro
 32,2026-11-01,22:30,Cuiabá,São Bernardo
@@ -10,10 +9,10 @@ gw,date,time,home,away
 33,2026-11-02,00:30,Goiás,CRB
 33,2026-11-02,20:00,Fortaleza,Atlético Goianiense
 33,2026-11-02,22:00,Athletic,Ceará
-33,2026-11-06,23:30,Botafogo-SP,Londrina
+33,2026-11-05,23:30,Botafogo-SP,Londrina
 33,2026-11-06,23:30,Operário PR,Sport
+33,2026-11-07,00:00,Cuiabá,Juventude
 33,2026-11-07,00:00,Vila Nova,Criciúma
-33,2026-11-07,01:30,Cuiabá,Juventude
 33,2026-11-07,20:00,Avaí,São Bernardo
 33,2026-11-07,20:10,Novorizontino,Fortaleza
 33,2026-11-08,01:30,Náutico,CRB

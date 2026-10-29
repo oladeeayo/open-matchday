@@ -1,9 +1,8 @@
 # League index
 
-Every tracked league (2026/27), its folder, sources and status. The machine-readable
-registry and build pipeline are maintained in the private
-[opendatapipeline repository](https://github.com/oladeeayo/opendatapipeline).
-This generated file is refreshed with the published data.
+Every tracked league (2026/27), its folder, sources and status. Registry:
+[`leagues.py`](leagues.py). **Generated file** — rerun `python scripts/gen_index.py`
+after changing the registry (do not hand-edit).
 
 
 | Folder | League | Country | Sources | Goal minutes | Fixture spine |
