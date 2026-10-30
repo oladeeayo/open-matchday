@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-10-29T05:08:17Z",
+  "generated_utc": "2026-10-30T05:09:45Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -48,11 +48,11 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "corners": 88,
-      "results": 88,
-      "fixtures": 292,
+      "corners": 90,
+      "results": 90,
+      "fixtures": 290,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Ligue 1",
@@ -114,10 +114,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 83,
-      "fixtures": 1,
+      "results": 84,
+      "fixtures": 4,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "FA Cup",
@@ -140,10 +140,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 41,
-      "fixtures": 41,
+      "results": 65,
+      "fixtures": 17,
       "errors": [],
-      "latest": "2026-10-27"
+      "latest": "2026-10-29"
     },
     {
       "league": "Coppa Italia",
@@ -179,10 +179,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 86,
-      "fixtures": 9,
+      "results": 95,
+      "fixtures": 0,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Taça de Portugal",
@@ -231,10 +231,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 55,
-      "fixtures": 1,
+      "results": 56,
+      "fixtures": 0,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Swiss Cup",
@@ -531,9 +531,9 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 105,
-      "fixtures": 35,
+      "fixtures": 32,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Eliteserien",
@@ -583,7 +583,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 110,
-      "fixtures": 0,
+      "fixtures": 1,
       "errors": [],
       "latest": "2026-10-27"
     },
@@ -674,7 +674,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 90,
-      "fixtures": 115,
+      "fixtures": 108,
       "errors": [],
       "latest": "2026-10-24"
     },
@@ -713,7 +713,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 94,
-      "fixtures": 113,
+      "fixtures": 114,
       "errors": [],
       "latest": "2026-10-25"
     },
@@ -764,10 +764,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 63,
-      "fixtures": 107,
+      "results": 64,
+      "fixtures": 106,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Veikkausliiga",
@@ -777,10 +777,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 107,
-      "fixtures": 8,
+      "results": 109,
+      "fixtures": 6,
       "errors": [],
-      "latest": "2026-10-28"
+      "latest": "2026-10-29"
     },
     {
       "league": "Kazakhstan Premier League",
@@ -855,10 +855,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 3,
       "corners": 0,
-      "results": 324,
-      "fixtures": 56,
+      "results": 327,
+      "fixtures": 53,
       "errors": [],
-      "latest": "2026-10-29"
+      "latest": "2026-10-30"
     },
     {
       "league": "Série B",
@@ -920,10 +920,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 112,
-      "fixtures": 8,
+      "results": 113,
+      "fixtures": 7,
       "errors": [],
-      "latest": "2026-10-25"
+      "latest": "2026-10-30"
     },
     {
       "league": "Major League Soccer",
