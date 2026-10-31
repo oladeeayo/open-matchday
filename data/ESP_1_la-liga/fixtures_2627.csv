@@ -1,6 +1,4 @@
 gw,date,time,home,away
-8,2026-10-10,13:00,Rayo Vallecano,Athletic Club
-11,2026-10-30,21:00,Villarreal CF,RCD Espanyol de Barcelona
 11,2026-10-31,14:00,Levante UD,Atlético de Madrid
 11,2026-10-31,16:15,Rayo Vallecano,Celta
 11,2026-10-31,18:30,Real Betis,Málaga CF
@@ -50,6 +48,7 @@ gw,date,time,home,away
 15,2026-12-06,01:00,Rayo Vallecano,Levante UD
 15,2026-12-06,01:00,Sevilla FC,Málaga CF
 15,2026-12-06,01:00,Villarreal CF,Real Sociedad
+8,2026-12-09,20:00,Rayo Vallecano,Athletic Club
 16,2026-12-13,01:00,Atlético de Madrid,Valencia CF
 16,2026-12-13,01:00,Elche CF,Sevilla FC
 16,2026-12-13,01:00,Levante UD,Deportivo Alavés

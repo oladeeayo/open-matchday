@@ -1,4 +1,5 @@
 gw,date,time,home,away
+4,2026-11-04,16:30,Rennes,Olympiacos
 4,2026-11-05,18:45,Anderlecht,Salzburg
 4,2026-11-05,18:45,Crystal Palace,Hoffenheim
 4,2026-11-05,18:45,Levski Sofia,Jagiellonia
@@ -6,7 +7,6 @@ gw,date,time,home,away
 4,2026-11-05,18:45,Milan,Ferencváros
 4,2026-11-05,18:45,N.E.C.,Omonia
 4,2026-11-05,18:45,Real Sociedad,Lyon
-4,2026-11-05,18:45,Rennes,Olympiacos
 4,2026-11-05,18:45,Sparta Praha,Bournemouth
 4,2026-11-05,21:00,AZ Alkmaar,Juventus
 4,2026-11-05,21:00,Benfica,Lech Poznan
@@ -38,6 +38,7 @@ gw,date,time,home,away
 6,2026-12-10,18:45,AZ Alkmaar,Sturm Graz
 6,2026-12-10,18:45,Anderlecht,Hoffenheim
 6,2026-12-10,18:45,Ararat-Armenia,N.E.C.
+6,2026-12-10,18:45,Celje,Olympiacos
 6,2026-12-10,18:45,H. Beer-Sheva,Juventus
 6,2026-12-10,18:45,Jagiellonia,Crystal Palace
 6,2026-12-10,18:45,Marseille,Celta
@@ -45,7 +46,6 @@ gw,date,time,home,away
 6,2026-12-10,18:45,Rennes,GNK Dinamo
 6,2026-12-10,21:00,Benfica,OFI Crete
 6,2026-12-10,21:00,Bournemouth,Viktoria Plzen
-6,2026-12-10,21:00,Celje,Olympiacos
 6,2026-12-10,21:00,Lech Poznan,Ferencváros
 6,2026-12-10,21:00,Leverkusen,Besiktas
 6,2026-12-10,21:00,Levski Sofia,Lillestrøm

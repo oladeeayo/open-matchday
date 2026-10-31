@@ -1,7 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-25,,Lechia Gdansk,Grodzisk M.,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Pogon Siedlce,LKS Lodz,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,S. Rzeszow,Chrobry Glogow,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Puszcza,Polonia Warszawa,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Skierniewice,Stal Mielec,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Termalica B-B.,Ruch Chorzow,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -105,3 +102,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-25,,Podbeskidzie,S. Rzeszow,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-25,,Ruch Chorzow,Grodzisk M.,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-10-26,,Warta Poznan,LKS Lodz,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-30,,Grodzisk M.,Stal Mielec,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway

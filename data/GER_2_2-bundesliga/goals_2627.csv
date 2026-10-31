@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -244,3 +244,10 @@ gw,date,home,away,minute,score_home,score_away,scorer
 9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,37,1,0,Daniel Kofi Kyereh
 9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,39,2,0,R. Meißner
 9,2026-10-25,VfL Osnabrück,SpVgg Greuther Fürth,75,3,0,I. Badjie
+10,2026-10-30,DSC Arminia Bielefeld,Eintracht Braunschweig,24,1,0,M. Großer
+10,2026-10-30,DSC Arminia Bielefeld,Eintracht Braunschweig,27,2,0,Joel Grodowski
+10,2026-10-30,DSC Arminia Bielefeld,Eintracht Braunschweig,55,2,1,Aaron Opoku
+10,2026-10-30,DSC Arminia Bielefeld,Eintracht Braunschweig,68,3,1,Joel Grodowski
+10,2026-10-30,Energie Cottbus,VfL Bochum,21,1,0,Tolcay Cigerci
+10,2026-10-30,Energie Cottbus,VfL Bochum,70,1,1,P. Hofmann
+10,2026-10-30,Energie Cottbus,VfL Bochum,88,1,2,C. Rasmussen

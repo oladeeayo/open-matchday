@@ -1,20 +1,15 @@
 gw,date,time,home,away
-11,2026-10-30,20:00,FC Metz,Pau FC
-11,2026-10-30,20:00,FC Nantes,Clermont Foot 63
-11,2026-10-30,20:00,Grenoble Foot 38,Dijon FCO
-11,2026-10-30,20:00,Rodez Aveyron Football,USL Dunkerque
-11,2026-10-30,20:00,Stade Lavallois MFC,US Boulogne CO
 11,2026-10-31,14:00,FC Annecy,Montpellier Hérault SC
-11,2026-10-31,14:00,Stade DE Reims,FC Sochaux-Montbéliard
 11,2026-10-31,20:00,EN Avant Guingamp,AS Saint-Étienne
 11,2026-11-02,20:45,Red Star FC,AS Nancy Lorraine
+11,2026-11-02,20:45,Stade DE Reims,FC Sochaux-Montbéliard
 12,2026-11-06,20:00,AS Nancy Lorraine,FC Sochaux-Montbéliard
 12,2026-11-06,20:00,Dijon FCO,Red Star FC
 12,2026-11-06,20:00,Grenoble Foot 38,Stade DE Reims
+12,2026-11-06,20:00,Montpellier Hérault SC,FC Metz
 12,2026-11-06,20:00,US Boulogne CO,FC Annecy
 12,2026-11-06,20:00,USL Dunkerque,EN Avant Guingamp
 12,2026-11-07,14:00,Clermont Foot 63,Rodez Aveyron Football
-12,2026-11-07,14:00,Montpellier Hérault SC,FC Metz
 12,2026-11-07,20:00,AS Saint-Étienne,Stade Lavallois MFC
 12,2026-11-07,20:00,Pau FC,FC Nantes
 13,2026-11-20,20:00,AS Nancy Lorraine,Dijon FCO

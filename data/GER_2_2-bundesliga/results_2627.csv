@@ -80,3 +80,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-10-25,12:30,Eintracht Braunschweig,Hannover 96,2,0,H,1,0,H,14,14,4,6,15,16,8,4,,,,,3,3,0,0,"17,92",openligadb
 9,2026-10-25,12:30,Holstein Kiel,Dynamo Dresden,3,0,H,1,0,H,15,13,4,4,11,5,5,10,,,,,5,1,0,0,"9,73,85",openligadb
 9,2026-10-25,12:30,VfL Osnabrück,SpVgg Greuther Fürth,3,0,H,2,0,H,14,13,9,1,8,6,6,7,,,,,1,0,0,0,"37,39,75",openligadb
+10,2026-10-30,18:30,DSC Arminia Bielefeld,Eintracht Braunschweig,3,1,H,2,0,H,,,,,,,,,,,,,,,,,"24,27,55,68",openligadb
+10,2026-10-30,18:30,Energie Cottbus,VfL Bochum,1,2,A,1,0,H,,,,,,,,,,,,,,,,,"21,70,88",openligadb

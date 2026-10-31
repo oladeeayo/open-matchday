@@ -1,10 +1,4 @@
 gw,date,time,home,away
-15,2026-10-30,,Airbus,Caernarfon
-15,2026-10-30,,Ammanford,Haverfordwest
-15,2026-10-30,,Barry,Trefelin
-15,2026-10-30,,Briton Ferry,Llandudno
-15,2026-10-30,,Colwyn Bay,Cambrian United
-15,2026-10-30,,Flint,Holywell
 15,2026-10-31,,Cardiff Metropolitan,Penybont
 15,2026-10-31,,TNS,Connahs Q.
 16,2026-11-06,,Ammanford,Briton Ferry
@@ -31,14 +25,14 @@ gw,date,time,home,away
 18,2026-11-27,,Haverfordwest,Connahs Q.
 18,2026-11-28,,Barry,Caernarfon
 18,2026-11-28,,Holywell,Llandudno
+19,2026-12-04,,Connahs Q.,Holywell
+19,2026-12-04,,Trefelin,Cardiff Metropolitan
 19,2026-12-05,,Airbus,Briton Ferry
 19,2026-12-05,,Ammanford,Flint
 19,2026-12-05,,Barry,Colwyn Bay
 19,2026-12-05,,Caernarfon,Haverfordwest
-19,2026-12-05,,Connahs Q.,Holywell
 19,2026-12-05,,Llandudno,Cambrian United
 19,2026-12-05,,TNS,Penybont
-19,2026-12-05,,Trefelin,Cardiff Metropolitan
 20,2026-12-18,,Airbus,Llandudno
 20,2026-12-18,,Ammanford,Barry
 20,2026-12-18,,Briton Ferry,Caernarfon
@@ -111,3 +105,11 @@ gw,date,time,home,away
 28,2027-03-12,,Haverfordwest,Barry
 28,2027-03-12,,Holywell,Cardiff Metropolitan
 28,2027-03-12,,Trefelin,Connahs Q.
+29,2027-03-19,,Airbus,Cambrian United
+29,2027-03-19,,Barry,TNS
+29,2027-03-19,,Briton Ferry,Flint
+29,2027-03-19,,Caernarfon,Holywell
+29,2027-03-19,,Connahs Q.,Ammanford
+29,2027-03-19,,Haverfordwest,Colwyn Bay
+29,2027-03-19,,Llandudno,Trefelin
+29,2027-03-19,,Penybont,Cardiff Metropolitan

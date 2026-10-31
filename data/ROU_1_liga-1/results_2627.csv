@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-17,,FC Voluntari,FC Botosani,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-17,,FCSB,FC Arges,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-18,,Otelul,CFR Cluj,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-18,,Univ. Craiova,UTA Arad,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-19,,Petrolul,Dinamo Bucuresti,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -103,3 +101,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-10-25,,CFR Cluj,Dinamo Bucuresti,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-25,,Farul Constanta,Otelul,4,3,H,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-10-26,,Sepsi Sf. Gheorghe,Univ. Craiova,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-10-30,,FC Rapid Bucuresti,Csikszereda M. Ciuc,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

@@ -1,5 +1,4 @@
 gw,date,time,home,away
-12,2026-10-30,,Slaven Belupo,Istra 1961
 12,2026-10-31,,Hajduk Split,Gorica
 12,2026-10-31,,Rudes,Din. Zagreb
 12,2026-11-01,,Lok. Zagreb,Osijek
@@ -105,3 +104,8 @@ gw,date,time,home,away
 32,2027-05-01,,Rijeka,Gorica
 32,2027-05-01,,Rudes,Varazdin
 32,2027-05-01,,Slaven Belupo,Osijek
+33,2027-05-08,,Gorica,Din. Zagreb
+33,2027-05-08,,Hajduk Split,Rudes
+33,2027-05-08,,Istra 1961,Varazdin
+33,2027-05-08,,Lok. Zagreb,Slaven Belupo
+33,2027-05-08,,Osijek,Rijeka
