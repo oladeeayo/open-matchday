@@ -1,11 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-16,2026-07-05,,Aktobe,Zhetysu Taldykorgan,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Atyrau,Kaspij Aktau,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Kaisar Kyzylorda,Ertis Pavlodar,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
-16,2026-07-05,,Ordabasy,Ulytau,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Ertis Pavlodar,Zhenis,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Kaspij Aktau,Ordabasy,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
-17,2026-07-11,,Zhetysu Taldykorgan,Altai,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 17,2026-07-12,,FC Astana,Aktobe,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
 17,2026-07-12,,Tobol,Okzhetpes,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 17,2026-07-12,,Ulytau,Kaisar Kyzylorda,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -105,3 +98,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 29,2026-10-25,,Altai,Yelimay Semey,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
 29,2026-10-25,,Atyrau,Ertis Pavlodar,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
 29,2026-10-25,,FC Astana,Kaisar Kyzylorda,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Ertis Pavlodar,Ordabasy,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Kairat Almaty,Altai,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Kaspij Aktau,Kyzylzhar,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Tobol,Aktobe,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Ulytau,Atyrau,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Yelimay Semey,Okzhetpes,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Zhenis,Kaisar Kyzylorda,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+30,2026-10-31,,Zhetysu Taldykorgan,FC Astana,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway

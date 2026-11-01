@@ -82,3 +82,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-10-25,12:30,VfL Osnabrück,SpVgg Greuther Fürth,3,0,H,2,0,H,14,13,9,1,8,6,6,7,,,,,1,0,0,0,"37,39,75",openligadb
 10,2026-10-30,18:30,DSC Arminia Bielefeld,Eintracht Braunschweig,3,1,H,2,0,H,,,,,,,,,,,,,,,,,"24,27,55,68",openligadb
 10,2026-10-30,18:30,Energie Cottbus,VfL Bochum,1,2,A,1,0,H,,,,,,,,,,,,,,,,,"21,70,88",openligadb
+10,2026-10-31,13:00,1. FC Kaiserslautern,Hertha BSC,0,3,A,0,1,A,,,,,,,,,,,,,,,,,"17,52,60",openligadb
+10,2026-10-31,13:00,SV Darmstadt 98,1. FC Magdeburg,1,1,D,1,1,D,,,,,,,,,,,,,,,,,"14,37",openligadb
+10,2026-10-31,13:00,VfL Wolfsburg,VfL Osnabrück,2,0,H,1,0,H,,,,,,,,,,,,,,,,,"30,50",openligadb
+10,2026-10-31,20:30,Karlsruher SC,1. FC Heidenheim 1846,2,1,H,1,0,H,,,,,,,,,,,,,,,,,"19,80,88",openligadb

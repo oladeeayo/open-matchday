@@ -1,15 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-5,2026-08-29,,AFC Totton,Chesham,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Billericay,Tonbridge,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Chelmsford,Maidenhead,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Dover,Braintree,3,3,D,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Hemel Hempstead,Weston-super-Mare,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Horsham FC,Farnham,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Maidstone,Salisbury,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Slough,Folkestone,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Torquay,Hampton & Richmond,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Truro,Dag & Red,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-5,2026-08-29,,Walton & Hersham,Dorking,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-31,,Braintree,Farnborough,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-31,,Chesham,Dover,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
 6,2026-08-31,,Dag & Red,Slough,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -116,3 +105,15 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-10-27,,Truro,Slough,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-10-27,,Walton & Hersham,Salisbury,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-10-28,,Farnborough,Weston-super-Mare,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,AFC Totton,Chelmsford,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Billericay,Hemel Hempstead,5,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Braintree,Hampton & Richmond,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Chesham,Folkestone,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Dorking,Weston-super-Mare,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Dover,Farnham,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Farnborough,Horsham FC,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Maidenhead,Dag & Red,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Maidstone,Slough,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Tonbridge,Salisbury,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Truro,Ebbsfleet,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-10-31,,Walton & Hersham,Torquay,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway

@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -251,3 +251,13 @@ gw,date,home,away,minute,score_home,score_away,scorer
 10,2026-10-30,Energie Cottbus,VfL Bochum,21,1,0,Tolcay Cigerci
 10,2026-10-30,Energie Cottbus,VfL Bochum,70,1,1,P. Hofmann
 10,2026-10-30,Energie Cottbus,VfL Bochum,88,1,2,C. Rasmussen
+10,2026-10-31,1. FC Kaiserslautern,Hertha BSC,17,0,1,S. Grønning
+10,2026-10-31,1. FC Kaiserslautern,Hertha BSC,52,0,2,S. Grønning
+10,2026-10-31,1. FC Kaiserslautern,Hertha BSC,60,0,3,Oluwaseun Victor Adewumi
+10,2026-10-31,SV Darmstadt 98,1. FC Magdeburg,14,0,1, T. Müller
+10,2026-10-31,SV Darmstadt 98,1. FC Magdeburg,37,1,1,M. Smit
+10,2026-10-31,VfL Wolfsburg,VfL Osnabrück,30,1,0,F. Reese
+10,2026-10-31,VfL Wolfsburg,VfL Osnabrück,50,2,0,M. Damar
+10,2026-10-31,Karlsruher SC,1. FC Heidenheim 1846,19,1,0,T. Civeja
+10,2026-10-31,Karlsruher SC,1. FC Heidenheim 1846,80,2,0,M. Wanitzek
+10,2026-10-31,Karlsruher SC,1. FC Heidenheim 1846,88,2,1,A. Vogt

@@ -1,6 +1,4 @@
 gw,date,time,home,away
-14,2026-10-31,,Aluminij,Radomlje
-14,2026-10-31,,Maribor,O. Ljubljana
 14,2026-11-01,,Celje,Nafta
 14,2026-11-01,,Mura,Grosuplje
 14,2026-11-02,,Bravo,Koper
@@ -105,3 +103,8 @@ gw,date,time,home,away
 34,2027-05-08,,Maribor,Nafta
 34,2027-05-08,,Mura,Bravo
 34,2027-05-08,,O. Ljubljana,Radomlje
+35,2027-05-15,,Bravo,Aluminij
+35,2027-05-15,,Grosuplje,O. Ljubljana
+35,2027-05-15,,Koper,Celje
+35,2027-05-15,,Mura,Maribor
+35,2027-05-15,,Radomlje,Nafta

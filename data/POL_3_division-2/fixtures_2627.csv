@@ -1,11 +1,4 @@
 gw,date,time,home,away
-14,2026-10-31,,Hutnik Krakow,Bielsko-Biala
-14,2026-10-31,,Leczna,Pruszkow
-14,2026-10-31,,Legia II,R. Rzeszow
-14,2026-10-31,,Podhale Nowy Targ,Swit Szczecin
-14,2026-10-31,,S. Wola,Kleczew
-14,2026-10-31,,Slask Wroclaw II,Zawisza
-14,2026-10-31,,Tychy,Zielona Gora
 14,2026-11-02,,Chojniczanka,Avia Swidnik
 15,2026-11-06,,R. Rzeszow,Leczna
 15,2026-11-07,,Kleczew,Sandecja Nowy S.
@@ -115,3 +108,12 @@ gw,date,time,home,away
 26,2027-04-03,,R. Rzeszow,S. Wola
 26,2027-04-03,,Sandecja Nowy S.,Tychy
 26,2027-04-03,,Swit Szczecin,Bielsko-Biala
+27,2027-04-10,,Avia Swidnik,R. Rzeszow
+27,2027-04-10,,Bielsko-Biala,Podhale Nowy Targ
+27,2027-04-10,,Chojniczanka,Leczna
+27,2027-04-10,,Kleczew,Swit Szczecin
+27,2027-04-10,,Legia II,Slask Wroclaw II
+27,2027-04-10,,Ol. Grudziadz,Zawisza
+27,2027-04-10,,S. Wola,Pruszkow
+27,2027-04-10,,Tychy,Hutnik Krakow
+27,2027-04-10,,Zielona Gora,Sandecja Nowy S.
