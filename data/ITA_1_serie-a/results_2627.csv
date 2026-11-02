@@ -92,3 +92,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-10-31,15:00,Bologna,Monza,2,1,H,,,,,,,,,,5,2,3,0,2,2,,,,,"6,33,59",fixturedl
 10,2026-10-31,18:00,Udinese,Roma,2,5,A,,,,,,,,,,7,4,3,2,4,2,,,,,"31,33,50,78,92",fixturedl
 10,2026-10-31,20:45,Milan,Internazionale,3,1,H,,,,,,,,,,3,11,1,7,2,4,,,,,10,fixturedl
+10,2026-11-01,12:30,Como,Venezia,1,0,H,,,,,,,,,,8,1,5,0,3,1,,,,,43,fixturedl
+10,2026-11-01,15:00,Frosinone,Torino,2,0,H,,,,,,,,,,7,7,3,5,4,2,,,,,"48,93",fixturedl
+10,2026-11-01,15:00,Lazio,Cagliari,2,1,H,,,,,,,,,,2,2,0,0,2,2,,,,,"20,36",fixturedl
+10,2026-11-01,18:00,Lecce,Genoa,1,2,A,,,,,,,,,,6,3,4,0,2,3,,,,,"11,28",fixturedl
+10,2026-11-01,20:45,Juventus,Napoli,2,0,H,,,,,,,,,,13,4,7,2,6,2,,,,,"70,87",fixturedl

@@ -103,3 +103,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-10-31,16:15,Rayo Vallecano,Celta,3,0,H,,,,,,,,,,4,3,3,1,1,2,,,,,"36,55,73",fixturedl
 11,2026-10-31,18:30,Real Betis,Málaga CF,2,1,H,,,,,,,,,,10,3,6,0,4,3,,,,,"47,68",fixturedl
 11,2026-10-31,21:00,FC Barcelona,Deportivo Alavés,6,1,H,,,,,,,,,,3,3,2,3,1,0,,,,,"8,23,41,46,64,81,84",fixturedl
+11,2026-11-01,14:00,Getafe CF,Sevilla FC,3,1,H,,,,,,,,,,2,2,1,2,1,0,,,,,"68,73,94",fixturedl
+11,2026-11-01,16:15,R. Racing Club,Real Madrid,0,3,A,,,,,,,,,,4,6,1,5,3,1,,,,,"11,21",fixturedl
+11,2026-11-01,18:30,Elche CF,Valencia CF,0,1,A,,,,,,,,,,6,2,2,0,4,2,,,,,69,fixturedl
+11,2026-11-01,21:00,Athletic Club,Real Sociedad,2,1,H,,,,,,,,,,5,8,4,3,1,5,,,,,"30,47",fixturedl
