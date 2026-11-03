@@ -1,7 +1,4 @@
 gw,date,time,home,away
-11,2026-11-02,,FK Zorya Luhansk,Epitsentr
-11,2026-11-02,,Karpaty Lviv,Kudrivka
-11,2026-11-02,,Kryvbas,Dyn. Kyiv
 12,2026-11-06,,Obolon,Livyi Bereg
 12,2026-11-06,,Polissya Zhytomyr,Veres-Rivne
 12,2026-11-07,,Epitsentr,Kryvbas
@@ -108,3 +105,11 @@ gw,date,time,home,away
 24,2027-04-24,,LNZ Cherkasy,Kryvbas
 24,2027-04-24,,Livyi Bereg,FC Kharkiv
 24,2027-04-24,,Veres-Rivne,Obolon
+25,2027-05-01,,FC Kharkiv,Epitsentr
+25,2027-05-01,,FK Zorya Luhansk,Shakhtar Donetsk
+25,2027-05-01,,Karpaty Lviv,Ch. Odesa
+25,2027-05-01,,Kolos Kovalivka,Veres-Rivne
+25,2027-05-01,,Kryvbas,Bukovyna
+25,2027-05-01,,Kudrivka,Dyn. Kyiv
+25,2027-05-01,,LNZ Cherkasy,Livyi Bereg
+25,2027-05-01,,Obolon,Polissya Zhytomyr

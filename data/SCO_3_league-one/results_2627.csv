@@ -59,8 +59,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-24,15:00,Montrose,Peterhead,3,0,H,2,0,H,8,3,6,1,12,13,6,4,,,,,2,4,0,0,,fd.co.uk
 12,2026-10-24,15:00,Ross County,Airdrie Utd,4,0,H,3,0,H,11,3,7,0,17,8,6,2,,,,,1,1,0,0,,fd.co.uk
 7,2026-10-27,19:45,Ross County,Hamilton,1,1,D,1,1,D,8,6,4,3,10,11,10,6,,,,,1,1,0,0,,fd.co.uk
-13,2026-10-31,,Airdrieonians,Cove Rangers,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-10-31,,East Fife,Queen of South,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-10-31,,East Kilbride,Ross County,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-10-31,,Hamilton,Montrose,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-13,2026-10-31,,Peterhead,Alloa,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-10-31,15:00,Airdrie Utd,Cove Rangers,0,1,A,0,0,D,14,9,5,5,7,10,6,5,,,,,1,2,0,0,,fd.co.uk
+13,2026-10-31,15:00,East Fife,Queen of Sth,2,0,H,2,0,H,4,5,3,2,16,7,1,6,,,,,4,1,0,0,,fd.co.uk
+13,2026-10-31,15:00,East Kilbride,Ross County,1,2,A,0,1,A,6,7,2,4,13,14,6,4,,,,,2,3,0,0,,fd.co.uk
+13,2026-10-31,15:00,Hamilton,Montrose,1,1,D,1,0,H,9,4,6,3,13,13,6,1,,,,,0,4,0,0,,fd.co.uk
+13,2026-10-31,15:00,Peterhead,Alloa,2,1,H,1,0,H,19,5,13,1,22,11,6,4,,,,,3,0,0,0,,fd.co.uk

@@ -1,6 +1,5 @@
 gw,date,time,home,away
 8,2026-09-26,15:00,Mansfield Town,Leyton Orient
-9,2026-10-03,15:00,Bromley,Wycombe Wanderers
 8,2026-11-03,20:45,Huddersfield Town,Luton Town
 9,2026-11-03,20:45,Wigan Athletic,Mansfield Town
 3,2026-11-04,20:45,Oxford United,Reading
@@ -30,6 +29,7 @@ gw,date,time,home,away
 16,2026-11-21,16:00,Plymouth Argyle,Peterborough United
 9,2026-11-24,20:45,Blackpool,Leicester City
 8,2026-11-24,20:45,Bradford City,Barnsley
+16,2026-11-24,20:45,Bromley,Wycombe Wanderers
 8,2026-11-24,20:45,Stevenage,Sheffield Wednesday
 17,2026-11-26,21:00,Doncaster Rovers,Huddersfield Town
 17,2026-11-28,13:30,MK Dons,Notts County

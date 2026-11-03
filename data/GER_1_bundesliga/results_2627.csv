@@ -62,12 +62,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 7,2026-10-24,17:30,Borussia Dortmund,Eintracht Frankfurt,1,0,H,0,0,D,18,8,5,3,7,12,13,1,8,0,5,1,0,2,0,0,80,openligadb
 7,2026-10-25,14:30,TSG Hoffenheim,Bayer 04 Leverkusen,3,0,H,0,0,D,20,9,6,1,14,6,5,3,3,1,2,2,4,4,1,0,"78,90,95",openligadb
 7,2026-10-25,16:30,SC Freiburg,FC Bayern München,1,3,A,0,2,A,16,17,4,9,9,11,5,6,1,2,4,4,3,1,0,0,"16,42,82,95",openligadb
-8,2026-10-30,20:30,SV 07 Elversberg,1. FSV Mainz 05,4,1,H,3,0,H,,,,,,,5,11,3,9,2,2,,,,,"7,26,46,91,92",openligadb
-8,2026-10-31,15:30,Bayer 04 Leverkusen,VfB Stuttgart,2,4,A,1,2,A,,,,,,,12,3,5,2,7,1,,,,,"14,22,29,51,66,79",openligadb
-8,2026-10-31,15:30,Borussia Mönchengladbach,SC Paderborn 07,0,0,D,0,0,D,,,,,,,4,7,1,4,3,3,,,,,,openligadb
-8,2026-10-31,15:30,FC Augsburg,SC Freiburg,1,2,A,1,0,H,,,,,,,1,2,0,2,1,0,,,,,"18,66,86",openligadb
-8,2026-10-31,15:30,FC Schalke 04,RB Leipzig,0,2,A,0,0,D,,,,,,,3,7,1,2,2,5,,,,,"35,78",openligadb
-8,2026-10-31,15:30,SV Werder Bremen,TSG Hoffenheim,2,0,H,0,0,D,,,,,,,8,4,2,2,6,2,,,,,"57,82",openligadb
-8,2026-10-31,18:30,FC Bayern München,Borussia Dortmund,2,2,D,1,0,H,,,,,,,5,2,0,1,5,1,,,,,"38,60,66,89",openligadb
-8,2026-11-01,15:30,1. FC Union Berlin,1. FC Köln,1,1,D,1,0,H,,,,,,,2,6,2,2,0,4,,,,,"10,79",openligadb
-8,2026-11-01,17:30,Eintracht Frankfurt,Hamburger SV,3,1,H,1,1,D,,,,,,,6,6,5,3,1,3,,,,,"10,14,47,69",openligadb
+8,2026-10-30,19:30,SV 07 Elversberg,1. FSV Mainz 05,4,1,H,3,0,H,13,10,6,2,8,22,5,11,3,9,2,2,0,5,0,1,"7,26,46,91,92",openligadb
+8,2026-10-31,14:30,Bayer 04 Leverkusen,VfB Stuttgart,2,4,A,1,2,A,24,15,8,7,9,13,12,3,5,2,7,1,4,4,0,0,"14,22,29,51,66,79",openligadb
+8,2026-10-31,14:30,Borussia Mönchengladbach,SC Paderborn 07,0,0,D,0,0,D,12,13,4,4,10,9,4,7,1,4,3,3,2,3,0,0,,openligadb
+8,2026-10-31,14:30,FC Augsburg,SC Freiburg,1,2,A,1,0,H,15,10,5,2,7,11,1,2,0,2,1,0,0,3,0,0,"18,66,86",openligadb
+8,2026-10-31,14:30,FC Schalke 04,RB Leipzig,0,2,A,0,1,A,6,18,1,10,16,16,3,7,1,2,2,5,2,0,0,0,"35,78",openligadb
+8,2026-10-31,14:30,SV Werder Bremen,TSG Hoffenheim,2,0,H,0,0,D,17,16,4,2,11,11,8,4,2,2,6,2,3,0,0,0,"57,82",openligadb
+8,2026-10-31,17:30,FC Bayern München,Borussia Dortmund,2,2,D,1,0,H,23,12,5,6,11,6,5,2,0,1,5,1,2,1,0,0,"38,60,66,89",openligadb
+8,2026-11-01,14:30,1. FC Union Berlin,1. FC Köln,1,1,D,1,0,H,5,14,2,2,11,10,2,6,2,2,0,4,4,3,0,0,"10,79",openligadb
+8,2026-11-01,16:30,Eintracht Frankfurt,Hamburger SV,3,1,H,1,1,D,15,12,10,3,10,10,6,6,5,3,1,3,2,4,0,0,"10,14,47,69",openligadb

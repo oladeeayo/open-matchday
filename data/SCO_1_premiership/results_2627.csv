@@ -65,6 +65,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-10-28,19:45,St. Johnstone,Motherwell,2,2,D,1,1,D,15,17,3,9,9,15,2,8,,,,,1,2,0,0,,fixturedl
 11,2026-10-28,19:45,St. Mirren,Hibernian,1,1,D,0,0,D,11,9,3,1,13,14,3,5,,,,,5,2,0,0,,fixturedl
 11,2026-10-28,20:00,Heart of Midlothian,Rangers,2,2,D,0,1,A,17,14,6,6,12,20,4,4,,,,,2,4,0,0,,fixturedl
-12,2026-10-31,16:00,Kilmarnock,St. Johnstone,2,2,D,,,,,,,,,,,,,,,,,,,,,fixturedl
-12,2026-10-31,16:00,Motherwell,St. Mirren,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
-12,2026-11-01,14:00,Falkirk,Celtic,2,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+12,2026-10-31,15:00,Kilmarnock,St. Johnstone,2,2,D,2,1,H,22,6,6,3,12,10,10,2,,,,,3,2,0,1,,fixturedl
+12,2026-10-31,15:00,Motherwell,St. Mirren,1,0,H,0,0,D,11,5,2,1,17,14,6,3,,,,,4,5,0,0,,fixturedl
+12,2026-11-01,13:00,Falkirk,Celtic,2,0,H,2,0,H,6,24,2,9,19,11,0,14,,,,,1,3,0,0,,fixturedl
