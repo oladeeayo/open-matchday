@@ -53,3 +53,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 3,2026-10-21,20:00,Real Betis,Feyenoord,1,0,H,,,,,,,,,,,,,,,,,,,,59,fixturedl
 3,2026-10-21,20:00,Real Madrid,Leipzig,4,1,H,,,,,,,,,,,,,,,,,,,,"43,52,83,85",fixturedl
 3,2026-10-21,20:00,Sporting CP,LASK,2,3,A,,,,,,,,,,,,,,,,,,,,"5,15,63,68,89",fixturedl
+4,2026-11-03,18:45,Galatasaray,Stuttgart,2,0,H,,,,,,,,,,,,,,,,,,,,"12,15",fixturedl
+4,2026-11-03,18:45,Shakhtar,Sporting CP,0,1,A,,,,,,,,,,,,,,,,,,,,59,fixturedl
+4,2026-11-03,21:00,Atleti,Bayern München,0,2,A,,,,,,,,,,,,,,,,,,,,"54,74",fixturedl
+4,2026-11-03,21:00,Barcelona,Aston Villa,3,0,H,,,,,,,,,,,,,,,,,,,,"7,52,64",fixturedl
+4,2026-11-03,21:00,Bodø/Glimt,Lille,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-11-03,21:00,Feyenoord,Inter,0,3,A,,,,,,,,,,,,,,,,,,,,"8,54",fixturedl
+4,2026-11-03,21:00,LASK,S. Bratislava,4,0,H,,,,,,,,,,,,,,,,,,,,"44,48",fixturedl
+4,2026-11-03,21:00,Man Utd,Roma,3,2,H,,,,,,,,,,,,,,,,,,,,"11,17,58,83,86",fixturedl
+4,2026-11-03,21:00,Villarreal,Paris,0,6,A,,,,,,,,,,,,,,,,,,,,"9,12,13,17,50,78",fixturedl

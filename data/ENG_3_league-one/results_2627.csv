@@ -154,3 +154,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-10-31,15:00,Wigan Athletic,Bromley,3,2,H,2,2,D,13,17,8,4,12,16,4,5,2,3,2,2,2,5,0,0,,fixturedl
 14,2026-10-31,15:00,Wycombe Wanderers,Burton Albion,2,0,H,1,0,H,16,8,5,2,15,19,4,5,2,3,2,2,2,1,0,0,,fixturedl
 14,2026-11-01,14:00,Sheffield Wednesday,Blackpool,1,1,D,1,0,H,17,18,5,4,12,11,10,9,5,5,5,4,3,3,1,0,,fixturedl
+8,2026-11-03,20:45,Huddersfield Town,Luton Town,1,1,D,,,,,,,,,,10,1,6,0,4,1,,,,,,fixturedl
+9,2026-11-03,20:45,Wigan Athletic,Mansfield Town,0,0,D,,,,,,,,,,5,2,1,2,4,0,,,,,,fixturedl

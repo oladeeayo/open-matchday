@@ -88,4 +88,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 10,2026-11-01,13:00,Istanbul Basaksehir,Samsunspor,5,2,H,3,1,H,24,9,10,4,12,14,8,2,3,2,5,0,0,2,0,0,,fixturedl
 10,2026-11-01,13:00,Trabzonspor,Gaziantep,2,0,H,1,0,H,18,13,6,6,7,12,4,2,3,1,1,1,0,1,0,0,,fixturedl
 10,2026-11-01,16:00,Kasimpasa,Besiktas,2,2,D,0,1,A,16,8,6,4,20,15,5,2,2,1,3,1,1,1,0,0,,fixturedl
-10,2026-11-02,18:00,Gençlerbirligi,Alanyaspor,5,0,H,,,,,,,,,,3,1,0,1,3,0,,,,,,fixturedl
+10,2026-11-02,17:00,Gençlerbirligi,Alanyaspor,5,0,H,1,0,H,12,9,7,3,15,10,3,1,0,1,3,0,1,3,0,0,,fixturedl
