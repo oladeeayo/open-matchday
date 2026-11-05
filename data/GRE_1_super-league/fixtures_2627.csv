@@ -1,5 +1,4 @@
 gw,date,time,home,away
-7,2026-10-17,17:30,Atromitos,AEK Athens
 10,2026-11-07,16:00,Volos NFC,Kifisia
 10,2026-11-07,18:30,Aris,Panetolikos
 10,2026-11-08,16:00,AEK Athens,Levadiakos
@@ -35,6 +34,7 @@ gw,date,time,home,away
 14,2026-12-13,18:00,AEK Athens,Volos NFC
 14,2026-12-13,18:30,PAOK,Panathinaikos
 15,2026-12-14,18:00,Kifisia,OFI Crete
+15,2026-12-16,18:00,Atromitos,AEK Athens
 15,2026-12-19,16:00,Volos NFC,Levadiakos
 15,2026-12-19,18:30,Asteras Tripoli,PAOK
 15,2026-12-19,19:00,Kifisia,Atromitos

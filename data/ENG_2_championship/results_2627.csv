@@ -155,12 +155,15 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-10-31,15:00,Swansea City,Blackburn Rovers,4,0,H,3,0,H,19,6,9,1,9,16,1,2,1,0,0,2,0,1,0,0,,fixturedl
 13,2026-10-31,15:00,West Ham United,West Bromwich Albion,1,3,A,1,1,D,14,12,5,3,13,9,8,6,3,4,5,2,3,1,0,0,,fixturedl
 13,2026-10-31,15:00,Wolverhampton Wanderers,Cardiff City,3,0,H,2,0,H,13,13,4,9,20,8,3,5,1,2,2,3,4,2,0,0,,fixturedl
-14,2026-11-03,20:45,Blackburn Rovers,Stoke City,1,2,A,,,,,,,,,,6,5,5,2,1,3,,,,,,fixturedl
-14,2026-11-03,20:45,Charlton Athletic,Bolton Wanderers,0,1,A,,,,,,,,,,4,3,0,1,4,2,,,,,,fixturedl
-14,2026-11-03,20:45,Derby County,Norwich City,0,4,A,,,,,,,,,,4,5,2,4,2,1,,,,,,fixturedl
-14,2026-11-03,20:45,Portsmouth,Swansea City,3,1,H,,,,,,,,,,5,5,3,1,2,4,,,,,,fixturedl
-14,2026-11-03,20:45,Preston North End,Sheffield United,2,3,A,,,,,,,,,,3,3,1,0,2,3,,,,,,fixturedl
-14,2026-11-03,20:45,Queens Park Rangers,Burnley,1,1,D,,,,,,,,,,8,1,4,0,4,1,,,,,,fixturedl
-14,2026-11-03,20:45,Watford,Lincoln City,1,0,H,,,,,,,,,,7,6,6,4,1,2,,,,,,fixturedl
-14,2026-11-03,21:00,Birmingham City,Millwall,3,0,H,,,,,,,,,,6,2,4,0,2,2,,,,,,fixturedl
-14,2026-11-03,21:00,West Bromwich Albion,Southampton,1,1,D,,,,,,,,,,3,5,1,0,2,5,,,,,,fixturedl
+14,2026-11-03,19:45,Blackburn Rovers,Stoke City,1,2,A,0,1,A,14,11,3,3,12,19,6,5,5,2,1,3,3,4,0,0,,fixturedl
+14,2026-11-03,19:45,Charlton Athletic,Bolton Wanderers,0,1,A,0,1,A,14,11,2,3,9,13,4,3,0,1,4,2,1,1,0,0,,fixturedl
+14,2026-11-03,19:45,Derby County,Norwich City,0,4,A,0,3,A,6,19,2,8,10,8,4,5,2,4,2,1,1,0,0,0,,fixturedl
+14,2026-11-03,19:45,Portsmouth,Swansea City,3,1,H,1,0,H,13,10,5,3,12,8,5,5,3,1,2,4,2,0,0,0,,fixturedl
+14,2026-11-03,19:45,Preston North End,Sheffield United,2,3,A,1,3,A,6,18,2,5,12,7,3,3,1,0,2,3,1,0,0,0,,fixturedl
+14,2026-11-03,19:45,Queens Park Rangers,Burnley,1,1,D,0,1,A,20,4,5,1,5,7,8,1,4,0,4,1,1,2,0,0,,fixturedl
+14,2026-11-03,19:45,Watford,Lincoln City,1,0,H,0,0,D,18,12,2,1,17,10,7,6,6,4,1,2,5,2,0,0,,fixturedl
+14,2026-11-03,20:00,Birmingham City,Millwall,3,0,H,3,0,H,19,16,9,2,12,9,6,2,4,0,2,2,1,1,0,0,,fixturedl
+14,2026-11-03,20:00,West Bromwich Albion,Southampton,1,1,D,1,0,H,17,10,5,3,13,10,3,5,1,0,2,5,2,1,0,0,,fixturedl
+14,2026-11-04,19:45,Cardiff City,West Ham United,3,3,D,3,0,H,7,18,4,10,9,11,4,6,3,1,1,5,0,3,0,0,,fixturedl
+14,2026-11-04,19:45,Wrexham,Middlesbrough,2,0,H,0,0,D,15,12,4,2,9,6,3,2,0,2,3,0,1,0,0,0,,fixturedl
+14,2026-11-04,20:00,Bristol City,Wolverhampton Wanderers,1,2,A,1,0,H,5,17,3,8,8,9,2,5,1,3,1,2,2,1,0,0,,fixturedl

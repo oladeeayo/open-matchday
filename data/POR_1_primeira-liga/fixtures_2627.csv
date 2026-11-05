@@ -17,24 +17,24 @@ gw,date,time,home,away
 12,2026-11-29,21:30,FC Porto,Sporting CP
 12,2026-11-30,21:15,Casa Pia AC,SC Braga
 12,2026-11-30,21:15,SL Benfica,FC Famalicão
-13,2026-12-06,01:00,CD Nacional,SL Benfica
-13,2026-12-06,01:00,Estoril Praia,Vitória SC
-13,2026-12-06,01:00,Estrela Amadora,Gil Vicente FC
-13,2026-12-06,01:00,FC Alverca,Moreirense FC
-13,2026-12-06,01:00,FC Famalicão,Académico
-13,2026-12-06,01:00,Rio Ave FC,Casa Pia AC
-13,2026-12-06,01:00,SC Braga,FC Arouca
-13,2026-12-06,01:00,Santa Clara,FC Porto
-13,2026-12-06,01:00,Sporting CP,Marítimo M.
-14,2026-12-13,01:00,Académico,FC Arouca
-14,2026-12-13,01:00,Casa Pia AC,CD Nacional
-14,2026-12-13,01:00,Estoril Praia,Santa Clara
-14,2026-12-13,01:00,FC Porto,Estrela Amadora
-14,2026-12-13,01:00,Gil Vicente FC,Sporting CP
-14,2026-12-13,01:00,Marítimo M.,Rio Ave FC
-14,2026-12-13,01:00,Moreirense FC,FC Famalicão
-14,2026-12-13,01:00,SL Benfica,SC Braga
-14,2026-12-13,01:00,Vitória SC,FC Alverca
+13,2026-12-04,21:15,Sporting CP,Marítimo M.
+13,2026-12-05,16:30,CD Nacional,SL Benfica
+13,2026-12-05,19:00,Santa Clara,FC Porto
+13,2026-12-05,21:30,SC Braga,FC Arouca
+13,2026-12-06,16:30,Estrela Amadora,Gil Vicente FC
+13,2026-12-06,16:30,Rio Ave FC,Casa Pia AC
+13,2026-12-06,19:00,Estoril Praia,Vitória SC
+13,2026-12-06,21:30,FC Famalicão,Académico
+13,2026-12-07,21:15,FC Alverca,Moreirense FC
+14,2026-12-11,21:15,Académico,FC Arouca
+14,2026-12-12,16:30,Estoril Praia,Santa Clara
+14,2026-12-12,19:00,Marítimo M.,Rio Ave FC
+14,2026-12-12,21:30,Gil Vicente FC,Sporting CP
+14,2026-12-13,16:30,Casa Pia AC,CD Nacional
+14,2026-12-13,16:30,Moreirense FC,FC Famalicão
+14,2026-12-13,19:00,Vitória SC,FC Alverca
+14,2026-12-13,21:30,FC Porto,Estrela Amadora
+14,2026-12-14,21:15,SL Benfica,SC Braga
 15,2026-12-20,01:00,CD Nacional,Moreirense FC
 15,2026-12-20,01:00,Estrela Amadora,Marítimo M.
 15,2026-12-20,01:00,FC Alverca,Gil Vicente FC

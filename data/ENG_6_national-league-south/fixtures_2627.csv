@@ -12,7 +12,6 @@ gw,date,time,home,away
 3,2026-11-09,,Chelmsford,Ebbsfleet
 12,2026-11-10,,Hemel Hempstead,Torquay
 12,2026-11-10,,Salisbury,Braintree
-12,2026-11-10,,Walton & Hersham,Dover
 12,2026-11-17,,Tonbridge,Chesham
 16,2026-11-17,,Torquay,Dover
 12,2026-11-17,,Truro,Billericay
@@ -52,6 +51,7 @@ gw,date,time,home,away
 19,2026-11-28,,Torquay,Chelmsford
 19,2026-11-28,,Truro,Dover
 19,2026-11-28,,Weston-super-Mare,Maidenhead
+12,2026-12-01,,Walton & Hersham,Dover
 20,2026-12-05,,AFC Totton,Maidstone
 20,2026-12-05,,Chelmsford,Slough
 20,2026-12-05,,Chesham,Salisbury
