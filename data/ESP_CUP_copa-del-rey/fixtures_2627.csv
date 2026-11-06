@@ -1,17 +1,18 @@
 gw,date,time,home,away
-5,2026-11-03,19:00,Anaitasuna,Alavés
-5,2026-11-03,19:00,CD Pamplona,Eibar
-5,2026-11-04,19:00,Portugalete,Real Unión Irun
-5,2026-11-04,20:00,Amorebieta,UD Logroñés
-5,2026-11-04,20:30,CD Minera,FC Cartagena
-5,2026-11-04,20:30,Reus FC Reddis,Barakaldo
-5,2026-11-04,20:30,Utebo,CD Sabadell
-5,2026-11-04,20:45,Calvo Sotelo,Albacete
-5,2026-11-05,19:00,CD Tarancon,Levante
-5,2026-11-05,21:00,Alcoyano,Mallorca
-1,2026-11-10,20:00,Badajoz,Tenerife
+1,2026-11-10,19:00,Anaitasuna,Alavés
+1,2026-11-10,19:00,CD Pamplona,Eibar
+1,2026-11-10,20:00,Amorebieta,UD Logroñés
 1,2026-11-10,20:00,Mijas Las Lagunas,Real Jaen CF
 1,2026-11-10,20:00,Trival Valderas,Leganés
 1,2026-11-10,21:00,Tavernes de la Valldigna,Valencia
+1,2026-11-12,,Puertollano C.F.,Albacete
+5,2026-11-12,18:30,Calvo Sotelo,Albacete
 1,2026-11-12,19:00,CD Artistico Navalcarnero,Real Betis
+1,2026-11-12,19:00,CD Tarancon,Levante
 1,2026-11-13,21:00,Salamanca UDS,Celta Vigo
+1,2026-11-18,19:00,Portugalete,Real Unión Irun
+1,2026-11-18,19:00,Utebo,CD Sabadell
+1,2026-11-18,20:00,Alcoyano,Mallorca
+1,2026-11-18,20:00,Badajoz,Tenerife
+1,2026-11-18,20:30,CD Minera,FC Cartagena
+1,2026-11-18,20:30,Reus FC Reddis,Barakaldo

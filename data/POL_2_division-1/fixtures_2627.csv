@@ -17,24 +17,24 @@ gw,date,time,home,away
 15,2026-11-22,,S. Rzeszow,Polonia Bytom
 15,2026-11-22,,Skierniewice,Pogon Siedlce
 15,2026-11-23,,Podbeskidzie,Termalica B-B.
+16,2026-11-27,,Chrobry Glogow,Skierniewice
+16,2026-11-27,,Warta Poznan,Pogon Siedlce
 16,2026-11-28,,Arka Gdynia,Ruch Chorzow
-16,2026-11-28,,Chrobry Glogow,Skierniewice
-16,2026-11-28,,LKS Lodz,Lechia Gdansk
-16,2026-11-28,,Legnica,Polonia Bytom
 16,2026-11-28,,Odra Opole,Polonia Warszawa
 16,2026-11-28,,Podbeskidzie,Grodzisk M.
-16,2026-11-28,,Puszcza,Stal Mielec
 16,2026-11-28,,Termalica B-B.,S. Rzeszow
-16,2026-11-28,,Warta Poznan,Pogon Siedlce
+16,2026-11-29,,LKS Lodz,Lechia Gdansk
+16,2026-11-29,,Puszcza,Stal Mielec
+16,2026-11-30,,Legnica,Polonia Bytom
+17,2026-12-04,,Pogon Siedlce,Legnica
+17,2026-12-04,,Stal Mielec,Arka Gdynia
 17,2026-12-05,,Grodzisk M.,Odra Opole
 17,2026-12-05,,Lechia Gdansk,Chrobry Glogow
-17,2026-12-05,,Pogon Siedlce,Legnica
-17,2026-12-05,,Polonia Bytom,Termalica B-B.
-17,2026-12-05,,Polonia Warszawa,Podbeskidzie
-17,2026-12-05,,Ruch Chorzow,Puszcza
-17,2026-12-05,,S. Rzeszow,Warta Poznan
 17,2026-12-05,,Skierniewice,LKS Lodz
-17,2026-12-05,,Stal Mielec,Arka Gdynia
+17,2026-12-06,,Polonia Warszawa,Podbeskidzie
+17,2026-12-06,,Ruch Chorzow,Puszcza
+17,2026-12-06,,S. Rzeszow,Warta Poznan
+17,2026-12-07,,Polonia Bytom,Termalica B-B.
 18,2026-12-12,,Arka Gdynia,Odra Opole
 18,2026-12-12,,Chrobry Glogow,S. Rzeszow
 18,2026-12-12,,Grodzisk M.,Lechia Gdansk

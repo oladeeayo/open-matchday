@@ -5,7 +5,6 @@ gw,date,time,home,away
 14,2026-11-07,16:00,Inverness Caledonian Thistle,Livingston
 14,2026-11-07,16:00,Queen's Park,Partick Thistle
 15,2026-11-14,16:00,Ayr United,Raith Rovers
-15,2026-11-14,16:00,Dunfermline Athletic,Arbroath
 15,2026-11-14,16:00,Livingston,Greenock Morton
 15,2026-11-14,16:00,Partick Thistle,Inverness Caledonian Thistle
 15,2026-11-14,16:00,Stenhousemuir,Queen's Park
@@ -14,6 +13,7 @@ gw,date,time,home,away
 16,2026-11-21,16:00,Dunfermline Athletic,Greenock Morton
 16,2026-11-21,16:00,Queen's Park,Livingston
 16,2026-11-21,16:00,Raith Rovers,Partick Thistle
+15,2026-12-01,20:45,Dunfermline Athletic,Arbroath
 17,2026-12-04,20:30,Livingston,Raith Rovers
 17,2026-12-05,16:00,Greenock Morton,Inverness Caledonian Thistle
 17,2026-12-05,16:00,Partick Thistle,Dunfermline Athletic

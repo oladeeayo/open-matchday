@@ -50,7 +50,24 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 3,2026-10-22,20:00,Hoffenheim,Lyon,3,0,H,,,,,,,,,,,,,,,,,,,,"49,83",fixturedl
 3,2026-10-22,20:00,Jagiellonia,Anderlecht,0,3,A,,,,,,,,,,,,,,,,,,,,"21,72,80",fixturedl
 3,2026-10-22,20:00,Lillestrøm,Real Sociedad,0,6,A,,,,,,,,,,,,,,,,,,,,"25,27,33,64,72,80",fixturedl
-3,2026-10-22,20:00,Olympiacos,Sparta Praha,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-10-22,20:00,Olympiacos,Sparta Praha,1,0,H,,,,,,,,,,,,,,,,,,,,78,fixturedl
 3,2026-10-22,20:00,Omonia,Benfica,1,4,A,,,,,,,,,,,,,,,,,,,,"14,76,85",fixturedl
 3,2026-10-22,20:00,Viktoria Plzen,Levski Sofia,1,2,A,,,,,,,,,,,,,,,,,,,,"44,62,65",fixturedl
 4,2026-11-04,16:30,Rennes,Olympiacos,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-11-05,18:45,Anderlecht,Salzburg,2,0,H,,,,,,,,,,,,,,,,,,,,90,fixturedl
+4,2026-11-05,18:45,Crystal Palace,Hoffenheim,1,1,D,,,,,,,,,,,,,,,,,,,,"7,91",fixturedl
+4,2026-11-05,18:45,Levski Sofia,Jagiellonia,1,0,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-11-05,18:45,Lillestrøm,Viktoria Plzen,0,1,A,,,,,,,,,,,,,,,,,,,,10,fixturedl
+4,2026-11-05,18:45,Milan,Ferencváros,0,2,A,,,,,,,,,,,,,,,,,,,,"52,66",fixturedl
+4,2026-11-05,18:45,N.E.C.,Omonia,3,1,H,,,,,,,,,,,,,,,,,,,,"23,74,76",fixturedl
+4,2026-11-05,18:45,Real Sociedad,Lyon,1,1,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-11-05,18:45,Sparta Praha,Bournemouth,1,3,A,,,,,,,,,,,,,,,,,,,,"35,57,81,90",fixturedl
+4,2026-11-05,21:00,AZ Alkmaar,Juventus,1,2,A,,,,,,,,,,,,,,,,,,,,"19,37,88",fixturedl
+4,2026-11-05,21:00,Benfica,Lech Poznan,3,1,H,,,,,,,,,,,,,,,,,,,,"6,67,72,90",fixturedl
+4,2026-11-05,21:00,Celta,Union SG,1,2,A,,,,,,,,,,,,,,,,,,,,"11,35,49",fixturedl
+4,2026-11-05,21:00,Celtic,Besiktas,3,2,H,,,,,,,,,,,,,,,,,,,,"54,62,78,85,87",fixturedl
+4,2026-11-05,21:00,H. Beer-Sheva,OFI Crete,0,2,A,,,,,,,,,,,,,,,,,,,,"47,56",fixturedl
+4,2026-11-05,21:00,Leverkusen,Marseille,0,1,A,,,,,,,,,,,,,,,,,,,,77,fixturedl
+4,2026-11-05,21:00,Sturm Graz,Celje,2,3,A,,,,,,,,,,,,,,,,,,,,"29,40,45,73,93",fixturedl
+4,2026-11-05,21:00,Sunderland,GNK Dinamo,0,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+4,2026-11-05,21:00,Torreense,Ararat-Armenia,3,2,H,,,,,,,,,,,,,,,,,,,,"13,41,95",fixturedl

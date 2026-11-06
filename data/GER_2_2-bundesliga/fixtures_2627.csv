@@ -26,51 +26,51 @@ gw,date,time,home,away
 13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus
 13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg
 13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld
-14,2026-12-06,13:30,1. FC Kaiserslautern,SpVgg Greuther Fürth
-14,2026-12-06,13:30,1. FC Nürnberg,VfL Bochum
-14,2026-12-06,13:30,DSC Arminia Bielefeld,Dynamo Dresden
-14,2026-12-06,13:30,Energie Cottbus,VfL Osnabrück
+14,2026-12-04,18:30,DSC Arminia Bielefeld,Dynamo Dresden
+14,2026-12-04,18:30,Energie Cottbus,VfL Osnabrück
+14,2026-12-05,13:00,1. FC Kaiserslautern,SpVgg Greuther Fürth
+14,2026-12-05,13:00,1. FC Nürnberg,VfL Bochum
+14,2026-12-05,13:00,Karlsruher SC,Holstein Kiel
+14,2026-12-05,20:30,Hannover 96,Hertha BSC
 14,2026-12-06,13:30,FC St. Pauli,1. FC Heidenheim 1846
-14,2026-12-06,13:30,Hannover 96,Hertha BSC
-14,2026-12-06,13:30,Karlsruher SC,Holstein Kiel
 14,2026-12-06,13:30,SV Darmstadt 98,Eintracht Braunschweig
 14,2026-12-06,13:30,VfL Wolfsburg,1. FC Magdeburg
-15,2026-12-13,13:30,1. FC Magdeburg,1. FC Nürnberg
-15,2026-12-13,13:30,DSC Arminia Bielefeld,1. FC Kaiserslautern
-15,2026-12-13,13:30,Dynamo Dresden,Energie Cottbus
-15,2026-12-13,13:30,Eintracht Braunschweig,Karlsruher SC
-15,2026-12-13,13:30,Hertha BSC,SV Darmstadt 98
-15,2026-12-13,13:30,Holstein Kiel,Hannover 96
+15,2026-12-11,18:30,1. FC Magdeburg,1. FC Nürnberg
+15,2026-12-11,18:30,DSC Arminia Bielefeld,1. FC Kaiserslautern
+15,2026-12-12,13:00,Eintracht Braunschweig,Karlsruher SC
+15,2026-12-12,13:00,Hertha BSC,SV Darmstadt 98
+15,2026-12-12,13:00,Holstein Kiel,Hannover 96
+15,2026-12-12,20:30,Dynamo Dresden,Energie Cottbus
 15,2026-12-13,13:30,SpVgg Greuther Fürth,VfL Wolfsburg
 15,2026-12-13,13:30,VfL Bochum,1. FC Heidenheim 1846
 15,2026-12-13,13:30,VfL Osnabrück,FC St. Pauli
+16,2026-12-18,18:30,1. FC Nürnberg,VfL Osnabrück
+16,2026-12-18,18:30,Energie Cottbus,Holstein Kiel
+16,2026-12-19,13:00,FC St. Pauli,Hertha BSC
+16,2026-12-19,13:00,Karlsruher SC,Dynamo Dresden
+16,2026-12-19,13:00,VfL Wolfsburg,DSC Arminia Bielefeld
+16,2026-12-19,20:30,VfL Bochum,1. FC Magdeburg
 16,2026-12-20,13:30,1. FC Heidenheim 1846,Eintracht Braunschweig
-16,2026-12-20,13:30,1. FC Nürnberg,VfL Osnabrück
-16,2026-12-20,13:30,Energie Cottbus,Holstein Kiel
-16,2026-12-20,13:30,FC St. Pauli,Hertha BSC
 16,2026-12-20,13:30,Hannover 96,1. FC Kaiserslautern
-16,2026-12-20,13:30,Karlsruher SC,Dynamo Dresden
 16,2026-12-20,13:30,SV Darmstadt 98,SpVgg Greuther Fürth
-16,2026-12-20,13:30,VfL Bochum,1. FC Magdeburg
-16,2026-12-20,13:30,VfL Wolfsburg,DSC Arminia Bielefeld
+17,2027-01-15,18:30,DSC Arminia Bielefeld,Hannover 96
+17,2027-01-15,18:30,SpVgg Greuther Fürth,Karlsruher SC
+17,2027-01-16,13:00,1. FC Magdeburg,1. FC Heidenheim 1846
+17,2027-01-16,13:00,Eintracht Braunschweig,FC St. Pauli
+17,2027-01-16,13:00,Holstein Kiel,VfL Bochum
+17,2027-01-16,20:30,Hertha BSC,1. FC Nürnberg
 17,2027-01-17,13:30,1. FC Kaiserslautern,Energie Cottbus
-17,2027-01-17,13:30,1. FC Magdeburg,1. FC Heidenheim 1846
-17,2027-01-17,13:30,DSC Arminia Bielefeld,Hannover 96
 17,2027-01-17,13:30,Dynamo Dresden,VfL Wolfsburg
-17,2027-01-17,13:30,Eintracht Braunschweig,FC St. Pauli
-17,2027-01-17,13:30,Hertha BSC,1. FC Nürnberg
-17,2027-01-17,13:30,Holstein Kiel,VfL Bochum
-17,2027-01-17,13:30,SpVgg Greuther Fürth,Karlsruher SC
 17,2027-01-17,13:30,VfL Osnabrück,SV Darmstadt 98
+18,2027-01-22,18:30,Dynamo Dresden,1. FC Nürnberg
+18,2027-01-22,18:30,Eintracht Braunschweig,1. FC Magdeburg
+18,2027-01-23,13:00,Hannover 96,Energie Cottbus
+18,2027-01-23,13:00,Hertha BSC,VfL Bochum
+18,2027-01-23,13:00,VfL Osnabrück,1. FC Heidenheim 1846
 18,2027-01-24,13:30,1. FC Kaiserslautern,VfL Wolfsburg
 18,2027-01-24,13:30,DSC Arminia Bielefeld,Karlsruher SC
-18,2027-01-24,13:30,Dynamo Dresden,1. FC Nürnberg
-18,2027-01-24,13:30,Eintracht Braunschweig,1. FC Magdeburg
-18,2027-01-24,13:30,Hannover 96,Energie Cottbus
-18,2027-01-24,13:30,Hertha BSC,VfL Bochum
 18,2027-01-24,13:30,Holstein Kiel,SV Darmstadt 98
 18,2027-01-24,13:30,SpVgg Greuther Fürth,FC St. Pauli
-18,2027-01-24,13:30,VfL Osnabrück,1. FC Heidenheim 1846
 19,2027-01-31,13:30,1. FC Heidenheim 1846,Hertha BSC
 19,2027-01-31,13:30,1. FC Magdeburg,VfL Osnabrück
 19,2027-01-31,13:30,1. FC Nürnberg,SpVgg Greuther Fürth

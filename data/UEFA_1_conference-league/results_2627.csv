@@ -35,3 +35,21 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 2,2026-10-22,20:00,Midtjylland,Sint-Truidense,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
 2,2026-10-22,20:00,Monaco,Freiburg,3,0,H,,,,,,,,,,,,,,,,,,,,"47,83,91",fixturedl
 2,2026-10-22,20:00,Thun,Hajduk Split,0,1,A,,,,,,,,,,,,,,,,,,,,17,fixturedl
+3,2026-11-05,18:45,Aarhus,Braga,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-11-05,18:45,Atalanta,Kairat Almaty,1,1,D,,,,,,,,,,,,,,,,,,,,"53,82",fixturedl
+3,2026-11-05,18:45,Crvena Zvezda,Inter Escaldes,2,1,H,,,,,,,,,,,,,,,,,,,,"62,80,92",fixturedl
+3,2026-11-05,18:45,KuPS Kuopio,Gent,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-11-05,18:45,L. Red Imps,Hajduk Split,1,0,H,,,,,,,,,,,,,,,,,,,,89,fixturedl
+3,2026-11-05,18:45,Midtjylland,Ajax,1,6,A,,,,,,,,,,,,,,,,,,,,"28,52,59,74",fixturedl
+3,2026-11-05,18:45,Mjällby,Borac,2,0,H,,,,,,,,,,,,,,,,,,,,"54,88",fixturedl
+3,2026-11-05,18:45,Thun,Hearts,3,1,H,,,,,,,,,,,,,,,,,,,,"22,34,56",fixturedl
+3,2026-11-05,18:45,Trabzonspor,Freiburg,0,1,A,,,,,,,,,,,,,,,,,,,,14,fixturedl
+3,2026-11-05,21:00,Copenhagen,Iberia Tbilisi,2,1,H,,,,,,,,,,,,,,,,,,,,"19,22,30",fixturedl
+3,2026-11-05,21:00,Getafe,Brighton,0,1,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+3,2026-11-05,21:00,Lugano,Kauno Žalgiris,3,0,H,,,,,,,,,,,,,,,,,,,,11,fixturedl
+3,2026-11-05,21:00,Monaco,Nordsjælland,2,0,H,,,,,,,,,,,,,,,,,,,,"33,91",fixturedl
+3,2026-11-05,21:00,Panathinaikos,CSKA Sofia,2,1,H,,,,,,,,,,,,,,,,,,,,"41,44,68",fixturedl
+3,2026-11-05,21:00,Riga,Jablonec,1,1,D,,,,,,,,,,,,,,,,,,,,"34,49",fixturedl
+3,2026-11-05,21:00,Sint-Truidense,Brann,1,1,D,,,,,,,,,,,,,,,,,,,,48,fixturedl
+3,2026-11-05,21:00,Twente,Pafos,3,1,H,,,,,,,,,,,,,,,,,,,,"39,76,82",fixturedl
+3,2026-11-05,21:00,U. Craiova,Egnatia,2,0,H,,,,,,,,,,,,,,,,,,,,"24,32",fixturedl

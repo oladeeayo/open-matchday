@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-05T05:58:48Z",
+  "generated_utc": "2026-11-06T05:55:26Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -88,10 +88,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 55,
-      "fixtures": 89,
+      "results": 72,
+      "fixtures": 72,
       "errors": [],
-      "latest": "2026-11-04"
+      "latest": "2026-11-05"
     },
     {
       "league": "UEFA Conference League",
@@ -101,10 +101,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 36,
-      "fixtures": 72,
+      "results": 54,
+      "fixtures": 54,
       "errors": [],
-      "latest": "2026-10-22"
+      "latest": "2026-11-05"
     },
     {
       "league": "EFL Cup (Carabao Cup)",
@@ -141,7 +141,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 65,
-      "fixtures": 16,
+      "fixtures": 17,
       "errors": [],
       "latest": "2026-10-29"
     },
@@ -855,10 +855,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 3,
       "corners": 0,
-      "results": 336,
-      "fixtures": 44,
+      "results": 338,
+      "fixtures": 42,
       "errors": [],
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     },
     {
       "league": "Série B",
@@ -868,23 +868,23 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 360,
-      "fixtures": 20,
+      "results": 361,
+      "fixtures": 19,
       "errors": [],
-      "latest": "2026-11-02"
+      "latest": "2026-11-05"
     },
     {
       "league": "Liga Profesional",
       "folder": "data/ARG_1_liga-profesional",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 1,
+      "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 474,
-      "fixtures": 14,
+      "results": 476,
+      "fixtures": 13,
       "errors": [],
-      "latest": "2026-11-03"
+      "latest": "2026-11-05"
     },
     {
       "league": "Primera Nacional",
@@ -917,13 +917,13 @@
       "folder": "data/MEX_2_liga-expansion",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 1,
+      "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 122,
-      "fixtures": 5,
+      "results": 124,
+      "fixtures": 4,
       "errors": [],
-      "latest": "2026-11-05"
+      "latest": "2026-11-06"
     },
     {
       "league": "Major League Soccer",

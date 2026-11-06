@@ -1,6 +1,4 @@
 gw,date,time,home,away
-34,2026-11-05,19:00,Aldosivi,River Plate
-34,2026-11-05,23:15,Gimnasia La Plata,Belgrano (Córdoba)
 34,2026-11-06,19:00,Barracas Central,Racing Club
 34,2026-11-06,23:15,Independiente,Deportivo Riestra
 34,2026-11-06,23:15,San Lorenzo,Platense
@@ -8,6 +6,7 @@ gw,date,time,home,away
 34,2026-11-07,02:00,Banfield,Atlético Tucumán
 34,2026-11-07,02:00,Tigre,Sarmiento (Junín)
 34,2026-11-07,19:00,Gimnasia (Mendoza),Independiente Rivadavia
+34,2026-11-07,19:00,Talleres (Córdoba),Estudiantes de La Plata
 34,2026-11-07,21:30,Argentinos Juniors,Huracán
 34,2026-11-07,21:30,Boca Juniors,Defensa y Justicia
 34,2026-11-07,21:30,Rosario Central,Estudiantes de Río Cuarto
