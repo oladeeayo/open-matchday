@@ -1,5 +1,4 @@
 gw,date,time,home,away
-33,2026-11-06,00:00,Vitória,Fluminense
 34,2026-11-14,00:30,Chapecoense,Vasco da Gama
 34,2026-11-14,22:30,Mirassol,Atlético-MG
 35,2026-11-18,00:00,Remo,Chapecoense
@@ -20,24 +19,24 @@ gw,date,time,home,away
 36,2026-11-23,00:00,Botafogo,São Paulo
 36,2026-11-23,23:30,Internacional,Vitória
 36,2026-11-24,01:00,Santos,Grêmio
+36,2026-11-24,22:00,Chapecoense,Palmeiras
 36,2026-11-25,00:00,Atlético-MG,Corinthians
-36,2026-11-28,21:00,Atlético-MG,Vasco da Gama
-36,2026-11-28,21:00,Botafogo,Bahia
-36,2026-11-28,21:00,Chapecoense,Palmeiras
-36,2026-11-28,21:00,Corinthians,Grêmio
-36,2026-11-28,21:00,Coritiba,Flamengo
-36,2026-11-28,21:00,Fluminense,Cruzeiro
-36,2026-11-28,21:00,Internacional,Red Bull Bragantino
-36,2026-11-28,21:00,Mirassol,Athletico-PR
-36,2026-11-28,21:00,São Paulo,Remo
-36,2026-11-28,21:00,Vitória,Santos
-37,2026-12-02,21:00,Athletico-PR,São Paulo
-37,2026-12-02,21:00,Bahia,Atlético-MG
-37,2026-12-02,21:00,Cruzeiro,Internacional
-37,2026-12-02,21:00,Flamengo,Chapecoense
-37,2026-12-02,21:00,Grêmio,Mirassol
-37,2026-12-02,21:00,Palmeiras,Coritiba
-37,2026-12-02,21:00,Red Bull Bragantino,Fluminense
-37,2026-12-02,21:00,Remo,Corinthians
-37,2026-12-02,21:00,Santos,Botafogo
-37,2026-12-02,21:00,Vasco da Gama,Vitória
+36,2026-11-26,00:00,São Paulo,Remo
+36,2026-11-27,00:00,Fluminense,Cruzeiro
+36,2026-11-29,01:00,Botafogo,Bahia
+36,2026-11-29,20:00,Coritiba,Flamengo
+36,2026-11-29,20:00,Vitória,Santos
+36,2026-11-29,22:30,Corinthians,Grêmio
+36,2026-11-29,22:30,Internacional,Red Bull Bragantino
+36,2026-11-29,22:30,Mirassol,Athletico-PR
+36,2026-11-29,23:30,Atlético-MG,Vasco da Gama
+37,2026-12-03,01:30,Athletico-PR,São Paulo
+37,2026-12-03,01:30,Bahia,Atlético-MG
+37,2026-12-03,01:30,Cruzeiro,Internacional
+37,2026-12-03,01:30,Flamengo,Chapecoense
+37,2026-12-03,01:30,Grêmio,Mirassol
+37,2026-12-03,01:30,Palmeiras,Coritiba
+37,2026-12-03,01:30,Red Bull Bragantino,Fluminense
+37,2026-12-03,01:30,Remo,Corinthians
+37,2026-12-03,01:30,Santos,Botafogo
+37,2026-12-03,01:30,Vasco da Gama,Vitória

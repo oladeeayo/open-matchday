@@ -63,3 +63,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-10-31,15:00,Ayr United,Queen's Park,3,2,H,1,0,H,13,8,4,4,10,17,6,2,,,,,3,2,0,0,,espn
 13,2026-10-31,15:00,Dunfermline Athletic,Inverness Caledonian Thistle,5,1,H,0,1,A,11,5,8,3,9,12,5,1,,,,,2,3,0,0,,espn
 13,2026-10-31,15:00,Partick Thistle,Greenock Morton,2,3,A,2,1,H,18,5,9,4,10,9,3,4,,,,,3,2,0,0,,espn
+14,2026-11-06,20:30,Raith Rovers,Dunfermline Athletic,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-11-07,16:00,Arbroath,Ayr United,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-11-07,16:00,Greenock Morton,Stenhousemuir,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-11-07,16:00,Inverness Caledonian Thistle,Livingston,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+14,2026-11-07,16:00,Queen's Park,Partick Thistle,0,1,A,,,,,,,,,,,,,,,,,,,,,espn

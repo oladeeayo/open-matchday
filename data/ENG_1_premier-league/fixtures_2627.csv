@@ -1,14 +1,4 @@
 gw,date,time,home,away
-10,2026-11-06,21:00,Everton,Coventry
-10,2026-11-07,13:30,Leeds,Spurs
-10,2026-11-07,16:00,Arsenal,Hull
-10,2026-11-07,16:00,Fulham,Newcastle
-10,2026-11-07,18:30,Nott'm Forest,Man City
-10,2026-11-08,15:00,Brighton,Brentford
-10,2026-11-08,15:00,Crystal Palace,Liverpool
-10,2026-11-08,15:00,Ipswich,Bournemouth
-10,2026-11-08,15:00,Sunderland,Chelsea
-10,2026-11-08,17:30,Man Utd,Aston Villa
 11,2026-11-21,13:30,Man City,Fulham
 11,2026-11-21,16:00,Aston Villa,Sunderland
 11,2026-11-21,16:00,Bournemouth,Nott'm Forest
@@ -63,9 +53,9 @@ gw,date,time,home,away
 16,2026-12-19,16:00,Bournemouth,Coventry
 16,2026-12-19,16:00,Leeds,Fulham
 16,2026-12-19,16:00,Man City,Hull
-16,2026-12-19,16:00,Nott'm Forest,Everton
 16,2026-12-19,18:30,Liverpool,Spurs
 16,2026-12-20,15:00,Brighton,Ipswich
+16,2026-12-20,15:00,Nott'm Forest,Everton
 16,2026-12-20,15:00,Sunderland,Crystal Palace
 16,2026-12-20,17:30,Arsenal,Man Utd
 16,2026-12-21,21:00,Chelsea,Aston Villa

@@ -128,14 +128,14 @@ gw,date,time,home,away
 24,2027-01-09,16:00,Notts County,Leyton Orient
 24,2027-01-09,16:00,Peterborough United,Wigan Athletic
 8,2027-01-12,20:45,Notts County,Blackpool
+25,2027-01-16,13:30,Bromley,Stockport County
+25,2027-01-16,13:30,Luton Town,MK Dons
 25,2027-01-16,16:00,AFC Wimbledon,Sheffield Wednesday
 25,2027-01-16,16:00,Blackpool,Leyton Orient
-25,2027-01-16,16:00,Bromley,Stockport County
 25,2027-01-16,16:00,Burton Albion,Peterborough United
 25,2027-01-16,16:00,Cambridge United,Barnsley
 25,2027-01-16,16:00,Doncaster Rovers,Leicester City
 25,2027-01-16,16:00,Huddersfield Town,Plymouth Argyle
-25,2027-01-16,16:00,Luton Town,MK Dons
 25,2027-01-16,16:00,Notts County,Wycombe Wanderers
 25,2027-01-16,16:00,Oxford United,Mansfield Town
 25,2027-01-16,16:00,Reading,Wigan Athletic
@@ -150,8 +150,10 @@ gw,date,time,home,away
 26,2027-01-19,20:45,Plymouth Argyle,Stevenage
 26,2027-01-19,20:45,Sheffield Wednesday,Notts County
 26,2027-01-19,20:45,Stockport County,Doncaster Rovers
-26,2027-01-19,20:45,Wigan Athletic,Oxford United
 26,2027-01-19,20:45,Wycombe Wanderers,Cambridge United
+26,2027-01-20,21:00,Wigan Athletic,Oxford United
+27,2027-01-23,13:30,Sheffield Wednesday,Doncaster Rovers
+27,2027-01-23,13:30,Wigan Athletic,Huddersfield Town
 27,2027-01-23,16:00,Barnsley,Reading
 27,2027-01-23,16:00,Bradford City,Oxford United
 27,2027-01-23,16:00,Leicester City,Luton Town
@@ -159,34 +161,32 @@ gw,date,time,home,away
 27,2027-01-23,16:00,MK Dons,Stevenage
 27,2027-01-23,16:00,Mansfield Town,Blackpool
 27,2027-01-23,16:00,Peterborough United,Bromley
-27,2027-01-23,16:00,Plymouth Argyle,Cambridge United
-27,2027-01-23,16:00,Sheffield Wednesday,Doncaster Rovers
 27,2027-01-23,16:00,Stockport County,Notts County
-27,2027-01-23,16:00,Wigan Athletic,Huddersfield Town
 27,2027-01-23,16:00,Wycombe Wanderers,AFC Wimbledon
+27,2027-01-25,21:00,Plymouth Argyle,Cambridge United
 9,2027-01-26,20:45,AFC Wimbledon,Stevenage
 28,2027-01-30,13:30,Huddersfield Town,Bradford City
+28,2027-01-30,13:30,Luton Town,Peterborough United
 28,2027-01-30,16:00,AFC Wimbledon,Stockport County
 28,2027-01-30,16:00,Blackpool,Sheffield Wednesday
 28,2027-01-30,16:00,Bromley,Wigan Athletic
 28,2027-01-30,16:00,Burton Albion,Wycombe Wanderers
 28,2027-01-30,16:00,Cambridge United,Leyton Orient
 28,2027-01-30,16:00,Doncaster Rovers,MK Dons
-28,2027-01-30,16:00,Luton Town,Peterborough United
 28,2027-01-30,16:00,Notts County,Mansfield Town
 28,2027-01-30,16:00,Oxford United,Barnsley
 28,2027-01-30,16:00,Reading,Plymouth Argyle
 28,2027-01-30,16:00,Stevenage,Leicester City
+29,2027-02-06,13:30,Leicester City,MK Dons
+29,2027-02-06,13:30,Reading,Oxford United
 29,2027-02-06,16:00,Barnsley,Leyton Orient
 29,2027-02-06,16:00,Bradford City,Plymouth Argyle
 29,2027-02-06,16:00,Bromley,Sheffield Wednesday
 29,2027-02-06,16:00,Burton Albion,Notts County
 29,2027-02-06,16:00,Doncaster Rovers,Stevenage
 29,2027-02-06,16:00,Huddersfield Town,Cambridge United
-29,2027-02-06,16:00,Leicester City,MK Dons
 29,2027-02-06,16:00,Luton Town,Mansfield Town
 29,2027-02-06,16:00,Peterborough United,Blackpool
-29,2027-02-06,16:00,Reading,Oxford United
 29,2027-02-06,16:00,Wigan Athletic,AFC Wimbledon
 29,2027-02-06,16:00,Wycombe Wanderers,Stockport County
 30,2027-02-09,20:45,AFC Wimbledon,Burton Albion
@@ -197,35 +197,36 @@ gw,date,time,home,away
 30,2027-02-09,20:45,Mansfield Town,Reading
 30,2027-02-09,20:45,Notts County,Doncaster Rovers
 30,2027-02-09,20:45,Oxford United,Huddersfield Town
-30,2027-02-09,20:45,Plymouth Argyle,Leicester City
 30,2027-02-09,20:45,Sheffield Wednesday,Wycombe Wanderers
 30,2027-02-09,20:45,Stevenage,Peterborough United
 30,2027-02-09,20:45,Stockport County,Luton Town
+30,2027-02-10,21:00,Plymouth Argyle,Leicester City
+31,2027-02-13,13:30,MK Dons,Wycombe Wanderers
+31,2027-02-13,13:30,Mansfield Town,Bradford City
 31,2027-02-13,16:00,AFC Wimbledon,Bromley
 31,2027-02-13,16:00,Blackpool,Reading
 31,2027-02-13,16:00,Cambridge United,Burton Albion
 31,2027-02-13,16:00,Leyton Orient,Luton Town
-31,2027-02-13,16:00,MK Dons,Wycombe Wanderers
-31,2027-02-13,16:00,Mansfield Town,Bradford City
 31,2027-02-13,16:00,Notts County,Huddersfield Town
 31,2027-02-13,16:00,Oxford United,Leicester City
 31,2027-02-13,16:00,Plymouth Argyle,Doncaster Rovers
 31,2027-02-13,16:00,Sheffield Wednesday,Peterborough United
 31,2027-02-13,16:00,Stevenage,Barnsley
 31,2027-02-13,16:00,Stockport County,Wigan Athletic
+32,2027-02-20,13:30,Leicester City,Stockport County
+32,2027-02-20,13:30,Wigan Athletic,Sheffield Wednesday
 32,2027-02-20,16:00,Barnsley,Plymouth Argyle
 32,2027-02-20,16:00,Bradford City,Notts County
 32,2027-02-20,16:00,Bromley,Blackpool
 32,2027-02-20,16:00,Burton Albion,Oxford United
 32,2027-02-20,16:00,Doncaster Rovers,AFC Wimbledon
 32,2027-02-20,16:00,Huddersfield Town,Mansfield Town
-32,2027-02-20,16:00,Leicester City,Stockport County
 32,2027-02-20,16:00,Luton Town,Stevenage
 32,2027-02-20,16:00,Peterborough United,MK Dons
 32,2027-02-20,16:00,Reading,Cambridge United
-32,2027-02-20,16:00,Wigan Athletic,Sheffield Wednesday
 32,2027-02-20,16:00,Wycombe Wanderers,Leyton Orient
 33,2027-02-27,13:30,Cambridge United,Peterborough United
+33,2027-02-27,13:30,Oxford United,Luton Town
 33,2027-02-27,16:00,Barnsley,Wigan Athletic
 33,2027-02-27,16:00,Blackpool,AFC Wimbledon
 33,2027-02-27,16:00,Bradford City,Leicester City
@@ -234,7 +235,6 @@ gw,date,time,home,away
 33,2027-02-27,16:00,Leyton Orient,Doncaster Rovers
 33,2027-02-27,16:00,Mansfield Town,Stevenage
 33,2027-02-27,16:00,Notts County,Bromley
-33,2027-02-27,16:00,Oxford United,Luton Town
 33,2027-02-27,16:00,Plymouth Argyle,Sheffield Wednesday
 33,2027-02-27,16:00,Reading,Stockport County
 34,2027-03-06,16:00,AFC Wimbledon,Huddersfield Town

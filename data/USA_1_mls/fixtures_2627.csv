@@ -1,17 +1,21 @@
 gw,date,time,home,away
-35,2026-11-07,22:00,CF Montréal,Vancouver Whitecaps FC
-35,2026-11-07,22:00,Chicago Fire FC,Columbus Crew
-35,2026-11-07,22:00,D.C. United,New York City Football Club
-35,2026-11-07,22:00,FC Cincinnati,Nashville SC
-35,2026-11-07,22:00,Inter Miami CF,Charlotte FC
-35,2026-11-07,22:00,Orlando City,New England Revolution
-35,2026-11-07,22:00,Philadelphia Union,Toronto FC
-35,2026-11-07,22:00,Red Bull New York,Atlanta United
-35,2026-11-08,01:00,Austin FC,Portland Timbers
-35,2026-11-08,01:00,FC Dallas,Colorado Rapids
-35,2026-11-08,01:00,Houston Dynamo FC,St. Louis CITY SC
-35,2026-11-08,01:00,Minnesota United FC,San Jose Earthquakes
-35,2026-11-08,01:00,Real Salt Lake,LA Galaxy
-35,2026-11-08,01:00,San Diego FC,Sporting Kansas City
-35,2026-11-08,01:00,Seattle Sounders FC,Los Angeles Football Club
-31,2026-11-08,01:00,Seattle Sounders FC,LAFC
+32,2026-11-20,01:30,Orlando City SC,FC Cincinnati
+32,2026-11-20,04:00,Seattle Sounders FC,Real Salt Lake
+32,2026-11-21,00:00,Inter Miami CF,Columbus Crew
+32,2026-11-21,20:00,New England Revolution,Philadelphia Union
+32,2026-11-21,22:00,FC Dallas,Portland Timbers
+32,2026-11-22,00:30,Chicago Fire FC,Charlotte FC
+33,2026-11-24,02:00,St. Louis CITY SC,LAFC
+33,2026-11-25,04:00,San Jose Earthquakes,Houston Dynamo FC
+33,2026-11-28,02:00,Columbus Crew,Inter Miami CF
+33,2026-11-28,18:30,Charlotte FC,Chicago Fire FC
+33,2026-11-28,20:30,Houston Dynamo FC,San Jose Earthquakes
+33,2026-11-28,22:30,Philadelphia Union,New England Revolution
+33,2026-11-29,02:30,LAFC,St. Louis CITY SC
+33,2026-11-29,04:30,Portland Timbers,FC Dallas
+34,2026-12-02,21:00,Chicago Fire FC,Charlotte FC
+34,2026-12-02,21:00,FC Dallas,Portland Timbers
+34,2026-12-02,21:00,Inter Miami CF,Columbus Crew
+34,2026-12-02,21:00,New England Revolution,Philadelphia Union
+34,2026-12-02,21:00,San Jose Earthquakes,Houston Dynamo FC
+34,2026-12-02,21:00,St. Louis CITY SC,LAFC

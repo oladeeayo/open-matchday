@@ -59,3 +59,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-10-31,15:00,Spartans,Annan Athletic,3,2,H,1,1,D,11,2,7,2,18,21,6,3,,,,,2,4,0,0,,fd.co.uk
 12,2026-10-31,15:00,Stirling,Forfar,5,2,H,3,2,H,10,7,8,3,14,12,2,5,,,,,1,1,0,0,,fd.co.uk
 12,2026-10-31,15:00,Stranraer,Clyde,0,0,D,0,0,D,7,12,2,3,11,19,2,7,,,,,3,3,0,0,,fd.co.uk
+13,2026-11-07,,Annan,Kelty Hearts,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-11-07,,Clyde,Spartans,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-11-07,,Elgin City,Dumbarton,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-11-07,,Forfar Athletic,Edinburgh City,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+13,2026-11-07,,Stranraer,Stirling,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

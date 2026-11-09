@@ -1,14 +1,4 @@
 gw,date,time,home,away
-12,2026-11-06,21:00,Sevilla FC,Deportivo Alavés
-12,2026-11-07,14:00,Málaga CF,R. Racing Club
-12,2026-11-07,16:15,RCD Espanyol de Barcelona,RC Deportivo
-12,2026-11-07,18:30,CA Osasuna,Athletic Club
-12,2026-11-07,21:00,Valencia CF,Real Madrid
-12,2026-11-08,14:00,Elche CF,Real Betis
-12,2026-11-08,16:15,Real Sociedad,Rayo Vallecano
-12,2026-11-08,18:30,Celta,Levante UD
-12,2026-11-08,18:30,Villarreal CF,Getafe CF
-12,2026-11-08,21:00,Atlético de Madrid,FC Barcelona
 13,2026-11-20,21:00,Athletic Club,RCD Espanyol de Barcelona
 13,2026-11-21,14:00,Deportivo Alavés,RC Deportivo
 13,2026-11-21,16:15,Rayo Vallecano,Valencia CF
@@ -19,16 +9,18 @@ gw,date,time,home,away
 13,2026-11-22,18:30,CA Osasuna,Málaga CF
 13,2026-11-22,21:00,Getafe CF,Atlético de Madrid
 13,2026-11-23,21:00,Levante UD,Elche CF
-14,2026-11-29,01:00,Celta,Villarreal CF
-14,2026-11-29,01:00,Elche CF,Atlético de Madrid
-14,2026-11-29,01:00,Levante UD,R. Racing Club
-14,2026-11-29,01:00,Málaga CF,Athletic Club
-14,2026-11-29,01:00,RC Deportivo,FC Barcelona
-14,2026-11-29,01:00,RCD Espanyol de Barcelona,Getafe CF
-14,2026-11-29,01:00,Real Betis,Rayo Vallecano
-14,2026-11-29,01:00,Real Madrid,Deportivo Alavés
-14,2026-11-29,01:00,Real Sociedad,Sevilla FC
-14,2026-11-29,01:00,Valencia CF,CA Osasuna
+14,2026-11-27,21:00,Levante UD,R. Racing Club
+14,2026-11-28,14:00,Real Betis,Rayo Vallecano
+14,2026-11-28,16:15,Málaga CF,Athletic Club
+14,2026-11-28,18:30,Elche CF,Atlético de Madrid
+14,2026-11-28,21:00,Real Madrid,Deportivo Alavés
+14,2026-11-29,14:00,Valencia CF,CA Osasuna
+14,2026-11-29,16:15,RC Deportivo,FC Barcelona
+14,2026-11-29,18:30,Celta,Villarreal CF
+14,2026-11-29,21:00,Real Sociedad,Sevilla FC
+14,2026-11-30,21:00,RCD Espanyol de Barcelona,Getafe CF
+23,2026-12-02,19:00,Real Sociedad,Real Madrid
+23,2026-12-02,21:30,FC Barcelona,Atlético de Madrid
 15,2026-12-06,01:00,Athletic Club,Real Madrid
 15,2026-12-06,01:00,Atlético de Madrid,Real Betis
 15,2026-12-06,01:00,CA Osasuna,Elche CF
@@ -113,12 +105,10 @@ gw,date,time,home,away
 23,2027-02-07,01:00,Athletic Club,CA Osasuna
 23,2027-02-07,01:00,Deportivo Alavés,Celta
 23,2027-02-07,01:00,Elche CF,Levante UD
-23,2027-02-07,01:00,FC Barcelona,Atlético de Madrid
 23,2027-02-07,01:00,Getafe CF,Villarreal CF
 23,2027-02-07,01:00,RC Deportivo,Málaga CF
 23,2027-02-07,01:00,RCD Espanyol de Barcelona,Rayo Vallecano
 23,2027-02-07,01:00,Real Betis,Sevilla FC
-23,2027-02-07,01:00,Real Sociedad,Real Madrid
 23,2027-02-07,01:00,Valencia CF,R. Racing Club
 24,2027-02-14,01:00,CA Osasuna,Atlético de Madrid
 24,2027-02-14,01:00,Celta,Rayo Vallecano

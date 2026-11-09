@@ -1,14 +1,4 @@
 gw,date,time,home,away
-18,2026-11-06,,Quorn,Alfreton
-18,2026-11-07,,Avro,Warrington
-18,2026-11-07,,Bamber Bridge,Bury
-18,2026-11-07,,Emley,Whitby
-18,2026-11-07,,Hyde,Redcar Athletic
-18,2026-11-07,,Lancaster,Cleethorpes
-18,2026-11-07,,Leek,Ilkeston
-18,2026-11-07,,Stockton,Curzon Ashton
-18,2026-11-07,,Warrington Rylands,Gainsborough
-18,2026-11-07,,Workington,Ashton Utd
 15,2026-11-10,,Bury,Cleethorpes
 16,2026-11-10,,Curzon Ashton,Ilkeston
 16,2026-11-10,,Quorn,Stockton
@@ -52,7 +42,6 @@ gw,date,time,home,away
 16,2026-12-01,,Warrington,Bury
 22,2026-12-05,,Alfreton,Cleethorpes
 22,2026-12-05,,Bamber Bridge,Curzon Ashton
-22,2026-12-05,,Bury,Guiseley
 22,2026-12-05,,Emley,Leek
 22,2026-12-05,,FC United,Hyde
 22,2026-12-05,,Lancaster,Redcar Athletic
@@ -111,3 +100,14 @@ gw,date,time,home,away
 26,2027-01-02,,Redcar Athletic,Stockton
 26,2027-01-02,,Warrington,Leek
 26,2027-01-02,,Workington,Lancaster
+27,2027-01-09,,Alfreton,Leek
+27,2027-01-09,,Bamber Bridge,Guiseley
+27,2027-01-09,,Bury,Ashton Utd
+27,2027-01-09,,Emley,Avro
+27,2027-01-09,,FC United,Ilkeston
+27,2027-01-09,,Lancaster,Gainsborough
+27,2027-01-09,,Quorn,Curzon Ashton
+27,2027-01-09,,Stockton,Cleethorpes
+27,2027-01-09,,Warrington,Redcar Athletic
+27,2027-01-09,,Whitby,Warrington Rylands
+27,2027-01-09,,Workington,Hyde

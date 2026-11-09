@@ -1,16 +1,4 @@
 gw,date,time,home,away
-15,2026-11-06,21:00,Derby County,Bolton Wanderers
-15,2026-11-07,13:30,Bristol City,Norwich City
-15,2026-11-07,13:30,Portsmouth,Stoke City
-15,2026-11-07,13:30,Wrexham,Wolverhampton Wanderers
-15,2026-11-07,16:00,Birmingham City,Swansea City
-15,2026-11-07,16:00,Blackburn Rovers,West Ham United
-15,2026-11-07,16:00,Cardiff City,Burnley
-15,2026-11-07,16:00,Charlton Athletic,Sheffield United
-15,2026-11-07,16:00,Preston North End,Southampton
-15,2026-11-07,16:00,Queens Park Rangers,Lincoln City
-15,2026-11-07,16:00,Watford,Middlesbrough
-15,2026-11-07,16:00,West Bromwich Albion,Millwall
 16,2026-11-21,13:30,Millwall,Queens Park Rangers
 16,2026-11-21,13:30,Norwich City,Cardiff City
 16,2026-11-21,13:30,Southampton,Derby County
@@ -131,126 +119,126 @@ gw,date,time,home,away
 25,2027-01-01,16:00,West Bromwich Albion,Stoke City
 25,2027-01-01,16:00,Wrexham,Bolton Wanderers
 25,2027-01-01,18:30,Burnley,Sheffield United
+26,2027-01-15,21:00,West Ham United,Swansea City
+26,2027-01-16,13:30,Queens Park Rangers,Birmingham City
+26,2027-01-16,13:30,Stoke City,Derby County
+26,2027-01-16,13:30,Wolverhampton Wanderers,Burnley
 26,2027-01-16,16:00,Blackburn Rovers,West Bromwich Albion
 26,2027-01-16,16:00,Bolton Wanderers,Southampton
 26,2027-01-16,16:00,Cardiff City,Middlesbrough
-26,2027-01-16,16:00,Charlton Athletic,Watford
 26,2027-01-16,16:00,Lincoln City,Millwall
 26,2027-01-16,16:00,Portsmouth,Norwich City
 26,2027-01-16,16:00,Preston North End,Wrexham
-26,2027-01-16,16:00,Queens Park Rangers,Birmingham City
 26,2027-01-16,16:00,Sheffield United,Bristol City
-26,2027-01-16,16:00,Stoke City,Derby County
-26,2027-01-16,16:00,West Ham United,Swansea City
-26,2027-01-16,16:00,Wolverhampton Wanderers,Burnley
-27,2027-01-23,16:00,Birmingham City,Lincoln City
+26,2027-01-17,13:00,Charlton Athletic,Watford
+27,2027-01-22,21:00,Preston North End,Stoke City
+27,2027-01-23,13:30,Birmingham City,Lincoln City
+27,2027-01-23,13:30,Queens Park Rangers,Southampton
+27,2027-01-23,13:30,West Bromwich Albion,West Ham United
 27,2027-01-23,16:00,Blackburn Rovers,Swansea City
 27,2027-01-23,16:00,Bristol City,Bolton Wanderers
-27,2027-01-23,16:00,Cardiff City,Wolverhampton Wanderers
 27,2027-01-23,16:00,Charlton Athletic,Middlesbrough
 27,2027-01-23,16:00,Derby County,Millwall
 27,2027-01-23,16:00,Portsmouth,Burnley
-27,2027-01-23,16:00,Preston North End,Stoke City
-27,2027-01-23,16:00,Queens Park Rangers,Southampton
 27,2027-01-23,16:00,Watford,Norwich City
-27,2027-01-23,16:00,West Bromwich Albion,West Ham United
 27,2027-01-23,16:00,Wrexham,Sheffield United
+27,2027-01-24,13:00,Cardiff City,Wolverhampton Wanderers
 28,2027-01-26,20:45,Bolton Wanderers,Charlton Athletic
 28,2027-01-26,20:45,Burnley,Queens Park Rangers
 28,2027-01-26,20:45,Lincoln City,Watford
 28,2027-01-26,20:45,Millwall,Birmingham City
-28,2027-01-26,20:45,Norwich City,Derby County
 28,2027-01-26,20:45,Sheffield United,Preston North End
 28,2027-01-26,20:45,Southampton,West Bromwich Albion
 28,2027-01-26,20:45,Stoke City,Blackburn Rovers
+28,2027-01-26,21:00,Norwich City,Derby County
 28,2027-01-27,20:45,Middlesbrough,Wrexham
-28,2027-01-27,20:45,Swansea City,Portsmouth
 28,2027-01-27,20:45,West Ham United,Cardiff City
 28,2027-01-27,20:45,Wolverhampton Wanderers,Bristol City
-29,2027-01-30,16:00,Bolton Wanderers,Derby County
+28,2027-01-27,21:00,Swansea City,Portsmouth
+29,2027-01-29,21:00,Lincoln City,Queens Park Rangers
+29,2027-01-30,13:30,Bolton Wanderers,Derby County
+29,2027-01-30,13:30,Swansea City,Birmingham City
+29,2027-01-30,13:30,Wolverhampton Wanderers,Wrexham
 29,2027-01-30,16:00,Burnley,Cardiff City
-29,2027-01-30,16:00,Lincoln City,Queens Park Rangers
 29,2027-01-30,16:00,Middlesbrough,Watford
 29,2027-01-30,16:00,Millwall,West Bromwich Albion
-29,2027-01-30,16:00,Norwich City,Bristol City
 29,2027-01-30,16:00,Sheffield United,Charlton Athletic
 29,2027-01-30,16:00,Southampton,Preston North End
 29,2027-01-30,16:00,Stoke City,Portsmouth
-29,2027-01-30,16:00,Swansea City,Birmingham City
 29,2027-01-30,16:00,West Ham United,Blackburn Rovers
-29,2027-01-30,16:00,Wolverhampton Wanderers,Wrexham
+29,2027-01-31,13:00,Norwich City,Bristol City
+30,2027-02-05,21:00,Bristol City,Middlesbrough
+30,2027-02-06,13:30,Charlton Athletic,Wolverhampton Wanderers
+30,2027-02-06,13:30,Watford,Sheffield United
+30,2027-02-06,13:30,Wrexham,Lincoln City
 30,2027-02-06,16:00,Birmingham City,Stoke City
-30,2027-02-06,16:00,Blackburn Rovers,Burnley
-30,2027-02-06,16:00,Bristol City,Middlesbrough
 30,2027-02-06,16:00,Cardiff City,Norwich City
-30,2027-02-06,16:00,Charlton Athletic,Wolverhampton Wanderers
 30,2027-02-06,16:00,Derby County,Southampton
 30,2027-02-06,16:00,Portsmouth,Bolton Wanderers
 30,2027-02-06,16:00,Preston North End,West Ham United
 30,2027-02-06,16:00,Queens Park Rangers,Millwall
-30,2027-02-06,16:00,Watford,Sheffield United
 30,2027-02-06,16:00,West Bromwich Albion,Swansea City
-30,2027-02-06,16:00,Wrexham,Lincoln City
-31,2027-02-13,16:00,Birmingham City,Derby County
-31,2027-02-13,16:00,Bristol City,Southampton
+30,2027-02-07,13:00,Blackburn Rovers,Burnley
+31,2027-02-12,21:00,Birmingham City,Derby County
+31,2027-02-13,13:30,Bristol City,Southampton
+31,2027-02-13,13:30,Millwall,Blackburn Rovers
+31,2027-02-13,13:30,Portsmouth,Charlton Athletic
 31,2027-02-13,16:00,Burnley,Swansea City
-31,2027-02-13,16:00,Cardiff City,Bolton Wanderers
-31,2027-02-13,16:00,Lincoln City,Preston North End
-31,2027-02-13,16:00,Millwall,Blackburn Rovers
 31,2027-02-13,16:00,Norwich City,Middlesbrough
-31,2027-02-13,16:00,Portsmouth,Charlton Athletic
 31,2027-02-13,16:00,Queens Park Rangers,West Bromwich Albion
 31,2027-02-13,16:00,Stoke City,Watford
 31,2027-02-13,16:00,Wolverhampton Wanderers,Sheffield United
 31,2027-02-13,16:00,Wrexham,West Ham United
-32,2027-02-16,20:45,Blackburn Rovers,Bristol City
+31,2027-02-13,18:30,Lincoln City,Preston North End
+31,2027-02-14,13:00,Cardiff City,Bolton Wanderers
 32,2027-02-16,20:45,Charlton Athletic,Burnley
 32,2027-02-16,20:45,Derby County,Queens Park Rangers
+32,2027-02-16,20:45,Middlesbrough,Stoke City
 32,2027-02-16,20:45,Preston North End,Birmingham City
 32,2027-02-16,20:45,Sheffield United,Portsmouth
-32,2027-02-16,20:45,Watford,Cardiff City
 32,2027-02-16,20:45,West Bromwich Albion,Wrexham
 32,2027-02-16,20:45,West Ham United,Lincoln City
+32,2027-02-16,21:00,Blackburn Rovers,Bristol City
 32,2027-02-17,20:45,Bolton Wanderers,Wolverhampton Wanderers
-32,2027-02-17,20:45,Middlesbrough,Stoke City
 32,2027-02-17,20:45,Southampton,Norwich City
 32,2027-02-17,20:45,Swansea City,Millwall
+32,2027-02-17,21:00,Watford,Cardiff City
+33,2027-02-19,21:00,Middlesbrough,Birmingham City
+33,2027-02-20,13:30,Sheffield United,Stoke City
+33,2027-02-20,13:30,Watford,Bristol City
+33,2027-02-20,13:30,West Bromwich Albion,Wolverhampton Wanderers
 33,2027-02-20,16:00,Blackburn Rovers,Portsmouth
 33,2027-02-20,16:00,Bolton Wanderers,Norwich City
 33,2027-02-20,16:00,Charlton Athletic,Cardiff City
 33,2027-02-20,16:00,Derby County,Burnley
-33,2027-02-20,16:00,Middlesbrough,Birmingham City
 33,2027-02-20,16:00,Preston North End,Queens Park Rangers
-33,2027-02-20,16:00,Sheffield United,Stoke City
 33,2027-02-20,16:00,Southampton,Wrexham
 33,2027-02-20,16:00,Swansea City,Lincoln City
-33,2027-02-20,16:00,Watford,Bristol City
-33,2027-02-20,16:00,West Bromwich Albion,Wolverhampton Wanderers
 33,2027-02-21,13:00,West Ham United,Millwall
-34,2027-02-27,16:00,Birmingham City,West Bromwich Albion
-34,2027-02-27,16:00,Bristol City,Charlton Athletic
+34,2027-02-26,21:00,Birmingham City,West Bromwich Albion
+34,2027-02-27,13:30,Bristol City,Charlton Athletic
+34,2027-02-27,13:30,Norwich City,Swansea City
+34,2027-02-27,13:30,Queens Park Rangers,West Ham United
 34,2027-02-27,16:00,Burnley,Watford
 34,2027-02-27,16:00,Cardiff City,Blackburn Rovers
 34,2027-02-27,16:00,Lincoln City,Sheffield United
 34,2027-02-27,16:00,Millwall,Preston North End
-34,2027-02-27,16:00,Norwich City,Swansea City
-34,2027-02-27,16:00,Queens Park Rangers,West Ham United
 34,2027-02-27,16:00,Stoke City,Bolton Wanderers
 34,2027-02-27,16:00,Wolverhampton Wanderers,Middlesbrough
 34,2027-02-27,16:00,Wrexham,Derby County
 34,2027-02-28,13:00,Portsmouth,Southampton
 35,2027-03-02,20:45,Bolton Wanderers,Queens Park Rangers
-35,2027-03-02,20:45,Bristol City,Birmingham City
 35,2027-03-02,20:45,Burnley,West Bromwich Albion
 35,2027-03-02,20:45,Cardiff City,Derby County
 35,2027-03-02,20:45,Charlton Athletic,West Ham United
 35,2027-03-02,20:45,Middlesbrough,Blackburn Rovers
 35,2027-03-02,20:45,Norwich City,Millwall
 35,2027-03-02,20:45,Watford,Wrexham
-35,2027-03-03,20:45,Portsmouth,Lincoln City
+35,2027-03-02,21:00,Bristol City,Birmingham City
 35,2027-03-03,20:45,Sheffield United,Swansea City
 35,2027-03-03,20:45,Stoke City,Southampton
 35,2027-03-03,20:45,Wolverhampton Wanderers,Preston North End
+35,2027-03-03,21:00,Portsmouth,Lincoln City
 36,2027-03-06,16:00,Birmingham City,Sheffield United
 36,2027-03-06,16:00,Blackburn Rovers,Wolverhampton Wanderers
 36,2027-03-06,16:00,Derby County,Charlton Athletic

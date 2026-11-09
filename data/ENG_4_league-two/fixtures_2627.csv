@@ -123,10 +123,10 @@ gw,date,time,home,away
 24,2027-01-09,16:00,Rotherham United,Port Vale
 24,2027-01-09,16:00,Salford City,Crewe Alexandra
 24,2027-01-09,16:00,Tranmere Rovers,Swindon Town
+25,2027-01-16,13:30,Bristol Rovers,Shrewsbury Town
+25,2027-01-16,13:30,Chesterfield,Port Vale
 25,2027-01-16,16:00,Barnet,Tranmere Rovers
-25,2027-01-16,16:00,Bristol Rovers,Shrewsbury Town
 25,2027-01-16,16:00,Cheltenham Town,Oldham Athletic
-25,2027-01-16,16:00,Chesterfield,Port Vale
 25,2027-01-16,16:00,Crawley Town,Salford City
 25,2027-01-16,16:00,Exeter City,Colchester United
 25,2027-01-16,16:00,Gillingham,Accrington Stanley
@@ -140,25 +140,27 @@ gw,date,time,home,away
 26,2027-01-19,20:45,Crewe Alexandra,Exeter City
 26,2027-01-19,20:45,Fleetwood Town,Cheltenham Town
 26,2027-01-19,20:45,Grimsby Town,Rochdale
-26,2027-01-19,20:45,Newport County,Rotherham United
 26,2027-01-19,20:45,Oldham Athletic,Walsall
 26,2027-01-19,20:45,Port Vale,Gillingham
 26,2027-01-19,20:45,Salford City,Bristol Rovers
 26,2027-01-19,20:45,Shrewsbury Town,Crawley Town
 26,2027-01-19,20:45,Swindon Town,Barnet
 26,2027-01-19,20:45,Tranmere Rovers,Northampton Town
+26,2027-01-19,21:00,Newport County,Rotherham United
+27,2027-01-23,13:30,Colchester United,Northampton Town
+27,2027-01-23,13:30,Salford City,Walsall
 27,2027-01-23,16:00,Accrington Stanley,Rochdale
-27,2027-01-23,16:00,Colchester United,Northampton Town
 27,2027-01-23,16:00,Crewe Alexandra,Chesterfield
 27,2027-01-23,16:00,Fleetwood Town,Exeter City
 27,2027-01-23,16:00,Grimsby Town,Gillingham
 27,2027-01-23,16:00,Newport County,Cheltenham Town
 27,2027-01-23,16:00,Oldham Athletic,Barnet
 27,2027-01-23,16:00,Port Vale,York City
-27,2027-01-23,16:00,Salford City,Walsall
 27,2027-01-23,16:00,Shrewsbury Town,Rotherham United
 27,2027-01-23,16:00,Swindon Town,Bristol Rovers
 27,2027-01-23,16:00,Tranmere Rovers,Crawley Town
+28,2027-01-30,13:30,Rotherham United,Swindon Town
+28,2027-01-30,13:30,York City,Grimsby Town
 28,2027-01-30,16:00,Barnet,Crewe Alexandra
 28,2027-01-30,16:00,Bristol Rovers,Fleetwood Town
 28,2027-01-30,16:00,Cheltenham Town,Tranmere Rovers
@@ -168,21 +170,19 @@ gw,date,time,home,away
 28,2027-01-30,16:00,Gillingham,Shrewsbury Town
 28,2027-01-30,16:00,Northampton Town,Accrington Stanley
 28,2027-01-30,16:00,Rochdale,Port Vale
-28,2027-01-30,16:00,Rotherham United,Swindon Town
 28,2027-01-30,16:00,Walsall,Colchester United
-28,2027-01-30,16:00,York City,Grimsby Town
+29,2027-02-06,13:30,Crewe Alexandra,Port Vale
+29,2027-02-06,13:30,Tranmere Rovers,Newport County
 29,2027-02-06,16:00,Accrington Stanley,Walsall
 29,2027-02-06,16:00,Bristol Rovers,Crawley Town
 29,2027-02-06,16:00,Cheltenham Town,Barnet
 29,2027-02-06,16:00,Chesterfield,Rotherham United
-29,2027-02-06,16:00,Crewe Alexandra,Port Vale
 29,2027-02-06,16:00,Exeter City,York City
 29,2027-02-06,16:00,Fleetwood Town,Grimsby Town
 29,2027-02-06,16:00,Northampton Town,Gillingham
 29,2027-02-06,16:00,Rochdale,Colchester United
 29,2027-02-06,16:00,Salford City,Shrewsbury Town
 29,2027-02-06,16:00,Swindon Town,Oldham Athletic
-29,2027-02-06,16:00,Tranmere Rovers,Newport County
 30,2027-02-09,20:45,Barnet,Exeter City
 30,2027-02-09,20:45,Colchester United,Bristol Rovers
 30,2027-02-09,20:45,Crawley Town,Northampton Town
@@ -193,38 +193,38 @@ gw,date,time,home,away
 30,2027-02-09,20:45,Port Vale,Swindon Town
 30,2027-02-09,20:45,Rotherham United,Tranmere Rovers
 30,2027-02-09,20:45,Shrewsbury Town,Rochdale
-30,2027-02-09,20:45,Walsall,Crewe Alexandra
 30,2027-02-09,20:45,York City,Cheltenham Town
+30,2027-02-09,21:00,Walsall,Crewe Alexandra
+31,2027-02-13,13:30,Oldham Athletic,Tranmere Rovers
+31,2027-02-13,13:30,Port Vale,Salford City
 31,2027-02-13,16:00,Barnet,Chesterfield
 31,2027-02-13,16:00,Colchester United,Swindon Town
 31,2027-02-13,16:00,Crawley Town,Accrington Stanley
 31,2027-02-13,16:00,Gillingham,Rochdale
 31,2027-02-13,16:00,Grimsby Town,Cheltenham Town
 31,2027-02-13,16:00,Newport County,Northampton Town
-31,2027-02-13,16:00,Oldham Athletic,Tranmere Rovers
-31,2027-02-13,16:00,Port Vale,Salford City
 31,2027-02-13,16:00,Rotherham United,Bristol Rovers
 31,2027-02-13,16:00,Shrewsbury Town,Fleetwood Town
 31,2027-02-13,16:00,Walsall,Exeter City
 31,2027-02-13,16:00,York City,Crewe Alexandra
+32,2027-02-18,21:00,Rochdale,Walsall
+32,2027-02-20,13:30,Cheltenham Town,Crawley Town
+32,2027-02-20,13:30,Exeter City,Port Vale
 32,2027-02-20,16:00,Accrington Stanley,Barnet
 32,2027-02-20,16:00,Bristol Rovers,Grimsby Town
-32,2027-02-20,16:00,Cheltenham Town,Crawley Town
 32,2027-02-20,16:00,Chesterfield,Oldham Athletic
 32,2027-02-20,16:00,Crewe Alexandra,Colchester United
-32,2027-02-20,16:00,Exeter City,Port Vale
 32,2027-02-20,16:00,Fleetwood Town,Newport County
 32,2027-02-20,16:00,Northampton Town,Shrewsbury Town
-32,2027-02-20,16:00,Rochdale,Walsall
 32,2027-02-20,16:00,Salford City,Rotherham United
 32,2027-02-20,16:00,Swindon Town,York City
 32,2027-02-20,16:00,Tranmere Rovers,Gillingham
+33,2027-02-27,13:30,Barnet,Walsall
+33,2027-02-27,13:30,Gillingham,Colchester United
 33,2027-02-27,16:00,Accrington Stanley,Port Vale
-33,2027-02-27,16:00,Barnet,Walsall
 33,2027-02-27,16:00,Cheltenham Town,Exeter City
 33,2027-02-27,16:00,Chesterfield,Bristol Rovers
 33,2027-02-27,16:00,Crawley Town,Rotherham United
-33,2027-02-27,16:00,Gillingham,Colchester United
 33,2027-02-27,16:00,Grimsby Town,Swindon Town
 33,2027-02-27,16:00,Newport County,Crewe Alexandra
 33,2027-02-27,16:00,Northampton Town,Salford City

@@ -1,13 +1,4 @@
 gw,date,time,home,away
-12,2026-11-06,20:00,AS Nancy Lorraine,FC Sochaux-Montbéliard
-12,2026-11-06,20:00,Dijon FCO,Red Star FC
-12,2026-11-06,20:00,Grenoble Foot 38,Stade DE Reims
-12,2026-11-06,20:00,Montpellier Hérault SC,FC Metz
-12,2026-11-06,20:00,US Boulogne CO,FC Annecy
-12,2026-11-06,20:00,USL Dunkerque,EN Avant Guingamp
-12,2026-11-07,14:00,Clermont Foot 63,Rodez Aveyron Football
-12,2026-11-07,20:00,AS Saint-Étienne,Stade Lavallois MFC
-12,2026-11-07,20:00,Pau FC,FC Nantes
 13,2026-11-20,20:00,AS Nancy Lorraine,Dijon FCO
 13,2026-11-20,20:00,EN Avant Guingamp,Rodez Aveyron Football
 13,2026-11-20,20:00,FC Annecy,Clermont Foot 63
@@ -35,15 +26,15 @@ gw,date,time,home,away
 15,2026-12-12,14:00,Red Star FC,Grenoble Foot 38
 15,2026-12-12,20:00,FC Metz,Stade DE Reims
 15,2026-12-14,20:45,FC Sochaux-Montbéliard,Montpellier Hérault SC
-16,2027-01-01,00:00,Clermont Foot 63,Pau FC
-16,2027-01-01,00:00,Dijon FCO,FC Nantes
-16,2027-01-01,00:00,FC Annecy,AS Saint-Étienne
-16,2027-01-01,00:00,FC Metz,AS Nancy Lorraine
-16,2027-01-01,00:00,Grenoble Foot 38,FC Sochaux-Montbéliard
-16,2027-01-01,00:00,Montpellier Hérault SC,EN Avant Guingamp
-16,2027-01-01,00:00,Rodez Aveyron Football,Red Star FC
-16,2027-01-01,00:00,Stade DE Reims,Stade Lavallois MFC
-16,2027-01-01,00:00,USL Dunkerque,US Boulogne CO
+16,2027-01-02,14:00,FC Metz,AS Nancy Lorraine
+16,2027-01-02,19:00,Clermont Foot 63,Pau FC
+16,2027-01-02,19:00,Dijon FCO,FC Nantes
+16,2027-01-02,19:00,Grenoble Foot 38,FC Sochaux-Montbéliard
+16,2027-01-02,19:00,Montpellier Hérault SC,EN Avant Guingamp
+16,2027-01-02,19:00,Rodez Aveyron Football,Red Star FC
+16,2027-01-02,19:00,Stade DE Reims,Stade Lavallois MFC
+16,2027-01-02,19:00,USL Dunkerque,US Boulogne CO
+16,2027-01-04,20:45,FC Annecy,AS Saint-Étienne
 17,2027-01-14,00:00,AS Nancy Lorraine,Grenoble Foot 38
 17,2027-01-14,00:00,AS Saint-Étienne,US Boulogne CO
 17,2027-01-14,00:00,Dijon FCO,USL Dunkerque

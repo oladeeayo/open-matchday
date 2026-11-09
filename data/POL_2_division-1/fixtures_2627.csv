@@ -1,13 +1,4 @@
 gw,date,time,home,away
-14,2026-11-06,,Odra Opole,Skierniewice
-14,2026-11-06,,Puszcza,Legnica
-14,2026-11-07,,Arka Gdynia,Podbeskidzie
-14,2026-11-07,,Termalica B-B.,Chrobry Glogow
-14,2026-11-07,,Warta Poznan,Polonia Warszawa
-14,2026-11-08,,LKS Lodz,S. Rzeszow
-14,2026-11-08,,Pogon Siedlce,Grodzisk M.
-14,2026-11-08,,Polonia Bytom,Lechia Gdansk
-14,2026-11-08,,Stal Mielec,Ruch Chorzow
 15,2026-11-20,,Chrobry Glogow,Puszcza
 15,2026-11-20,,Legnica,LKS Lodz
 15,2026-11-21,,Grodzisk M.,Arka Gdynia
@@ -116,3 +107,12 @@ gw,date,time,home,away
 26,2027-04-03,,S. Rzeszow,Legnica
 26,2027-04-03,,Skierniewice,Podbeskidzie
 26,2027-04-03,,Stal Mielec,Lechia Gdansk
+27,2027-04-10,,Grodzisk M.,Chrobry Glogow
+27,2027-04-10,,Lechia Gdansk,S. Rzeszow
+27,2027-04-10,,Legnica,Odra Opole
+27,2027-04-10,,Pogon Siedlce,Podbeskidzie
+27,2027-04-10,,Polonia Bytom,Puszcza
+27,2027-04-10,,Polonia Warszawa,Arka Gdynia
+27,2027-04-10,,Ruch Chorzow,LKS Lodz
+27,2027-04-10,,Termalica B-B.,Skierniewice
+27,2027-04-10,,Warta Poznan,Stal Mielec

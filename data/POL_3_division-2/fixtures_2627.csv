@@ -1,13 +1,4 @@
 gw,date,time,home,away
-15,2026-11-06,,R. Rzeszow,Leczna
-15,2026-11-07,,Kleczew,Sandecja Nowy S.
-15,2026-11-07,,Pruszkow,Podhale Nowy Targ
-15,2026-11-07,,Swit Szczecin,Slask Wroclaw II
-15,2026-11-07,,Zielona Gora,S. Wola
-15,2026-11-08,,Avia Swidnik,Hutnik Krakow
-15,2026-11-08,,Bielsko-Biala,Chojniczanka
-15,2026-11-08,,Legia II,Ol. Grudziadz
-15,2026-11-08,,Zawisza,Tychy
 16,2026-11-13,,Pruszkow,Kleczew
 16,2026-11-13,,R. Rzeszow,Swit Szczecin
 16,2026-11-14,,Chojniczanka,Zawisza
@@ -35,15 +26,15 @@ gw,date,time,home,away
 18,2026-11-29,,Kleczew,Zawisza
 18,2026-11-29,,R. Rzeszow,Pruszkow
 16,2026-12-02,,Legia II,Sandecja Nowy S.
-19,2026-12-05,,Avia Swidnik,Leczna
-19,2026-12-05,,Chojniczanka,Sandecja Nowy S.
 19,2026-12-05,,Legia II,Pruszkow
 19,2026-12-05,,Ol. Grudziadz,Zielona Gora
 19,2026-12-05,,Podhale Nowy Targ,Kleczew
 19,2026-12-05,,Slask Wroclaw II,R. Rzeszow
 19,2026-12-05,,Swit Szczecin,Hutnik Krakow
-19,2026-12-05,,Tychy,S. Wola
 19,2026-12-05,,Zawisza,Bielsko-Biala
+19,2026-12-06,,Avia Swidnik,Leczna
+19,2026-12-06,,Chojniczanka,Sandecja Nowy S.
+19,2026-12-06,,Tychy,S. Wola
 20,2027-02-20,,Hutnik Krakow,Podhale Nowy Targ
 20,2027-02-20,,Kleczew,Zielona Gora
 20,2027-02-20,,Leczna,Slask Wroclaw II
@@ -116,3 +107,12 @@ gw,date,time,home,away
 27,2027-04-10,,S. Wola,Pruszkow
 27,2027-04-10,,Tychy,Hutnik Krakow
 27,2027-04-10,,Zielona Gora,Sandecja Nowy S.
+28,2027-04-17,,Hutnik Krakow,Kleczew
+28,2027-04-17,,Leczna,Tychy
+28,2027-04-17,,Legia II,Zielona Gora
+28,2027-04-17,,Podhale Nowy Targ,Chojniczanka
+28,2027-04-17,,Pruszkow,Zawisza
+28,2027-04-17,,R. Rzeszow,Ol. Grudziadz
+28,2027-04-17,,Sandecja Nowy S.,Bielsko-Biala
+28,2027-04-17,,Slask Wroclaw II,S. Wola
+28,2027-04-17,,Swit Szczecin,Avia Swidnik

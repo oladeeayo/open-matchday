@@ -80,3 +80,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-11-01,16:15,Paris FC,AS Monaco,3,1,H,2,0,H,19,9,10,2,13,15,3,2,2,1,1,1,2,2,0,0,"38,44,65,74",fixturedl
 9,2026-11-01,19:45,Olympique de Marseille,Toulouse FC,2,0,H,2,0,H,13,14,3,7,14,14,4,3,4,0,0,3,2,1,0,0,"1,25",fixturedl
 9,2026-11-02,19:45,FC Lorient,Stade Brestois 29,0,2,A,0,0,D,15,12,0,4,11,16,8,2,4,2,4,0,1,1,0,0,"69,92",fixturedl
+10,2026-11-06,20:45,Toulouse FC,RC Strasbourg Alsace,3,1,H,,,,,,,,,,7,1,2,1,5,0,,,,,"46,67",fixturedl
+10,2026-11-07,19:00,AJ Auxerre,Paris FC,0,1,A,,,,,,,,,,1,5,0,1,1,4,,,,,63,fixturedl
+10,2026-11-07,21:05,Paris Saint-Germain,Estac Troyes,1,0,H,,,,,,,,,,5,1,4,0,1,1,,,,,,fixturedl
+10,2026-11-08,15:00,Stade Rennais FC,LOSC Lille,1,2,A,,,,,,,,,,7,2,3,1,4,1,,,,,"24,31,68",fixturedl
+10,2026-11-08,17:15,Angers SCO,OGC Nice,0,2,A,,,,,,,,,,6,4,1,3,5,1,,,,,"2,78",fixturedl
+10,2026-11-08,17:15,Havre Athletic Club,FC Lorient,0,2,A,,,,,,,,,,5,0,4,0,1,0,,,,,"18,95",fixturedl
+10,2026-11-08,17:15,Le Mans FC,AS Monaco,1,1,D,,,,,,,,,,8,7,4,5,4,2,,,,,40,fixturedl
+10,2026-11-08,17:15,Stade Brestois 29,Olympique Lyonnais,2,0,H,,,,,,,,,,1,8,0,4,1,4,,,,,"22,94",fixturedl
+10,2026-11-08,20:45,RC Lens,Olympique de Marseille,1,2,A,,,,,,,,,,4,6,4,3,0,3,,,,,"2,82",fixturedl

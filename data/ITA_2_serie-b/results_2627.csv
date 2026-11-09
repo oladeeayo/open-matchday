@@ -99,3 +99,13 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 9,2026-11-01,15:00,US Avellino,Pisa,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
 9,2026-11-01,17:15,Hellas Verona,Carrarese,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
 9,2026-11-01,19:30,Palermo,Vicenza,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-06,20:30,Ascoli,Palermo,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,15:00,Cesena,Catanzaro,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,15:00,Juve Stabia,Arezzo,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,15:00,Padova,Empoli,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,15:00,Pisa,Sudtirol,2,2,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,17:15,Mantova,Hellas Verona,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-07,19:30,Benevento,US Avellino,1,1,D,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-08,15:00,Virtus Entella,Modena,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-08,17:15,Carrarese,Sampdoria,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+10,2026-11-08,19:30,Vicenza,Cremonese,1,4,A,,,,,,,,,,,,,,,,,,,,,espn

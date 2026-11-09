@@ -1,13 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-2,2026-08-01,,Arka Gdynia,S. Rzeszow,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Pogon Siedlce,Termalica B-B.,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Polonia Warszawa,Skierniewice,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,Grodzisk M.,Puszcza,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,Ruch Chorzow,Legnica,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-02,,Stal Mielec,Podbeskidzie,3,3,D,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-03,,Chrobry Glogow,Odra Opole,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-07,,Polonia Bytom,Pogon Siedlce,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-07,,Polonia Warszawa,Ruch Chorzow,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-08,,Legnica,Grodzisk M.,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-08,,Podbeskidzie,Lechia Gdansk,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
 3,2026-08-08,,Puszcza,Odra Opole,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -105,3 +96,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-11-02,,S. Rzeszow,Puszcza,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-11-03,,Chrobry Glogow,Arka Gdynia,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-11-03,,Pogon Siedlce,Ruch Chorzow,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-06,,Odra Opole,Skierniewice,3,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-06,,Puszcza,Legnica,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Arka Gdynia,Podbeskidzie,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Termalica B-B.,Chrobry Glogow,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Warta Poznan,Polonia Warszawa,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,LKS Lodz,S. Rzeszow,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Pogon Siedlce,Grodzisk M.,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Polonia Bytom,Lechia Gdansk,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Stal Mielec,Ruch Chorzow,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

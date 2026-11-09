@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-14,2026-07-16,,Valerenga,Aalesund,6,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-14,2026-07-17,,Bodo/Glimt,Fredrikstad,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-07-18,,HamKam,Tromso,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-07-18,,Kristiansund,Sarpsborg 08,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-07-18,,Lillestrom,KFUM Oslo,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -102,3 +100,10 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 25,2026-11-01,,Sarpsborg 08,Kristiansund,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 25,2026-11-01,,Start,Lillestrom,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 25,2026-11-01,,Valerenga,Tromso,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-07,,Rosenborg,Start,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,Fredrikstad,Brann,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,HamKam,Sarpsborg 08,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,Lillestrom,Aalesund,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,Sandefjord,Molde,5,5,D,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,Tromso,Bodo/Glimt,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+26,2026-11-08,,Viking,KFUM Oslo,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway

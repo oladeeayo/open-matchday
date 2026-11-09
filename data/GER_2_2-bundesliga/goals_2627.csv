@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -269,3 +269,29 @@ gw,date,home,away,minute,score_home,score_away,scorer
 10,2026-11-01,Hannover 96,Dynamo Dresden,54,1,1,Husseyn Chakroun
 10,2026-11-01,Hannover 96,Dynamo Dresden,61,2,1,M. Hartel
 10,2026-11-01,SpVgg Greuther Fürth,Holstein Kiel,87,1,0,Aaron Keller
+11,2026-11-06,Dynamo Dresden,SpVgg Greuther Fürth,31,1,0,R. Wagner
+11,2026-11-06,Dynamo Dresden,SpVgg Greuther Fürth,41,2,0,Ben Bobzien
+11,2026-11-06,Dynamo Dresden,SpVgg Greuther Fürth,55,3,0,V. Vermeij
+11,2026-11-07,1. FC Nürnberg,SV Darmstadt 98,50,1,0,P. Scobel
+11,2026-11-07,1. FC Nürnberg,SV Darmstadt 98,88,2,0,William Bøving
+11,2026-11-07,Holstein Kiel,DSC Arminia Bielefeld,14,0,1,Hiroki Sekine
+11,2026-11-07,Holstein Kiel,DSC Arminia Bielefeld,76,1,1,Hiroki Sekine
+11,2026-11-07,Holstein Kiel,DSC Arminia Bielefeld,80,1,2,Isaiah Young
+11,2026-11-07,VfL Osnabrück,1. FC Kaiserslautern,55,0,1,Thierry Tazemeta
+11,2026-11-07,Hertha BSC,VfL Wolfsburg,44,1,0,Oluwaseun Victor Adewumi
+11,2026-11-07,Hertha BSC,VfL Wolfsburg,47,2,0,D. Zeefuik
+11,2026-11-07,Hertha BSC,VfL Wolfsburg,47,2,1,K. Shiogai
+11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,43,1,0,T. Siersleben
+11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,55,1,1,S. Teitur Thórdarson
+11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,63,1,2,J. Hugonet
+11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,66,2,2,B. Zivzivadze
+11,2026-11-08,1. FC Magdeburg,FC St. Pauli,27,1,0,M. Zukowski
+11,2026-11-08,1. FC Magdeburg,FC St. Pauli,48,2,0,Anselmo García MacNulty
+11,2026-11-08,1. FC Magdeburg,FC St. Pauli,58,2,1,E. Smith
+11,2026-11-08,1. FC Magdeburg,FC St. Pauli,89,3,1,H. Bockhorn
+11,2026-11-08,1. FC Magdeburg,FC St. Pauli,91,4,1,R. Simic
+11,2026-11-08,VfL Bochum,Karlsruher SC,6,1,0,C. Rasmussen
+11,2026-11-08,VfL Bochum,Karlsruher SC,8,1,1,Kevin Wiethaup
+11,2026-11-08,VfL Bochum,Karlsruher SC,50,1,2,T. Civeja
+11,2026-11-08,VfL Bochum,Karlsruher SC,53,2,2,P. Hofmann
+11,2026-11-08,VfL Bochum,Karlsruher SC,92,3,2,P. Hofmann

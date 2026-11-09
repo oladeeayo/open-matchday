@@ -98,3 +98,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-11-01,13:30,Excelsior Rotterdam,FC Twente,0,9,A,0,5,A,0,28,0,15,7,6,0,8,0,6,0,2,1,1,1,0,,fixturedl
 11,2026-11-01,13:30,Telstar,FC Utrecht,4,2,H,3,1,H,16,15,7,5,10,20,3,9,2,4,1,5,0,2,0,0,,fixturedl
 11,2026-11-01,15:45,FC Groningen,Sparta Rotterdam,2,3,A,2,2,D,20,8,10,4,8,14,2,7,1,2,1,5,1,3,0,0,,fixturedl
+12,2026-11-06,20:00,Willem II,PEC Zwolle,1,1,D,,,,,,,,,,2,7,0,5,2,2,,,,,,fixturedl
+12,2026-11-07,16:30,Fortuna Sittard,Telstar,2,2,D,,,,,,,,,,4,4,2,1,2,3,,,,,,fixturedl
+12,2026-11-07,18:45,ADO Den Haag,Sparta Rotterdam,3,1,H,,,,,,,,,,5,9,4,6,1,3,,,,,,fixturedl
+12,2026-11-07,21:00,Excelsior Rotterdam,Go Ahead Eagles,0,1,A,,,,,,,,,,7,0,3,0,4,0,,,,,,fixturedl
+12,2026-11-08,12:15,sc Heerenveen,Feyenoord,5,3,H,,,,,,,,,,4,1,3,1,1,0,,,,,,fixturedl
+12,2026-11-08,14:30,FC Twente,Ajax,2,2,D,,,,,,,,,,9,2,2,0,7,2,,,,,,fixturedl
+12,2026-11-08,16:45,AZ,FC Groningen,4,3,H,,,,,,,,,,7,0,3,0,4,0,,,,,,fixturedl
+12,2026-11-08,16:45,SC Cambuur,PSV,2,5,A,,,,,,,,,,1,1,0,0,1,1,,,,,,fixturedl
+12,2026-11-08,20:00,FC Utrecht,N.E.C. Nijmegen,2,3,A,,,,,,,,,,3,8,0,5,3,3,,,,,,fixturedl

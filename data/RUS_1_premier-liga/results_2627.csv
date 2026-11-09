@@ -1,9 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-24,,CSKA Moscow,Baltika,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Akron Togliatti,Zenit,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Dynamo Moscow,Krylya Sovetov,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Fakel Voronezh,Dynamo Makhachkala,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-25,,Spartak Moscow,Rodina Moscow,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Lokomotiv Moscow,Akhmat Grozny,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Orenburg,FK Rostov,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-07-26,,Rubin Kazan,Krasnodar,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -102,3 +97,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-11-01,,Lokomotiv Moscow,Spartak Moscow,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-11-01,,Orenburg,CSKA Moscow,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 13,2026-11-02,,Krylya Sovetov,Zenit,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-06,,Lokomotiv Moscow,Rubin Kazan,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Akhmat Grozny,Rodina Moscow,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Fakel Voronezh,Dynamo Moscow,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-07,,Krasnodar,CSKA Moscow,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Baltika,Dynamo Makhachkala,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Krylya Sovetov,Orenburg,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Spartak Moscow,Akron Togliatti,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+14,2026-11-08,,Zenit,FK Rostov,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
