@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-09T05:30:38Z",
+  "generated_utc": "2026-11-10T06:44:59Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -127,10 +127,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 141,
-      "fixtures": 1,
+      "results": 142,
+      "fixtures": 20,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-09"
     },
     {
       "league": "Copa del Rey",
@@ -322,10 +322,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 119,
-      "fixtures": 117,
+      "results": 120,
+      "fixtures": 116,
       "errors": [],
-      "latest": "2026-11-07"
+      "latest": "2026-11-09"
     },
     {
       "league": "Northern Premier League",
@@ -336,7 +336,7 @@
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 114,
-      "fixtures": 112,
+      "fixtures": 113,
       "errors": [],
       "latest": "2026-11-07"
     },
@@ -543,10 +543,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 108,
-      "fixtures": 33,
+      "results": 103,
+      "fixtures": 32,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-09"
     },
     {
       "league": "Liga I",
@@ -556,10 +556,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 103,
-      "fixtures": 113,
+      "results": 104,
+      "fixtures": 112,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-09"
     },
     {
       "league": "Russian Premier Liga",
@@ -803,10 +803,10 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "corners": 0,
-      "results": 138,
-      "fixtures": 313,
+      "results": 140,
+      "fixtures": 311,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-09"
     },
     {
       "league": "Serie B",
@@ -917,11 +917,11 @@
       "folder": "data/MEX_2_liga-expansion",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 0,
+      "dropped_reversed_dupes": 2,
       "dropped_stale_postponed": 0,
       "corners": 0,
       "results": 128,
-      "fixtures": 4,
+      "fixtures": 2,
       "errors": [],
       "latest": "2026-11-09"
     },
