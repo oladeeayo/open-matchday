@@ -8,14 +8,14 @@ gw,date,time,home,away
 13,2026-11-23,,Ch. Odesa,Epitsentr
 13,2026-11-23,,LNZ Cherkasy,Polissya Zhytomyr
 6,2026-11-25,,Kryvbas,FC Kharkiv
+14,2026-11-27,,Livyi Bereg,Kolos Kovalivka
 14,2026-11-28,,Dyn. Kyiv,Ch. Odesa
-14,2026-11-28,,Epitsentr,LNZ Cherkasy
-14,2026-11-28,,Karpaty Lviv,Polissya Zhytomyr
-14,2026-11-28,,Kryvbas,Veres-Rivne
-14,2026-11-28,,Kudrivka,FC Kharkiv
-14,2026-11-28,,Livyi Bereg,Kolos Kovalivka
 14,2026-11-28,,Obolon,FK Zorya Luhansk
-14,2026-11-28,,Shakhtar Donetsk,Bukovyna
+14,2026-11-29,,Epitsentr,LNZ Cherkasy
+14,2026-11-29,,Karpaty Lviv,Polissya Zhytomyr
+14,2026-11-29,,Kryvbas,Veres-Rivne
+14,2026-11-30,,Kudrivka,FC Kharkiv
+14,2026-11-30,,Shakhtar Donetsk,Bukovyna
 1,2026-12-02,,Dyn. Kyiv,Livyi Bereg
 15,2026-12-05,,Bukovyna,Ch. Odesa
 15,2026-12-05,,FC Kharkiv,Dyn. Kyiv
@@ -25,6 +25,7 @@ gw,date,time,home,away
 15,2026-12-05,,Polissya Zhytomyr,Epitsentr
 15,2026-12-05,,Shakhtar Donetsk,Kryvbas
 15,2026-12-05,,Veres-Rivne,Livyi Bereg
+11,2026-12-09,,Kolos Kovalivka,Polissya Zhytomyr
 16,2026-12-12,,Karpaty Lviv,Kryvbas
 16,2026-12-12,,Kolos Kovalivka,FK Zorya Luhansk
 16,2026-12-12,,Kudrivka,Shakhtar Donetsk

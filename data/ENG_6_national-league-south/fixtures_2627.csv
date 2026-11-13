@@ -1,6 +1,4 @@
 gw,date,time,home,away
-12,2026-11-10,,Hemel Hempstead,Torquay
-12,2026-11-10,,Salisbury,Braintree
 12,2026-11-17,,Tonbridge,Chesham
 12,2026-11-17,,Truro,Billericay
 17,2026-11-21,,AFC Totton,Dag & Red
@@ -42,9 +40,7 @@ gw,date,time,home,away
 12,2026-12-01,,Walton & Hersham,Dover
 20,2026-12-05,,AFC Totton,Maidstone
 20,2026-12-05,,Chelmsford,Slough
-20,2026-12-05,,Chesham,Salisbury
 20,2026-12-05,,Dag & Red,Folkestone
-20,2026-12-05,,Dover,Hemel Hempstead
 20,2026-12-05,,Ebbsfleet,Torquay
 20,2026-12-05,,Farnborough,Truro
 20,2026-12-05,,Hampton & Richmond,Farnham
@@ -115,3 +111,15 @@ gw,date,time,home,away
 25,2027-01-02,,Maidenhead,Salisbury
 25,2027-01-02,,Torquay,Farnborough
 25,2027-01-02,,Weston-super-Mare,Slough
+26,2027-01-09,,Chelmsford,Chesham
+26,2027-01-09,,Dorking,Dover
+26,2027-01-09,,Ebbsfleet,Hampton & Richmond
+26,2027-01-09,,Farnborough,Billericay
+26,2027-01-09,,Folkestone,Weston-super-Mare
+26,2027-01-09,,Hemel Hempstead,Dag & Red
+26,2027-01-09,,Maidstone,Horsham FC
+26,2027-01-09,,Salisbury,Farnham
+26,2027-01-09,,Slough,Torquay
+26,2027-01-09,,Tonbridge,Maidenhead
+26,2027-01-09,,Truro,Braintree
+26,2027-01-09,,Walton & Hersham,AFC Totton

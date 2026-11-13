@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -279,8 +279,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 11,2026-11-07,Holstein Kiel,DSC Arminia Bielefeld,80,1,2,Isaiah Young
 11,2026-11-07,VfL Osnabrück,1. FC Kaiserslautern,55,0,1,Thierry Tazemeta
 11,2026-11-07,Hertha BSC,VfL Wolfsburg,44,1,0,Oluwaseun Victor Adewumi
-11,2026-11-07,Hertha BSC,VfL Wolfsburg,47,2,0,D. Zeefuik
 11,2026-11-07,Hertha BSC,VfL Wolfsburg,47,2,1,K. Shiogai
+11,2026-11-07,Hertha BSC,VfL Wolfsburg,47,2,0,D. Zeefuik
 11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,43,1,0,T. Siersleben
 11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,55,1,1,S. Teitur Thórdarson
 11,2026-11-08,1. FC Heidenheim 1846,Hannover 96,63,1,2,J. Hugonet

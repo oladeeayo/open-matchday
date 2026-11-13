@@ -1,5 +1,4 @@
 gw,date,time,home,away
-11,2026-11-08,16:30,Estoril Praia,Marítimo M.
 12,2026-11-27,21:15,Marítimo M.,CD Nacional
 12,2026-11-28,16:30,FC Arouca,Rio Ave FC
 12,2026-11-28,16:30,Moreirense FC,Santa Clara
@@ -45,6 +44,7 @@ gw,date,time,home,away
 16,2026-12-27,01:00,SL Benfica,Sporting CP
 16,2026-12-27,01:00,Santa Clara,Estrela Amadora
 16,2026-12-27,01:00,Vitória SC,Rio Ave FC
+18,2027-01-04,21:15,Estoril,Maritimo
 17,2027-01-10,01:00,Académico,Casa Pia AC
 17,2027-01-10,01:00,CD Nacional,Gil Vicente FC
 17,2027-01-10,01:00,Estrela Amadora,Estoril Praia

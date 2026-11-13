@@ -1,25 +1,25 @@
 gw,date,time,home,away
-14,2026-11-21,,Din. Zagreb,Istra 1961
 14,2026-11-21,,Lok. Zagreb,Hajduk Split
-14,2026-11-21,,Rijeka,Gorica
 14,2026-11-21,,Rudes,Varazdin
-14,2026-11-21,,Slaven Belupo,Osijek
-15,2026-11-28,,Gorica,Din. Zagreb
-15,2026-11-28,,Hajduk Split,Rudes
-15,2026-11-28,,Istra 1961,Varazdin
+14,2026-11-22,,Din. Zagreb,Istra 1961
+14,2026-11-22,,Rijeka,Gorica
+14,2026-11-23,,Slaven Belupo,Osijek
+15,2026-11-27,,Istra 1961,Varazdin
 15,2026-11-28,,Lok. Zagreb,Slaven Belupo
 15,2026-11-28,,Osijek,Rijeka
+15,2026-11-29,,Gorica,Din. Zagreb
+15,2026-11-29,,Hajduk Split,Rudes
 2,2026-12-03,,Rijeka,Din. Zagreb
-16,2026-12-05,,Din. Zagreb,Osijek
-16,2026-12-05,,Rijeka,Lok. Zagreb
 16,2026-12-05,,Rudes,Istra 1961
 16,2026-12-05,,Slaven Belupo,Hajduk Split
-16,2026-12-05,,Varazdin,Gorica
+16,2026-12-06,,Din. Zagreb,Osijek
+16,2026-12-06,,Varazdin,Gorica
+16,2026-12-07,,Rijeka,Lok. Zagreb
 17,2026-12-12,,Gorica,Istra 1961
-17,2026-12-12,,Hajduk Split,Rijeka
-17,2026-12-12,,Lok. Zagreb,Din. Zagreb
-17,2026-12-12,,Osijek,Varazdin
 17,2026-12-12,,Slaven Belupo,Rudes
+17,2026-12-13,,Hajduk Split,Rijeka
+17,2026-12-13,,Osijek,Varazdin
+17,2026-12-14,,Lok. Zagreb,Din. Zagreb
 18,2026-12-19,,Din. Zagreb,Hajduk Split
 18,2026-12-19,,Istra 1961,Osijek
 18,2026-12-19,,Rijeka,Slaven Belupo
