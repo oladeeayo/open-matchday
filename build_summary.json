@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-13T09:14:05Z",
+  "generated_utc": "2026-11-14T05:43:48Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -151,10 +151,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 74,
-      "fixtures": 7,
+      "results": 75,
+      "fixtures": 6,
       "errors": [],
-      "latest": "2026-11-12"
+      "latest": "2026-11-13"
     },
     {
       "league": "Coppa Italia",
@@ -376,7 +376,7 @@
       "dropped_cross_source_dupes": 0,
       "corners": 0,
       "results": 75,
-      "fixtures": 121,
+      "fixtures": 122,
       "errors": [],
       "latest": "2026-11-08"
     },
@@ -683,24 +683,24 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 106,
-      "fixtures": 116,
+      "results": 107,
+      "fixtures": 117,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-13"
     },
     {
       "league": "Pro League U21",
       "folder": "data/BEL_U21_pro-league",
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
-      "dropped_reversed_dupes": 1,
+      "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 41,
-      "fixtures": 68,
+      "results": 43,
+      "fixtures": 67,
       "errors": [],
-      "latest": "2026-11-06"
+      "latest": "2026-11-13"
     },
     {
       "league": "Cymru Premier",
@@ -725,10 +725,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 106,
-      "fixtures": 103,
+      "results": 107,
+      "fixtures": 108,
       "errors": [],
-      "latest": "2026-11-07"
+      "latest": "2026-11-13"
     },
     {
       "league": "Cymru South",
@@ -739,10 +739,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 98,
-      "fixtures": 104,
+      "results": 99,
+      "fixtures": 108,
       "errors": [],
-      "latest": "2026-11-07"
+      "latest": "2026-11-13"
     },
     {
       "league": "HNL",
@@ -865,10 +865,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 140,
-      "fixtures": 311,
+      "results": 141,
+      "fixtures": 310,
       "errors": [],
-      "latest": "2026-11-09"
+      "latest": "2026-11-13"
     },
     {
       "league": "Serie B",
