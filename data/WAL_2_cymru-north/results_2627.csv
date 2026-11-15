@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-31,,Bangor 1876,Bala,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-31,,Ruthin,Holyhead,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Brickfield,Llanuwchllyn,5,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Buckley,Denbigh,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Mold Alexandra,Caersws FC,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -106,3 +104,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-11-07,,Porthmadog,Llanuwchllyn,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-11-07,,Rhyl,Holyhead,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 12,2026-11-13,,Denbigh,Gresford,7,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+4,2026-11-14,,Llanuwchllyn,Rhyl,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
