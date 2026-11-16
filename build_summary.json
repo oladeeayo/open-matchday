@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-15T05:42:42Z",
+  "generated_utc": "2026-11-16T05:41:27Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -288,7 +288,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
-      "dropped_stale_postponed": 2,
+      "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 163,
       "results": 163,
@@ -303,7 +303,7 @@
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
-      "dropped_cross_source_dupes": 2,
+      "dropped_cross_source_dupes": 0,
       "corners": 174,
       "results": 174,
       "fixtures": 378,
@@ -456,7 +456,7 @@
       "dropped_fd": 0,
       "dropped_dup_fixtures": 0,
       "dropped_reversed_dupes": 0,
-      "dropped_stale_postponed": 1,
+      "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 98,
       "results": 98,
@@ -683,10 +683,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 103,
-      "fixtures": 113,
+      "results": 105,
+      "fixtures": 111,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-15"
     },
     {
       "league": "Pro League U21",
@@ -865,10 +865,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 146,
-      "fixtures": 305,
+      "results": 150,
+      "fixtures": 301,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-15"
     },
     {
       "league": "Serie B",
@@ -907,10 +907,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 146,
-      "fixtures": 234,
+      "results": 147,
+      "fixtures": 233,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-15"
     },
     {
       "league": "Brasileirão Série A",
@@ -963,10 +963,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 651,
-      "fixtures": 5,
+      "results": 654,
+      "fixtures": 2,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-15"
     },
     {
       "league": "Liga MX",
@@ -991,8 +991,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 131,
-      "fixtures": 1,
+      "results": 132,
+      "fixtures": 2,
       "errors": [],
       "latest": "2026-11-15"
     },
