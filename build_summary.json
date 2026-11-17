@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-16T05:41:27Z",
+  "generated_utc": "2026-11-17T07:19:26Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -348,7 +348,7 @@
       "dropped_cross_source_dupes": 0,
       "corners": 0,
       "results": 122,
-      "fixtures": 124,
+      "fixtures": 123,
       "errors": [],
       "latest": "2026-11-10"
     },
@@ -362,7 +362,7 @@
       "dropped_cross_source_dupes": 0,
       "corners": 0,
       "results": 118,
-      "fixtures": 122,
+      "fixtures": 120,
       "errors": [],
       "latest": "2026-11-14"
     },
@@ -865,10 +865,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 150,
-      "fixtures": 301,
+      "results": 151,
+      "fixtures": 300,
       "errors": [],
-      "latest": "2026-11-15"
+      "latest": "2026-11-16"
     },
     {
       "league": "Serie B",
@@ -964,7 +964,7 @@
       "dropped_cross_source_dupes": 0,
       "corners": 0,
       "results": 654,
-      "fixtures": 2,
+      "fixtures": 8,
       "errors": [],
       "latest": "2026-11-15"
     },

@@ -68,7 +68,7 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-11-07,15:00,Greenock Morton,Stenhousemuir,4,3,H,2,2,D,6,15,4,9,13,11,2,7,,,,,2,5,0,0,,espn
 14,2026-11-07,15:00,Inverness Caledonian Thistle,Livingston,1,1,D,0,0,D,4,5,2,3,10,12,8,2,,,,,2,2,1,0,,espn
 14,2026-11-07,15:00,Queen's Park,Partick Thistle,0,1,A,0,0,D,7,9,1,1,9,12,6,9,,,,,2,1,0,0,,espn
-15,2026-11-14,16:00,Ayr United,Raith Rovers,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-14,16:00,Livingston,Greenock Morton,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-14,16:00,Partick Thistle,Inverness Caledonian Thistle,3,2,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-14,16:00,Stenhousemuir,Queen's Park,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-11-14,15:00,Ayr United,Raith Rovers,3,1,H,2,0,H,7,8,6,6,7,18,0,6,,,,,1,3,0,0,,espn
+15,2026-11-14,15:00,Livingston,Greenock Morton,2,0,H,2,0,H,8,10,4,4,16,12,4,5,,,,,2,4,0,0,,espn
+15,2026-11-14,15:00,Partick Thistle,Inverness Caledonian Thistle,3,2,H,2,0,H,8,15,7,4,8,12,9,9,,,,,0,3,0,0,,espn
+15,2026-11-14,15:00,Stenhousemuir,Queen's Park,2,0,H,1,0,H,14,4,8,2,19,16,5,4,,,,,1,2,0,0,,espn

@@ -157,8 +157,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 8,2026-11-03,19:45,Huddersfield Town,Luton Town,1,1,D,0,1,A,12,9,6,4,12,10,9,1,6,0,3,1,0,1,0,0,,fixturedl
 9,2026-11-03,19:45,Wigan Athletic,Mansfield Town,0,0,D,0,0,D,16,7,2,3,6,20,5,2,1,2,4,0,0,4,0,0,,fixturedl
 3,2026-11-04,19:45,Oxford United,Reading,2,0,H,0,0,D,12,13,7,3,17,13,5,8,0,1,5,7,2,4,0,0,,fixturedl
-15,2026-11-14,16:00,AFC Wimbledon,Blackpool,1,0,H,,,,,,,,,,3,7,0,2,3,5,,,,,,fixturedl
-15,2026-11-14,16:00,MK Dons,Burton Albion,6,2,H,,,,,,,,,,4,1,1,0,3,1,,,,,,fixturedl
-15,2026-11-14,16:00,Sheffield Wednesday,Plymouth Argyle,3,0,H,,,,,,,,,,7,5,7,4,0,1,,,,,,fixturedl
-15,2026-11-14,16:00,Stockport County,Reading,3,1,H,,,,,,,,,,7,5,1,0,6,5,,,,,,fixturedl
-15,2026-11-14,16:00,Wigan Athletic,Barnsley,2,1,H,,,,,,,,,,2,10,1,4,1,6,,,,,,fixturedl
+15,2026-11-14,15:00,AFC Wimbledon,Blackpool,1,0,H,1,0,H,9,15,2,5,15,11,3,7,0,2,3,5,4,3,1,0,,fixturedl
+15,2026-11-14,15:00,MK Dons,Burton Albion,6,2,H,2,0,H,20,5,10,2,7,6,4,1,1,0,3,1,0,1,0,0,,fixturedl
+15,2026-11-14,15:00,Sheffield Wednesday,Plymouth Argyle,3,0,H,1,0,H,14,14,6,4,12,10,7,5,7,4,0,1,2,3,0,0,,fixturedl
+15,2026-11-14,15:00,Stockport County,Reading,3,1,H,2,1,H,17,8,6,5,8,8,7,5,1,0,6,5,2,3,0,0,,fixturedl
+15,2026-11-14,15:00,Wigan Athletic,Barnsley,2,1,H,1,0,H,12,14,4,3,6,15,2,10,1,4,1,6,2,2,0,0,,fixturedl
