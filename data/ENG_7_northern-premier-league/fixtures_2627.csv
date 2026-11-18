@@ -1,8 +1,4 @@
 gw,date,time,home,away
-16,2026-11-17,,Cleethorpes,FC United
-16,2026-11-17,,Guiseley,Ashton Utd
-16,2026-11-17,,Hyde,Warrington Rylands
-10,2026-11-17,,Quorn,Bury
 20,2026-11-21,,Alfreton,Curzon Ashton
 20,2026-11-21,,Bamber Bridge,Cleethorpes
 20,2026-11-21,,Bury,Redcar Athletic
@@ -38,7 +34,6 @@ gw,date,time,home,away
 22,2026-12-05,,Whitby,Ashton Utd
 22,2026-12-05,,Workington,Avro
 19,2026-12-08,,Hyde,Workington
-19,2026-12-09,,Avro,Emley
 23,2026-12-11,,Curzon Ashton,Cleethorpes
 23,2026-12-12,,Emley,Warrington
 23,2026-12-12,,FC United,Redcar Athletic
@@ -50,9 +45,9 @@ gw,date,time,home,away
 23,2026-12-12,,Whitby,Quorn
 19,2026-12-15,,Ashton Utd,Bury
 19,2026-12-15,,Guiseley,Bamber Bridge
+24,2026-12-18,,Avro,Warrington Rylands
 24,2026-12-19,,Alfreton,Lancaster
 24,2026-12-19,,Ashton Utd,FC United
-24,2026-12-19,,Avro,Warrington Rylands
 24,2026-12-19,,Bamber Bridge,Ilkeston
 24,2026-12-19,,Bury,Whitby
 24,2026-12-19,,Cleethorpes,Leek
@@ -61,7 +56,7 @@ gw,date,time,home,away
 24,2026-12-19,,Redcar Athletic,Gainsborough
 24,2026-12-19,,Warrington,Stockton
 24,2026-12-19,,Workington,Curzon Ashton
-25,2026-12-26,,Curzon Ashton,Avro
+25,2026-12-26,,Avro,Curzon Ashton
 25,2026-12-26,,Emley,Cleethorpes
 25,2026-12-26,,FC United,Bury
 25,2026-12-26,,Gainsborough,Guiseley
@@ -97,6 +92,7 @@ gw,date,time,home,away
 27,2027-01-09,,Whitby,Warrington Rylands
 27,2027-01-09,,Workington,Hyde
 18,2027-01-12,,Guiseley,FC United
+23,2027-01-12,,Stockton,Avro
 28,2027-01-16,,Ashton Utd,Bamber Bridge
 28,2027-01-16,,Avro,Alfreton
 28,2027-01-16,,Cleethorpes,Warrington

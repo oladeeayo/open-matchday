@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-17T07:19:26Z",
+  "generated_utc": "2026-11-18T06:43:48Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -333,10 +333,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 124,
-      "fixtures": 117,
+      "results": 116,
+      "fixtures": 124,
       "errors": [],
-      "latest": "2026-11-10"
+      "latest": "2026-11-17"
     },
     {
       "league": "National League South",
@@ -347,10 +347,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 122,
-      "fixtures": 123,
+      "results": 112,
+      "fixtures": 121,
       "errors": [],
-      "latest": "2026-11-10"
+      "latest": "2026-11-17"
     },
     {
       "league": "Northern Premier League",
@@ -361,10 +361,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 118,
-      "fixtures": 120,
+      "results": 111,
+      "fixtures": 116,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-17"
     },
     {
       "league": "Scottish Premiership",
@@ -740,7 +740,7 @@
       "dropped_cross_source_dupes": 0,
       "corners": 0,
       "results": 99,
-      "fixtures": 107,
+      "fixtures": 108,
       "errors": [],
       "latest": "2026-11-13"
     },

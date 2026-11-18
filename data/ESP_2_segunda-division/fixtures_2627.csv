@@ -1,7 +1,4 @@
 gw,date,time,home,away
-13,2026-11-06,20:30,Castellón,Eibar
-13,2026-11-07,21:00,Granada,Tenerife
-13,2026-11-08,14:00,FC Andorra,Mallorca
 15,2026-11-20,20:30,FC Andorra,Leganés
 15,2026-11-21,14:00,CD Sabadell,Granada
 15,2026-11-21,16:15,Real Sociedad II,Cádiz
@@ -35,6 +32,9 @@ gw,date,time,home,away
 17,2026-12-06,21:00,Real Sociedad II,Leganés
 17,2026-12-06,21:00,Sporting Gijón,Granada
 17,2026-12-06,21:00,Tenerife,Eldense
+18,2026-12-09,21:00,Castellón,Eibar
+18,2026-12-09,21:00,FC Andorra,Mallorca
+18,2026-12-09,21:00,Granada,Tenerife
 18,2026-12-13,21:00,Almería,Albacete
 18,2026-12-13,21:00,Cádiz,CD Sabadell
 18,2026-12-13,21:00,Córdoba,Castellón
