@@ -89,36 +89,36 @@ gw,date,time,home,away
 17,2027-01-09,19:30,Arezzo,Hellas Verona
 17,2027-01-10,15:00,Ascoli,Catanzaro
 17,2027-01-10,17:15,Pisa,US Avellino
-18,2027-01-16,21:00,Ascoli,Sudtirol
-18,2027-01-16,21:00,Benevento,Arezzo
-18,2027-01-16,21:00,Carrarese,Padova
-18,2027-01-16,21:00,Catanzaro,Cesena
-18,2027-01-16,21:00,Cremonese,Vicenza
-18,2027-01-16,21:00,Empoli,Modena
-18,2027-01-16,21:00,Hellas Verona,Juve Stabia
-18,2027-01-16,21:00,Palermo,Pisa
-18,2027-01-16,21:00,Sampdoria,Mantova
-18,2027-01-16,21:00,US Avellino,Virtus Entella
-19,2027-01-23,21:00,Arezzo,Empoli
-19,2027-01-23,21:00,Cesena,Benevento
-19,2027-01-23,21:00,Juve Stabia,Cremonese
-19,2027-01-23,21:00,Mantova,US Avellino
-19,2027-01-23,21:00,Modena,Carrarese
-19,2027-01-23,21:00,Padova,Catanzaro
-19,2027-01-23,21:00,Pisa,Hellas Verona
-19,2027-01-23,21:00,Sudtirol,Palermo
-19,2027-01-23,21:00,Vicenza,Ascoli
-19,2027-01-23,21:00,Virtus Entella,Sampdoria
-20,2027-01-30,21:00,Ascoli,Padova
-20,2027-01-30,21:00,Benevento,Sampdoria
-20,2027-01-30,21:00,Carrarese,Vicenza
-20,2027-01-30,21:00,Catanzaro,Juve Stabia
-20,2027-01-30,21:00,Cremonese,Pisa
-20,2027-01-30,21:00,Empoli,Mantova
-20,2027-01-30,21:00,Hellas Verona,Modena
-20,2027-01-30,21:00,Palermo,Arezzo
-20,2027-01-30,21:00,US Avellino,Cesena
-20,2027-01-30,21:00,Virtus Entella,Sudtirol
+18,2027-01-15,20:30,Sampdoria,Mantova
+18,2027-01-16,15:00,Ascoli,Sudtirol
+18,2027-01-16,15:00,Benevento,Arezzo
+18,2027-01-16,15:00,Carrarese,Padova
+18,2027-01-16,15:00,Empoli,Modena
+18,2027-01-16,15:00,US Avellino,Virtus Entella
+18,2027-01-16,17:15,Catanzaro,Cesena
+18,2027-01-16,19:30,Palermo,Pisa
+18,2027-01-17,15:00,Hellas Verona,Juve Stabia
+18,2027-01-17,17:15,Cremonese,Vicenza
+19,2027-01-22,20:30,Cesena,Benevento
+19,2027-01-23,15:00,Juve Stabia,Cremonese
+19,2027-01-23,15:00,Mantova,US Avellino
+19,2027-01-23,15:00,Modena,Carrarese
+19,2027-01-23,15:00,Padova,Catanzaro
+19,2027-01-23,15:00,Sudtirol,Palermo
+19,2027-01-23,17:15,Pisa,Hellas Verona
+19,2027-01-23,19:30,Virtus Entella,Sampdoria
+19,2027-01-24,15:00,Vicenza,Ascoli
+19,2027-01-24,17:15,Arezzo,Empoli
+20,2027-01-29,20:30,Hellas Verona,Modena
+20,2027-01-30,15:00,Ascoli,Padova
+20,2027-01-30,15:00,Carrarese,Vicenza
+20,2027-01-30,15:00,Empoli,Mantova
+20,2027-01-30,15:00,US Avellino,Cesena
+20,2027-01-30,15:00,Virtus Entella,Sudtirol
+20,2027-01-30,17:15,Cremonese,Pisa
+20,2027-01-30,19:30,Palermo,Arezzo
+20,2027-01-31,15:00,Benevento,Sampdoria
+20,2027-01-31,17:15,Catanzaro,Juve Stabia
 21,2027-02-06,21:00,Benevento,Cremonese
 21,2027-02-06,21:00,Cesena,Hellas Verona
 21,2027-02-06,21:00,Juve Stabia,Carrarese
