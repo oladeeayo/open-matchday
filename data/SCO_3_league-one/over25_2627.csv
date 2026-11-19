@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+16,2026-11-21,,Montrose,Alloa,SCO_20261121T1730_montrose_vs_alloa,0.6041,1.60,bet365,-0.0335,yes
+16,2026-11-21,,Ross County,Cove Rangers,SCO_20261121T1500_ross-county_vs_cove-rangers,0.7112,1.44,bet365,+0.0242,yes
+16,2026-11-21,,Queen of South,Hamilton,SCO_20261121T1500_queen-of-the-south_vs_hamilton,0.5022,1.57,bet365,-0.2115,no
+16,2026-11-21,,Peterhead,East Kilbride,SCO_20261121T1500_peterhead_vs_east-kilbride,0.4755,1.53,bet365,-0.2724,no
+16,2026-11-21,,East Fife,Airdrieonians,SCO_20261121T1500_east-fife_vs_airdrieonians,0.4457,1.75,bet365,-0.2199,no

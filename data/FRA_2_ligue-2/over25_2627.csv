@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+13,2026-11-23,20:45,FC Sochaux-Montbéliard,USL Dunkerque,FRA_20261123T1945_sochaux_vs_dunkerque,0.4867,1.85,bet365,-0.0997,no
+13,2026-11-21,20:00,Stade DE Reims,AS Saint-Étienne,FRA_20261121T1900_reims_vs_st-etienne,0.6757,1.90,bet365,+0.2839,yes
+13,2026-11-21,14:00,Stade Lavallois MFC,Montpellier Hérault SC,FRA_20261121T1300_laval_vs_montpellier,0.5049,1.80,bet365,-0.0912,no
+13,2026-11-20,20:00,Red Star FC,Pau FC,FRA_20261120T1900_red-star_vs_pau,0.4783,1.85,bet365,-0.1151,no
+13,2026-11-20,20:00,AS Nancy Lorraine,Dijon FCO,FRA_20261120T1900_nancy_vs_dijon,0.3692,1.70,bet365,-0.3723,no
+13,2026-11-20,20:00,FC Metz,US Boulogne CO,FRA_20261120T1900_metz_vs_boulogne,0.3509,1.90,bet365,-0.3333,no
+13,2026-11-20,20:00,EN Avant Guingamp,Rodez Aveyron Football,FRA_20261120T1900_guingamp_vs_rodez,0.6359,1.65,bet365,+0.0492,yes
+13,2026-11-20,20:00,FC Annecy,Clermont Foot 63,FRA_20261120T1900_annecy_vs_clermont,0.5389,2.00,bet365,+0.0778,no

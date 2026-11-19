@@ -1,0 +1,10 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+13,2026-11-22,14:30,Sparta Rotterdam,AZ,NED_20261122T1330_sparta-rotterdam_vs_az-alkmaar,pjASQws2,2026-11-22T13:30:00Z,3,4.1,4.1,1.73,1.48,1.44,2026-11-19T18:18:39Z
+13,2026-11-22,14:30,Ajax,ADO Den Haag,NED_20261122T1330_ajax_vs_den-haag,Wtw9Lr5M,2026-11-22T13:30:00Z,3,1.17,7.5,15.0,1.75,1.29,2026-11-19T18:18:39Z
+13,2026-11-22,12:15,FC Twente,Willem II,NED_20261122T1115_twente_vs_willem-ii,zwSnE0cd,2026-11-22T11:15:00Z,3,1.1,10.0,21.0,2.0,1.22,2026-11-19T18:18:39Z
+13,2026-11-21,21:00,Telstar,PEC Zwolle,NED_20261121T2000_telstar_vs_zwolle,xbCDlsZ8,2026-11-21T20:00:00Z,3,2.05,3.5,3.6,1.57,1.67,2026-11-19T18:18:39Z
+13,2026-11-21,21:00,FC Groningen,sc Heerenveen,NED_20261121T2000_groningen_vs_heerenveen,SCOvGMSq,2026-11-21T20:00:00Z,3,2.4,3.75,2.5,1.36,1.4,2026-11-19T18:18:39Z
+13,2026-11-21,18:45,FC Utrecht,SC Cambuur,NED_20261121T1745_utrecht_vs_cambuur,0GJYy4k3,2026-11-21T17:45:00Z,3,1.91,4.0,3.5,1.4,1.4,2026-11-19T18:18:39Z
+13,2026-11-21,18:45,Feyenoord,Excelsior Rotterdam,NED_20261121T1745_feyenoord_vs_excelsior,YTHtzrKF,2026-11-21T17:45:00Z,3,1.2,7.5,10.0,1.8,1.33,2026-11-19T18:18:39Z
+13,2026-11-21,16:30,N.E.C. Nijmegen,PSV,NED_20261121T1530_nijmegen_vs_psv,CxCKSaCk,2026-11-21T15:30:00Z,3,4.0,4.33,1.73,1.33,1.29,2026-11-19T18:18:39Z
+13,2026-11-22,16:45,Go Ahead Eagles,Fortuna Sittard,NED_20261122T1545_g-a-eagles_vs_sittard,tfLlYLlS,2026-11-22T15:45:00Z,3,1.62,4.2,4.33,1.53,1.48,2026-11-19T18:18:39Z

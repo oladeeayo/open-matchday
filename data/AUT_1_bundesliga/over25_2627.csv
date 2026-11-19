@@ -1,0 +1,7 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+13,2026-11-22,,Austria Vienna,Salzburg,AUT_20261122T1600_austria-vienna_vs_salzburg,0.5039,1.53,bet365,-0.2290,no
+13,2026-11-22,,Wolfsberger AC,Ried,AUT_20261122T1330_wolfsberger-ac_vs_ried,0.5868,1.62,bet365,-0.0494,no
+13,2026-11-22,,Altach,Sturm Graz,AUT_20261122T1330_altach_vs_sturm-graz,0.4973,1.73,bet365,-0.1397,no
+13,2026-11-21,,Grazer AK,SK Rapid,AUT_20261121T1830_grazer-ak_vs_rapid-vienna,0.5251,1.57,bet365,-0.1755,no
+13,2026-11-21,,Tirol,A. Lustenau,AUT_20261121T1600_tirol_vs_a-lustenau,0.6654,1.57,bet365,+0.0447,yes
+13,2026-11-21,,LASK,Hartberg,AUT_20261121T1600_lask-linz_vs_hartberg,0.6252,1.36,bet365,-0.1497,yes

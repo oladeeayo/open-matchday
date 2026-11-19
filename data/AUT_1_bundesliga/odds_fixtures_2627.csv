@@ -1,0 +1,7 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+13,2026-11-22,,Austria Vienna,Salzburg,AUT_20261122T1600_austria-vienna_vs_salzburg,pOFg4IgU,2026-11-22T16:00:00Z,3,4.5,4.0,1.65,1.57,1.53,2026-11-19T18:18:39Z
+13,2026-11-22,,Wolfsberger AC,Ried,AUT_20261122T1330_wolfsberger-ac_vs_ried,zme3OLvn,2026-11-22T13:30:00Z,3,2.65,3.6,2.33,1.53,1.62,2026-11-19T18:18:39Z
+13,2026-11-22,,Altach,Sturm Graz,AUT_20261122T1330_altach_vs_sturm-graz,CAHo6vPH,2026-11-22T13:30:00Z,3,4.1,3.6,1.81,1.67,1.73,2026-11-19T18:18:39Z
+13,2026-11-21,,Grazer AK,SK Rapid,AUT_20261121T1830_grazer-ak_vs_rapid-vienna,4pEw80f5,2026-11-21T18:30:00Z,3,6.0,4.75,1.4,1.75,1.57,2026-11-19T18:18:39Z
+13,2026-11-21,,Tirol,A. Lustenau,AUT_20261121T1600_tirol_vs_a-lustenau,tpbBMa9b,2026-11-21T16:00:00Z,3,1.7,3.9,4.2,1.57,1.57,2026-11-19T18:18:39Z
+13,2026-11-21,,LASK,Hartberg,AUT_20261121T1600_lask-linz_vs_hartberg,EcdJKwvB,2026-11-21T16:00:00Z,3,1.27,5.5,8.0,1.67,1.36,2026-11-19T18:18:39Z

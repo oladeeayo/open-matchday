@@ -7,10 +7,22 @@ field-by-field schema is in [../DATA_DICTIONARY.md](../DATA_DICTIONARY.md).
 
 ```
 <LEAGUE>/
-    results_2627.csv    finished matches (FT, HT, stats, corners, goal minutes)
-    fixtures_2627.csv   upcoming matches (gw, date, time, home, away)
-    goals_2627.csv      goal events, where a provider supplies them
+    results_2627.csv        finished matches (FT, HT, stats, corners, goal minutes)
+    fixtures_2627.csv       upcoming matches (gw, date, time, home, away)
+    goals_2627.csv          goal events, where a provider supplies them
+    odds_fixtures_2627.csv  next fixtures with best 1X2 / BTTS / over-2.5 prices
+    odds_1x2_2627.csv       full-time 1X2, one row per bookmaker (open + current)
+    odds_markets_2627.csv   every market and scope (FT, 1st half, 2nd half)
+    over25_2627.csv         next round: Poisson over-2.5 probability, price, EV
 ```
+
+The four `odds_*` / `over25_*` files exist only for competitions where pre-match
+prices are available; elsewhere the folder keeps its three core files. Prices
+are Flashscore pre-match quotes from **bet365**, **Betway** and **Betano**, and
+`odds_markets_2627.csv` carries every market those books list: 1X2, double
+chance, over/under with lines, both teams to score, draw no bet, Asian and
+European handicap, odd/even and half-time/full-time. `match_id` joins the odds
+files to each other; `over25_2627.csv` is a model output, not a tip.
 
 - **Season code:** `2627` = 2026/27 (calendar-year leagues include early 2026).
 - **Encoding:** UTF-8 CSV, header row, CRLF, RFC 4180 quoting.

@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+16,2026-11-23,,Koper,Aluminij,SVN_20261123T1630_koper_vs_aluminij,0.5066,1.60,Betano,-0.1895,no
+16,2026-11-22,,Celje,Grosuplje,SVN_20261122T1630_celje_vs_grosuplje,0.4948,1.57,Betway,-0.2232,no
+16,2026-11-22,,Maribor,Nafta,SVN_20261122T1400_maribor_vs_nafta,0.3695,1.60,Betway,-0.4088,no
+16,2026-11-21,,Mura,Bravo,SVN_20261121T1630_mura_vs_bravo,0.2009,1.87,Betano,-0.6243,no
+16,2026-11-21,,O. Ljubljana,Radomlje,SVN_20261121T1400_o-ljubljana_vs_radomlje,0.6020,1.55,Betano,-0.0669,yes

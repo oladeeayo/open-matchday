@@ -1,0 +1,10 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+13,2026-11-23,21:00,Levante UD,Elche CF,ESP_20261123T2000_levante_vs_elche,0.6973,1.67,bet365,+0.1646,yes
+13,2026-11-22,21:00,Getafe CF,Atlético de Madrid,ESP_20261122T2000_getafe_vs_atl-madrid,0.3706,2.00,bet365,-0.2589,no
+13,2026-11-22,18:30,CA Osasuna,Málaga CF,ESP_20261122T1730_osasuna_vs_malaga,0.2740,2.00,bet365,-0.4519,no
+13,2026-11-22,14:00,FC Barcelona,Villarreal CF,ESP_20261122T1300_barcelona_vs_villarreal,0.7249,1.17,Betway,-0.1519,yes
+13,2026-11-21,21:00,Real Madrid,Celta,ESP_20261121T2000_real-madrid_vs_celta-vigo,0.4185,1.36,bet365,-0.4309,no
+13,2026-11-21,18:30,Sevilla FC,Real Betis,ESP_20261121T1730_sevilla_vs_betis,0.4210,1.91,bet365,-0.1958,no
+13,2026-11-21,16:15,Rayo Vallecano,Valencia CF,ESP_20261121T1515_rayo-vallecano_vs_valencia,0.4955,2.00,bet365,-0.0090,no
+13,2026-11-21,14:00,Deportivo Alavés,RC Deportivo,ESP_20261121T1300_alaves_vs_dep-a-coruna,0.4858,2.20,bet365,+0.0687,no
+13,2026-11-20,21:00,Athletic Club,RCD Espanyol de Barcelona,ESP_20261120T2000_ath-bilbao_vs_espanyol,0.4339,1.80,bet365,-0.2190,no

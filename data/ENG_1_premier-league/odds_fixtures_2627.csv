@@ -1,0 +1,11 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+11,2026-11-23,21:00,Brentford,Everton,ENG_20261123T2000_brentford_vs_everton,CSnuq6U8,2026-11-23T20:00:00Z,3,2.15,3.5,3.3,1.62,1.73,2026-11-19T18:18:39Z
+11,2026-11-22,17:30,Liverpool,Man Utd,ENG_20261122T1630_liverpool_vs_manchester-united,UorZXuM7,2026-11-22T16:30:00Z,3,1.7,4.2,4.33,1.5,1.5,2026-11-19T18:18:39Z
+11,2026-11-22,15:00,Hull,Brighton,ENG_20261122T1400_hull-city_vs_brighton,OluRZ1ie,2026-11-22T14:00:00Z,3,6.5,4.33,1.5,1.78,1.67,2026-11-19T18:18:39Z
+11,2026-11-21,18:30,Newcastle,Arsenal,ENG_20261121T1730_newcastle-utd_vs_arsenal,U5YSgNrR,2026-11-21T17:30:00Z,3,5.75,4.2,1.57,1.75,1.73,2026-11-19T18:18:39Z
+11,2026-11-21,16:00,Spurs,Ipswich,ENG_20261121T1500_tottenham_vs_ipswich,0lPbl16l,2026-11-21T15:00:00Z,3,1.53,4.33,5.5,1.67,1.57,2026-11-19T18:18:39Z
+11,2026-11-21,16:00,Coventry,Crystal Palace,ENG_20261121T1500_coventry_vs_crystal-palace,GOyJyOMr,2026-11-21T15:00:00Z,3,2.4,3.5,2.7,1.62,1.73,2026-11-19T18:18:39Z
+11,2026-11-21,16:00,Chelsea,Leeds,ENG_20261121T1500_chelsea_vs_leeds,KhjmspaL,2026-11-21T15:00:00Z,3,1.85,3.6,3.9,1.73,1.8,2026-11-19T18:18:39Z
+11,2026-11-21,16:00,Bournemouth,Nott'm Forest,ENG_20261121T1500_bournemouth_vs_nottingham,YH1oNO7k,2026-11-21T15:00:00Z,3,1.87,3.6,3.8,1.7,1.8,2026-11-19T18:18:39Z
+11,2026-11-21,16:00,Aston Villa,Sunderland,ENG_20261121T1500_aston-villa_vs_sunderland,6VagL2x2,2026-11-21T15:00:00Z,3,1.75,3.8,4.5,1.7,1.8,2026-11-19T18:18:39Z
+11,2026-11-21,13:30,Man City,Fulham,ENG_20261121T1230_manchester-city_vs_fulham,MuVKeqEE,2026-11-21T12:30:00Z,3,1.36,5.0,7.0,1.7,1.5,2026-11-19T18:18:39Z

@@ -1,0 +1,8 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+11,2026-11-22,20:45,Olympique de Marseille,Le Mans FC,FRA_20261122T1945_marseille_vs_le-mans,0.6742,1.50,bet365,+0.0113,yes
+11,2026-11-22,15:00,Paris FC,Angers SCO,FRA_20261122T1400_paris-fc_vs_angers,0.6145,1.62,bet365,-0.0045,yes
+11,2026-11-21,20:45,RC Strasbourg Alsace,Stade Brestois 29,FRA_20261121T1945_strasbourg_vs_brest,0.6084,1.67,bet365,+0.0160,yes
+11,2026-11-21,20:45,AS Monaco,AJ Auxerre,FRA_20261121T1945_monaco_vs_auxerre,0.7245,1.50,bet365,+0.0868,yes
+11,2026-11-21,20:45,LOSC Lille,Olympique Lyonnais,FRA_20261121T1945_lille_vs_lyon,0.3026,2.00,Betano,-0.3947,no
+11,2026-11-21,20:45,RC Lens,Toulouse FC,FRA_20261121T1945_lens_vs_toulouse,0.6407,1.62,bet365,+0.0379,yes
+11,2026-11-21,17:15,OGC Nice,Paris Saint-Germain,FRA_20261121T1615_nice_vs_psg,0.6228,1.40,bet365,-0.1281,yes

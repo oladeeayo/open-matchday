@@ -1,0 +1,8 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+11,2026-11-22,20:45,Olympique de Marseille,Le Mans FC,FRA_20261122T1945_marseille_vs_le-mans,bVgMlMNc,2026-11-22T19:45:00Z,3,1.44,4.75,6.5,1.67,1.5,2026-11-19T18:18:39Z
+11,2026-11-22,15:00,Paris FC,Angers SCO,FRA_20261122T1400_paris-fc_vs_angers,8Oo8uIpp,2026-11-22T14:00:00Z,3,1.33,5.5,8.5,1.95,1.62,2026-11-19T18:18:39Z
+11,2026-11-21,20:45,RC Strasbourg Alsace,Stade Brestois 29,FRA_20261121T1945_strasbourg_vs_brest,GlkGwdFd,2026-11-21T19:45:00Z,3,2.15,3.6,2.9,1.57,1.67,2026-11-19T18:18:39Z
+11,2026-11-21,20:45,AS Monaco,AJ Auxerre,FRA_20261121T1945_monaco_vs_auxerre,6ecUn0hA,2026-11-21T19:45:00Z,3,1.36,4.75,7.0,1.73,1.5,2026-11-19T18:18:39Z
+11,2026-11-21,20:45,LOSC Lille,Olympique Lyonnais,FRA_20261121T1945_lille_vs_lyon,zgG4Wv8T,2026-11-21T19:45:00Z,3,2.2,3.2,3.1,1.8,2.0,2026-11-19T18:18:39Z
+11,2026-11-21,20:45,RC Lens,Toulouse FC,FRA_20261121T1945_lens_vs_toulouse,2R2cY0wH,2026-11-21T19:45:00Z,3,1.85,3.9,3.8,1.6,1.62,2026-11-19T18:18:39Z
+11,2026-11-21,17:15,OGC Nice,Paris Saint-Germain,FRA_20261121T1615_nice_vs_psg,Ch0xovNM,2026-11-21T16:15:00Z,3,6.25,5.0,1.42,1.55,1.4,2026-11-19T18:18:39Z

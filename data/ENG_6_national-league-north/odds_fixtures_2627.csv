@@ -1,0 +1,25 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+18,2026-11-24,,South Shields,Worksop,ENG_20261124T1945_south-shields_vs_worksop,beLNu3op,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Scarborough,Spalding United,ENG_20261124T1945_scarborough-athletic_vs_spalding-united,2PZioPNM,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Merthyr Town,Bedford,ENG_20261124T1945_merthyr-town_vs_bedford,KSn0wlgd,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Marine,Spennymoor,ENG_20261124T1945_marine_vs_spennymoor,faWqmogA,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Macclesfield,Morecambe,ENG_20261124T1945_macclesfield_vs_morecambe,MXIxk7Oc,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,King’s Lynn,Radcliffe,ENG_20261124T1945_king-s-lynn_vs_radcliffe,UwWjR3Wj,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Hednesford,Oxford City,ENG_20261124T1945_hednesford_vs_oxford-city,beuLWP8T,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Harborough,Chester,ENG_20261124T1945_harborough_vs_chester,jVyDYovH,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Darlington,Southport,ENG_20261124T1945_darlington-fc_vs_southport,IHw5z894,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Chorley,Hebburn Town,ENG_20261124T1945_chorley_vs_hebburn-town,CKzcxUvh,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,Brackley Town,Hereford,ENG_20261124T1945_brackley_vs_hereford,ERLwXY2C,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+18,2026-11-24,,AFC Telford,Buxton,ENG_20261124T1945_telford_vs_buxton,61IVYfYa,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
+17,2026-11-21,,Worksop,Chorley,ENG_20261121T1500_worksop_vs_chorley,KpKNzH3m,2026-11-21T15:00:00Z,3,1.9,3.5,3.3,1.62,1.7,2026-11-19T18:18:39Z
+17,2026-11-21,,Spennymoor,Harborough,ENG_20261121T1500_spennymoor_vs_harborough,OEYitwtQ,2026-11-21T15:00:00Z,3,3.4,3.6,1.83,1.62,1.6,2026-11-19T18:18:39Z
+17,2026-11-21,,Spalding United,Merthyr Town,ENG_20261121T1500_spalding-united_vs_merthyr-town,nFlhuAOq,2026-11-21T15:00:00Z,3,2.1,3.7,2.9,1.5,1.57,2026-11-19T18:18:39Z
+17,2026-11-21,,Southport,Brackley Town,ENG_20261121T1500_southport_vs_brackley,d8t6IZmJ,2026-11-21T15:00:00Z,3,2.63,3.4,2.38,1.62,1.7,2026-11-19T18:18:39Z
+17,2026-11-21,,Radcliffe,AFC Telford,ENG_20261121T1500_radcliffe_vs_telford,lrwbKeJ6,2026-11-21T15:00:00Z,3,2.63,3.6,2.15,1.5,1.44,2026-11-19T18:18:39Z
+17,2026-11-21,,Oxford City,Scarborough,ENG_20261121T1500_oxford-city_vs_scarborough-athletic,GUvjMHlf,2026-11-21T15:00:00Z,3,1.6,3.7,4.33,1.73,1.67,2026-11-19T18:18:39Z
+17,2026-11-21,,Morecambe,King’s Lynn,ENG_20261121T1500_morecambe_vs_king-s-lynn,OMMrOwKs,2026-11-21T15:00:00Z,3,2.05,3.5,2.9,1.62,1.7,2026-11-19T18:18:39Z
+17,2026-11-21,,Hereford,Darlington,ENG_20261121T1500_hereford_vs_darlington-fc,hvWCTadK,2026-11-21T15:00:00Z,3,1.7,3.8,3.75,1.53,1.5,2026-11-19T18:18:39Z
+17,2026-11-21,,Hebburn Town,Marine,ENG_20261121T1500_hebburn-town_vs_marine,0pqR5d4D,2026-11-21T15:00:00Z,3,2.1,3.4,2.88,1.62,1.73,2026-11-19T18:18:39Z
+17,2026-11-21,,Chester,Macclesfield,ENG_20261121T1500_chester_vs_macclesfield,hKuJ7IZ0,2026-11-21T15:00:00Z,3,2.2,3.25,3.0,1.73,1.95,2026-11-19T18:18:39Z
+17,2026-11-21,,Buxton,Hednesford,ENG_20261121T1500_buxton_vs_hednesford,63sB9v5l,2026-11-21T15:00:00Z,3,1.91,3.5,3.2,1.57,1.62,2026-11-19T18:18:39Z
+17,2026-11-21,,Bedford,South Shields,ENG_20261121T1500_bedford_vs_south-shields,AXeuF0sR,2026-11-21T15:00:00Z,3,3.8,3.75,1.7,1.57,1.53,2026-11-19T18:18:39Z

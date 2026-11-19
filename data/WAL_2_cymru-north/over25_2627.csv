@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+15,2026-11-21,,Penrhyncoch,Rhyl,WAL_20261121T1400_penrhyncoch_vs_rhyl,0.5665,1.48,Betway,-0.1616,no
+15,2026-11-21,,Mold Alexandra,Porthmadog,WAL_20261121T1400_mold-alexandra_vs_porthmadog,0.5091,,,,no
+15,2026-11-21,,Llanuwchllyn,Ruthin,WAL_20261121T1400_llanuwchllyn_vs_ruthin-town,0.7235,,,,yes
+15,2026-11-21,,Holyhead,Bala,WAL_20261121T1400_holyhead_vs_bala,0.6892,,,,yes
+15,2026-11-21,,Guilsfield,Bangor 1876,WAL_20261121T1400_guilsfield_vs_bangor-1876,0.5474,1.38,Betway,-0.2445,no
+15,2026-11-21,,Gresford,Buckley,WAL_20261121T1400_gresford_vs_buckley,0.7218,,,,yes
+15,2026-11-21,,Caersws FC,Denbigh,WAL_20261121T1400_caersws-fc_vs_denbigh,0.6109,1.33,Betway,-0.1875,yes
+15,2026-11-21,,Brickfield,Newtown,WAL_20261121T1400_brickfield-rangers_vs_newtown,0.4084,1.55,Betway,-0.3670,no

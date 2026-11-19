@@ -1,0 +1,16 @@
+match_id,event_id,bookmaker,home,draw,away,home_open,draw_open,away_open
+SCO_20261121T1730_montrose_vs_alloa,KxpFb3g3,Betano,2.4,3.5,2.55,2.25,3.4,2.8
+SCO_20261121T1730_montrose_vs_alloa,KxpFb3g3,bet365,2.38,3.5,2.5,2.2,3.4,2.75
+SCO_20261121T1730_montrose_vs_alloa,KxpFb3g3,Betway,2.4,3.5,2.4,2.2,3.5,2.63
+SCO_20261121T1500_ross-county_vs_cove-rangers,Wbx1kaGk,Betway,1.22,6.0,8.5,1.22,5.25,8.5
+SCO_20261121T1500_ross-county_vs_cove-rangers,Wbx1kaGk,Betano,1.2,6.0,10.5,1.18,6.0,12.0
+SCO_20261121T1500_ross-county_vs_cove-rangers,Wbx1kaGk,bet365,1.25,5.0,9.5,1.27,5.0,8.0
+SCO_20261121T1500_queen-of-the-south_vs_hamilton,0GoVfLhS,Betano,5.0,4.1,1.53,5.75,4.33,1.44
+SCO_20261121T1500_queen-of-the-south_vs_hamilton,0GoVfLhS,Betway,4.5,4.0,1.57,5.0,4.2,1.45
+SCO_20261121T1500_queen-of-the-south_vs_hamilton,0GoVfLhS,bet365,4.5,4.0,1.57,5.5,4.2,1.44
+SCO_20261121T1500_peterhead_vs_east-kilbride,hjrNdsOF,bet365,3.75,3.7,1.73,3.8,3.8,1.7
+SCO_20261121T1500_peterhead_vs_east-kilbride,hjrNdsOF,Betway,3.6,3.6,1.78,3.6,3.8,1.7
+SCO_20261121T1500_peterhead_vs_east-kilbride,hjrNdsOF,Betano,4.1,3.9,1.67,4.75,4.0,1.57
+SCO_20261121T1500_east-fife_vs_airdrieonians,fahTz01d,Betano,2.9,3.4,2.2,3.2,3.4,2.05
+SCO_20261121T1500_east-fife_vs_airdrieonians,fahTz01d,Betway,2.9,3.5,2.1,3.0,3.3,2.05
+SCO_20261121T1500_east-fife_vs_airdrieonians,fahTz01d,bet365,2.88,3.4,2.15,3.1,3.3,2.05

@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+16,2026-11-21,16:00,Raith Rovers,Partick Thistle,SCO_20261121T1500_raith_vs_partick,0.2297,2.05,bet365,-0.5291,no
+16,2026-11-21,16:00,Queen's Park,Livingston,SCO_20261121T1500_queen-s-park_vs_livingston,0.3924,1.73,bet365,-0.3212,no
+16,2026-11-21,16:00,Dunfermline Athletic,Greenock Morton,SCO_20261121T1500_dunfermline_vs_morton,0.4449,1.67,bet365,-0.2570,no
+16,2026-11-21,16:00,Arbroath,Stenhousemuir,SCO_20261121T1500_arbroath_vs_stenhousemuir,0.4723,2.15,bet365,+0.0154,no
+16,2026-11-20,20:30,Inverness Caledonian Thistle,Ayr United,SCO_20261120T1930_inverness_vs_ayr,0.3329,1.80,bet365,-0.4007,no

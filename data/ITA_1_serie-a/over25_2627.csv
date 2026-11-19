@@ -1,0 +1,11 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+12,2026-11-23,20:45,Monza,Fiorentina,ITA_20261123T1945_monza_vs_fiorentina,0.7348,1.62,bet365,+0.1904,yes
+12,2026-11-22,20:45,Atalanta,Internazionale,ITA_20261122T1945_atalanta_vs_inter,0.6419,1.40,bet365,-0.1013,yes
+12,2026-11-22,18:00,Milan,Frosinone,ITA_20261122T1700_ac-milan_vs_frosinone,0.6939,1.36,bet365,-0.0563,yes
+12,2026-11-22,15:00,Sassuolo,Genoa,ITA_20261122T1400_sassuolo_vs_genoa,0.6577,1.91,bet365,+0.2562,yes
+12,2026-11-22,15:00,Bologna,Udinese,ITA_20261122T1400_bologna_vs_udinese,0.6273,1.91,bet365,+0.1981,yes
+12,2026-11-22,12:30,Juventus,Venezia,ITA_20261122T1130_juventus_vs_venezia,0.4401,1.62,bet365,-0.2871,no
+12,2026-11-21,20:45,Napoli,Torino,ITA_20261121T1945_napoli_vs_torino,0.5203,1.67,bet365,-0.1312,no
+12,2026-11-21,18:00,Parma,Roma,ITA_20261121T1700_parma_vs_as-roma,0.5527,1.57,bet365,-0.1323,no
+12,2026-11-21,15:00,Lazio,Lecce,ITA_20261121T1400_lazio_vs_lecce,0.5603,1.57,bet365,-0.1204,no
+12,2026-11-21,15:00,Como,Cagliari,ITA_20261121T1400_como_vs_cagliari,0.4065,1.53,bet365,-0.3781,no

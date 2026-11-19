@@ -1,0 +1,8 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+12,2026-11-24,21:00,Rangers,Aberdeen,SCO_20261124T2000_rangers_vs_aberdeen,xOV5xpuo,2026-11-24T20:00:00Z,3,1.22,6.0,11.0,1.95,1.44,2026-11-19T18:18:39Z
+12,2026-11-24,20:45,Hibernian,Dundee,SCO_20261124T1945_hibernian_vs_dundee-fc,jo2Ibzdm,2026-11-24T19:45:00Z,2,1.57,4.2,4.5,1.62,1.57,2026-11-19T18:18:39Z
+14,2026-11-21,21:00,Motherwell,Rangers,SCO_20261121T2000_motherwell_vs_rangers,xtcKNsVF,2026-11-21T20:00:00Z,3,5.25,4.2,1.5,1.62,1.57,2026-11-19T18:18:39Z
+14,2026-11-21,18:45,Dundee,Heart of Midlothian,SCO_20261121T1745_dundee-fc_vs_hearts,KMHn9rGM,2026-11-21T17:45:00Z,3,3.4,3.9,1.95,1.57,1.62,2026-11-19T18:18:39Z
+14,2026-11-21,16:00,Kilmarnock,Aberdeen,SCO_20261121T1500_kilmarnock_vs_aberdeen,UFgCP303,2026-11-21T15:00:00Z,3,2.6,3.5,2.4,1.57,1.67,2026-11-19T18:18:39Z
+14,2026-11-21,16:00,Falkirk,St. Johnstone,SCO_20261121T1500_falkirk_vs_st-johnstone,j58I3Mwp,2026-11-21T15:00:00Z,3,1.8,3.9,3.9,1.7,1.73,2026-11-19T18:18:39Z
+14,2026-11-21,16:00,Celtic,St. Mirren,SCO_20261121T1500_celtic_vs_st-mirren,CdEvB4oA,2026-11-21T15:00:00Z,3,1.13,7.5,13.0,1.8,1.29,2026-11-19T18:18:39Z

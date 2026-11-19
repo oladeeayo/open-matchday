@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+15,2026-11-21,,Penrhyncoch,Rhyl,WAL_20261121T1400_penrhyncoch_vs_rhyl,K0EyhiLb,2026-11-21T14:00:00Z,1,4.33,4.2,1.55,1.57,1.48,2026-11-19T18:18:39Z
+15,2026-11-21,,Mold Alexandra,Porthmadog,WAL_20261121T1400_mold-alexandra_vs_porthmadog,nmGTgDjn,2026-11-21T14:00:00Z,0,,,,,,2026-11-19T18:18:39Z
+15,2026-11-21,,Llanuwchllyn,Ruthin,WAL_20261121T1400_llanuwchllyn_vs_ruthin-town,dOzKZ95U,2026-11-21T14:00:00Z,0,,,,,,2026-11-19T18:18:39Z
+15,2026-11-21,,Holyhead,Bala,WAL_20261121T1400_holyhead_vs_bala,OdNCyWzI,2026-11-21T14:00:00Z,0,,,,,,2026-11-19T18:18:39Z
+15,2026-11-21,,Guilsfield,Bangor 1876,WAL_20261121T1400_guilsfield_vs_bangor-1876,jqP4wh65,2026-11-21T14:00:00Z,1,2.38,3.8,2.3,1.38,1.38,2026-11-19T18:18:39Z
+15,2026-11-21,,Gresford,Buckley,WAL_20261121T1400_gresford_vs_buckley,rJLduEyg,2026-11-21T14:00:00Z,0,,,,,,2026-11-19T18:18:39Z
+15,2026-11-21,,Caersws FC,Denbigh,WAL_20261121T1400_caersws-fc_vs_denbigh,zgIlsz7t,2026-11-21T14:00:00Z,1,2.0,3.8,2.88,1.33,1.33,2026-11-19T18:18:39Z
+15,2026-11-21,,Brickfield,Newtown,WAL_20261121T1400_brickfield-rangers_vs_newtown,KtruNWLO,2026-11-21T14:00:00Z,1,2.4,3.8,2.3,1.55,1.55,2026-11-19T18:18:39Z

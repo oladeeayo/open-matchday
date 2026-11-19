@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+15,2026-11-21,,Stranraer,Elgin City,SCO_20261121T1500_stranraer_vs_elgin-city,S6FJppq4,2026-11-21T15:00:00Z,3,1.9,3.6,3.4,1.62,1.67,2026-11-19T18:18:39Z
+15,2026-11-21,,Spartans,Dumbarton,SCO_20261121T1500_spartans_vs_dumbarton,zXIRrODG,2026-11-21T15:00:00Z,3,1.8,3.8,3.5,1.53,1.53,2026-11-19T18:18:39Z
+15,2026-11-21,,Edinburgh City,Kelty Hearts,SCO_20261121T1500_edinburgh-city_vs_kelty-hearts,tjHBn6Ei,2026-11-21T15:00:00Z,3,2.35,3.25,2.6,1.67,1.85,2026-11-19T18:18:39Z
+15,2026-11-21,,Clyde,Stirling,SCO_20261121T1500_clyde_vs_stirling,nTsSvfeo,2026-11-21T15:00:00Z,3,1.65,4.1,4.0,1.48,1.4,2026-11-19T18:18:39Z
+15,2026-11-21,,Annan,Forfar Athletic,SCO_20261121T1500_annan_vs_forfar-athletic,GpidpGXN,2026-11-21T15:00:00Z,3,1.91,3.3,3.5,1.8,1.8,2026-11-19T18:18:39Z

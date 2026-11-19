@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+35,2026-11-22,23:00,River Plate,Lanús,ARG_20261122T2200_river-plate_vs_lanus,0.4281,2.25,bet365,-0.0369,no
+35,2026-11-22,20:00,Rosario Central,Gimnasia (Mendoza),ARG_20261122T1900_rosario-central_vs_gimnasia-mendoza,0.4584,1.85,bet365,-0.1519,no
+35,2026-11-21,19:00,Defensa y Justicia,Barracas Central,ARG_20261121T1800_defensa-y-justicia_vs_barracas-central,0.2932,2.45,Betano,-0.2817,no
+35,2026-11-20,00:00,Vélez Sarsfield,Belgrano (Córdoba),ARG_20261120T2300_velez-sarsfield_vs_ca-belgrano-de-cordoba,0.2442,2.25,bet365,-0.4506,no
+35,2026-11-21,21:00,Argentinos Juniors,Independiente,ARG_20261121T2000_argentinos-jrs_vs_independiente,0.3038,2.50,bet365,-0.2406,no

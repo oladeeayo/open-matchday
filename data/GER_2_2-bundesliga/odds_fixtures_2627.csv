@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+12,2026-11-22,13:30,Karlsruher SC,VfL Osnabrück,GER_20261122T1230_karlsruher_vs_vfl-osnabruck,lny4Ok6e,2026-11-22T12:30:00Z,2,2.2,3.5,2.88,1.53,1.62,2026-11-19T18:18:39Z
+12,2026-11-22,13:30,1. FC Kaiserslautern,Dynamo Dresden,GER_20261122T1230_kaiserslautern_vs_dresden,08XQVXDL,2026-11-22T12:30:00Z,2,2.15,3.5,3.0,1.62,1.7,2026-11-19T18:18:39Z
+12,2026-11-21,20:30,FC St. Pauli,VfL Bochum,GER_20261121T1930_st-pauli_vs_bochum,hOwPBCMk,2026-11-21T19:30:00Z,3,2.05,3.5,3.2,1.57,1.67,2026-11-19T18:18:39Z
+12,2026-11-21,13:00,VfL Wolfsburg,Holstein Kiel,GER_20261121T1200_wolfsburg_vs_holstein-kiel,rkhgHYbS,2026-11-21T12:00:00Z,3,1.67,4.33,4.0,1.44,1.4,2026-11-19T18:18:39Z
+12,2026-11-21,13:00,1. FC Nürnberg,Eintracht Braunschweig,GER_20261121T1200_nurnberg_vs_braunschweig,GYxdQByq,2026-11-21T12:00:00Z,3,1.7,4.0,4.1,1.48,1.44,2026-11-19T18:18:39Z
+12,2026-11-21,13:00,Hannover 96,SpVgg Greuther Fürth,GER_20261121T1200_hannover_vs_greuther-furth,0lsX9ji2,2026-11-21T12:00:00Z,3,1.67,4.0,4.1,1.5,1.5,2026-11-19T18:18:39Z
+12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846,GER_20261120T1730_darmstadt_vs_heidenheim,hrUIXgq9,2026-11-20T17:30:00Z,3,3.4,3.75,1.95,1.5,1.53,2026-11-19T18:18:39Z
+12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg,GER_20261120T1730_arminia-bielefeld_vs_magdeburg,dCvCMTz8,2026-11-20T17:30:00Z,3,2.2,3.5,3.0,1.62,1.7,2026-11-19T18:18:39Z

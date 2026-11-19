@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+13,2026-11-23,20:45,FC Sochaux-Montbéliard,USL Dunkerque,FRA_20261123T1945_sochaux_vs_dunkerque,4fsx9ms9,2026-11-23T19:45:00Z,2,2.25,3.1,2.88,1.67,1.85,2026-11-19T18:18:39Z
+13,2026-11-21,20:00,Stade DE Reims,AS Saint-Étienne,FRA_20261121T1900_reims_vs_st-etienne,xlkjopk2,2026-11-21T19:00:00Z,3,3.2,3.4,2.05,1.73,1.9,2026-11-19T18:18:39Z
+13,2026-11-21,14:00,Stade Lavallois MFC,Montpellier Hérault SC,FRA_20261121T1300_laval_vs_montpellier,06dBY65d,2026-11-21T13:00:00Z,3,3.3,3.2,2.0,1.62,1.8,2026-11-19T18:18:39Z
+13,2026-11-20,20:00,Red Star FC,Pau FC,FRA_20261120T1900_red-star_vs_pau,4zirm6Kk,2026-11-20T19:00:00Z,3,2.0,3.4,3.3,1.67,1.85,2026-11-19T18:18:39Z
+13,2026-11-20,20:00,AS Nancy Lorraine,Dijon FCO,FRA_20261120T1900_nancy_vs_dijon,0Qn5flSF,2026-11-20T19:00:00Z,3,1.73,3.4,4.1,1.67,1.7,2026-11-19T18:18:39Z
+13,2026-11-20,20:00,FC Metz,US Boulogne CO,FRA_20261120T1900_metz_vs_boulogne,SClcdAc3,2026-11-20T19:00:00Z,3,2.05,3.1,3.3,1.78,1.9,2026-11-19T18:18:39Z
+13,2026-11-20,20:00,EN Avant Guingamp,Rodez Aveyron Football,FRA_20261120T1900_guingamp_vs_rodez,htg3zTzp,2026-11-20T19:00:00Z,3,2.0,3.3,3.25,1.53,1.65,2026-11-19T18:18:39Z
+13,2026-11-20,20:00,FC Annecy,Clermont Foot 63,FRA_20261120T1900_annecy_vs_clermont,dA7XukDM,2026-11-20T19:00:00Z,3,2.0,3.1,3.3,1.8,2.0,2026-11-19T18:18:39Z

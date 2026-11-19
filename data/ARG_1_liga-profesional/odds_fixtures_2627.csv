@@ -1,0 +1,9 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+36,2026-11-26,01:00,Boca Juniors,Independiente Rivadavia,ARG_20261126T0000_boca-juniors_vs_ind-rivadavia,MuVwK44b,2026-11-26T00:00:00Z,1,1.46,3.75,6.5,2.05,2.05,2026-11-19T18:18:39Z
+36,2026-11-23,02:00,Instituto (Córdoba),Huracán,ARG_20261123T0100_instituto_vs_huracan,YejDLHu3,2026-11-23T01:00:00Z,3,1.96,3.1,4.33,2.2,2.55,2026-11-19T18:18:39Z
+35,2026-11-22,23:00,River Plate,Lanús,ARG_20261122T2200_river-plate_vs_lanus,U5YoIrZA,2026-11-22T22:00:00Z,3,1.6,3.6,5.75,2.2,2.25,2026-11-19T18:18:39Z
+35,2026-11-22,20:00,Rosario Central,Gimnasia (Mendoza),ARG_20261122T1900_rosario-central_vs_gimnasia-mendoza,Yy0JazJq,2026-11-22T19:00:00Z,3,1.37,4.5,8.5,2.1,1.85,2026-11-19T18:18:39Z
+35,2026-11-21,19:00,Defensa y Justicia,Barracas Central,ARG_20261121T1800_defensa-y-justicia_vs_barracas-central,b3iM1NlU,2026-11-21T18:00:00Z,3,2.05,3.2,3.75,2.1,2.45,2026-11-19T18:18:39Z
+35,2026-11-20,00:00,Vélez Sarsfield,Belgrano (Córdoba),ARG_20261120T2300_velez-sarsfield_vs_ca-belgrano-de-cordoba,lSWVLQZo,2026-11-20T23:00:00Z,3,2.15,3.25,3.4,1.95,2.25,2026-11-19T18:18:39Z
+35,2026-11-21,21:00,Argentinos Juniors,Independiente,ARG_20261121T2000_argentinos-jrs_vs_independiente,6kbRcEmd,2026-11-21T20:00:00Z,3,1.96,3.1,4.33,2.1,2.5,2026-11-19T18:18:39Z
+36,2026-11-23,21:00,Gimnasia La Plata,Newell's Old Boys,ARG_20261123T2000_gimnasia-l-p_vs_newells-old-boys,tMgLJeAF,2026-11-23T20:00:00Z,3,2.05,3.25,3.75,1.95,2.25,2026-11-19T18:18:39Z
