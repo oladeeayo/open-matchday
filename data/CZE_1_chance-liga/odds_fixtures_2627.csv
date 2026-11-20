@@ -1,9 +1,10 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-15,2026-11-22,,Sparta Prague,Liberec,CZE_20261122T1700_sparta-prague_vs_liberec,AFO2Rqjd,2026-11-22T17:00:00Z,2,1.67,3.8,4.2,1.7,1.73,2026-11-19T18:18:39Z
-15,2026-11-22,,Slovacko,Hradec Kralove,CZE_20261122T1400_slovacko_vs_hradec-kralove,djD4o5sS,2026-11-22T14:00:00Z,2,2.55,3.25,2.5,1.73,1.85,2026-11-19T18:18:39Z
-15,2026-11-22,,FK Pardubice,Brno,CZE_20261122T1200_fk-pardubice_vs_brno,ShfU1QR8,2026-11-22T12:00:00Z,2,1.75,3.5,4.0,1.67,1.7,2026-11-19T18:18:39Z
-15,2026-11-21,,Bohemians,Plzen,CZE_20261121T1700_bohemians-1905_vs_plzen,2kLfT5Lq,2026-11-21T17:00:00Z,3,3.5,3.5,1.91,1.67,1.8,2026-11-19T18:18:39Z
-15,2026-11-21,,Sigma Olomouc,Slavia Prague,CZE_20261121T1400_sigma-olomouc_vs_slavia-prague,AZEdmRCF,2026-11-21T14:00:00Z,3,4.33,3.7,1.7,1.7,1.7,2026-11-19T18:18:39Z
-15,2026-11-21,,Ostrava,Teplice,CZE_20261121T1400_ostrava_vs_teplice,0n2rvNZ1,2026-11-21T14:00:00Z,3,2.05,3.6,3.0,1.62,1.73,2026-11-19T18:18:39Z
-15,2026-11-21,,Mlada Boleslav,Zlin,CZE_20261121T1400_mlada-boleslav_vs_zlin,SY3ztq5k,2026-11-21T14:00:00Z,3,1.5,4.1,5.5,1.8,1.65,2026-11-19T18:18:39Z
-15,2026-11-21,,Artis Brno,Jablonec,CZE_20261121T1400_artis-brno_vs_jablonec,ETjQksIP,2026-11-21T14:00:00Z,3,3.3,3.5,1.95,1.62,1.73,2026-11-19T18:18:39Z
+16,2026-11-27,,Artis Brno,Slovacko,CZE_20261127T1700_artis-brno_vs_slovacko,pCsdpLum,2026-11-27T17:00:00Z,0,,,,,,2026-11-20T06:33:31Z
+15,2026-11-22,,Sparta Prague,Liberec,CZE_20261122T1700_sparta-prague_vs_liberec,AFO2Rqjd,2026-11-22T17:00:00Z,2,1.7,3.7,4.33,1.7,1.73,2026-11-20T06:33:31Z
+15,2026-11-22,,Slovacko,Hradec Kralove,CZE_20261122T1400_slovacko_vs_hradec-kralove,djD4o5sS,2026-11-22T14:00:00Z,2,2.55,3.25,2.5,1.73,1.85,2026-11-20T06:33:31Z
+15,2026-11-22,,FK Pardubice,Brno,CZE_20261122T1200_fk-pardubice_vs_brno,ShfU1QR8,2026-11-22T12:00:00Z,2,1.75,3.5,4.0,1.67,1.7,2026-11-20T06:33:31Z
+15,2026-11-21,,Bohemians,Plzen,CZE_20261121T1700_bohemians-1905_vs_plzen,2kLfT5Lq,2026-11-21T17:00:00Z,3,3.5,3.6,1.9,1.7,1.75,2026-11-20T06:33:31Z
+15,2026-11-21,,Sigma Olomouc,Slavia Prague,CZE_20261121T1400_sigma-olomouc_vs_slavia-prague,AZEdmRCF,2026-11-21T14:00:00Z,3,4.33,3.7,1.7,1.7,1.7,2026-11-20T06:33:31Z
+15,2026-11-21,,Ostrava,Teplice,CZE_20261121T1400_ostrava_vs_teplice,0n2rvNZ1,2026-11-21T14:00:00Z,3,2.05,3.6,3.1,1.62,1.73,2026-11-20T06:33:31Z
+15,2026-11-21,,Mlada Boleslav,Zlin,CZE_20261121T1400_mlada-boleslav_vs_zlin,SY3ztq5k,2026-11-21T14:00:00Z,3,1.5,4.1,5.5,1.8,1.65,2026-11-20T06:33:31Z
+15,2026-11-21,,Artis Brno,Jablonec,CZE_20261121T1400_artis-brno_vs_jablonec,ETjQksIP,2026-11-21T14:00:00Z,3,3.3,3.5,1.95,1.62,1.73,2026-11-20T06:33:31Z

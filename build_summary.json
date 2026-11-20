@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-19T06:46:25Z",
+  "generated_utc": "2026-11-20T06:33:06Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -921,10 +921,10 @@
       "dropped_stale_postponed": 3,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 347,
-      "fixtures": 33,
+      "results": 350,
+      "fixtures": 30,
       "errors": [],
-      "latest": "2026-11-19"
+      "latest": "2026-11-20"
     },
     {
       "league": "Série B",
@@ -1005,10 +1005,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 545,
-      "fixtures": 20,
+      "results": 547,
+      "fixtures": 24,
       "errors": [],
-      "latest": "2026-11-08"
+      "latest": "2026-11-20"
     },
     {
       "league": "J1 League",

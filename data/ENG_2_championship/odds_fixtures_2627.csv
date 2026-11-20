@@ -1,25 +1,26 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-17,2026-11-25,21:00,Stoke City,Millwall,ENG_20261125T2000_stoke-city_vs_millwall,nsNKpnh3,2026-11-25T20:00:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-25,20:45,Watford,Blackburn Rovers,ENG_20261125T1945_watford_vs_blackburn,hvQSrQMF,2026-11-25T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-25,20:45,Burnley,Birmingham City,ENG_20261125T1945_burnley_vs_birmingham,KzVYMr0d,2026-11-25T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-25,20:45,Bolton Wanderers,West Bromwich Albion,ENG_20261125T1945_bolton_vs_west-brom,nNWQO4Vq,2026-11-25T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,21:00,Wolverhampton Wanderers,Derby County,ENG_20261124T2000_wolves_vs_derby,GvteUQ7M,2026-11-24T20:00:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Sheffield United,Southampton,ENG_20261124T1945_sheffield-utd_vs_southampton,UNsmWnwA,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Portsmouth,West Ham United,ENG_20261124T1945_portsmouth_vs_west-ham,dAquY88c,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Norwich City,Queens Park Rangers,ENG_20261124T1945_norwich_vs_qpr,U3igA5Gj,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Middlesbrough,Swansea City,ENG_20261124T1945_middlesbrough_vs_swansea,61Wc3Q0M,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Charlton Athletic,Lincoln City,ENG_20261124T1945_charlton_vs_lincoln-city,bL0NFRhT,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Cardiff City,Preston North End,ENG_20261124T1945_cardiff_vs_preston,04Tk5nW9,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-17,2026-11-24,20:45,Bristol City,Wrexham,ENG_20261124T1945_bristol-city_vs_wrexham,hvQs781c,2026-11-24T19:45:00Z,0,,,,,,2026-11-19T18:18:39Z
-16,2026-11-22,13:00,Burnley,Blackburn Rovers,ENG_20261122T1200_burnley_vs_blackburn,z33K8hun,2026-11-22T12:00:00Z,3,1.85,3.6,3.7,1.67,1.73,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Wolverhampton Wanderers,Charlton Athletic,ENG_20261121T1500_wolves_vs_charlton,Q72FHmOG,2026-11-21T15:00:00Z,3,1.33,5.5,8.0,1.95,1.62,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,West Ham United,Preston North End,ENG_20261121T1500_west-ham_vs_preston,Yap8J9g4,2026-11-21T15:00:00Z,3,1.17,6.5,12.0,1.85,1.36,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Swansea City,West Bromwich Albion,ENG_20261121T1500_swansea_vs_west-brom,0pwdq59j,2026-11-21T15:00:00Z,3,2.5,3.25,2.63,1.78,2.0,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Stoke City,Birmingham City,ENG_20261121T1500_stoke-city_vs_birmingham,QZt0LVOi,2026-11-21T15:00:00Z,3,2.88,3.3,2.45,1.83,2.1,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Sheffield United,Watford,ENG_20261121T1500_sheffield-utd_vs_watford,2c3r3l9N,2026-11-21T15:00:00Z,3,1.57,4.1,5.25,1.83,1.8,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Middlesbrough,Bristol City,ENG_20261121T1500_middlesbrough_vs_bristol-city,rT6S6W9b,2026-11-21T15:00:00Z,3,1.38,5.0,7.0,1.75,1.53,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Lincoln City,Wrexham,ENG_20261121T1500_lincoln-city_vs_wrexham,rolIjmHG,2026-11-21T15:00:00Z,3,2.7,3.2,2.45,1.8,2.1,2026-11-19T18:18:39Z
-16,2026-11-21,16:00,Bolton Wanderers,Portsmouth,ENG_20261121T1500_bolton_vs_portsmouth,ANn91yYI,2026-11-21T15:00:00Z,3,2.8,3.4,2.38,1.67,1.91,2026-11-19T18:18:39Z
-16,2026-11-21,13:30,Southampton,Derby County,ENG_20261121T1230_southampton_vs_derby,YufEcSWp,2026-11-21T12:30:00Z,3,1.38,5.0,7.5,1.8,1.53,2026-11-19T18:18:39Z
-16,2026-11-21,13:30,Norwich City,Cardiff City,ENG_20261121T1230_norwich_vs_cardiff,U1nQlRoT,2026-11-21T12:30:00Z,3,1.75,4.2,4.0,1.4,1.36,2026-11-19T18:18:39Z
-16,2026-11-21,13:30,Millwall,Queens Park Rangers,ENG_20261121T1230_millwall_vs_qpr,Gt5z5AvB,2026-11-21T12:30:00Z,3,2.5,3.5,2.5,1.62,1.73,2026-11-19T18:18:39Z
+18,2026-11-27,21:00,Southampton,Middlesbrough,ENG_20261127T2000_southampton_vs_middlesbrough,GbneZCkJ,2026-11-27T20:00:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-25,21:00,Stoke City,Millwall,ENG_20261125T2000_stoke-city_vs_millwall,nsNKpnh3,2026-11-25T20:00:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-25,20:45,Watford,Blackburn Rovers,ENG_20261125T1945_watford_vs_blackburn,hvQSrQMF,2026-11-25T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-25,20:45,Burnley,Birmingham City,ENG_20261125T1945_burnley_vs_birmingham,KzVYMr0d,2026-11-25T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-25,20:45,Bolton Wanderers,West Bromwich Albion,ENG_20261125T1945_bolton_vs_west-brom,nNWQO4Vq,2026-11-25T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,21:00,Wolverhampton Wanderers,Derby County,ENG_20261124T2000_wolves_vs_derby,GvteUQ7M,2026-11-24T20:00:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Sheffield United,Southampton,ENG_20261124T1945_sheffield-utd_vs_southampton,UNsmWnwA,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Portsmouth,West Ham United,ENG_20261124T1945_portsmouth_vs_west-ham,dAquY88c,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Norwich City,Queens Park Rangers,ENG_20261124T1945_norwich_vs_qpr,U3igA5Gj,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Middlesbrough,Swansea City,ENG_20261124T1945_middlesbrough_vs_swansea,61Wc3Q0M,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Charlton Athletic,Lincoln City,ENG_20261124T1945_charlton_vs_lincoln-city,bL0NFRhT,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Cardiff City,Preston North End,ENG_20261124T1945_cardiff_vs_preston,04Tk5nW9,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+17,2026-11-24,20:45,Bristol City,Wrexham,ENG_20261124T1945_bristol-city_vs_wrexham,hvQs781c,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
+16,2026-11-22,13:00,Burnley,Blackburn Rovers,ENG_20261122T1200_burnley_vs_blackburn,z33K8hun,2026-11-22T12:00:00Z,3,1.85,3.8,3.75,1.67,1.73,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Wolverhampton Wanderers,Charlton Athletic,ENG_20261121T1500_wolves_vs_charlton,Q72FHmOG,2026-11-21T15:00:00Z,3,1.33,5.5,8.0,1.95,1.62,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,West Ham United,Preston North End,ENG_20261121T1500_west-ham_vs_preston,Yap8J9g4,2026-11-21T15:00:00Z,3,1.2,7.0,11.0,1.85,1.36,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Swansea City,West Bromwich Albion,ENG_20261121T1500_swansea_vs_west-brom,0pwdq59j,2026-11-21T15:00:00Z,3,2.6,3.3,2.7,1.78,2.0,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Stoke City,Birmingham City,ENG_20261121T1500_stoke-city_vs_birmingham,QZt0LVOi,2026-11-21T15:00:00Z,3,2.8,3.2,2.38,1.83,2.1,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Sheffield United,Watford,ENG_20261121T1500_sheffield-utd_vs_watford,2c3r3l9N,2026-11-21T15:00:00Z,3,1.53,3.9,5.5,1.83,1.8,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Middlesbrough,Bristol City,ENG_20261121T1500_middlesbrough_vs_bristol-city,rT6S6W9b,2026-11-21T15:00:00Z,3,1.36,4.8,7.0,1.75,1.53,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Lincoln City,Wrexham,ENG_20261121T1500_lincoln-city_vs_wrexham,rolIjmHG,2026-11-21T15:00:00Z,3,2.7,3.2,2.45,1.8,2.1,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Bolton Wanderers,Portsmouth,ENG_20261121T1500_bolton_vs_portsmouth,ANn91yYI,2026-11-21T15:00:00Z,3,2.75,3.4,2.45,1.67,1.91,2026-11-20T06:33:31Z
+16,2026-11-21,13:30,Southampton,Derby County,ENG_20261121T1230_southampton_vs_derby,YufEcSWp,2026-11-21T12:30:00Z,3,1.36,4.75,7.0,1.8,1.53,2026-11-20T06:33:31Z
+16,2026-11-21,13:30,Norwich City,Cardiff City,ENG_20261121T1230_norwich_vs_cardiff,U1nQlRoT,2026-11-21T12:30:00Z,3,1.75,4.2,4.0,1.38,1.36,2026-11-20T06:33:31Z
+16,2026-11-21,13:30,Millwall,Queens Park Rangers,ENG_20261121T1230_millwall_vs_qpr,Gt5z5AvB,2026-11-21T12:30:00Z,3,2.5,3.4,2.55,1.62,1.73,2026-11-20T06:33:31Z

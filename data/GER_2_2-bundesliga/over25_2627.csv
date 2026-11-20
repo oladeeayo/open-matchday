@@ -5,5 +5,5 @@ gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 12,2026-11-21,13:00,VfL Wolfsburg,Holstein Kiel,GER_20261121T1200_wolfsburg_vs_holstein-kiel,0.5380,1.40,bet365,-0.2468,no
 12,2026-11-21,13:00,1. FC Nürnberg,Eintracht Braunschweig,GER_20261121T1200_nurnberg_vs_braunschweig,0.6843,1.44,bet365,-0.0145,yes
 12,2026-11-21,13:00,Hannover 96,SpVgg Greuther Fürth,GER_20261121T1200_hannover_vs_greuther-furth,0.5660,1.50,bet365,-0.1510,no
-12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846,GER_20261120T1730_darmstadt_vs_heidenheim,0.5282,1.53,bet365,-0.1918,no
-12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg,GER_20261120T1730_arminia-bielefeld_vs_magdeburg,0.5629,1.70,bet365,-0.0431,no
+12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846,GER_20261120T1730_darmstadt_vs_heidenheim,0.5282,1.50,Betano,-0.2077,no
+12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg,GER_20261120T1730_arminia-bielefeld_vs_magdeburg,0.5629,1.75,bet365,-0.0149,no

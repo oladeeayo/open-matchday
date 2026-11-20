@@ -1,13 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-15,2026-11-21,18:30,Yeovil Town,Forest Green Rovers,ENG_20261121T1730_yeovil_vs_forest-green,0.6561,1.57,bet365,+0.0300,yes
+15,2026-11-21,18:30,Yeovil Town,Forest Green Rovers,ENG_20261121T1730_yeovil_vs_forest-green,0.6561,1.53,bet365,+0.0038,yes
 15,2026-11-21,16:00,Worthing,Harrogate Town,ENG_20261121T1500_worthing-fc_vs_harrogate,0.6258,1.53,bet365,-0.0425,yes
-15,2026-11-21,16:00,Wealdstone,AFC Hornchurch,ENG_20261121T1500_wealdstone_vs_hornchurch,0.6867,1.70,bet365,+0.1674,yes
+15,2026-11-21,16:00,Wealdstone,AFC Hornchurch,ENG_20261121T1500_wealdstone_vs_hornchurch,0.6867,1.67,bet365,+0.1468,yes
 15,2026-11-21,16:00,Sutton United,Boston United,ENG_20261121T1500_sutton_vs_boston-united,0.5704,1.80,bet365,+0.0267,no
-15,2026-11-21,16:00,Kidderminster Harriers,AFC Fylde,ENG_20261121T1500_kidderminster_vs_afc-fylde,0.4285,1.62,bet365,-0.3058,no
+15,2026-11-21,16:00,Kidderminster Harriers,AFC Fylde,ENG_20261121T1500_kidderminster_vs_afc-fylde,0.4285,1.60,bet365,-0.3143,no
 15,2026-11-21,16:00,Gateshead,Hartlepool United,ENG_20261121T1500_gateshead_vs_hartlepool,0.5791,1.73,bet365,+0.0018,no
 15,2026-11-21,16:00,FC Halifax Town,Woking,ENG_20261121T1500_halifax_vs_woking,0.5656,1.70,bet365,-0.0385,no
 15,2026-11-21,16:00,Barrow,Carlisle United,ENG_20261121T1500_barrow_vs_carlisle,0.4681,1.65,bet365,-0.2276,no
 15,2026-11-21,16:00,Aldershot Town,Scunthorpe United,ENG_20261121T1500_aldershot_vs_scunthorpe,0.5156,1.57,bet365,-0.1905,no
-15,2026-11-21,13:30,Tamworth,Eastleigh,ENG_20261121T1230_tamworth_vs_eastleigh,0.5106,1.57,bet365,-0.1984,no
+15,2026-11-21,13:30,Tamworth,Eastleigh,ENG_20261121T1230_tamworth_vs_eastleigh,0.5106,1.57,Betano,-0.1984,no
 15,2026-11-21,13:30,Solihull Moors,Altrincham,ENG_20261121T1230_solihull-moors_vs_altrincham,0.4785,1.57,Betano,-0.2488,no
 15,2026-11-20,20:45,Southend United,Boreham Wood,ENG_20261120T1945_southend_vs_boreham-wood,0.6890,1.36,bet365,-0.0630,yes
