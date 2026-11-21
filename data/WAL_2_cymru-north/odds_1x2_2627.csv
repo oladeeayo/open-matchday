@@ -1,5 +1,5 @@
 match_id,event_id,bookmaker,home,draw,away,home_open,draw_open,away_open
-WAL_20261121T1400_penrhyncoch_vs_rhyl,K0EyhiLb,Betway,4.5,4.33,1.57,4.33,4.2,1.55
-WAL_20261121T1400_guilsfield_vs_bangor-1876,jqP4wh65,Betway,2.4,3.8,2.3,2.38,3.8,2.3
-WAL_20261121T1400_caersws-fc_vs_denbigh,zgIlsz7t,Betway,2.0,3.8,2.9,2.0,3.8,2.88
-WAL_20261121T1400_brickfield-rangers_vs_newtown,KtruNWLO,Betway,2.5,3.8,2.3,2.4,3.8,2.3
+WAL_20261121T1400_penrhyncoch_vs_rhyl,K0EyhiLb,Betway,4.33,4.2,1.57,4.33,4.2,1.55
+WAL_20261121T1400_guilsfield_vs_bangor-1876,jqP4wh65,Betway,2.4,4.0,2.25,2.38,3.8,2.3
+WAL_20261121T1400_caersws-fc_vs_denbigh,zgIlsz7t,Betway,1.95,4.0,2.9,2.0,3.8,2.88
+WAL_20261121T1400_brickfield-rangers_vs_newtown,KtruNWLO,Betway,2.4,3.75,2.3,2.4,3.8,2.3

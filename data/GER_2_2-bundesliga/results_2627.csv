@@ -98,3 +98,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-11-08,12:30,1. FC Heidenheim 1846,Hannover 96,2,2,D,1,0,H,14,15,3,5,6,8,7,9,,,,,0,2,0,0,"43,55,63,66",openligadb
 11,2026-11-08,12:30,1. FC Magdeburg,FC St. Pauli,4,1,H,1,0,H,11,12,6,3,10,17,3,7,,,,,2,4,0,1,"27,48,58,89,91",openligadb
 11,2026-11-08,12:30,VfL Bochum,Karlsruher SC,3,2,H,1,1,D,27,14,10,4,11,11,4,1,,,,,1,1,0,0,"6,8,50,53,92",openligadb
+12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg,1,2,A,0,2,A,,,,,,,,,,,,,,,,,"12,46,62",openligadb
+12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846,3,1,H,2,1,H,,,,,,,,,,,,,,,,,"5,22,27,62",openligadb

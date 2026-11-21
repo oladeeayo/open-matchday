@@ -1,7 +1,11 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-15,2026-11-22,,Dun. Streda,Komarno,SVK_20261122T1700_dun-streda_vs_komarno,xjCid7Va,2026-11-22T17:00:00Z,2,1.4,4.6,6.0,1.67,1.45,2026-11-20T06:33:31Z
-15,2026-11-22,,Kosice,Skalica,SVK_20261122T1430_fc-kosice_vs_skalica,vwiPA6pg,2026-11-22T14:30:00Z,2,1.62,4.0,4.33,1.57,1.5,2026-11-20T06:33:31Z
-15,2026-11-21,,Michalovce,Trnava,SVK_20261121T1700_michalovce_vs_spartak-trnava,A3Aafo0C,2026-11-21T17:00:00Z,2,3.6,3.8,1.8,1.5,1.53,2026-11-20T06:33:31Z
-15,2026-11-21,,Zilina,Banska Bystrica,SVK_20261121T1430_zilina_vs_banska-bystrica,ITD7hPUO,2026-11-21T14:30:00Z,2,1.45,4.6,5.25,1.45,1.33,2026-11-20T06:33:31Z
-15,2026-11-21,,Trencin,Podbrezova,SVK_20261121T1430_trencin_vs_podbrezova,6PhHCSFt,2026-11-21T14:30:00Z,2,2.8,3.8,2.1,1.44,1.48,2026-11-20T06:33:31Z
-15,2026-11-21,,Ruzomberok,Slovan Bratislava,SVK_20261121T1430_ruzomberok_vs_slovan-bratislava,UP8qbT0m,2026-11-21T14:30:00Z,2,4.5,4.0,1.62,1.57,1.5,2026-11-20T06:33:31Z
+16,2026-11-28,,Slovan Bratislava,Kosice,SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,fTcu7OqI,2026-11-28T17:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+16,2026-11-28,,Podbrezova,Dun. Streda,SVK_20261128T1430_podbrezova_vs_dun-streda,n3fX8pF5,2026-11-28T14:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+16,2026-11-28,,Komarno,Zilina,SVK_20261128T1430_komarno_vs_zilina,ddWdP5an,2026-11-28T14:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+16,2026-11-28,,Banska Bystrica,Ruzomberok,SVK_20261128T1430_banska-bystrica_vs_ruzomberok,xzYCLNbB,2026-11-28T14:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-22,,Dun. Streda,Komarno,SVK_20261122T1700_dun-streda_vs_komarno,xjCid7Va,2026-11-22T17:00:00Z,2,1.4,4.6,6.0,1.67,1.45,2026-11-21T06:23:25Z
+15,2026-11-22,,Kosice,Skalica,SVK_20261122T1430_fc-kosice_vs_skalica,vwiPA6pg,2026-11-22T14:30:00Z,2,1.53,4.2,4.75,1.62,1.5,2026-11-21T06:23:25Z
+15,2026-11-21,,Michalovce,Trnava,SVK_20261121T1700_michalovce_vs_spartak-trnava,A3Aafo0C,2026-11-21T17:00:00Z,2,3.6,3.8,1.8,1.5,1.53,2026-11-21T06:23:25Z
+15,2026-11-21,,Zilina,Banska Bystrica,SVK_20261121T1430_zilina_vs_banska-bystrica,ITD7hPUO,2026-11-21T14:30:00Z,2,1.36,5.0,6.5,1.5,1.3,2026-11-21T06:23:25Z
+15,2026-11-21,,Trencin,Podbrezova,SVK_20261121T1430_trencin_vs_podbrezova,6PhHCSFt,2026-11-21T14:30:00Z,2,2.9,3.7,2.1,1.44,1.5,2026-11-21T06:23:25Z
+15,2026-11-21,,Ruzomberok,Slovan Bratislava,SVK_20261121T1430_ruzomberok_vs_slovan-bratislava,UP8qbT0m,2026-11-21T14:30:00Z,2,4.8,4.1,1.55,1.62,1.53,2026-11-21T06:23:25Z

@@ -1,10 +1,13 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-15,2026-11-27,19:00,Hansa Rostock,TSV Havelse,GER_20261127T1800_hansa-rostock_vs_tsv-havelse,Ac5w9bx8,2026-11-27T18:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-14,2026-11-22,19:30,MSV Duisburg,Hansa Rostock,GER_20261122T1830_duisburg_vs_hansa-rostock,rico2jPN,2026-11-22T18:30:00Z,3,2.1,3.5,2.75,1.55,1.6,2026-11-20T06:33:31Z
-14,2026-11-22,16:30,1. FC Saarbrücken,SV Wehen Wiesbaden,GER_20261122T1530_saarbrucken_vs_wehen,0AxJGkvH,2026-11-22T15:30:00Z,3,2.2,3.5,2.6,1.5,1.57,2026-11-20T06:33:31Z
-14,2026-11-22,13:30,VfB Stuttgart II,FC Ingolstadt 04,GER_20261122T1230_vfb-stuttgart_vs_ingolstadt,EgvBIB94,2026-11-22T12:30:00Z,3,2.7,3.6,2.1,1.44,1.48,2026-11-20T06:33:31Z
-14,2026-11-21,16:30,Alemannia Aachen,SV Waldhof Mannheim,GER_20261121T1530_alemannia-aachen_vs_mannheim,EZmHdUno,2026-11-21T15:30:00Z,3,1.9,3.25,2.75,1.5,1.53,2026-11-20T06:33:31Z
-14,2026-11-21,14:00,Jahn Regensburg,Würzburger Kickers,GER_20261121T1300_regensburg_vs_wurzburger-kickers,ttt3KXvh,2026-11-21T13:00:00Z,3,1.65,3.7,4.1,1.57,1.57,2026-11-20T06:33:31Z
-14,2026-11-21,14:00,Fortuna Köln,SV Meppen,GER_20261121T1300_fortuna-koln_vs_meppen,6TfpKOp9,2026-11-21T13:00:00Z,3,2.2,3.1,2.38,1.57,1.67,2026-11-20T06:33:31Z
-14,2026-11-20,19:00,TSV Havelse,Viktoria Köln,GER_20261120T1800_tsv-havelse_vs_fc-viktoria-koln,vN2bdLh2,2026-11-20T18:00:00Z,3,5.0,4.5,1.44,1.5,1.36,2026-11-20T06:33:31Z
-14,2026-11-21,14:00,TSG 1899 Hoffenheim II,Preußen Münster,GER_20261121T1300_hoffenheim_vs_preussen-munster,694jbsOk,2026-11-21T13:00:00Z,3,1.8,3.3,2.9,1.53,1.53,2026-11-20T06:33:31Z
+15,2026-11-28,14:00,Würzburger Kickers,Fortuna Düsseldorf,GER_20261128T1300_wurzburger-kickers_vs_dusseldorf,byDiI2FL,2026-11-28T13:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,14:00,1. FC Saarbrücken,Alemannia Aachen,GER_20261128T1300_saarbrucken_vs_alemannia-aachen,2cVG5pmD,2026-11-28T13:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,14:00,SV Waldhof Mannheim,VfB Stuttgart II,GER_20261128T1300_mannheim_vs_vfb-stuttgart,jywVElQQ,2026-11-28T13:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-27,19:00,Hansa Rostock,TSV Havelse,GER_20261127T1800_hansa-rostock_vs_tsv-havelse,Ac5w9bx8,2026-11-27T18:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+14,2026-11-22,19:30,MSV Duisburg,Hansa Rostock,GER_20261122T1830_duisburg_vs_hansa-rostock,rico2jPN,2026-11-22T18:30:00Z,3,2.15,3.5,3.0,1.55,1.62,2026-11-21T06:23:25Z
+14,2026-11-22,16:30,1. FC Saarbrücken,SV Wehen Wiesbaden,GER_20261122T1530_saarbrucken_vs_wehen,0AxJGkvH,2026-11-22T15:30:00Z,3,2.45,3.5,2.38,1.5,1.57,2026-11-21T06:23:25Z
+14,2026-11-22,13:30,VfB Stuttgart II,FC Ingolstadt 04,GER_20261122T1230_vfb-stuttgart_vs_ingolstadt,EgvBIB94,2026-11-22T12:30:00Z,3,2.7,3.6,2.1,1.44,1.48,2026-11-21T06:23:25Z
+14,2026-11-21,16:30,Alemannia Aachen,SV Waldhof Mannheim,GER_20261121T1530_alemannia-aachen_vs_mannheim,EZmHdUno,2026-11-21T15:30:00Z,3,2.05,3.6,2.88,1.44,1.5,2026-11-21T06:23:25Z
+14,2026-11-21,14:00,Jahn Regensburg,Würzburger Kickers,GER_20261121T1300_regensburg_vs_wurzburger-kickers,ttt3KXvh,2026-11-21T13:00:00Z,3,1.67,4.0,4.0,1.57,1.57,2026-11-21T06:23:25Z
+14,2026-11-21,14:00,Fortuna Köln,SV Meppen,GER_20261121T1300_fortuna-koln_vs_meppen,6TfpKOp9,2026-11-21T13:00:00Z,3,2.38,3.4,2.5,1.57,1.67,2026-11-21T06:23:25Z
+15,2026-11-28,14:00,Preußen Münster,SC Verl,GER_20261128T1300_preussen-munster_vs_verl,f7bNCtwq,2026-11-28T13:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+14,2026-11-21,14:00,TSG 1899 Hoffenheim II,Preußen Münster,GER_20261121T1300_hoffenheim_vs_preussen-munster,694jbsOk,2026-11-21T13:00:00Z,3,1.83,4.0,3.5,1.5,1.5,2026-11-21T06:23:25Z

@@ -1,8 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,0.4752,,,,no
+10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,0.4752,1.95,Betway,-0.0734,no
 10,2026-11-22,,Apollon,Omonia 29th May,CYP_20261122T1700_apollon-limassol_vs_omonia-29th-may,0.7929,1.33,Betway,+0.0545,yes
-10,2026-11-22,,Karmiotissa,AEL Limassol,CYP_20261122T1500_karmiotissa_vs_ael-limassol,0.5134,1.62,Betway,-0.1682,no
+10,2026-11-22,,Karmiotissa,AEL Limassol,CYP_20261122T1500_karmiotissa_vs_ael-limassol,0.5134,1.60,Betway,-0.1785,no
 10,2026-11-22,,Ol. Nicosia,AEK Larnaca,CYP_20261122T1300_ol-nicosia_vs_aek-larnaca,0.6643,1.67,Betway,+0.1094,yes
-10,2026-11-21,,Aris,Nea Salamis,CYP_20261121T1700_aris-limassol_vs_nea-salamis,0.6197,1.65,Betway,+0.0224,yes
-10,2026-11-21,,Omonia,APOEL,CYP_20261121T1500_omonia_vs_apoel,0.4505,1.73,Betway,-0.2207,no
-10,2026-11-21,,Omonia Aradippou,Pafos,CYP_20261121T1400_omonia-aradippou_vs_pafos,0.4645,1.60,Betway,-0.2568,no
+10,2026-11-21,,Aris,Nea Salamis,CYP_20261121T1700_aris-limassol_vs_nea-salamis,0.6197,1.70,Betano,+0.0534,yes
+10,2026-11-21,,Omonia,APOEL,CYP_20261121T1500_omonia_vs_apoel,0.4505,1.83,Betano,-0.1756,no
+10,2026-11-21,,Omonia Aradippou,Pafos,CYP_20261121T1400_omonia-aradippou_vs_pafos,0.4645,1.67,Betway,-0.2243,no

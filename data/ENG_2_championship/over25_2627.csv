@@ -1,13 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-22,13:00,Burnley,Blackburn Rovers,ENG_20261122T1200_burnley_vs_blackburn,0.5083,1.73,Betano,-0.1207,no
+16,2026-11-22,13:00,Burnley,Blackburn Rovers,ENG_20261122T1200_burnley_vs_blackburn,0.5083,1.73,bet365,-0.1207,no
 16,2026-11-21,16:00,Wolverhampton Wanderers,Charlton Athletic,ENG_20261121T1500_wolves_vs_charlton,0.5848,1.62,bet365,-0.0526,no
-16,2026-11-21,16:00,West Ham United,Preston North End,ENG_20261121T1500_west-ham_vs_preston,0.7083,1.36,bet365,-0.0367,yes
+16,2026-11-21,16:00,West Ham United,Preston North End,ENG_20261121T1500_west-ham_vs_preston,0.7083,1.44,bet365,+0.0200,yes
 16,2026-11-21,16:00,Swansea City,West Bromwich Albion,ENG_20261121T1500_swansea_vs_west-brom,0.3446,2.00,bet365,-0.3108,no
-16,2026-11-21,16:00,Stoke City,Birmingham City,ENG_20261121T1500_stoke-city_vs_birmingham,0.3731,2.10,bet365,-0.2165,no
+16,2026-11-21,16:00,Stoke City,Birmingham City,ENG_20261121T1500_stoke-city_vs_birmingham,0.3731,2.20,bet365,-0.1792,no
 16,2026-11-21,16:00,Sheffield United,Watford,ENG_20261121T1500_sheffield-utd_vs_watford,0.4097,1.80,bet365,-0.2625,no
 16,2026-11-21,16:00,Middlesbrough,Bristol City,ENG_20261121T1500_middlesbrough_vs_bristol-city,0.6706,1.53,bet365,+0.0260,yes
-16,2026-11-21,16:00,Lincoln City,Wrexham,ENG_20261121T1500_lincoln-city_vs_wrexham,0.4968,2.10,bet365,+0.0432,no
+16,2026-11-21,16:00,Lincoln City,Wrexham,ENG_20261121T1500_lincoln-city_vs_wrexham,0.4968,2.20,bet365,+0.0929,no
 16,2026-11-21,16:00,Bolton Wanderers,Portsmouth,ENG_20261121T1500_bolton_vs_portsmouth,0.4158,1.91,bet365,-0.2059,no
 16,2026-11-21,13:30,Southampton,Derby County,ENG_20261121T1230_southampton_vs_derby,0.6673,1.53,bet365,+0.0210,yes
 16,2026-11-21,13:30,Norwich City,Cardiff City,ENG_20261121T1230_norwich_vs_cardiff,0.6149,1.36,bet365,-0.1637,yes
-16,2026-11-21,13:30,Millwall,Queens Park Rangers,ENG_20261121T1230_millwall_vs_qpr,0.5898,1.73,Betano,+0.0204,no
+16,2026-11-21,13:30,Millwall,Queens Park Rangers,ENG_20261121T1230_millwall_vs_qpr,0.5898,1.73,bet365,+0.0204,no

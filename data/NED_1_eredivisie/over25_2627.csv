@@ -1,10 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-13,2026-11-22,14:30,Sparta Rotterdam,AZ,NED_20261122T1330_sparta-rotterdam_vs_az-alkmaar,0.6692,1.44,bet365,-0.0363,yes
+13,2026-11-22,14:30,Sparta Rotterdam,AZ,NED_20261122T1330_sparta-rotterdam_vs_az-alkmaar,0.6692,1.48,bet365,-0.0095,yes
 13,2026-11-22,14:30,Ajax,ADO Den Haag,NED_20261122T1330_ajax_vs_den-haag,0.6076,1.29,bet365,-0.2162,yes
 13,2026-11-22,12:15,FC Twente,Willem II,NED_20261122T1115_twente_vs_willem-ii,0.7754,1.22,bet365,-0.0540,yes
-13,2026-11-21,21:00,Telstar,PEC Zwolle,NED_20261121T2000_telstar_vs_zwolle,0.7136,1.67,bet365,+0.1917,yes
-13,2026-11-21,21:00,FC Groningen,sc Heerenveen,NED_20261121T2000_groningen_vs_heerenveen,0.7781,1.40,bet365,+0.0893,yes
-13,2026-11-21,18:45,FC Utrecht,SC Cambuur,NED_20261121T1745_utrecht_vs_cambuur,0.7892,1.40,bet365,+0.1049,yes
+13,2026-11-21,21:00,Telstar,PEC Zwolle,NED_20261121T2000_telstar_vs_zwolle,0.7136,1.53,Betano,+0.0918,yes
+13,2026-11-21,21:00,FC Groningen,sc Heerenveen,NED_20261121T2000_groningen_vs_heerenveen,0.7781,1.48,bet365,+0.1515,yes
+13,2026-11-21,18:45,FC Utrecht,SC Cambuur,NED_20261121T1745_utrecht_vs_cambuur,0.7892,1.44,bet365,+0.1365,yes
 13,2026-11-21,18:45,Feyenoord,Excelsior Rotterdam,NED_20261121T1745_feyenoord_vs_excelsior,0.6373,1.33,bet365,-0.1524,yes
 13,2026-11-21,16:30,N.E.C. Nijmegen,PSV,NED_20261121T1530_nijmegen_vs_psv,0.7803,1.29,bet365,+0.0066,yes
 13,2026-11-22,16:45,Go Ahead Eagles,Fortuna Sittard,NED_20261122T1545_g-a-eagles_vs_sittard,0.7441,1.48,bet365,+0.1013,yes

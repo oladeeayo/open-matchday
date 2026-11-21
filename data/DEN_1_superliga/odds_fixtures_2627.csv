@@ -1,8 +1,7 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-27,,Sonderjyske,Brondby,DEN_20261127T1800_sonderjyske_vs_brondby,AZhAfIdM,2026-11-27T18:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-15,2026-11-23,,Brondby,Midtjylland,DEN_20261123T1800_brondby_vs_midtjylland,xMzLdmMh,2026-11-23T18:00:00Z,3,2.4,4.0,2.4,1.5,1.53,2026-11-20T06:33:31Z
-15,2026-11-22,,Nordsjaelland,FC Copenhagen,DEN_20261122T1700_nordsjaelland_vs_fc-copenhagen,Ob48zc5j,2026-11-22T17:00:00Z,3,2.5,3.75,2.4,1.62,1.73,2026-11-20T06:33:31Z
-15,2026-11-22,,Sonderjyske,Odense,DEN_20261122T1500_sonderjyske_vs_odense,pEIDb9it,2026-11-22T15:00:00Z,3,2.75,3.8,2.2,1.55,1.57,2026-11-20T06:33:31Z
-15,2026-11-22,,Viborg,Randers FC,DEN_20261122T1300_viborg_vs_randers-fc,AZYSfRj5,2026-11-22T13:00:00Z,3,1.53,4.33,5.0,1.57,1.5,2026-11-20T06:33:31Z
-15,2026-11-22,,Horsens,Silkeborg,DEN_20261122T1300_horsens_vs_silkeborg,Ghifb0cc,2026-11-22T13:00:00Z,3,2.2,3.4,2.88,1.67,1.73,2026-11-20T06:33:31Z
-15,2026-11-20,,Aarhus,Lyngby,DEN_20261120T1800_aarhus_vs_lyngby,Iaxyg5LH,2026-11-20T18:00:00Z,3,1.7,3.8,4.0,1.57,1.57,2026-11-20T06:33:31Z
+16,2026-11-27,,Sonderjyske,Brondby,DEN_20261127T1800_sonderjyske_vs_brondby,AZhAfIdM,2026-11-27T18:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-23,,Brondby,Midtjylland,DEN_20261123T1800_brondby_vs_midtjylland,xMzLdmMh,2026-11-23T18:00:00Z,3,2.35,4.0,2.45,1.5,1.53,2026-11-21T06:23:25Z
+15,2026-11-22,,Nordsjaelland,FC Copenhagen,DEN_20261122T1700_nordsjaelland_vs_fc-copenhagen,Ob48zc5j,2026-11-22T17:00:00Z,3,2.5,3.4,2.5,1.62,1.7,2026-11-21T06:23:25Z
+15,2026-11-22,,Sonderjyske,Odense,DEN_20261122T1500_sonderjyske_vs_odense,pEIDb9it,2026-11-22T15:00:00Z,3,2.8,3.9,2.15,1.55,1.57,2026-11-21T06:23:25Z
+15,2026-11-22,,Viborg,Randers FC,DEN_20261122T1300_viborg_vs_randers-fc,AZYSfRj5,2026-11-22T13:00:00Z,3,1.53,4.2,4.8,1.57,1.5,2026-11-21T06:23:25Z
+15,2026-11-22,,Horsens,Silkeborg,DEN_20261122T1300_horsens_vs_silkeborg,Ghifb0cc,2026-11-22T13:00:00Z,3,2.15,3.8,2.8,1.62,1.73,2026-11-21T06:23:25Z

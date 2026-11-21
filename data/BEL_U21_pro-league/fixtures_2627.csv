@@ -1,9 +1,4 @@
 gw,date,time,home,away
-10,2026-11-20,,Beerschot VA U21,Francs Borains U21
-21,2026-11-20,,Beveren U21,K. Lierse S.K. U21
-10,2026-11-20,,RAAL La Louviere U21,Kortrijk U21
-10,2026-11-20,,RFC Liege U21,Westerlo U21
-10,2026-11-20,,Seraing U21,Daring Brussels U21
 11,2026-11-27,,Beveren U21,Sp. Hasselt U21
 11,2026-11-27,,Daring Brussels U21,RAAL La Louviere U21
 11,2026-11-27,,Kortrijk U21,Seraing U21
@@ -25,6 +20,7 @@ gw,date,time,home,away
 12,2027-02-05,,Kortrijk U21,Sp. Hasselt U21
 8,2027-02-05,,RFC Liege U21,Daring Brussels U21
 13,2027-02-12,,Beerschot VA U21,Kortrijk U21
+10,2027-02-12,,RFC Liege U21,Westerlo U21
 15,2027-02-19,,Beerschot VA U21,Seraing U21
 15,2027-02-19,,Francs Borains U21,Beveren U21
 15,2027-02-19,,K. Lierse S.K. U21,Kortrijk U21

@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -295,3 +295,10 @@ gw,date,home,away,minute,score_home,score_away,scorer
 11,2026-11-08,VfL Bochum,Karlsruher SC,50,1,2,T. Civeja
 11,2026-11-08,VfL Bochum,Karlsruher SC,53,2,2,P. Hofmann
 11,2026-11-08,VfL Bochum,Karlsruher SC,92,3,2,P. Hofmann
+12,2026-11-20,DSC Arminia Bielefeld,1. FC Magdeburg,12,0,1,Felipe Chávez
+12,2026-11-20,DSC Arminia Bielefeld,1. FC Magdeburg,46,0,2,E. Iyoha
+12,2026-11-20,DSC Arminia Bielefeld,1. FC Magdeburg,62,1,2,Henri Koudossou
+12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,5,0,1,B. Zivzivadze
+12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,22,1,1,L.Kehl
+12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,27,2,1,A. Vukotic
+12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,62,3,1,L.Kehl

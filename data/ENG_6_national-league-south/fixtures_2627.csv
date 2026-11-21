@@ -16,7 +16,6 @@ gw,date,time,home,away
 18,2026-11-24,,Ebbsfleet,Billericay
 18,2026-11-24,,Farnham,Maidenhead
 18,2026-11-24,,Hampton & Richmond,Dover
-18,2026-11-24,,Hemel Hempstead,Braintree
 18,2026-11-24,,Horsham FC,Truro
 18,2026-11-24,,Salisbury,AFC Totton
 18,2026-11-24,,Slough,Farnborough
@@ -45,7 +44,6 @@ gw,date,time,home,away
 20,2026-12-05,,Tonbridge,Dorking
 20,2026-12-05,,Walton & Hersham,Billericay
 21,2026-12-07,,Chelmsford,Hemel Hempstead
-21,2026-12-08,,AFC Totton,Farnham
 21,2026-12-08,,Chesham,Weston-super-Mare
 21,2026-12-08,,Dag & Red,Dorking
 21,2026-12-08,,Dover,Billericay
@@ -55,8 +53,10 @@ gw,date,time,home,away
 21,2026-12-08,,Maidenhead,Truro
 21,2026-12-08,,Tonbridge,Braintree
 21,2026-12-08,,Walton & Hersham,Folkestone
+21,2026-12-12,,AFC Totton,Farnham
 21,2026-12-12,,Farnborough,Maidstone
 18,2026-12-12,,Folkestone,Dorking
+18,2026-12-12,,Hemel Hempstead,Braintree
 16,2026-12-15,,Salisbury,Dorking
 16,2026-12-15,,Torquay,Dover
 13,2026-12-15,,Weston-super-Mare,Billericay

@@ -1,10 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-10,2026-11-22,17:30,SV Werder Bremen,Hamburger SV,GER_20261122T1630_werder-bremen_vs_hamburger,0.6894,1.53,bet365,+0.0548,yes
-10,2026-11-22,15:30,FC Augsburg,1. FSV Mainz 05,GER_20261122T1430_augsburg_vs_mainz,0.7189,1.40,bet365,+0.0064,yes
-10,2026-11-21,18:30,FC Schalke 04,VfB Stuttgart,GER_20261121T1730_schalke_vs_vfb-stuttgart,0.3735,1.44,bet365,-0.4622,no
-10,2026-11-21,15:30,1. FC Union Berlin,RB Leipzig,GER_20261121T1430_union-berlin_vs_rb-leipzig,0.5873,1.44,bet365,-0.1543,no
-10,2026-11-21,15:30,SV 07 Elversberg,SC Freiburg,GER_20261121T1430_elversberg_vs_freiburg,0.7165,1.57,bet365,+0.1248,yes
-10,2026-11-21,15:30,Eintracht Frankfurt,TSG Hoffenheim,GER_20261121T1430_eintracht-frankfurt_vs_hoffenheim,0.6767,1.36,bet365,-0.0797,yes
-10,2026-11-21,15:30,Borussia Mönchengladbach,Borussia Dortmund,GER_20261121T1430_b-monchengladbach_vs_dortmund,0.6690,1.50,bet365,+0.0035,yes
-10,2026-11-21,15:30,Bayer 04 Leverkusen,SC Paderborn 07,GER_20261121T1430_bayer-leverkusen_vs_paderborn,0.5133,1.33,bet365,-0.3173,no
-10,2026-11-20,20:30,FC Bayern München,1. FC Köln,GER_20261120T1930_bayern-munich_vs_1-fc-koln,0.7729,1.14,bet365,-0.1189,yes
+10,2026-11-22,17:30,SV Werder Bremen,Hamburger SV,GER_20261122T1630_werder-bremen_vs_hamburger,0.6886,1.53,bet365,+0.0535,yes
+10,2026-11-22,15:30,FC Augsburg,1. FSV Mainz 05,GER_20261122T1430_augsburg_vs_mainz,0.7180,1.44,bet365,+0.0340,yes
+10,2026-11-21,18:30,FC Schalke 04,VfB Stuttgart,GER_20261121T1730_schalke_vs_vfb-stuttgart,0.3726,1.50,bet365,-0.4411,no
+10,2026-11-21,15:30,1. FC Union Berlin,RB Leipzig,GER_20261121T1430_union-berlin_vs_rb-leipzig,0.5873,1.44,bet365,-0.1544,no
+10,2026-11-21,15:30,SV 07 Elversberg,SC Freiburg,GER_20261121T1430_elversberg_vs_freiburg,0.7155,1.57,bet365,+0.1233,yes
+10,2026-11-21,15:30,Eintracht Frankfurt,TSG Hoffenheim,GER_20261121T1430_eintracht-frankfurt_vs_hoffenheim,0.6758,1.33,bet365,-0.1012,yes
+10,2026-11-21,15:30,Borussia Mönchengladbach,Borussia Dortmund,GER_20261121T1430_b-monchengladbach_vs_dortmund,0.6678,1.57,bet365,+0.0484,yes
+10,2026-11-21,15:30,Bayer 04 Leverkusen,SC Paderborn 07,GER_20261121T1430_bayer-leverkusen_vs_paderborn,0.5129,1.30,bet365,-0.3333,no

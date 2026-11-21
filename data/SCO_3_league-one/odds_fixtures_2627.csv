@@ -1,6 +1,6 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-21,,Montrose,Alloa,SCO_20261121T1730_montrose_vs_alloa,KxpFb3g3,2026-11-21T17:30:00Z,3,2.38,3.5,2.5,1.53,1.6,2026-11-20T06:33:31Z
-16,2026-11-21,,Ross County,Cove Rangers,SCO_20261121T1500_ross-county_vs_cove-rangers,Wbx1kaGk,2026-11-21T15:00:00Z,3,1.17,6.5,12.0,1.91,1.4,2026-11-20T06:33:31Z
-16,2026-11-21,,Queen of South,Hamilton,SCO_20261121T1500_queen-of-the-south_vs_hamilton,0GoVfLhS,2026-11-21T15:00:00Z,3,5.0,4.0,1.55,1.67,1.57,2026-11-20T06:33:31Z
-16,2026-11-21,,Peterhead,East Kilbride,SCO_20261121T1500_peterhead_vs_east-kilbride,hjrNdsOF,2026-11-21T15:00:00Z,3,3.5,3.6,1.8,1.53,1.57,2026-11-20T06:33:31Z
-16,2026-11-21,,East Fife,Airdrieonians,SCO_20261121T1500_east-fife_vs_airdrieonians,fahTz01d,2026-11-21T15:00:00Z,3,2.88,3.4,2.15,1.67,1.75,2026-11-20T06:33:31Z
+16,2026-11-21,,Montrose,Alloa,SCO_20261121T1730_montrose_vs_alloa,KxpFb3g3,2026-11-21T17:30:00Z,3,2.38,3.5,2.5,1.55,1.67,2026-11-21T06:23:25Z
+16,2026-11-21,,Ross County,Cove Rangers,SCO_20261121T1500_ross-county_vs_cove-rangers,Wbx1kaGk,2026-11-21T15:00:00Z,3,1.18,5.75,11.0,1.91,1.4,2026-11-21T06:23:25Z
+16,2026-11-21,,Queen of South,Hamilton,SCO_20261121T1500_queen-of-the-south_vs_hamilton,0GoVfLhS,2026-11-21T15:00:00Z,3,5.25,4.2,1.5,1.73,1.57,2026-11-21T06:23:25Z
+16,2026-11-21,,Peterhead,East Kilbride,SCO_20261121T1500_peterhead_vs_east-kilbride,hjrNdsOF,2026-11-21T15:00:00Z,3,3.7,3.75,1.8,1.57,1.57,2026-11-21T06:23:25Z
+16,2026-11-21,,East Fife,Airdrieonians,SCO_20261121T1500_east-fife_vs_airdrieonians,fahTz01d,2026-11-21T15:00:00Z,3,2.9,3.25,2.15,1.73,2.0,2026-11-21T06:23:25Z

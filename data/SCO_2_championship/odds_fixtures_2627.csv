@@ -1,6 +1,5 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-21,16:00,Raith Rovers,Partick Thistle,SCO_20261121T1500_raith_vs_partick,dSfv7H0K,2026-11-21T15:00:00Z,3,3.0,3.2,2.2,1.8,2.05,2026-11-20T06:33:31Z
-16,2026-11-21,16:00,Queen's Park,Livingston,SCO_20261121T1500_queen-s-park_vs_livingston,UL2hqE8D,2026-11-21T15:00:00Z,3,5.5,4.5,1.44,1.83,1.73,2026-11-20T06:33:31Z
-16,2026-11-21,16:00,Dunfermline Athletic,Greenock Morton,SCO_20261121T1500_dunfermline_vs_morton,jB1xmd9l,2026-11-21T15:00:00Z,3,1.25,5.0,9.5,2.15,1.67,2026-11-20T06:33:31Z
-16,2026-11-21,16:00,Arbroath,Stenhousemuir,SCO_20261121T1500_arbroath_vs_stenhousemuir,KSA6hIoR,2026-11-21T15:00:00Z,3,2.45,3.1,2.75,1.91,2.15,2026-11-20T06:33:31Z
-16,2026-11-20,20:30,Inverness Caledonian Thistle,Ayr United,SCO_20261120T1930_inverness_vs_ayr,d84pozv1,2026-11-20T19:30:00Z,3,1.6,3.8,4.75,1.85,1.85,2026-11-20T06:33:31Z
+16,2026-11-21,16:00,Raith Rovers,Partick Thistle,SCO_20261121T1500_raith_vs_partick,dSfv7H0K,2026-11-21T15:00:00Z,3,2.88,3.2,2.3,1.8,2.0,2026-11-21T06:23:25Z
+16,2026-11-21,16:00,Queen's Park,Livingston,SCO_20261121T1500_queen-s-park_vs_livingston,UL2hqE8D,2026-11-21T15:00:00Z,3,4.5,4.2,1.55,1.83,1.75,2026-11-21T06:23:25Z
+16,2026-11-21,16:00,Dunfermline Athletic,Greenock Morton,SCO_20261121T1500_dunfermline_vs_morton,jB1xmd9l,2026-11-21T15:00:00Z,3,1.25,5.0,9.5,2.15,1.67,2026-11-21T06:23:25Z
+16,2026-11-21,16:00,Arbroath,Stenhousemuir,SCO_20261121T1500_arbroath_vs_stenhousemuir,KSA6hIoR,2026-11-21T15:00:00Z,3,2.35,3.2,2.75,1.91,2.15,2026-11-21T06:23:25Z

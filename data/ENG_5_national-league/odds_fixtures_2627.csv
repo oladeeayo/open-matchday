@@ -1,26 +1,36 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-27,20:45,Scunthorpe United,Wealdstone,ENG_20261127T1945_scunthorpe_vs_wealdstone,Ek0InY94,2026-11-27T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-25,20:45,Hartlepool United,Solihull Moors,ENG_20261125T1945_hartlepool_vs_solihull-moors,6PdAlfuh,2026-11-25T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-25,20:45,Harrogate Town,Kidderminster Harriers,ENG_20261125T1945_harrogate_vs_kidderminster,0S9OQjmo,2026-11-25T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-25,20:00,Boreham Wood,Aldershot Town,ENG_20261125T1900_boreham-wood_vs_aldershot,4dOhWCPN,2026-11-25T19:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Woking,Worthing,ENG_20261124T1945_woking_vs_worthing-fc,dWKpYYfB,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Scunthorpe United,Gateshead,ENG_20261124T1945_scunthorpe_vs_gateshead,l6HxzeQb,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,AFC Hornchurch,Sutton United,ENG_20261124T1945_hornchurch_vs_sutton,GhJUyHen,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Forest Green Rovers,Southend United,ENG_20261124T1945_forest-green_vs_southend,tnPLHDAU,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Eastleigh,Yeovil Town,ENG_20261124T1945_eastleigh_vs_yeovil,YLLDJZuI,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Carlisle United,Tamworth,ENG_20261124T1945_carlisle_vs_tamworth,08N5LeB5,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Boston United,Barrow,ENG_20261124T1945_boston-united_vs_barrow,hrKcNHtg,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,Altrincham,Wealdstone,ENG_20261124T1945_altrincham_vs_wealdstone,6RLkPwCt,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-16,2026-11-24,20:45,AFC Fylde,FC Halifax Town,ENG_20261124T1945_afc-fylde_vs_halifax,jFot5zRO,2026-11-24T19:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-15,2026-11-21,18:30,Yeovil Town,Forest Green Rovers,ENG_20261121T1730_yeovil_vs_forest-green,rkrY6ddC,2026-11-21T17:30:00Z,3,2.38,3.6,2.55,1.5,1.53,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Worthing,Harrogate Town,ENG_20261121T1500_worthing-fc_vs_harrogate,zPvQ8IRa,2026-11-21T15:00:00Z,3,2.88,3.6,2.15,1.53,1.53,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Wealdstone,AFC Hornchurch,ENG_20261121T1500_wealdstone_vs_hornchurch,2BtIAvcm,2026-11-21T15:00:00Z,3,2.0,3.5,3.2,1.62,1.67,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Sutton United,Boston United,ENG_20261121T1500_sutton_vs_boston-united,6kb0hcsJ,2026-11-21T15:00:00Z,3,2.1,3.4,3.1,1.67,1.8,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Kidderminster Harriers,AFC Fylde,ENG_20261121T1500_kidderminster_vs_afc-fylde,QBdpdurf,2026-11-21T15:00:00Z,3,3.0,3.8,2.0,1.57,1.6,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Gateshead,Hartlepool United,ENG_20261121T1500_gateshead_vs_hartlepool,hpqwb1Ds,2026-11-21T15:00:00Z,3,3.7,3.6,1.83,1.7,1.73,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,FC Halifax Town,Woking,ENG_20261121T1500_halifax_vs_woking,McM5G9T8,2026-11-21T15:00:00Z,3,1.95,3.75,3.3,1.67,1.7,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Barrow,Carlisle United,ENG_20261121T1500_barrow_vs_carlisle,fiUJh6y2,2026-11-21T15:00:00Z,3,2.88,3.5,2.2,1.57,1.65,2026-11-20T06:33:31Z
-15,2026-11-21,16:00,Aldershot Town,Scunthorpe United,ENG_20261121T1500_aldershot_vs_scunthorpe,nRQBfS6k,2026-11-21T15:00:00Z,3,2.55,3.75,2.3,1.5,1.57,2026-11-20T06:33:31Z
-15,2026-11-21,13:30,Tamworth,Eastleigh,ENG_20261121T1230_tamworth_vs_eastleigh,YejnG0ZP,2026-11-21T12:30:00Z,3,1.83,3.7,3.6,1.57,1.57,2026-11-20T06:33:31Z
-15,2026-11-21,13:30,Solihull Moors,Altrincham,ENG_20261121T1230_solihull-moors_vs_altrincham,Yy0hfJC6,2026-11-21T12:30:00Z,3,2.5,3.5,2.45,1.5,1.57,2026-11-20T06:33:31Z
-15,2026-11-20,20:45,Southend United,Boreham Wood,ENG_20261120T1945_southend_vs_boreham-wood,jeut0lqS,2026-11-20T19:45:00Z,3,2.88,3.9,2.05,1.38,1.36,2026-11-20T06:33:31Z
+15,2026-11-28,18:30,Hartlepool United,Southend United,ENG_20261128T1730_hartlepool_vs_southend,4G0UpXeE,2026-11-28T17:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,AFC Hornchurch,Solihull Moors,ENG_20261128T1500_hornchurch_vs_solihull-moors,E9hGyTI0,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Harrogate Town,Yeovil Town,ENG_20261128T1500_harrogate_vs_yeovil,zsMpwLx8,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Forest Green Rovers,Tamworth,ENG_20261128T1500_forest-green_vs_tamworth,2F8wus8e,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Eastleigh,FC Halifax Town,ENG_20261128T1500_eastleigh_vs_halifax,U1AVt3wq,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Carlisle United,Sutton United,ENG_20261128T1500_carlisle_vs_sutton,bJJanPFL,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Boston United,Kidderminster Harriers,ENG_20261128T1500_boston-united_vs_kidderminster,jgGiloo9,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Boreham Wood,Gateshead,ENG_20261128T1500_boreham-wood_vs_gateshead,baT5Qsg2,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,16:00,Altrincham,Worthing,ENG_20261128T1500_altrincham_vs_worthing-fc,h2QcS3Ok,2026-11-28T15:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,13:30,Woking,Barrow,ENG_20261128T1230_woking_vs_barrow,pCZuhl3s,2026-11-28T12:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-28,13:30,AFC Fylde,Aldershot Town,ENG_20261128T1230_afc-fylde_vs_aldershot,n3bQpCvH,2026-11-28T12:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-27,20:45,Scunthorpe United,Wealdstone,ENG_20261127T1945_scunthorpe_vs_wealdstone,Ek0InY94,2026-11-27T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-25,20:45,Hartlepool United,Solihull Moors,ENG_20261125T1945_hartlepool_vs_solihull-moors,6PdAlfuh,2026-11-25T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-25,20:45,Harrogate Town,Kidderminster Harriers,ENG_20261125T1945_harrogate_vs_kidderminster,0S9OQjmo,2026-11-25T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-25,20:00,Boreham Wood,Aldershot Town,ENG_20261125T1900_boreham-wood_vs_aldershot,4dOhWCPN,2026-11-25T19:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Woking,Worthing,ENG_20261124T1945_woking_vs_worthing-fc,dWKpYYfB,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Scunthorpe United,Gateshead,ENG_20261124T1945_scunthorpe_vs_gateshead,l6HxzeQb,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,AFC Hornchurch,Sutton United,ENG_20261124T1945_hornchurch_vs_sutton,GhJUyHen,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Forest Green Rovers,Southend United,ENG_20261124T1945_forest-green_vs_southend,tnPLHDAU,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Eastleigh,Yeovil Town,ENG_20261124T1945_eastleigh_vs_yeovil,YLLDJZuI,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Carlisle United,Tamworth,ENG_20261124T1945_carlisle_vs_tamworth,08N5LeB5,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Boston United,Barrow,ENG_20261124T1945_boston-united_vs_barrow,hrKcNHtg,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,Altrincham,Wealdstone,ENG_20261124T1945_altrincham_vs_wealdstone,6RLkPwCt,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+15,2026-11-24,20:45,AFC Fylde,FC Halifax Town,ENG_20261124T1945_afc-fylde_vs_halifax,jFot5zRO,2026-11-24T19:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+14,2026-11-21,18:30,Yeovil Town,Forest Green Rovers,ENG_20261121T1730_yeovil_vs_forest-green,rkrY6ddC,2026-11-21T17:30:00Z,3,2.45,3.6,2.45,1.5,1.57,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Worthing,Harrogate Town,ENG_20261121T1500_worthing-fc_vs_harrogate,zPvQ8IRa,2026-11-21T15:00:00Z,3,2.63,3.8,2.2,1.5,1.5,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Wealdstone,AFC Hornchurch,ENG_20261121T1500_wealdstone_vs_hornchurch,2BtIAvcm,2026-11-21T15:00:00Z,3,2.0,3.5,3.2,1.62,1.65,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Sutton United,Boston United,ENG_20261121T1500_sutton_vs_boston-united,6kb0hcsJ,2026-11-21T15:00:00Z,3,1.95,3.5,3.4,1.67,1.75,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Kidderminster Harriers,AFC Fylde,ENG_20261121T1500_kidderminster_vs_afc-fylde,QBdpdurf,2026-11-21T15:00:00Z,3,3.4,3.9,1.85,1.57,1.6,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Gateshead,Hartlepool United,ENG_20261121T1500_gateshead_vs_hartlepool,hpqwb1Ds,2026-11-21T15:00:00Z,3,3.5,3.5,1.93,1.8,1.85,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,FC Halifax Town,Woking,ENG_20261121T1500_halifax_vs_woking,McM5G9T8,2026-11-21T15:00:00Z,3,1.95,3.75,3.3,1.67,1.7,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Barrow,Carlisle United,ENG_20261121T1500_barrow_vs_carlisle,fiUJh6y2,2026-11-21T15:00:00Z,3,2.75,3.5,2.25,1.57,1.65,2026-11-21T06:23:25Z
+14,2026-11-21,16:00,Aldershot Town,Scunthorpe United,ENG_20261121T1500_aldershot_vs_scunthorpe,nRQBfS6k,2026-11-21T15:00:00Z,3,2.5,3.8,2.3,1.48,1.53,2026-11-21T06:23:25Z
+14,2026-11-21,13:30,Tamworth,Eastleigh,ENG_20261121T1230_tamworth_vs_eastleigh,YejnG0ZP,2026-11-21T12:30:00Z,3,1.87,3.6,3.6,1.57,1.67,2026-11-21T06:23:25Z
+14,2026-11-21,13:30,Solihull Moors,Altrincham,ENG_20261121T1230_solihull-moors_vs_altrincham,Yy0hfJC6,2026-11-21T12:30:00Z,3,2.4,3.6,2.5,1.5,1.57,2026-11-21T06:23:25Z

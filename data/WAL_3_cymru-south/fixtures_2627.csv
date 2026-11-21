@@ -1,8 +1,4 @@
 gw,date,time,home,away
-15,2026-11-20,,Caerau Ely,Newport City
-15,2026-11-20,,Caerphilly,Llanelli
-15,2026-11-20,,Pontypridd,Carmarthen Town
-15,2026-11-20,,Pure Swansea,Trethomas Bluebirds
 15,2026-11-21,,Cardiff Draconians,Aberystwyth
 15,2026-11-21,,Pontardawe,Baglan Dragons
 15,2026-11-21,,Treowen,Afan Lido
@@ -107,3 +103,11 @@ gw,date,time,home,away
 26,2027-03-20,,Pontardawe,Cardiff Draconians
 26,2027-03-20,,Treowen,Carmarthen Town
 26,2027-03-20,,Trethomas Bluebirds,Pure Swansea
+27,2027-03-26,,Afan Lido,Llanelli
+27,2027-03-27,,Caerau Ely,Aberystwyth
+27,2027-03-27,,Cardiff Draconians,Treowen
+27,2027-03-27,,Carmarthen Town,Newport City
+27,2027-03-27,,Pontardawe,Llantwit Major
+27,2027-03-27,,Pure Swansea,Baglan Dragons
+27,2027-03-27,,Trethomas Bluebirds,Pontypridd
+27,2027-03-27,,Ynyshir Albions,Caerphilly

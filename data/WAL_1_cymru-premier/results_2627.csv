@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-3,2026-08-15,,Barry,Cardiff Metropolitan,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-3,2026-08-15,,Caernarfon,Colwyn Bay,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-21,,Cardiff Metropolitan,TNS,0,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-21,,Colwyn Bay,Airbus,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-21,,Flint,Briton Ferry,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -104,3 +102,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 16,2026-11-06,,Llandudno,TNS,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 16,2026-11-06,,Penybont,Caernarfon,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 16,2026-11-06,,Trefelin,Colwyn Bay,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Airbus,Colwyn Bay,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Briton Ferry,Holywell,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Caernarfon,Connahs Q.,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Cardiff Metropolitan,Ammanford,4,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Flint,Cambrian United,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Llandudno,Barry,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,Penybont,Haverfordwest,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+17,2026-11-20,,TNS,Trefelin,3,0,H,,,,,,,,,,,,,,,,,,,,,soccerway

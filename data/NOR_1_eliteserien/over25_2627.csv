@@ -1,9 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-27,2026-11-22,,Sarpsborg 08,Lillestrom,NOR_20261122T1815_sarpsborg-08_vs_lillestrom,0.5327,1.40,bet365,-0.2542,no
-27,2026-11-22,,Kristiansund,Sandefjord,NOR_20261122T1600_kristiansund_vs_sandefjord,0.5914,1.40,bet365,-0.1720,no
-27,2026-11-22,,KFUM Oslo,Brann,NOR_20261122T1600_kfum-oslo_vs_brann,0.6195,1.44,bet365,-0.1079,yes
-27,2026-11-22,,Aalesund,Rosenborg,NOR_20261122T1600_aalesund_vs_rosenborg,0.8527,1.33,bet365,+0.1340,yes
-27,2026-11-21,,Valerenga,Start,NOR_20261121T1700_valerenga_vs_start,0.7398,1.36,bet365,+0.0061,yes
-27,2026-11-21,,HamKam,Fredrikstad,NOR_20261121T1500_ham-kam_vs_fredrikstad,0.6784,1.67,bet365,+0.1330,yes
-27,2026-11-21,,Tromso,Viking,NOR_20261121T1300_tromso_vs_viking,0.4750,1.44,Betano,-0.3159,no
-27,2026-11-20,,Molde,Bodo/Glimt,NOR_20261120T1800_molde_vs_bodo-glimt,0.6664,1.20,bet365,-0.2003,yes
+27,2026-11-22,,Sarpsborg 08,Lillestrom,NOR_20261122T1815_sarpsborg-08_vs_lillestrom,0.5320,1.40,bet365,-0.2553,no
+27,2026-11-22,,Kristiansund,Sandefjord,NOR_20261122T1600_kristiansund_vs_sandefjord,0.5905,1.40,bet365,-0.1733,no
+27,2026-11-22,,KFUM Oslo,Brann,NOR_20261122T1600_kfum-oslo_vs_brann,0.6194,1.44,bet365,-0.1080,yes
+27,2026-11-22,,Aalesund,Rosenborg,NOR_20261122T1600_aalesund_vs_rosenborg,0.8520,1.33,bet365,+0.1332,yes
+27,2026-11-21,,Valerenga,Start,NOR_20261121T1700_valerenga_vs_start,0.7407,1.36,bet365,+0.0074,yes
+27,2026-11-21,,HamKam,Fredrikstad,NOR_20261121T1500_ham-kam_vs_fredrikstad,0.6774,1.70,bet365,+0.1516,yes
+27,2026-11-21,,Tromso,Viking,NOR_20261121T1300_tromso_vs_viking,0.4747,1.50,bet365,-0.2879,no

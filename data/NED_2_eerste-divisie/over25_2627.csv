@@ -1,11 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-21,16:30,FC Eindhoven,RKC Waalwijk,NED_20261121T1530_eindhoven-fc_vs_waalwijk,0.4665,1.50,bet365,-0.3002,no
-16,2026-11-20,20:00,Vitesse,Jong AZ,NED_20261120T1900_vitesse_vs_jong-az-alkmaar,0.7845,1.60,bet365,+0.2552,yes
-16,2026-11-20,20:00,TOP Oss,Roda JC Kerkrade,NED_20261120T1900_top-oss_vs_roda,0.5673,1.65,bet365,-0.0640,no
-16,2026-11-20,20:00,Jong FC Utrecht,FC Emmen,NED_20261120T1900_jong-utrecht_vs_fc-emmen,0.8099,1.40,bet365,+0.1339,yes
-16,2026-11-20,20:00,Heracles Almelo,Jong PSV,NED_20261120T1900_heracles_vs_jong-psv,0.7120,1.22,Betway,-0.1313,yes
-16,2026-11-20,20:00,Helmond Sport,FC Dordrecht,NED_20261120T1900_helmond-sport_vs_dordrecht,0.7067,1.57,bet365,+0.1095,yes
-16,2026-11-20,20:00,FC Volendam,Jong Ajax,NED_20261120T1900_fc-volendam_vs_jong-ajax,0.7703,1.25,bet365,-0.0371,yes
-16,2026-11-20,20:00,FC Den Bosch,VVV-Venlo,NED_20261120T1900_den-bosch_vs_venlo,0.7322,1.33,bet365,-0.0262,yes
-16,2026-11-20,20:00,De Graafschap,MVV Maastricht,NED_20261120T1900_de-graafschap_vs_maastricht,0.6989,1.50,bet365,+0.0483,yes
-16,2026-11-20,20:00,Almere City,NAC Breda,NED_20261120T1900_almere-city_vs_nac-breda,0.5407,1.53,bet365,-0.1727,no
+16,2026-11-21,16:30,FC Eindhoven,RKC Waalwijk,NED_20261121T1530_eindhoven-fc_vs_waalwijk,0.4678,1.40,bet365,-0.3451,no

@@ -1,17 +1,16 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-1,2026-11-22,,Torreense,Benfica,POR_20261122T2045_torreense_vs_benfica,riuJCkW1,2026-11-22T20:45:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,Leiria,Leca,POR_20261122T1930_leiria_vs_leca,vejuKXwS,2026-11-22T19:30:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,Estrela,Portimonense,POR_20261122T1800_estrela-da-amadora_vs_portimonense,xEzQS1Ma,2026-11-22T18:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,SC Farense,Fatima,POR_20261122T1500_sc-farense_vs_fatima,8lw5uu65,2026-11-22T15:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,Vitoria Sernache,Lusitania FC,POR_20261122T1400_vitoria-sernache_vs_lusitania-fc,hbWlqN6t,2026-11-22T14:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,SC Vianense,Rio Ave,POR_20261122T1400_sc-vianense_vs_rio-ave,0OZds1yg,2026-11-22T14:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,Gil Vicente,Olhanense,POR_20261122T1400_gil-vicente_vs_olhanense,YHonzpUP,2026-11-22T14:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-22,,Sanjoanense,Academica,POR_20261122T1100_sanjoanense_vs_academica,40xIUNim,2026-11-22T11:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Vitoria Guimaraes,Braga,POR_20261121T2030_vitoria-guimaraes_vs_braga,xnduPJLO,2026-11-21T20:30:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Sporting CP,Uniao Da Serra,POR_20261121T1800_sporting-cp_vs_uniao-da-serra,pvvYQuiC,2026-11-21T18:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Maritimo,Chaves,POR_20261121T1700_maritimo_vs_chaves,8UW4zgO8,2026-11-21T17:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Estoril,Felgueiras,POR_20261121T1600_estoril_vs_fc-felgueiras,nscpGOxf,2026-11-21T16:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,AFS,Tondela,POR_20261121T1500_afs_vs_tondela,vHgxIp8s,2026-11-21T15:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Mafra,Arouca,POR_20261121T1400_mafra_vs_arouca,zRyBEB1k,2026-11-21T14:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-21,,Atletico CP,Casa Pia,POR_20261121T1100_atletico-cp_vs_casa-pia,SKb0CtxJ,2026-11-21T11:00:00Z,0,,,,,,2026-11-20T06:33:31Z
-1,2026-11-20,,FC Porto,Paredes,POR_20261120T2045_fc-porto_vs_paredes,f70hE276,2026-11-20T20:45:00Z,2,1.06,9.0,23.0,2.63,1.33,2026-11-20T06:33:31Z
+1,2026-11-22,,Torreense,Benfica,POR_20261122T2045_torreense_vs_benfica,riuJCkW1,2026-11-22T20:45:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,Leiria,Leca,POR_20261122T1930_leiria_vs_leca,vejuKXwS,2026-11-22T19:30:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,Estrela,Portimonense,POR_20261122T1800_estrela-da-amadora_vs_portimonense,xEzQS1Ma,2026-11-22T18:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,SC Farense,Fatima,POR_20261122T1500_sc-farense_vs_fatima,8lw5uu65,2026-11-22T15:00:00Z,2,1.17,6.0,15.0,2.4,1.57,2026-11-21T06:23:25Z
+1,2026-11-22,,Vitoria Sernache,Lusitania FC,POR_20261122T1400_vitoria-sernache_vs_lusitania-fc,hbWlqN6t,2026-11-22T14:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,SC Vianense,Rio Ave,POR_20261122T1400_sc-vianense_vs_rio-ave,0OZds1yg,2026-11-22T14:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,Gil Vicente,Olhanense,POR_20261122T1400_gil-vicente_vs_olhanense,YHonzpUP,2026-11-22T14:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-22,,Sanjoanense,Academica,POR_20261122T1100_sanjoanense_vs_academica,40xIUNim,2026-11-22T11:00:00Z,0,,,,,,2026-11-21T06:23:25Z
+1,2026-11-21,,Vitoria Guimaraes,Braga,POR_20261121T2030_vitoria-guimaraes_vs_braga,xnduPJLO,2026-11-21T20:30:00Z,3,3.2,3.2,2.1,1.83,2.15,2026-11-21T06:23:25Z
+1,2026-11-21,,Sporting CP,Uniao Da Serra,POR_20261121T1800_sporting-cp_vs_uniao-da-serra,pvvYQuiC,2026-11-21T18:00:00Z,2,1.01,29.0,51.0,3.5,1.06,2026-11-21T06:23:25Z
+1,2026-11-21,,Maritimo,Chaves,POR_20261121T1700_maritimo_vs_chaves,8UW4zgO8,2026-11-21T17:00:00Z,3,1.6,3.7,5.0,1.91,1.95,2026-11-21T06:23:25Z
+1,2026-11-21,,Estoril,Felgueiras,POR_20261121T1600_estoril_vs_fc-felgueiras,nscpGOxf,2026-11-21T16:00:00Z,3,1.62,3.8,4.33,1.91,1.95,2026-11-21T06:23:25Z
+1,2026-11-21,,AFS,Tondela,POR_20261121T1500_afs_vs_tondela,vHgxIp8s,2026-11-21T15:00:00Z,3,3.4,3.25,1.95,2.0,2.25,2026-11-21T06:23:25Z
+1,2026-11-21,,Mafra,Arouca,POR_20261121T1400_mafra_vs_arouca,zRyBEB1k,2026-11-21T14:00:00Z,3,3.6,4.0,1.75,1.91,1.88,2026-11-21T06:23:25Z
+1,2026-11-21,,Atletico CP,Casa Pia,POR_20261121T1100_atletico-cp_vs_casa-pia,SKb0CtxJ,2026-11-21T11:00:00Z,3,3.3,3.4,1.95,1.7,1.75,2026-11-21T06:23:25Z
