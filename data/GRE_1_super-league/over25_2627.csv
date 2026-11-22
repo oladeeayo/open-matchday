@@ -1,6 +1,3 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-11,2026-11-22,18:30,PAOK,Kifisia,GRE_20261122T1730_paok_vs_kifisia,0.6288,1.65,bet365,+0.0375,yes
-11,2026-11-22,18:00,Olympiacos,Iraklis,GRE_20261122T1700_olympiacos-piraeus_vs_iraklis-fc,0.3324,1.57,bet365,-0.4781,no
-11,2026-11-22,16:30,Panathinaikos,OFI Crete,GRE_20261122T1530_panathinaikos_vs_ofi-crete,0.6289,1.40,bet365,-0.1196,yes
-11,2026-11-22,16:00,Panetolikos,Volos NFC,GRE_20261122T1500_panetolikos_vs_volos,0.4830,2.30,Betano,+0.1109,no
-11,2026-11-22,15:00,Levadiakos,Atromitos,GRE_20261122T1400_levadiakos_vs_atromitos,0.2583,2.40,bet365,-0.3800,no
+11,2026-11-22,18:30,PAOK,Kifisia,GRE_20261122T1730_paok_vs_kifisia,0.6276,1.62,Betway,+0.0168,yes
+11,2026-11-22,18:00,Olympiacos,Iraklis,GRE_20261122T1700_olympiacos-piraeus_vs_iraklis-fc,0.3322,1.57,bet365,-0.4784,no

@@ -1,8 +1,7 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-15,2026-11-29,,Hajduk Split,Rudes,CRO_20261129T1700_hajduk-split_vs_rudes,feMcAWB4,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-15,2026-11-29,,Gorica,Din. Zagreb,CRO_20261129T1400_hnk-gorica_vs_din-zagreb,6HEq1SYj,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-15,2026-11-28,,Osijek,Rijeka,CRO_20261128T1700_osijek_vs_rijeka,zZND6lBT,2026-11-28T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-15,2026-11-28,,Lok. Zagreb,Slaven Belupo,CRO_20261128T1400_lok-zagreb_vs_slaven-belupo,2LP58AtH,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-15,2026-11-27,,Istra 1961,Varazdin,CRO_20261127T1700_istra-1961_vs_varazdin,YNhT8vhc,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-14,2026-11-23,,Slaven Belupo,Osijek,CRO_20261123T1700_slaven-belupo_vs_osijek,UZL4lkko,2026-11-23T17:00:00Z,3,2.4,3.6,2.5,1.55,1.6,2026-11-22T15:33:16Z
-14,2026-11-22,,Rijeka,Gorica,CRO_20261122T1700_rijeka_vs_hnk-gorica,biVYgBRN,2026-11-22T17:00:00Z,3,1.33,4.75,6.5,2.0,1.65,2026-11-22T15:33:16Z
+15,2026-11-29,,Hajduk Split,Rudes,CRO_20261129T1700_hajduk-split_vs_rudes,feMcAWB4,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+15,2026-11-29,,Gorica,Din. Zagreb,CRO_20261129T1400_hnk-gorica_vs_din-zagreb,6HEq1SYj,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+15,2026-11-28,,Osijek,Rijeka,CRO_20261128T1700_osijek_vs_rijeka,zZND6lBT,2026-11-28T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+15,2026-11-28,,Lok. Zagreb,Slaven Belupo,CRO_20261128T1400_lok-zagreb_vs_slaven-belupo,2LP58AtH,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+15,2026-11-27,,Istra 1961,Varazdin,CRO_20261127T1700_istra-1961_vs_varazdin,YNhT8vhc,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+14,2026-11-23,,Slaven Belupo,Osijek,CRO_20261123T1700_slaven-belupo_vs_osijek,UZL4lkko,2026-11-23T17:00:00Z,3,2.4,3.6,2.5,1.55,1.6,2026-11-22T17:53:35Z

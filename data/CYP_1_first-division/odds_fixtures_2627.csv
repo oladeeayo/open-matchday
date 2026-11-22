@@ -1,9 +1,8 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-11,2026-11-29,,Pafos,Aris,CYP_20261129T1700_pafos_vs_aris-limassol,S0EMoKDr,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-11,2026-11-28,,APOEL,Krasava,CYP_20261128T1600_apoel_vs_krasava,pEUrg2L8,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-11,2026-11-28,,Anorthosis,Karmiotissa,CYP_20261128T1600_anorthosis_vs_karmiotissa,I7xcVbT1,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-11,2026-11-27,,Omonia 29th May,Omonia Aradippou,CYP_20261127T1800_omonia-29th-may_vs_omonia-aradippou,zRHUqbre,2026-11-27T18:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-11,2026-11-27,,AEL Limassol,Ol. Nicosia,CYP_20261127T1700_ael-limassol_vs_ol-nicosia,AsZlXKbk,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-11,2026-11-27,,AEK Larnaca,Apollon,CYP_20261127T1700_aek-larnaca_vs_apollon-limassol,EBmJxsyS,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,UTExwjVA,2026-11-23T17:00:00Z,2,3.13,3.25,2.15,1.83,2.0,2026-11-22T15:33:16Z
-10,2026-11-22,,Apollon,Omonia 29th May,CYP_20261122T1700_apollon-limassol_vs_omonia-29th-may,M3VBv36F,2026-11-22T17:00:00Z,2,1.15,7.5,12.0,2.05,1.38,2026-11-22T15:33:16Z
+11,2026-11-29,,Pafos,Aris,CYP_20261129T1700_pafos_vs_aris-limassol,S0EMoKDr,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+11,2026-11-28,,APOEL,Krasava,CYP_20261128T1600_apoel_vs_krasava,pEUrg2L8,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+11,2026-11-28,,Anorthosis,Karmiotissa,CYP_20261128T1600_anorthosis_vs_karmiotissa,I7xcVbT1,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+11,2026-11-27,,Omonia 29th May,Omonia Aradippou,CYP_20261127T1800_omonia-29th-may_vs_omonia-aradippou,zRHUqbre,2026-11-27T18:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+11,2026-11-27,,AEL Limassol,Ol. Nicosia,CYP_20261127T1700_ael-limassol_vs_ol-nicosia,AsZlXKbk,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+11,2026-11-27,,AEK Larnaca,Apollon,CYP_20261127T1700_aek-larnaca_vs_apollon-limassol,EBmJxsyS,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,UTExwjVA,2026-11-23T17:00:00Z,2,3.13,3.25,2.15,1.83,2.0,2026-11-22T17:53:35Z

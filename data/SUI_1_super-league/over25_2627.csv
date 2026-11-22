@@ -1,3 +1,7 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-14,2026-11-22,,Lausanne,Vaduz,SUI_20261122T1530_lausanne_vs_vaduz,0.7500,1.38,Betway,+0.0350,yes
-14,2026-11-22,,Basel,Luzern,SUI_20261122T1530_basel_vs_luzern,0.6131,1.36,bet365,-0.1662,yes
+15,2026-11-29,,Thun,St. Gallen,SUI_20261129T1530_thun_vs_st-gallen,0.7081,1.33,Betano,-0.0582,yes
+15,2026-11-29,,Sion,Young Boys,SUI_20261129T1530_sion_vs_young-boys,0.6769,1.29,Betano,-0.1268,yes
+15,2026-11-29,,Luzern,Lugano,SUI_20261129T1300_luzern_vs_lugano,0.7693,1.40,Betano,+0.0770,yes
+15,2026-11-28,,Servette,Lausanne,SUI_20261128T1930_servette_vs_lausanne,0.2189,1.70,Betano,-0.6278,no
+15,2026-11-28,,Vaduz,Zurich,SUI_20261128T1700_vaduz_vs_zurich,0.7698,,,,yes
+15,2026-11-28,,Grasshoppers,Basel,SUI_20261128T1700_grasshoppers_vs_basel,0.7401,1.40,Betano,+0.0361,yes

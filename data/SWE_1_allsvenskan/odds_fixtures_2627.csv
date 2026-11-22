@@ -1,13 +1,12 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-30,2026-11-29,,Vasteras SK,Hammarby,SWE_20261129T1400_vasteras-sk_vs_hammarby,rBMskRt0,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-30,2026-11-29,,Malmo FF,Brommapojkarna,SWE_20261129T1400_malmo-ff_vs_brommapojkarna,jJEFohz8,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-30,2026-11-29,,Kalmar,AIK,SWE_20261129T1400_kalmar_vs_aik,vwGjm5BC,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-30,2026-11-29,,Halmstad,Mjallby,SWE_20261129T1400_halmstad_vs_mjallby,CjEboqtP,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-30,2026-11-29,,Goteborg,Sirius,SWE_20261129T1400_ifk-goteborg_vs_sirius,fiL6mE5e,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-30,2026-11-29,,Elfsborg,GAIS,SWE_20261129T1400_elfsborg_vs_gais,Gd619eSE,2026-11-29T14:00:00Z,1,1.95,3.5,3.4,1.6,1.73,2026-11-22T15:33:16Z
-30,2026-11-29,,Djurgarden,Hacken,SWE_20261129T1400_djurgarden_vs_hacken,MwNbkzyq,2026-11-29T14:00:00Z,1,1.9,3.75,3.3,1.44,1.5,2026-11-22T15:33:16Z
-30,2026-11-29,,Degerfors,Orgryte,SWE_20261129T1400_degerfors_vs_orgryte,zoJZjmCm,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-13,2026-11-28,,Varberg,Ostersund,SWE_20261128T1200_varberg_vs_ostersund,MqqSI1pd,2026-11-28T12:00:00Z,0,,,,,,2026-11-22T15:33:16Z
-29,2026-11-23,,Orgryte,Kalmar,SWE_20261123T1800_orgryte_vs_kalmar,ML5gtcbS,2026-11-23T18:00:00Z,3,3.2,3.4,2.05,1.67,1.8,2026-11-22T15:33:16Z
-29,2026-11-23,,Hammarby,Goteborg,SWE_20261123T1800_hammarby_vs_ifk-goteborg,f9Expua3,2026-11-23T18:00:00Z,3,1.19,7.0,9.5,1.95,1.44,2026-11-22T15:33:16Z
-29,2026-11-22,,Brommapojkarna,Halmstad,SWE_20261122T1530_brommapojkarna_vs_halmstad,URSKdIr9,2026-11-22T15:30:00Z,3,1.96,3.9,3.25,1.53,1.6,2026-11-22T15:33:16Z
+30,2026-11-29,,Vasteras SK,Hammarby,SWE_20261129T1400_vasteras-sk_vs_hammarby,rBMskRt0,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+30,2026-11-29,,Malmo FF,Brommapojkarna,SWE_20261129T1400_malmo-ff_vs_brommapojkarna,jJEFohz8,2026-11-29T14:00:00Z,1,1.6,4.0,4.6,1.55,1.53,2026-11-22T17:53:35Z
+30,2026-11-29,,Kalmar,AIK,SWE_20261129T1400_kalmar_vs_aik,vwGjm5BC,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+30,2026-11-29,,Halmstad,Mjallby,SWE_20261129T1400_halmstad_vs_mjallby,CjEboqtP,2026-11-29T14:00:00Z,1,1.8,3.5,3.9,1.67,1.78,2026-11-22T17:53:35Z
+30,2026-11-29,,Goteborg,Sirius,SWE_20261129T1400_ifk-goteborg_vs_sirius,fiL6mE5e,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+30,2026-11-29,,Elfsborg,GAIS,SWE_20261129T1400_elfsborg_vs_gais,Gd619eSE,2026-11-29T14:00:00Z,1,1.95,3.5,3.4,1.6,1.73,2026-11-22T17:53:35Z
+30,2026-11-29,,Djurgarden,Hacken,SWE_20261129T1400_djurgarden_vs_hacken,MwNbkzyq,2026-11-29T14:00:00Z,1,1.9,3.75,3.3,1.44,1.5,2026-11-22T17:53:35Z
+30,2026-11-29,,Degerfors,Orgryte,SWE_20261129T1400_degerfors_vs_orgryte,zoJZjmCm,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+13,2026-11-28,,Varberg,Ostersund,SWE_20261128T1200_varberg_vs_ostersund,MqqSI1pd,2026-11-28T12:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+29,2026-11-23,,Orgryte,Kalmar,SWE_20261123T1800_orgryte_vs_kalmar,ML5gtcbS,2026-11-23T18:00:00Z,3,3.2,3.4,2.05,1.67,1.8,2026-11-22T17:53:35Z
+29,2026-11-23,,Hammarby,Goteborg,SWE_20261123T1800_hammarby_vs_ifk-goteborg,f9Expua3,2026-11-23T18:00:00Z,3,1.19,7.0,9.5,1.95,1.44,2026-11-22T17:53:35Z

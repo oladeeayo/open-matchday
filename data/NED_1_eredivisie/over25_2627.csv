@@ -1,2 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-13,2026-11-22,16:45,Go Ahead Eagles,Fortuna Sittard,NED_20261122T1545_g-a-eagles_vs_sittard,0.7441,1.53,bet365,+0.1385,yes
+14,2026-11-29,20:00,N.E.C. Nijmegen,FC Twente,NED_20261129T1900_nijmegen_vs_twente,0.7384,1.48,bet365,+0.0928,yes
+14,2026-11-29,16:45,PEC Zwolle,AZ,NED_20261129T1545_zwolle_vs_az-alkmaar,0.6704,1.40,bet365,-0.0614,yes
+14,2026-11-29,14:30,Fortuna Sittard,sc Heerenveen,NED_20261129T1330_sittard_vs_heerenveen,0.6680,1.45,Betway,-0.0314,yes
+14,2026-11-29,14:30,Feyenoord,Ajax,NED_20261129T1330_feyenoord_vs_ajax,0.7271,1.40,bet365,+0.0179,yes
+14,2026-11-29,12:15,ADO Den Haag,FC Utrecht,NED_20261129T1115_den-haag_vs_utrecht,0.7798,1.62,bet365,+0.2633,yes
+14,2026-11-28,21:00,SC Cambuur,Sparta Rotterdam,NED_20261128T2000_cambuur_vs_sparta-rotterdam,0.8385,1.48,bet365,+0.2410,yes
+14,2026-11-28,16:30,Excelsior Rotterdam,Telstar,NED_20261128T1530_excelsior_vs_telstar,0.5726,1.50,Betway,-0.1412,no
+14,2026-11-27,20:00,FC Groningen,Willem II,NED_20261127T1900_groningen_vs_willem-ii,0.8216,1.36,bet365,+0.1174,yes
+14,2026-11-28,18:45,PSV,Go Ahead Eagles,NED_20261128T1745_psv_vs_g-a-eagles,0.8197,1.22,bet365,+0.0001,yes

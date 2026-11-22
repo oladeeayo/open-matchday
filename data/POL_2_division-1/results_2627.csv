@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-4,2026-08-14,,Grodzisk M.,S. Rzeszow,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-14,,Ruch Chorzow,Lechia Gdansk,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-15,,Chrobry Glogow,Podbeskidzie,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-15,,Odra Opole,Warta Poznan,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-15,,Pogon Siedlce,Polonia Warszawa,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
