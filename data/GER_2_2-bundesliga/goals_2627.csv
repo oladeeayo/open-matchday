@@ -114,8 +114,8 @@ gw,date,home,away,minute,score_home,score_away,scorer
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,4,1,0,R. Glatzel
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,25,2,0,Vinicius Souza
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,34,3,0,R. Glatzel
-4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,2,King Manu
+4,2026-09-05,VfL Wolfsburg,Energie Cottbus,49,3,1,Luca Erlein
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,67,3,3,Tolcay Cigerci
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,79,4,3,M. Svanberg
 4,2026-09-05,VfL Wolfsburg,Energie Cottbus,91,4,4,Dmytro Bogdanov
@@ -302,3 +302,22 @@ gw,date,home,away,minute,score_home,score_away,scorer
 12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,22,1,1,L.Kehl
 12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,27,2,1,A. Vukotic
 12,2026-11-20,SV Darmstadt 98,1. FC Heidenheim 1846,62,3,1,L.Kehl
+12,2026-11-21,1. FC Nürnberg,Eintracht Braunschweig,10,1,0,J. Justvan
+12,2026-11-21,1. FC Nürnberg,Eintracht Braunschweig,61,1,1,Javier Fernández
+12,2026-11-21,1. FC Nürnberg,Eintracht Braunschweig,83,1,2,Y. Sturm
+12,2026-11-21,Hannover 96,SpVgg Greuther Fürth,34,0,1,O. Pohlmann
+12,2026-11-21,Hannover 96,SpVgg Greuther Fürth,57,1,1,S. Teitur Thórdarson
+12,2026-11-21,Hannover 96,SpVgg Greuther Fürth,91,2,1,W. Taibi
+12,2026-11-21,VfL Wolfsburg,Holstein Kiel,50,1,0,Timon Weiner
+12,2026-11-21,VfL Wolfsburg,Holstein Kiel,67,2,0,Fraser Hornby
+12,2026-11-21,VfL Wolfsburg,Holstein Kiel,76,3,0,F. Reese
+12,2026-11-21,FC St. Pauli,VfL Bochum,3,1,0,Niang
+12,2026-11-21,FC St. Pauli,VfL Bochum,47,2,0,T. Ando
+12,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,6,1,0,Mário Sauer
+12,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,14,1,1,Ben Bobzien
+12,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,16,1,2,Patrice Covic
+12,2026-11-22,1. FC Kaiserslautern,Dynamo Dresden,84,2,2,Paul Joly
+12,2026-11-22,Energie Cottbus,Hertha BSC,6,0,1,Sebastian Grönning
+12,2026-11-22,Energie Cottbus,Hertha BSC,48,0,2,P. Seguin
+12,2026-11-22,Energie Cottbus,Hertha BSC,89,0,3,D. Zeefuik
+12,2026-11-22,Energie Cottbus,Hertha BSC,90,0,4,G. Nilsson

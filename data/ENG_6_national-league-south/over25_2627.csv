@@ -1,13 +1,11 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-17,2026-11-21,,Walton & Hersham,Chelmsford,ENG_20261121T1500_walton-hersham_vs_chelmsford,0.6516,1.47,Betano,-0.0421,yes
-17,2026-11-21,,Truro,Hemel Hempstead,ENG_20261121T1500_truro_vs_hemel-hempstead,0.3657,1.60,Betano,-0.4149,no
-17,2026-11-21,,Tonbridge,Weston-super-Mare,ENG_20261121T1500_tonbridge_vs_weston-super-mare,0.5629,1.70,Betano,-0.0431,no
-17,2026-11-21,,Maidstone,Farnham,ENG_20261121T1500_maidstone_vs_farnham,0.6009,1.47,Betano,-0.1167,yes
-17,2026-11-21,,Maidenhead,Folkestone,ENG_20261121T1500_maidenhead_vs_folkestone,0.3441,1.60,Betway,-0.4494,no
-17,2026-11-21,,Farnborough,Salisbury,ENG_20261121T1500_farnborough_vs_salisbury,0.5652,1.44,Betano,-0.1861,no
-17,2026-11-21,,Dover,Horsham FC,ENG_20261121T1500_dover-ath_vs_horsham-fc,0.3380,1.53,Betano,-0.4829,no
-17,2026-11-21,,Dorking,Ebbsfleet,ENG_20261121T1500_dorking-wanderers_vs_ebbsfleet,0.7712,1.43,Betway,+0.1028,yes
-17,2026-11-21,,Chesham,Hampton & Richmond,ENG_20261121T1500_chesham_vs_hampton-richmond,0.6562,1.48,Betway,-0.0288,yes
-17,2026-11-21,,Braintree,Torquay,ENG_20261121T1500_braintree_vs_torquay,0.5054,1.45,Betway,-0.2672,no
-17,2026-11-21,,Billericay,Slough,ENG_20261121T1500_billericay_vs_slough-town,0.7771,1.30,Betano,+0.0102,yes
-17,2026-11-21,,AFC Totton,Dag & Red,ENG_20261121T1500_afc-totton_vs_dagenham-red,0.2480,1.70,Betano,-0.5785,no
+18,2026-11-24,,Weston-super-Mare,Walton & Hersham,ENG_20261124T1945_weston-super-mare_vs_walton-hersham,0.4624,1.48,Betway,-0.3157,no
+18,2026-11-24,,Torquay,Chesham,ENG_20261124T1945_torquay_vs_chesham,0.6009,1.36,Betway,-0.1827,yes
+18,2026-11-24,,Slough,Farnborough,ENG_20261124T1945_slough-town_vs_farnborough,0.5783,1.30,Betway,-0.2482,no
+18,2026-11-24,,Salisbury,AFC Totton,ENG_20261124T1945_salisbury_vs_afc-totton,0.5805,1.44,Betway,-0.1640,no
+18,2026-11-24,,Horsham FC,Truro,ENG_20261124T1945_horsham-fc_vs_truro,0.7088,1.67,Betway,+0.1837,yes
+18,2026-11-24,,Hampton & Richmond,Dover,ENG_20261124T1945_hampton-richmond_vs_dover-ath,0.4931,1.50,Betway,-0.2604,no
+18,2026-11-24,,Farnham,Maidenhead,ENG_20261124T1945_farnham_vs_maidenhead,0.7044,1.55,Betway,+0.0919,yes
+18,2026-11-24,,Ebbsfleet,Billericay,ENG_20261124T1945_ebbsfleet_vs_billericay,0.5933,1.45,Betway,-0.1397,no
+18,2026-11-24,,Dag & Red,Tonbridge,ENG_20261124T1945_dagenham-red_vs_tonbridge,0.4498,1.67,Betway,-0.2488,no
+18,2026-11-23,,Chelmsford,Maidstone,ENG_20261123T1945_chelmsford_vs_maidstone,0.5527,1.62,Betway,-0.1046,no

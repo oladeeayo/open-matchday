@@ -1,9 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-10,2026-11-22,17:30,SV Werder Bremen,Hamburger SV,GER_20261122T1630_werder-bremen_vs_hamburger,0.6886,1.53,bet365,+0.0535,yes
-10,2026-11-22,15:30,FC Augsburg,1. FSV Mainz 05,GER_20261122T1430_augsburg_vs_mainz,0.7180,1.44,bet365,+0.0340,yes
-10,2026-11-21,18:30,FC Schalke 04,VfB Stuttgart,GER_20261121T1730_schalke_vs_vfb-stuttgart,0.3726,1.50,bet365,-0.4411,no
-10,2026-11-21,15:30,1. FC Union Berlin,RB Leipzig,GER_20261121T1430_union-berlin_vs_rb-leipzig,0.5873,1.44,bet365,-0.1544,no
-10,2026-11-21,15:30,SV 07 Elversberg,SC Freiburg,GER_20261121T1430_elversberg_vs_freiburg,0.7155,1.57,bet365,+0.1233,yes
-10,2026-11-21,15:30,Eintracht Frankfurt,TSG Hoffenheim,GER_20261121T1430_eintracht-frankfurt_vs_hoffenheim,0.6758,1.33,bet365,-0.1012,yes
-10,2026-11-21,15:30,Borussia Mönchengladbach,Borussia Dortmund,GER_20261121T1430_b-monchengladbach_vs_dortmund,0.6678,1.57,bet365,+0.0484,yes
-10,2026-11-21,15:30,Bayer 04 Leverkusen,SC Paderborn 07,GER_20261121T1430_bayer-leverkusen_vs_paderborn,0.5129,1.30,bet365,-0.3333,no
+10,2026-11-22,17:30,SV Werder Bremen,Hamburger SV,GER_20261122T1630_werder-bremen_vs_hamburger,0.6839,1.67,bet365,+0.1421,yes

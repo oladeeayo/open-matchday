@@ -100,3 +100,10 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-11-08,12:30,VfL Bochum,Karlsruher SC,3,2,H,1,1,D,27,14,10,4,11,11,4,1,,,,,1,1,0,0,"6,8,50,53,92",openligadb
 12,2026-11-20,18:30,DSC Arminia Bielefeld,1. FC Magdeburg,1,2,A,0,2,A,,,,,,,,,,,,,,,,,"12,46,62",openligadb
 12,2026-11-20,18:30,SV Darmstadt 98,1. FC Heidenheim 1846,3,1,H,2,1,H,,,,,,,,,,,,,,,,,"5,22,27,62",openligadb
+12,2026-11-21,13:00,1. FC Nürnberg,Eintracht Braunschweig,1,2,A,1,0,H,,,,,,,,,,,,,,,,,"10,61,83",openligadb
+12,2026-11-21,13:00,Hannover 96,SpVgg Greuther Fürth,2,1,H,0,1,A,,,,,,,,,,,,,,,,,"34,57,91",openligadb
+12,2026-11-21,13:00,VfL Wolfsburg,Holstein Kiel,3,0,H,0,0,D,,,,,,,,,,,,,,,,,"50,67,76",openligadb
+12,2026-11-21,20:30,FC St. Pauli,VfL Bochum,2,0,H,1,0,H,,,,,,,,,,,,,,,,,"3,47",openligadb
+12,2026-11-22,13:30,1. FC Kaiserslautern,Dynamo Dresden,2,2,D,1,2,A,,,,,,,,,,,,,,,,,"6,14,16,84",openligadb
+12,2026-11-22,13:30,Energie Cottbus,Hertha BSC,0,4,A,0,1,A,,,,,,,,,,,,,,,,,"6,48,89,90",openligadb
+12,2026-11-22,13:30,Karlsruher SC,VfL Osnabrück,0,0,D,0,0,D,,,,,,,,,,,,,,,,,,openligadb

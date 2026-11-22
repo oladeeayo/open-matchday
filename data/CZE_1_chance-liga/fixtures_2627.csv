@@ -1,11 +1,4 @@
 gw,date,time,home,away
-15,2026-11-21,,Artis Brno,Jablonec
-15,2026-11-21,,Bohemians,Plzen
-15,2026-11-21,,Mlada Boleslav,Zlin
-15,2026-11-21,,Ostrava,Teplice
-15,2026-11-21,,Sigma Olomouc,Slavia Prague
-15,2026-11-22,,FK Pardubice,Brno
-15,2026-11-22,,Slovacko,Hradec Kralove
 15,2026-11-22,,Sparta Prague,Liberec
 16,2026-11-27,,Artis Brno,Slovacko
 16,2026-11-28,,Hradec Kralove,Bohemians
@@ -112,3 +105,11 @@ gw,date,time,home,away
 28,2027-04-10,,Sigma Olomouc,Hradec Kralove
 28,2027-04-10,,Slovacko,Zlin
 28,2027-04-10,,Sparta Prague,Plzen
+29,2027-04-17,,Brno,FK Pardubice
+29,2027-04-17,,Hradec Kralove,Slovacko
+29,2027-04-17,,Jablonec,Artis Brno
+29,2027-04-17,,Liberec,Sparta Prague
+29,2027-04-17,,Plzen,Bohemians
+29,2027-04-17,,Slavia Prague,Sigma Olomouc
+29,2027-04-17,,Teplice,Ostrava
+29,2027-04-17,,Zlin,Mlada Boleslav

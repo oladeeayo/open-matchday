@@ -1,7 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-12,2026-11-22,13:30,Karlsruher SC,VfL Osnabrück,GER_20261122T1230_karlsruher_vs_vfl-osnabruck,0.6224,1.60,bet365,-0.0042,yes
-12,2026-11-22,13:30,1. FC Kaiserslautern,Dynamo Dresden,GER_20261122T1230_kaiserslautern_vs_dresden,0.5184,1.73,bet365,-0.1032,no
-12,2026-11-21,20:30,FC St. Pauli,VfL Bochum,GER_20261121T1930_st-pauli_vs_bochum,0.4274,1.73,bet365,-0.2605,no
-12,2026-11-21,13:00,VfL Wolfsburg,Holstein Kiel,GER_20261121T1200_wolfsburg_vs_holstein-kiel,0.5379,1.40,bet365,-0.2470,no
-12,2026-11-21,13:00,1. FC Nürnberg,Eintracht Braunschweig,GER_20261121T1200_nurnberg_vs_braunschweig,0.6846,1.48,bet365,+0.0132,yes
-12,2026-11-21,13:00,Hannover 96,SpVgg Greuther Fürth,GER_20261121T1200_hannover_vs_greuther-furth,0.5657,1.62,bet365,-0.0836,no
+13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus,GER_20261129T1230_magdeburg_vs_energie-cottbus,0.7312,1.30,Betway,-0.0494,yes
+13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld,GER_20261129T1230_greuther-furth_vs_arminia-bielefeld,0.4510,1.62,Betway,-0.2694,no
+13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg,GER_20261129T1230_braunschweig_vs_wolfsburg,0.6104,1.36,Betway,-0.1699,yes
+13,2026-11-28,20:30,VfL Osnabrück,Hannover 96,GER_20261128T1930_vfl-osnabruck_vs_hannover,0.5188,1.50,Betway,-0.2217,no
+13,2026-11-28,13:00,Dynamo Dresden,FC St. Pauli,GER_20261128T1200_dresden_vs_st-pauli,0.4766,1.65,Betway,-0.2136,no
+13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern,GER_20261128T1200_holstein-kiel_vs_kaiserslautern,0.2881,1.57,Betway,-0.5477,no
+13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,GER_20261127T1730_heidenheim_vs_nurnberg,0.6693,1.36,Betway,-0.0898,yes
+13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,GER_20261127T1730_bochum_vs_darmstadt,0.4082,1.53,Betway,-0.3755,no

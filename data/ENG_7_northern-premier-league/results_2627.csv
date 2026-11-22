@@ -1,18 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-9,2026-09-12,,Ashton Utd,Cleethorpes,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Bamber Bridge,Alfreton,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Bury,Emley,4,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,FC United,Warrington,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Gainsborough,Avro,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Guiseley,Quorn,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Hyde,Whitby,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Lancaster,Curzon Ashton,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Redcar Athletic,Leek,3,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Warrington Rylands,Stockton,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-9,2026-09-12,,Workington,Ilkeston,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-09-19,,Stockton,Bamber Bridge,5,2,H,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-09-22,,Cleethorpes,Redcar Athletic,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-10,2026-09-22,,Leek,Hyde,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 10,2026-09-29,,Alfreton,Guiseley,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 10,2026-09-29,,Emley,Workington,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
 10,2026-09-29,,Ilkeston,Warrington Rylands,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -110,3 +96,13 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 16,2026-11-17,,Guiseley,Ashton Utd,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 16,2026-11-17,,Hyde,Warrington Rylands,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
 10,2026-11-17,,Quorn,Bury,5,4,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Alfreton,Curzon Ashton,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Bamber Bridge,Cleethorpes,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Bury,Redcar Athletic,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Emley,Hyde,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,FC United,Warrington Rylands,3,3,D,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Lancaster,Ashton Utd,1,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Quorn,Avro,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Stockton,Ilkeston,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Whitby,Leek,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+20,2026-11-21,,Workington,Gainsborough,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway

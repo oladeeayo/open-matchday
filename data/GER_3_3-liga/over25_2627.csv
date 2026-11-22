@@ -1,8 +1,3 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-14,2026-11-22,19:30,MSV Duisburg,Hansa Rostock,GER_20261122T1830_duisburg_vs_hansa-rostock,0.6838,1.62,Betway,+0.1077,yes
-14,2026-11-22,16:30,1. FC Saarbrücken,SV Wehen Wiesbaden,GER_20261122T1530_saarbrucken_vs_wehen,0.7123,1.57,bet365,+0.1183,yes
-14,2026-11-22,13:30,VfB Stuttgart II,FC Ingolstadt 04,GER_20261122T1230_vfb-stuttgart_vs_ingolstadt,0.5384,1.48,bet365,-0.2031,no
-14,2026-11-21,16:30,Alemannia Aachen,SV Waldhof Mannheim,GER_20261121T1530_alemannia-aachen_vs_mannheim,0.7086,1.50,bet365,+0.0629,yes
-14,2026-11-21,14:00,Jahn Regensburg,Würzburger Kickers,GER_20261121T1300_regensburg_vs_wurzburger-kickers,0.6477,1.57,bet365,+0.0168,yes
-14,2026-11-21,14:00,Fortuna Köln,SV Meppen,GER_20261121T1300_fortuna-koln_vs_meppen,0.2238,1.67,bet365,-0.6262,no
-14,2026-11-21,14:00,TSG 1899 Hoffenheim II,Preußen Münster,GER_20261121T1300_hoffenheim_vs_preussen-munster,0.6760,1.50,bet365,+0.0140,yes
+14,2026-11-22,19:30,MSV Duisburg,Hansa Rostock,GER_20261122T1830_duisburg_vs_hansa-rostock,0.6829,1.65,bet365,+0.1268,yes
+14,2026-11-22,16:30,1. FC Saarbrücken,SV Wehen Wiesbaden,GER_20261122T1530_saarbrucken_vs_wehen,0.7135,1.57,bet365,+0.1202,yes

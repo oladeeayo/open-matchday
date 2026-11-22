@@ -1,19 +1,19 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 5,2026-11-25,21:00,Sporting CP,Man Utd,UEFA_20261125T2000_sporting-cp_vs_manchester-united,0.7616,1.57,bet365,+0.1957,yes
 5,2026-11-25,21:00,Shakhtar,Fenerbahçe,UEFA_20261125T2000_shakhtar_vs_fenerbahce,0.7439,1.73,bet365,+0.2870,yes
-5,2026-11-25,21:00,Paris,Roma,UEFA_20261125T2000_psg_vs_as-roma,0.8162,1.36,bet365,+0.1100,yes
-5,2026-11-25,21:00,Lille,Bayern München,UEFA_20261125T2000_lille_vs_bayern-munich,0.8102,1.44,bet365,+0.1668,yes
+5,2026-11-25,21:00,Paris,Roma,UEFA_20261125T2000_psg_vs_as-roma,0.8162,1.33,bet365,+0.0856,yes
+5,2026-11-25,21:00,Lille,Bayern München,UEFA_20261125T2000_lille_vs_bayern-munich,0.8102,1.57,bet365,+0.2721,yes
 5,2026-11-25,21:00,Inter,Stuttgart,UEFA_20261125T2000_inter_vs_vfb-stuttgart,0.6847,1.25,bet365,-0.1441,yes
 5,2026-11-25,21:00,Club Brugge,Liverpool,UEFA_20261125T2000_club-brugge_vs_liverpool,0.8390,1.30,bet365,+0.0907,yes
 5,2026-11-25,21:00,Atleti,Viking,UEFA_20261125T2000_atl-madrid_vs_viking,0.6481,1.29,bet365,-0.1639,yes
-5,2026-11-25,18:45,Sabah,Barcelona,UEFA_20261125T1745_sabah-fc_vs_barcelona,0.7541,1.11,bet365,-0.1630,yes
+5,2026-11-25,18:45,Sabah,Barcelona,UEFA_20261125T1745_sabah-fc_vs_barcelona,0.7541,1.10,bet365,-0.1705,yes
 5,2026-11-24,21:00,Real Madrid,PSV,UEFA_20261124T2000_real-madrid_vs_psv,0.5794,1.17,bet365,-0.3221,no
-5,2026-11-24,21:00,Leipzig,Lens,UEFA_20261124T2000_rb-leipzig_vs_lens,0.7106,1.30,bet365,-0.0762,yes
+5,2026-11-24,21:00,Leipzig,Lens,UEFA_20261124T2000_rb-leipzig_vs_lens,0.7106,1.33,bet365,-0.0549,yes
 5,2026-11-24,21:00,Man City,Napoli,UEFA_20261124T2000_manchester-city_vs_napoli,0.8304,1.36,bet365,+0.1294,yes
 5,2026-11-24,21:00,Feyenoord,Porto,UEFA_20261124T2000_feyenoord_vs_fc-porto,0.7813,1.62,bet365,+0.2657,yes
 5,2026-11-24,21:00,Como,AEK Athens,UEFA_20261124T2000_como_vs_aek,0.8248,1.36,bet365,+0.1218,yes
 5,2026-11-24,21:00,Arsenal,B. Dortmund,UEFA_20261124T2000_arsenal_vs_dortmund,0.6149,1.67,bet365,+0.0268,yes
-5,2026-11-24,18:45,Galatasaray,Aston Villa,UEFA_20261124T1745_galatasaray_vs_aston-villa,0.7369,1.44,bet365,+0.0611,yes
-5,2026-11-24,18:45,Bodø/Glimt,LASK,UEFA_20261124T1745_bodo-glimt_vs_lask-linz,0.4841,1.29,bet365,-0.3755,no
+5,2026-11-24,18:45,Galatasaray,Aston Villa,UEFA_20261124T1745_galatasaray_vs_aston-villa,0.7369,1.40,bet365,+0.0316,yes
+5,2026-11-24,18:45,Bodø/Glimt,LASK,UEFA_20261124T1745_bodo-glimt_vs_lask-linz,0.4841,1.30,bet365,-0.3707,no
 5,2026-11-24,21:00,S. Bratislava,Real Betis,UEFA_20261124T2000_slovan-bratislava_vs_betis,0.7398,1.36,bet365,+0.0061,yes
 5,2026-11-25,18:45,Slavia Praha,Villarreal,UEFA_20261125T1745_slavia-prague_vs_villarreal,0.8175,1.53,bet365,+0.2508,yes

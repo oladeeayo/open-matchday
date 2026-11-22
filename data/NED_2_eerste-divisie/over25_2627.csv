@@ -1,2 +1,14 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-21,16:30,FC Eindhoven,RKC Waalwijk,NED_20261121T1530_eindhoven-fc_vs_waalwijk,0.4678,1.40,bet365,-0.3451,no
+17,2026-11-29,16:45,Roda JC Kerkrade,De Graafschap,NED_20261129T1545_roda_vs_de-graafschap,0.5568,,,,no
+17,2026-11-29,12:15,FC Volendam,FC Eindhoven,NED_20261129T1115_fc-volendam_vs_eindhoven-fc,0.7488,1.30,Betano,-0.0266,yes
+17,2026-11-28,16:30,FC Emmen,Helmond Sport,NED_20261128T1530_fc-emmen_vs_helmond-sport,0.7546,1.36,Betano,+0.0262,yes
+17,2026-11-27,20:00,VVV-Venlo,RKC Waalwijk,NED_20261127T1900_venlo_vs_waalwijk,0.6156,1.40,Betano,-0.1381,yes
+17,2026-11-27,20:00,NAC Breda,FC Den Bosch,NED_20261127T1900_nac-breda_vs_den-bosch,0.6753,1.25,Betano,-0.1559,yes
+17,2026-11-27,20:00,MVV Maastricht,Jong PSV,NED_20261127T1900_maastricht_vs_jong-psv,0.5690,,,,no
+17,2026-11-27,20:00,Jong FC Utrecht,Almere City,NED_20261127T1900_jong-utrecht_vs_almere-city,0.7384,,,,yes
+17,2026-11-27,20:00,Jong AZ,TOP Oss,NED_20261127T1900_jong-az-alkmaar_vs_top-oss,0.5526,,,,no
+17,2026-11-27,20:00,Jong Ajax,Heracles Almelo,NED_20261127T1900_jong-ajax_vs_heracles,0.7687,,,,yes
+17,2026-11-27,20:00,FC Dordrecht,Vitesse,NED_20261127T1900_dordrecht_vs_vitesse,0.5777,,,,no
+17,2026-11-23,20:00,Vitesse,De Graafschap,NED_20261123T1900_vitesse_vs_de-graafschap,0.5782,1.48,bet365,-0.1442,no
+17,2026-11-23,20:00,Jong PSV,Jong FC Utrecht,NED_20261123T1900_jong-psv_vs_jong-utrecht,0.5744,1.36,bet365,-0.2188,no
+17,2026-11-23,20:00,Jong Ajax,Jong AZ,NED_20261123T1900_jong-ajax_vs_jong-az-alkmaar,0.8185,1.30,bet365,+0.0641,yes

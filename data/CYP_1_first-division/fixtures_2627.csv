@@ -1,10 +1,5 @@
 gw,date,time,home,away
-10,2026-11-21,,Aris,Nea Salamis
-10,2026-11-21,,Omonia,APOEL
-10,2026-11-21,,Omonia Aradippou,Pafos
 10,2026-11-22,,Apollon,Omonia 29th May
-10,2026-11-22,,Karmiotissa,AEL Limassol
-10,2026-11-22,,Ol. Nicosia,AEK Larnaca
 10,2026-11-23,,Krasava,Anorthosis
 11,2026-11-27,,AEK Larnaca,Apollon
 11,2026-11-27,,AEL Limassol,Ol. Nicosia
@@ -111,3 +106,10 @@ gw,date,time,home,away
 25,2027-02-27,,Omonia 29th May,Aris
 25,2027-02-27,,Omonia Aradippou,Apollon
 25,2027-02-27,,Pafos,Omonia
+26,2027-03-06,,AEK Larnaca,Anorthosis
+26,2027-03-06,,Apollon,AEL Limassol
+26,2027-03-06,,Aris,Omonia Aradippou
+26,2027-03-06,,Karmiotissa,Nea Salamis
+26,2027-03-06,,Krasava,Pafos
+26,2027-03-06,,Ol. Nicosia,APOEL
+26,2027-03-06,,Omonia,Omonia 29th May

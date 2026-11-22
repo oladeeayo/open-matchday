@@ -1,13 +1,9 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-11,2026-11-28,,APOEL,Krasava,CYP_20261128T1600_apoel_vs_krasava,pEUrg2L8,2026-11-28T16:00:00Z,0,,,,,,2026-11-21T06:23:25Z
-11,2026-11-28,,Anorthosis,Karmiotissa,CYP_20261128T1600_anorthosis_vs_karmiotissa,I7xcVbT1,2026-11-28T16:00:00Z,0,,,,,,2026-11-21T06:23:25Z
-11,2026-11-27,,Omonia 29th May,Omonia Aradippou,CYP_20261127T1800_omonia-29th-may_vs_omonia-aradippou,zRHUqbre,2026-11-27T18:00:00Z,0,,,,,,2026-11-21T06:23:25Z
-11,2026-11-27,,AEL Limassol,Ol. Nicosia,CYP_20261127T1700_ael-limassol_vs_ol-nicosia,AsZlXKbk,2026-11-27T17:00:00Z,0,,,,,,2026-11-21T06:23:25Z
-11,2026-11-27,,AEK Larnaca,Apollon,CYP_20261127T1700_aek-larnaca_vs_apollon-limassol,EBmJxsyS,2026-11-27T17:00:00Z,0,,,,,,2026-11-21T06:23:25Z
-10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,UTExwjVA,2026-11-23T17:00:00Z,1,3.0,3.25,2.1,1.83,1.95,2026-11-21T06:23:25Z
-10,2026-11-22,,Apollon,Omonia 29th May,CYP_20261122T1700_apollon-limassol_vs_omonia-29th-may,M3VBv36F,2026-11-22T17:00:00Z,1,1.15,7.5,12.0,1.95,1.33,2026-11-21T06:23:25Z
-10,2026-11-22,,Karmiotissa,AEL Limassol,CYP_20261122T1500_karmiotissa_vs_ael-limassol,EJyAKsFq,2026-11-22T15:00:00Z,1,4.0,4.0,1.65,1.62,1.6,2026-11-21T06:23:25Z
-10,2026-11-22,,Ol. Nicosia,AEK Larnaca,CYP_20261122T1300_ol-nicosia_vs_aek-larnaca,MquIILqd,2026-11-22T13:00:00Z,1,4.5,4.0,1.57,1.75,1.67,2026-11-21T06:23:25Z
-10,2026-11-21,,Aris,Nea Salamis,CYP_20261121T1700_aris-limassol_vs_nea-salamis,ljDMtYVo,2026-11-21T17:00:00Z,2,1.45,4.2,5.75,1.8,1.7,2026-11-21T06:23:25Z
-10,2026-11-21,,Omonia,APOEL,CYP_20261121T1500_omonia_vs_apoel,dGGUvC0b,2026-11-21T15:00:00Z,2,1.95,3.4,3.5,1.67,1.83,2026-11-21T06:23:25Z
-10,2026-11-21,,Omonia Aradippou,Pafos,CYP_20261121T1400_omonia-aradippou_vs_pafos,EwS3tPy3,2026-11-21T14:00:00Z,1,5.0,4.0,1.53,1.75,1.67,2026-11-21T06:23:25Z
+11,2026-11-29,,Pafos,Aris,CYP_20261129T1700_pafos_vs_aris-limassol,S0EMoKDr,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+11,2026-11-28,,APOEL,Krasava,CYP_20261128T1600_apoel_vs_krasava,pEUrg2L8,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+11,2026-11-28,,Anorthosis,Karmiotissa,CYP_20261128T1600_anorthosis_vs_karmiotissa,I7xcVbT1,2026-11-28T16:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+11,2026-11-27,,Omonia 29th May,Omonia Aradippou,CYP_20261127T1800_omonia-29th-may_vs_omonia-aradippou,zRHUqbre,2026-11-27T18:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+11,2026-11-27,,AEL Limassol,Ol. Nicosia,CYP_20261127T1700_ael-limassol_vs_ol-nicosia,AsZlXKbk,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+11,2026-11-27,,AEK Larnaca,Apollon,CYP_20261127T1700_aek-larnaca_vs_apollon-limassol,EBmJxsyS,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T15:33:16Z
+10,2026-11-23,,Krasava,Anorthosis,CYP_20261123T1700_krasava_vs_anorthosis,UTExwjVA,2026-11-23T17:00:00Z,2,3.13,3.25,2.15,1.83,2.0,2026-11-22T15:33:16Z
+10,2026-11-22,,Apollon,Omonia 29th May,CYP_20261122T1700_apollon-limassol_vs_omonia-29th-may,M3VBv36F,2026-11-22T17:00:00Z,2,1.15,7.5,12.0,2.05,1.38,2026-11-22T15:33:16Z

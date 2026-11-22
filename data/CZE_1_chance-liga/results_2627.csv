@@ -1,10 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-27,,Artis Brno,Mlada Boleslav,2,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-07-31,,Sparta Prague,Zlin,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Liberec,Teplice,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Ostrava,Slavia Prague,0,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Plzen,Brno,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
-2,2026-08-01,,Slovacko,Artis Brno,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-02,,Bohemians,Hradec Kralove,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-02,,FK Pardubice,Jablonec,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
 2,2026-08-02,,Sigma Olomouc,Mlada Boleslav,2,2,D,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -103,3 +97,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-11-08,,Plzen,Sparta Prague,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-11-08,,Slavia Prague,Artis Brno,4,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 14,2026-11-08,,Teplice,FK Pardubice,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-21,,Artis Brno,Jablonec,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-21,,Bohemians,Plzen,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-21,,Mlada Boleslav,Zlin,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-21,,Ostrava,Teplice,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-21,,Sigma Olomouc,Slavia Prague,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-22,,FK Pardubice,Brno,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway

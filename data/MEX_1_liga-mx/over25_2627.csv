@@ -1,6 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-19,2026-11-22,00:07,Guadalajara,Cruz Azul,MEX_20261122T2307_guadalajara-chivas_vs_cruz-azul,0.6595,1.53,bet365,+0.0090,yes
-19,2026-11-22,04:00,Tigres UANL,América,MEX_20261122T0300_tigres-uanl_vs_club-america,0.7426,1.67,bet365,+0.2401,yes
-19,2026-11-22,02:00,Pumas UNAM,Monterrey,MEX_20261122T0100_unam-pumas_vs_monterrey,0.6163,1.75,bet365,+0.0786,yes
-19,2026-11-21,00:00,Santos,León,MEX_20261121T2300_santos-laguna_vs_club-leon,0.2879,1.62,bet365,-0.5336,no
-19,2026-11-21,23:50,Pachuca,Toluca,MEX_20261121T2250_pachuca_vs_toluca,0.6344,1.48,bet365,-0.0610,yes
+19,2026-11-22,00:07,Guadalajara,Cruz Azul,MEX_20261122T2307_guadalajara-chivas_vs_cruz-azul,0.6598,1.62,bet365,+0.0689,yes

@@ -1,11 +1,4 @@
 gw,date,time,home,away
-11,2026-11-21,13:30,Man City,Fulham
-11,2026-11-21,16:00,Aston Villa,Sunderland
-11,2026-11-21,16:00,Bournemouth,Nott'm Forest
-11,2026-11-21,16:00,Chelsea,Leeds
-11,2026-11-21,16:00,Coventry,Crystal Palace
-11,2026-11-21,16:00,Spurs,Ipswich
-11,2026-11-21,18:30,Newcastle,Arsenal
 11,2026-11-22,15:00,Hull,Brighton
 11,2026-11-22,17:30,Liverpool,Man Utd
 11,2026-11-23,21:00,Brentford,Everton
@@ -99,36 +92,36 @@ gw,date,time,home,away
 20,2027-01-06,20:30,Ipswich,Coventry
 20,2027-01-06,21:15,Leeds,Man City
 20,2027-01-07,21:00,Man Utd,Newcastle
-21,2027-01-16,16:00,Aston Villa,Man Utd
-21,2027-01-16,16:00,Bournemouth,Ipswich
-21,2027-01-16,16:00,Brentford,Brighton
+21,2027-01-16,13:30,Coventry,Everton
 21,2027-01-16,16:00,Chelsea,Sunderland
-21,2027-01-16,16:00,Coventry,Everton
 21,2027-01-16,16:00,Hull,Arsenal
 21,2027-01-16,16:00,Liverpool,Crystal Palace
 21,2027-01-16,16:00,Man City,Nott'm Forest
 21,2027-01-16,16:00,Newcastle,Fulham
-21,2027-01-16,16:00,Spurs,Leeds
-22,2027-01-23,16:00,Arsenal,Newcastle
-22,2027-01-23,16:00,Brighton,Man City
-22,2027-01-23,16:00,Crystal Palace,Spurs
-22,2027-01-23,16:00,Everton,Brentford
+21,2027-01-16,18:30,Aston Villa,Man Utd
+21,2027-01-17,15:00,Bournemouth,Ipswich
+21,2027-01-17,17:30,Spurs,Leeds
+21,2027-01-18,21:00,Brentford,Brighton
 22,2027-01-23,16:00,Fulham,Aston Villa
 22,2027-01-23,16:00,Ipswich,Hull
-22,2027-01-23,16:00,Leeds,Chelsea
-22,2027-01-23,16:00,Man Utd,Liverpool
-22,2027-01-23,16:00,Nott'm Forest,Bournemouth
-22,2027-01-23,16:00,Sunderland,Coventry
+22,2027-01-23,18:30,Arsenal,Newcastle
+22,2027-01-23,21:00,Brighton,Man City
+22,2027-01-24,15:00,Crystal Palace,Spurs
+22,2027-01-24,15:00,Everton,Brentford
+22,2027-01-24,15:00,Nott'm Forest,Bournemouth
+22,2027-01-24,15:00,Sunderland,Coventry
+22,2027-01-24,17:30,Man Utd,Liverpool
+22,2027-01-25,21:00,Leeds,Chelsea
+23,2027-01-30,13:30,Liverpool,Everton
 23,2027-01-30,16:00,Aston Villa,Ipswich
-23,2027-01-30,16:00,Bournemouth,Fulham
-23,2027-01-30,16:00,Brentford,Man Utd
-23,2027-01-30,16:00,Chelsea,Nott'm Forest
-23,2027-01-30,16:00,Coventry,Leeds
-23,2027-01-30,16:00,Hull,Crystal Palace
-23,2027-01-30,16:00,Liverpool,Everton
-23,2027-01-30,16:00,Man City,Arsenal
 23,2027-01-30,16:00,Newcastle,Brighton
-23,2027-01-30,16:00,Spurs,Sunderland
+23,2027-01-30,18:30,Chelsea,Nott'm Forest
+23,2027-01-31,15:00,Bournemouth,Fulham
+23,2027-01-31,15:00,Coventry,Leeds
+23,2027-01-31,15:00,Hull,Crystal Palace
+23,2027-01-31,15:00,Spurs,Sunderland
+23,2027-01-31,17:30,Man City,Arsenal
+23,2027-02-01,21:00,Brentford,Man Utd
 24,2027-02-06,16:00,Arsenal,Liverpool
 24,2027-02-06,16:00,Brighton,Hull
 24,2027-02-06,16:00,Crystal Palace,Coventry

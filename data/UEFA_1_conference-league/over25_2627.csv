@@ -6,12 +6,12 @@ gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 4,2026-11-26,21:00,Braga,KuPS Kuopio,UEFA_20261126T2000_braga_vs_kups,0.4581,1.40,bet365,-0.3586,no
 4,2026-11-26,21:00,Borac,Atalanta,UEFA_20261126T2000_borac-banja-luka_vs_atalanta,0.4581,1.57,bet365,-0.2807,no
 4,2026-11-26,18:45,Pafos,Midtjylland,UEFA_20261126T1745_pafos_vs_midtjylland,0.4472,1.57,bet365,-0.2979,no
-4,2026-11-26,18:45,Kauno Žalgiris,Riga,UEFA_20261126T1745_fk-kauno-zalgiris_vs_riga-fc,0.5589,1.90,bet365,+0.0619,no
-4,2026-11-26,18:45,Jablonec,Lugano,UEFA_20261126T1745_jablonec_vs_lugano,0.5474,1.67,bet365,-0.0858,no
+4,2026-11-26,18:45,Kauno Žalgiris,Riga,UEFA_20261126T1745_fk-kauno-zalgiris_vs_riga-fc,0.5589,1.90,Betano,+0.0619,no
+4,2026-11-26,18:45,Jablonec,Lugano,UEFA_20261126T1745_jablonec_vs_lugano,0.5474,1.75,Betway,-0.0420,no
 4,2026-11-26,18:45,Hearts,Monaco,UEFA_20261126T1745_hearts_vs_monaco,0.4962,1.53,bet365,-0.2408,no
 4,2026-11-26,18:45,Brann,Aarhus,UEFA_20261126T1745_brann_vs_aarhus,0.4450,1.53,bet365,-0.3191,no
 4,2026-11-26,18:45,Ajax,Thun,UEFA_20261126T1745_ajax_vs_thun,0.4031,1.29,bet365,-0.4800,no
-4,2026-11-26,16:30,Kairat Almaty,Mjällby,UEFA_20261126T1530_kairat-almaty_vs_mjallby,0.5835,1.95,bet365,+0.1379,no
-4,2026-11-26,21:00,Nordsjælland,Panathinaikos,UEFA_20261126T2000_nordsjaelland_vs_panathinaikos,0.6381,1.67,bet365,+0.0656,yes
-4,2026-11-26,21:00,Hajduk Split,Sint-Truidense,UEFA_20261126T2000_hajduk-split_vs_st-truiden,0.4406,1.75,bet365,-0.2289,no
+4,2026-11-26,16:30,Kairat Almaty,Mjällby,UEFA_20261126T1530_kairat-almaty_vs_mjallby,0.5835,1.90,bet365,+0.1087,no
+4,2026-11-26,21:00,Nordsjælland,Panathinaikos,UEFA_20261126T2000_nordsjaelland_vs_panathinaikos,0.6381,1.67,Betano,+0.0656,yes
+4,2026-11-26,21:00,Hajduk Split,Sint-Truidense,UEFA_20261126T2000_hajduk-split_vs_st-truiden,0.4406,1.75,Betano,-0.2289,no
 4,2026-11-26,18:45,Brighton,U. Craiova,UEFA_20261126T1745_brighton_vs_univ-craiova,0.5772,1.36,bet365,-0.2150,no

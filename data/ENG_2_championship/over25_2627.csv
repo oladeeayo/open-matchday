@@ -1,13 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-22,13:00,Burnley,Blackburn Rovers,ENG_20261122T1200_burnley_vs_blackburn,0.5083,1.73,bet365,-0.1207,no
-16,2026-11-21,16:00,Wolverhampton Wanderers,Charlton Athletic,ENG_20261121T1500_wolves_vs_charlton,0.5848,1.62,bet365,-0.0526,no
-16,2026-11-21,16:00,West Ham United,Preston North End,ENG_20261121T1500_west-ham_vs_preston,0.7083,1.44,bet365,+0.0200,yes
-16,2026-11-21,16:00,Swansea City,West Bromwich Albion,ENG_20261121T1500_swansea_vs_west-brom,0.3446,2.00,bet365,-0.3108,no
-16,2026-11-21,16:00,Stoke City,Birmingham City,ENG_20261121T1500_stoke-city_vs_birmingham,0.3731,2.20,bet365,-0.1792,no
-16,2026-11-21,16:00,Sheffield United,Watford,ENG_20261121T1500_sheffield-utd_vs_watford,0.4097,1.80,bet365,-0.2625,no
-16,2026-11-21,16:00,Middlesbrough,Bristol City,ENG_20261121T1500_middlesbrough_vs_bristol-city,0.6706,1.53,bet365,+0.0260,yes
-16,2026-11-21,16:00,Lincoln City,Wrexham,ENG_20261121T1500_lincoln-city_vs_wrexham,0.4968,2.20,bet365,+0.0929,no
-16,2026-11-21,16:00,Bolton Wanderers,Portsmouth,ENG_20261121T1500_bolton_vs_portsmouth,0.4158,1.91,bet365,-0.2059,no
-16,2026-11-21,13:30,Southampton,Derby County,ENG_20261121T1230_southampton_vs_derby,0.6673,1.53,bet365,+0.0210,yes
-16,2026-11-21,13:30,Norwich City,Cardiff City,ENG_20261121T1230_norwich_vs_cardiff,0.6149,1.36,bet365,-0.1637,yes
-16,2026-11-21,13:30,Millwall,Queens Park Rangers,ENG_20261121T1230_millwall_vs_qpr,0.5898,1.73,bet365,+0.0204,no
+17,2026-11-25,21:00,Stoke City,Millwall,ENG_20261125T2000_stoke-city_vs_millwall,0.5356,2.00,bet365,+0.0712,no
+17,2026-11-25,20:45,Watford,Blackburn Rovers,ENG_20261125T1945_watford_vs_blackburn,0.4762,1.91,bet365,-0.0904,no
+17,2026-11-25,20:45,Burnley,Birmingham City,ENG_20261125T1945_burnley_vs_birmingham,0.3946,1.73,bet365,-0.3173,no
+17,2026-11-25,20:45,Bolton Wanderers,West Bromwich Albion,ENG_20261125T1945_bolton_vs_west-brom,0.5895,1.70,Betano,+0.0022,no
+17,2026-11-24,21:00,Wolverhampton Wanderers,Derby County,ENG_20261124T2000_wolves_vs_derby,0.5711,1.57,bet365,-0.1034,no
+17,2026-11-24,20:45,Sheffield United,Southampton,ENG_20261124T1945_sheffield-utd_vs_southampton,0.4037,1.73,bet365,-0.3016,no
+17,2026-11-24,20:45,Portsmouth,West Ham United,ENG_20261124T1945_portsmouth_vs_west-ham,0.7145,1.80,bet365,+0.2861,yes
+17,2026-11-24,20:45,Norwich City,Queens Park Rangers,ENG_20261124T1945_norwich_vs_qpr,0.5724,1.67,bet365,-0.0441,no
+17,2026-11-24,20:45,Middlesbrough,Swansea City,ENG_20261124T1945_middlesbrough_vs_swansea,0.6596,1.57,bet365,+0.0356,yes
+17,2026-11-24,20:45,Charlton Athletic,Lincoln City,ENG_20261124T1945_charlton_vs_lincoln-city,0.2555,2.00,bet365,-0.4890,no
+17,2026-11-24,20:45,Cardiff City,Preston North End,ENG_20261124T1945_cardiff_vs_preston,0.7107,1.44,bet365,+0.0234,yes
+17,2026-11-24,20:45,Bristol City,Wrexham,ENG_20261124T1945_bristol-city_vs_wrexham,0.2910,2.10,bet365,-0.3889,no

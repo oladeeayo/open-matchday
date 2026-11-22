@@ -74,3 +74,9 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 13,2026-11-07,20:00,St. Mirren,Rangers,0,2,A,0,1,A,11,17,4,7,16,22,7,4,,,,,1,1,0,0,,fixturedl
 13,2026-11-08,15:00,Heart of Midlothian,Falkirk,2,5,A,0,4,A,16,14,6,7,11,20,4,5,,,,,1,6,0,0,,fixturedl
 13,2026-11-08,16:00,Celtic,Kilmarnock,1,0,H,1,0,H,20,7,5,3,7,12,8,3,,,,,1,5,0,0,,fixturedl
+14,2026-11-21,16:00,Celtic,St. Mirren,4,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+14,2026-11-21,16:00,Falkirk,St. Johnstone,2,1,H,,,,,,,,,,,,,,,,,,,,,fixturedl
+14,2026-11-21,16:00,Hibernian,Dundee United,0,4,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+14,2026-11-21,16:00,Kilmarnock,Aberdeen,2,4,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+14,2026-11-21,18:45,Dundee,Heart of Midlothian,0,8,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+14,2026-11-21,21:00,Motherwell,Rangers,1,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl

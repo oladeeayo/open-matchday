@@ -1,12 +1,4 @@
 gw,date,time,home,away
-15,2026-11-21,,Brickfield,Newtown
-15,2026-11-21,,Caersws FC,Denbigh
-15,2026-11-21,,Gresford,Buckley
-15,2026-11-21,,Guilsfield,Bangor 1876
-15,2026-11-21,,Holyhead,Bala
-15,2026-11-21,,Llanuwchllyn,Ruthin
-15,2026-11-21,,Mold Alexandra,Porthmadog
-15,2026-11-21,,Penrhyncoch,Rhyl
 16,2026-11-27,,Bala,Caersws FC
 16,2026-11-27,,Bangor 1876,Mold Alexandra
 16,2026-11-27,,Denbigh,Brickfield
@@ -106,3 +98,19 @@ gw,date,time,home,away
 27,2027-03-27,,Guilsfield,Holyhead
 27,2027-03-27,,Llanuwchllyn,Brickfield
 27,2027-03-27,,Porthmadog,Newtown
+28,2027-04-02,,Denbigh,Buckley
+28,2027-04-03,,Bangor 1876,Guilsfield
+28,2027-04-03,,Brickfield,Caersws FC
+28,2027-04-03,,Holyhead,Llanuwchllyn
+28,2027-04-03,,Mold Alexandra,Gresford
+28,2027-04-03,,Newtown,Bala
+28,2027-04-03,,Rhyl,Penrhyncoch
+28,2027-04-03,,Ruthin,Porthmadog
+29,2027-04-09,,Penrhyncoch,Newtown
+29,2027-04-10,,Bala,Rhyl
+29,2027-04-10,,Caersws FC,Ruthin
+29,2027-04-10,,Gresford,Denbigh
+29,2027-04-10,,Guilsfield,Brickfield
+29,2027-04-10,,Holyhead,Mold Alexandra
+29,2027-04-10,,Llanuwchllyn,Bangor 1876
+29,2027-04-10,,Porthmadog,Buckley

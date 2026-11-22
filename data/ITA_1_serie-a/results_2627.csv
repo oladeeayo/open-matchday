@@ -109,3 +109,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-11-08,14:00,Monza,Atalanta,0,1,A,0,0,D,22,13,7,7,11,6,7,2,6,0,1,2,4,2,0,0,49,fixturedl
 11,2026-11-08,17:00,Internazionale,Como,2,0,H,2,0,H,14,5,4,1,13,6,4,2,1,0,3,2,1,0,0,0,"12,19",fixturedl
 11,2026-11-08,19:45,Fiorentina,Juventus,2,2,D,1,1,D,22,18,6,6,16,18,5,12,1,8,4,4,1,3,0,0,"32,54,66",fixturedl
+12,2026-11-21,15:00,Como,Cagliari,2,0,H,,,,,,,,,,3,3,2,0,1,3,,,,,,fixturedl
+12,2026-11-21,15:00,Lazio,Lecce,3,0,H,,,,,,,,,,9,3,4,1,5,2,,,,,"68,90",fixturedl
+12,2026-11-21,18:00,Parma,Roma,1,5,A,,,,,,,,,,3,8,3,5,0,3,,,,,"39,54,68,71,77,90",fixturedl
+12,2026-11-21,20:45,Napoli,Torino,1,0,H,,,,,,,,,,8,5,4,1,4,4,,,,,73,fixturedl
+12,2026-11-22,12:30,Juventus,Venezia,4,0,H,,,,,,,,,,5,2,4,2,1,0,,,,,"53,59,71",fixturedl

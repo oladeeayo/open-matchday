@@ -1,7 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-15,2026-11-22,,Dun. Streda,Komarno,SVK_20261122T1700_dun-streda_vs_komarno,0.6042,1.45,Betway,-0.1239,yes
-15,2026-11-22,,Kosice,Skalica,SVK_20261122T1430_fc-kosice_vs_skalica,0.4777,1.50,Betway,-0.2834,no
-15,2026-11-21,,Michalovce,Trnava,SVK_20261121T1700_michalovce_vs_spartak-trnava,0.5112,1.53,Betano,-0.2179,no
-15,2026-11-21,,Zilina,Banska Bystrica,SVK_20261121T1430_zilina_vs_banska-bystrica,0.6359,1.30,Betano,-0.1733,yes
-15,2026-11-21,,Trencin,Podbrezova,SVK_20261121T1430_trencin_vs_podbrezova,0.6071,1.50,Betano,-0.0894,yes
-15,2026-11-21,,Ruzomberok,Slovan Bratislava,SVK_20261121T1430_ruzomberok_vs_slovan-bratislava,0.4615,1.53,Betway,-0.2939,no
+15,2026-11-22,,Dun. Streda,Komarno,SVK_20261122T1700_dun-streda_vs_komarno,0.6068,1.48,Betway,-0.1019,yes

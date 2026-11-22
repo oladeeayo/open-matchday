@@ -1,13 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-17,2026-11-21,,Worksop,Chorley,ENG_20261121T1500_worksop_vs_chorley,0.5353,1.67,bet365,-0.1061,no
-17,2026-11-21,,Spennymoor,Harborough,ENG_20261121T1500_spennymoor_vs_harborough,0.3575,1.62,bet365,-0.4209,no
-17,2026-11-21,,Spalding United,Merthyr Town,ENG_20261121T1500_spalding-united_vs_merthyr-town,0.4747,1.57,bet365,-0.2548,no
-17,2026-11-21,,Southport,Brackley Town,ENG_20261121T1500_southport_vs_brackley,0.6130,1.70,bet365,+0.0420,yes
-17,2026-11-21,,Radcliffe,AFC Telford,ENG_20261121T1500_radcliffe_vs_telford,0.5585,1.45,Betway,-0.1901,no
-17,2026-11-21,,Oxford City,Scarborough,ENG_20261121T1500_oxford-city_vs_scarborough-athletic,0.5192,1.67,bet365,-0.1330,no
-17,2026-11-21,,Morecambe,King’s Lynn,ENG_20261121T1500_morecambe_vs_king-s-lynn,0.5437,1.70,bet365,-0.0757,no
-17,2026-11-21,,Hereford,Darlington,ENG_20261121T1500_hereford_vs_darlington-fc,0.6215,1.53,bet365,-0.0492,yes
-17,2026-11-21,,Hebburn Town,Marine,ENG_20261121T1500_hebburn-town_vs_marine,0.5897,1.73,bet365,+0.0202,no
-17,2026-11-21,,Chester,Macclesfield,ENG_20261121T1500_chester_vs_macclesfield,0.4604,1.75,bet365,-0.1942,no
-17,2026-11-21,,Buxton,Hednesford,ENG_20261121T1500_buxton_vs_hednesford,0.6012,1.85,bet365,+0.1123,yes
-17,2026-11-21,,Bedford,South Shields,ENG_20261121T1500_bedford_vs_south-shields,0.5627,1.57,bet365,-0.1165,no
+18,2026-11-24,,South Shields,Worksop,ENG_20261124T1945_south-shields_vs_worksop,0.7118,1.50,bet365,+0.0676,yes
+18,2026-11-24,,Scarborough,Spalding United,ENG_20261124T1945_scarborough-athletic_vs_spalding-united,0.4906,1.73,bet365,-0.1512,no
+18,2026-11-24,,Merthyr Town,Bedford,ENG_20261124T1945_merthyr-town_vs_bedford,0.5752,1.44,bet365,-0.1717,no
+18,2026-11-24,,Marine,Spennymoor,ENG_20261124T1945_marine_vs_spennymoor,0.4852,1.65,bet365,-0.1995,no
+18,2026-11-24,,Macclesfield,Morecambe,ENG_20261124T1945_macclesfield_vs_morecambe,0.6424,1.57,bet365,+0.0086,yes
+18,2026-11-24,,King’s Lynn,Radcliffe,ENG_20261124T1945_king-s-lynn_vs_radcliffe,0.4099,1.53,bet365,-0.3729,no
+18,2026-11-24,,Hednesford,Oxford City,ENG_20261124T1945_hednesford_vs_oxford-city,0.6161,1.65,bet365,+0.0165,yes
+18,2026-11-24,,Harborough,Chester,ENG_20261124T1945_harborough_vs_chester,0.4565,1.67,bet365,-0.2376,no
+18,2026-11-24,,Darlington,Southport,ENG_20261124T1945_darlington-fc_vs_southport,0.4199,1.62,bet365,-0.3198,no
+18,2026-11-24,,Chorley,Hebburn Town,ENG_20261124T1945_chorley_vs_hebburn-town,0.7065,1.70,bet365,+0.2011,yes
+18,2026-11-24,,Brackley Town,Hereford,ENG_20261124T1945_brackley_vs_hereford,0.5084,1.73,bet365,-0.1205,no
+18,2026-11-24,,AFC Telford,Buxton,ENG_20261124T1945_telford_vs_buxton,0.6302,1.60,bet365,+0.0083,yes
