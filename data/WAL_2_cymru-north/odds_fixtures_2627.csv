@@ -1,9 +1,9 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-28,,Porthmadog,Penrhyncoch,WAL_20261128T1430_porthmadog_vs_penrhyncoch,fwk3eQRj,2026-11-28T14:30:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Ruthin,Guilsfield,WAL_20261128T1400_ruthin-town_vs_guilsfield,OfbX0n4T,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Rhyl,Gresford,WAL_20261128T1400_rhyl_vs_gresford,xv0P28ZG,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Newtown,Holyhead,WAL_20261128T1400_newtown_vs_holyhead,4Q1H4U44,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Buckley,Llanuwchllyn,WAL_20261128T1400_buckley_vs_llanuwchllyn,d0b96jzh,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-27,,Denbigh,Brickfield,WAL_20261127T1945_denbigh_vs_brickfield-rangers,YNKil9KN,2026-11-27T19:45:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-27,,Bala,Caersws FC,WAL_20261127T1945_bala_vs_caersws-fc,SQHqjVkB,2026-11-27T19:45:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-27,,Bangor 1876,Mold Alexandra,WAL_20261127T1930_bangor-1876_vs_mold-alexandra,Ug6Nrmro,2026-11-27T19:30:00Z,0,,,,,,2026-11-22T17:53:35Z
+16,2026-11-28,,Porthmadog,Penrhyncoch,WAL_20261128T1430_porthmadog_vs_penrhyncoch,fwk3eQRj,2026-11-28T14:30:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Ruthin,Guilsfield,WAL_20261128T1400_ruthin-town_vs_guilsfield,OfbX0n4T,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Rhyl,Gresford,WAL_20261128T1400_rhyl_vs_gresford,xv0P28ZG,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Newtown,Holyhead,WAL_20261128T1400_newtown_vs_holyhead,4Q1H4U44,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Buckley,Llanuwchllyn,WAL_20261128T1400_buckley_vs_llanuwchllyn,d0b96jzh,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-27,,Denbigh,Brickfield,WAL_20261127T1945_denbigh_vs_brickfield-rangers,YNKil9KN,2026-11-27T19:45:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-27,,Bala,Caersws FC,WAL_20261127T1945_bala_vs_caersws-fc,SQHqjVkB,2026-11-27T19:45:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-27,,Bangor 1876,Mold Alexandra,WAL_20261127T1930_bangor-1876_vs_mold-alexandra,Ug6Nrmro,2026-11-27T19:30:00Z,0,,,,,,2026-11-23T06:42:30Z

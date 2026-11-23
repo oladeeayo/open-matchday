@@ -1,3 +1,4 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-35,2026-11-22,23:00,River Plate,Lanús,ARG_20261122T2200_river-plate_vs_lanus,0.4277,2.25,Betano,-0.0378,no
-35,2026-11-22,20:00,Rosario Central,Gimnasia (Mendoza),ARG_20261122T1900_rosario-central_vs_gimnasia-mendoza,0.4585,1.75,Betano,-0.1976,no
+36,2026-11-29,21:00,Vélez Sarsfield,Independiente,ARG_20261129T2100_velez-sarsfield_vs_independiente,0.3916,,,,no
+36,2026-11-26,01:00,Boca Juniors,Independiente Rivadavia,ARG_20261126T0000_boca-juniors_vs_ind-rivadavia,0.3104,2.10,bet365,-0.3481,no
+36,2026-11-23,21:00,Gimnasia La Plata,Newell's Old Boys,ARG_20261123T2000_gimnasia-l-p_vs_newells-old-boys,0.4983,2.30,Betano,+0.1460,no

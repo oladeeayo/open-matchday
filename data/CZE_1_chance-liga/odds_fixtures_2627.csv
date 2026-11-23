@@ -1,9 +1,9 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-29,,Zlin,Sparta Prague,CZE_20261129T1700_zlin_vs_sparta-prague,Od1FhMle,2026-11-29T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-29,,Jablonec,FK Pardubice,CZE_20261129T1400_jablonec_vs_fk-pardubice,AXkHCstR,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-29,,Brno,Plzen,CZE_20261129T1400_brno_vs_plzen,K0Cy04dL,2026-11-29T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-29,,Slavia Prague,Ostrava,CZE_20261129T1200_slavia-prague_vs_ostrava,OGi9E3BE,2026-11-29T12:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Hradec Kralove,Bohemians,CZE_20261128T1700_hradec-kralove_vs_bohemians-1905,WM4Nj0J7,2026-11-28T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Teplice,Liberec,CZE_20261128T1400_teplice_vs_liberec,GWc7frKr,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-28,,Mlada Boleslav,Sigma Olomouc,CZE_20261128T1400_mlada-boleslav_vs_sigma-olomouc,ETve5aY0,2026-11-28T14:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-16,2026-11-27,,Artis Brno,Slovacko,CZE_20261127T1700_artis-brno_vs_slovacko,pCsdpLum,2026-11-27T17:00:00Z,0,,,,,,2026-11-22T17:53:35Z
+16,2026-11-29,,Zlin,Sparta Prague,CZE_20261129T1700_zlin_vs_sparta-prague,Od1FhMle,2026-11-29T17:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-29,,Jablonec,FK Pardubice,CZE_20261129T1400_jablonec_vs_fk-pardubice,AXkHCstR,2026-11-29T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-29,,Brno,Plzen,CZE_20261129T1400_brno_vs_plzen,K0Cy04dL,2026-11-29T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-29,,Slavia Prague,Ostrava,CZE_20261129T1200_slavia-prague_vs_ostrava,OGi9E3BE,2026-11-29T12:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Hradec Kralove,Bohemians,CZE_20261128T1700_hradec-kralove_vs_bohemians-1905,WM4Nj0J7,2026-11-28T17:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Teplice,Liberec,CZE_20261128T1400_teplice_vs_liberec,GWc7frKr,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-28,,Mlada Boleslav,Sigma Olomouc,CZE_20261128T1400_mlada-boleslav_vs_sigma-olomouc,ETve5aY0,2026-11-28T14:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+16,2026-11-27,,Artis Brno,Slovacko,CZE_20261127T1700_artis-brno_vs_slovacko,pCsdpLum,2026-11-27T17:00:00Z,0,,,,,,2026-11-23T06:42:30Z

@@ -1,7 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-4,2026-08-15,,Piast Gliwice,Wieczysta Krakow,3,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,Widzew Lodz,Korona Kielce,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
-4,2026-08-15,,Zaglebie,Slask Wroclaw,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-16,,Cracovia,Rakow,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-16,,Gornik Zabrze,Wisla,2,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
 4,2026-08-16,,Motor Lublin,GKS Katowice,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -105,3 +102,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 15,2026-11-21,,Zaglebie,Gornik Zabrze,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 15,2026-11-22,,GKS Katowice,Lech Poznan,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway
 15,2026-11-22,,Rakow,Widzew Lodz,3,1,H,,,,,,,,,,,,,,,,,,,,,soccerway
+15,2026-11-22,,Wisla Plock,Legia,0,1,A,,,,,,,,,,,,,,,,,,,,,soccerway

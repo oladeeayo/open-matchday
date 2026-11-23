@@ -1,2 +1,20 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-11,2026-11-22,17:15,Arezzo,Padova,ITA_20261122T1615_arezzo_vs_padova,0.4204,2.05,bet365,-0.1381,no
+12,2026-11-29,19:30,Arezzo,Pisa,ITA_20261129T1830_arezzo_vs_pisa,0.4829,,,,no
+12,2026-11-29,17:15,Sampdoria,Cremonese,ITA_20261129T1615_sampdoria_vs_cremonese,0.4970,,,,no
+12,2026-11-29,15:00,Sudtirol,Mantova,ITA_20261129T1400_sudtirol_vs_mantova,0.3045,,,,no
+12,2026-11-29,15:00,Modena,Padova,ITA_20261129T1400_modena_vs_padova,0.4252,,,,no
+12,2026-11-28,19:30,Palermo,Benevento,ITA_20261128T1830_palermo_vs_benevento,0.4796,,,,no
+12,2026-11-28,17:15,Vicenza,Cesena,ITA_20261128T1615_vicenza_vs_cesena,0.5392,,,,no
+12,2026-11-28,15:00,Empoli,Hellas Verona,ITA_20261128T1400_empoli_vs_verona,0.4295,,,,no
+12,2026-11-28,15:00,Carrarese,Juve Stabia,ITA_20261128T1400_carrarese_vs_juve-stabia,0.2929,,,,no
+12,2026-11-28,15:00,Ascoli,Virtus Entella,ITA_20261128T1400_ascoli_vs_entella,0.3600,,,,no
+12,2026-11-25,20:00,Pisa,Modena,ITA_20261125T1900_pisa_vs_modena,0.6188,1.85,bet365,+0.1447,yes
+12,2026-11-25,20:00,Padova,Sampdoria,ITA_20261125T1900_padova_vs_sampdoria,0.4310,2.10,bet365,-0.0949,no
+12,2026-11-25,20:00,Mantova,Arezzo,ITA_20261125T1900_mantova_vs_arezzo,0.4477,1.85,bet365,-0.1718,no
+12,2026-11-25,19:00,Cremonese,US Avellino,ITA_20261125T1800_cremonese_vs_avellino,0.3428,2.08,bet365,-0.2870,no
+12,2026-11-24,20:00,Palermo,Sudtirol,ITA_20261124T1900_palermo_vs_sudtirol,0.5803,1.62,bet365,-0.0599,no
+12,2026-11-24,20:00,Vicenza,Carrarese,ITA_20261124T1900_vicenza_vs_carrarese,0.5237,2.00,bet365,+0.0475,no
+12,2026-11-24,20:00,Virtus Entella,Hellas Verona,ITA_20261124T1900_entella_vs_verona,0.4059,2.10,bet365,-0.1475,no
+12,2026-11-24,20:00,Cesena,Ascoli,ITA_20261124T1900_cesena_vs_ascoli,0.3776,1.85,bet365,-0.3014,no
+12,2026-11-24,20:00,Benevento,Empoli,ITA_20261124T1900_benevento_vs_empoli,0.5218,1.70,bet365,-0.1129,no
+12,2026-11-24,19:00,Juve Stabia,Catanzaro,ITA_20261124T1800_juve-stabia_vs_catanzaro,0.4297,1.70,bet365,-0.2695,no

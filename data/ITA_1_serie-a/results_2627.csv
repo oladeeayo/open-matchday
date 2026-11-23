@@ -116,3 +116,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-11-22,12:30,Juventus,Venezia,4,0,H,,,,,,,,,,5,2,4,2,1,0,,,,,"53,59,71",fixturedl
 12,2026-11-22,15:00,Bologna,Udinese,1,1,D,,,,,,,,,,8,4,2,3,6,1,,,,,"43,67",fixturedl
 12,2026-11-22,15:00,Sassuolo,Genoa,0,2,A,,,,,,,,,,5,3,0,1,5,2,,,,,"26,38",fixturedl
+12,2026-11-22,18:00,Milan,Frosinone,5,1,H,,,,,,,,,,2,9,2,4,0,5,,,,,"4,19,25,48,60,68",fixturedl
+12,2026-11-22,20:45,Atalanta,Internazionale,4,4,D,,,,,,,,,,5,6,2,4,3,2,,,,,"16,35,52,76,80,91",fixturedl

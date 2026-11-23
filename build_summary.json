@@ -1,6 +1,6 @@
 {
   "season": "2627",
-  "generated_utc": "2026-11-22T17:53:17Z",
+  "generated_utc": "2026-11-23T06:42:12Z",
   "leagues": [
     {
       "league": "Premier League",
@@ -10,9 +10,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 108,
-      "results": 108,
-      "fixtures": 272,
+      "corners": 109,
+      "results": 109,
+      "fixtures": 271,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -24,9 +24,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 126,
-      "results": 126,
-      "fixtures": 254,
+      "corners": 128,
+      "results": 128,
+      "fixtures": 252,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -38,7 +38,7 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 89,
+      "corners": 90,
       "results": 90,
       "fixtures": 216,
       "errors": [],
@@ -52,9 +52,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 117,
-      "results": 117,
-      "fixtures": 263,
+      "corners": 119,
+      "results": 119,
+      "fixtures": 261,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -66,9 +66,9 @@
       "dropped_reversed_dupes": 1,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 97,
-      "results": 97,
-      "fixtures": 209,
+      "corners": 99,
+      "results": 99,
+      "fixtures": 207,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -207,7 +207,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 126,
+      "results": 129,
       "fixtures": 8,
       "errors": [],
       "latest": "2026-11-22"
@@ -445,8 +445,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 139,
-      "fixtures": 241,
+      "results": 140,
+      "fixtures": 240,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -486,9 +486,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 106,
-      "results": 106,
-      "fixtures": 200,
+      "corners": 108,
+      "results": 108,
+      "fixtures": 198,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -500,9 +500,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 106,
-      "results": 106,
-      "fixtures": 200,
+      "corners": 107,
+      "results": 107,
+      "fixtures": 199,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -514,9 +514,9 @@
       "dropped_reversed_dupes": 0,
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
-      "corners": 73,
-      "results": 73,
-      "fixtures": 109,
+      "corners": 75,
+      "results": 75,
+      "fixtures": 107,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -543,7 +543,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 77,
+      "results": 78,
       "fixtures": 54,
       "errors": [],
       "latest": "2026-11-22"
@@ -557,7 +557,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 88,
+      "results": 89,
       "fixtures": 43,
       "errors": [],
       "latest": "2026-11-22"
@@ -585,10 +585,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 107,
-      "fixtures": 25,
+      "results": 108,
+      "fixtures": 24,
       "errors": [],
-      "latest": "2026-11-21"
+      "latest": "2026-11-22"
     },
     {
       "league": "Liga I",
@@ -599,8 +599,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 104,
-      "fixtures": 114,
+      "results": 105,
+      "fixtures": 113,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -613,7 +613,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 105,
+      "results": 103,
       "fixtures": 109,
       "errors": [],
       "latest": "2026-11-22"
@@ -655,7 +655,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 106,
+      "results": 104,
       "fixtures": 111,
       "errors": [],
       "latest": "2026-11-22"
@@ -669,7 +669,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 104,
+      "results": 105,
       "fixtures": 118,
       "errors": [],
       "latest": "2026-11-22"
@@ -683,8 +683,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 108,
-      "fixtures": 112,
+      "results": 109,
+      "fixtures": 111,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -753,7 +753,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 67,
+      "results": 68,
       "fixtures": 107,
       "errors": [],
       "latest": "2026-11-22"
@@ -767,7 +767,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 105,
+      "results": 106,
       "fixtures": 113,
       "errors": [],
       "latest": "2026-11-22"
@@ -795,7 +795,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 68,
+      "results": 69,
       "fixtures": 113,
       "errors": [],
       "latest": "2026-11-22"
@@ -809,7 +809,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 89,
+      "results": 90,
       "fixtures": 42,
       "errors": [],
       "latest": "2026-11-22"
@@ -823,7 +823,7 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 77,
+      "results": 78,
       "fixtures": 102,
       "errors": [],
       "latest": "2026-11-22"
@@ -865,8 +865,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 158,
-      "fixtures": 293,
+      "results": 161,
+      "fixtures": 290,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -879,8 +879,8 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 119,
-      "fixtures": 261,
+      "results": 120,
+      "fixtures": 260,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -921,8 +921,8 @@
       "dropped_stale_postponed": 3,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 353,
-      "fixtures": 27,
+      "results": 356,
+      "fixtures": 24,
       "errors": [],
       "latest": "2026-11-22"
     },
@@ -935,10 +935,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 380,
-      "fixtures": 4,
+      "results": 382,
+      "fixtures": 2,
       "errors": [],
-      "latest": "2026-11-14"
+      "latest": "2026-11-22"
     },
     {
       "league": "Liga Profesional",
@@ -949,10 +949,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 492,
-      "fixtures": 5,
+      "results": 495,
+      "fixtures": 3,
       "errors": [],
-      "latest": "2026-11-21"
+      "latest": "2026-11-23"
     },
     {
       "league": "Primera Nacional",
@@ -963,10 +963,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 657,
-      "fixtures": 7,
+      "results": 658,
+      "fixtures": 6,
       "errors": [],
-      "latest": "2026-11-22"
+      "latest": "2026-11-23"
     },
     {
       "league": "Liga MX",
@@ -977,10 +977,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 151,
-      "fixtures": 2,
+      "results": 153,
+      "fixtures": 0,
       "errors": [],
-      "latest": "2026-11-22"
+      "latest": "2026-11-23"
     },
     {
       "league": "Liga de Expansión MX",
@@ -1005,10 +1005,10 @@
       "dropped_stale_postponed": 0,
       "dropped_cross_source_dupes": 0,
       "corners": 0,
-      "results": 550,
-      "fixtures": 21,
+      "results": 553,
+      "fixtures": 18,
       "errors": [],
-      "latest": "2026-11-21"
+      "latest": "2026-11-23"
     },
     {
       "league": "J1 League",

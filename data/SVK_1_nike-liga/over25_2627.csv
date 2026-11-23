@@ -1,7 +1,7 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-29,,Trnava,Trencin,SVK_20261129T1700_spartak-trnava_vs_trencin,0.6378,1.57,Betano,+0.0013,yes
-16,2026-11-29,,Skalica,Michalovce,SVK_20261129T1430_skalica_vs_michalovce,0.5614,1.85,Betano,+0.0386,no
-16,2026-11-28,,Slovan Bratislava,Kosice,SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,0.8462,1.33,Betano,+0.1254,yes
-16,2026-11-28,,Podbrezova,Dun. Streda,SVK_20261128T1430_podbrezova_vs_dun-streda,0.6440,,,,yes
-16,2026-11-28,,Komarno,Zilina,SVK_20261128T1430_komarno_vs_zilina,0.5599,,,,no
-16,2026-11-28,,Banska Bystrica,Ruzomberok,SVK_20261128T1430_banska-bystrica_vs_ruzomberok,0.6652,1.73,Betano,+0.1507,yes
+16,2026-11-29,,Trnava,Trencin,SVK_20261129T1700_spartak-trnava_vs_trencin,0.6375,1.57,Betano,+0.0009,yes
+16,2026-11-29,,Skalica,Michalovce,SVK_20261129T1430_skalica_vs_michalovce,0.5607,1.83,Betano,+0.0260,no
+16,2026-11-28,,Slovan Bratislava,Kosice,SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,0.8459,1.33,Betano,+0.1251,yes
+16,2026-11-28,,Podbrezova,Dun. Streda,SVK_20261128T1430_podbrezova_vs_dun-streda,0.6449,1.44,Betano,-0.0714,yes
+16,2026-11-28,,Komarno,Zilina,SVK_20261128T1430_komarno_vs_zilina,0.5613,1.50,Betano,-0.1581,no
+16,2026-11-28,,Banska Bystrica,Ruzomberok,SVK_20261128T1430_banska-bystrica_vs_ruzomberok,0.6644,1.73,Betano,+0.1493,yes

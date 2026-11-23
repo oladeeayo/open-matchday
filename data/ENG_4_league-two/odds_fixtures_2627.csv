@@ -1,15 +1,15 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-17,2026-11-28,16:00,Walsall,Northampton Town,ENG_20261128T1500_walsall_vs_northampton,xQEH7VG5,2026-11-28T15:00:00Z,1,2.25,3.2,3.0,1.73,1.95,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Swindon Town,Chesterfield,ENG_20261128T1500_swindon_vs_chesterfield,j9G99ing,2026-11-28T15:00:00Z,1,3.9,3.8,1.73,1.53,1.53,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Shrewsbury Town,Cheltenham Town,ENG_20261128T1500_shrewsbury_vs_cheltenham,IeI1BDHt,2026-11-28T15:00:00Z,1,1.8,3.4,4.2,1.83,1.95,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Salford City,Gillingham,ENG_20261128T1500_salford_vs_gillingham,SWxhiAWO,2026-11-28T15:00:00Z,1,1.53,4.0,5.5,1.8,1.7,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Rotherham United,Oldham Athletic,ENG_20261128T1500_rotherham_vs_oldham,K6ZqgW1C,2026-11-28T15:00:00Z,1,2.45,3.4,2.6,1.62,1.73,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Rochdale,Barnet,ENG_20261128T1500_rochdale_vs_barnet,ngyxehXa,2026-11-28T15:00:00Z,1,4.0,3.8,1.73,1.62,1.65,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Port Vale,Newport County,ENG_20261128T1500_port-vale_vs_newport,8OLg3VsA,2026-11-28T15:00:00Z,1,1.85,3.5,3.75,1.73,1.85,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Fleetwood Town,Accrington Stanley,ENG_20261128T1500_fleetwood-town_vs_accrington,foJUdE2m,2026-11-28T15:00:00Z,1,1.83,3.3,4.0,1.73,1.85,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Crewe Alexandra,Grimsby Town,ENG_20261128T1500_crewe_vs_grimsby,W8uDvXnJ,2026-11-28T15:00:00Z,1,2.9,3.4,2.2,1.53,1.65,2026-11-22T17:53:35Z
-17,2026-11-28,16:00,Colchester United,York City,ENG_20261128T1500_colchester_vs_york-city,Orx5tgI6,2026-11-28T15:00:00Z,1,2.63,3.3,2.45,1.57,1.7,2026-11-22T17:53:35Z
-17,2026-11-28,13:30,Exeter City,Crawley Town,ENG_20261128T1230_exeter_vs_crawley-town,O2Sb2zuQ,2026-11-28T12:30:00Z,1,1.83,3.5,3.8,1.67,1.8,2026-11-22T17:53:35Z
-17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers,ENG_20261128T1230_bristol-rovers_vs_tranmere,xSwcrFmf,2026-11-28T12:30:00Z,1,1.8,3.5,4.0,1.67,1.75,2026-11-22T17:53:35Z
-8,2026-11-24,20:45,Port Vale,Northampton Town,ENG_20261124T1945_port-vale_vs_northampton,zoA0SBO6,2026-11-24T19:45:00Z,2,2.05,3.25,3.6,1.91,2.15,2026-11-22T17:53:35Z
-8,2026-11-24,20:45,Crawley Town,Barnet,ENG_20261124T1945_crawley-town_vs_barnet,jysDl2u9,2026-11-24T19:45:00Z,3,3.75,3.75,1.85,1.53,1.57,2026-11-22T17:53:35Z
+17,2026-11-28,16:00,Walsall,Northampton Town,ENG_20261128T1500_walsall_vs_northampton,xQEH7VG5,2026-11-28T15:00:00Z,1,2.25,3.2,3.0,1.73,1.95,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Swindon Town,Chesterfield,ENG_20261128T1500_swindon_vs_chesterfield,j9G99ing,2026-11-28T15:00:00Z,1,3.9,3.8,1.73,1.53,1.53,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Shrewsbury Town,Cheltenham Town,ENG_20261128T1500_shrewsbury_vs_cheltenham,IeI1BDHt,2026-11-28T15:00:00Z,1,1.9,3.3,3.9,1.8,1.95,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Salford City,Gillingham,ENG_20261128T1500_salford_vs_gillingham,SWxhiAWO,2026-11-28T15:00:00Z,1,1.45,4.1,6.5,1.83,1.7,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Rotherham United,Oldham Athletic,ENG_20261128T1500_rotherham_vs_oldham,K6ZqgW1C,2026-11-28T15:00:00Z,1,2.7,3.4,2.38,1.62,1.8,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Rochdale,Barnet,ENG_20261128T1500_rochdale_vs_barnet,ngyxehXa,2026-11-28T15:00:00Z,1,4.0,3.8,1.73,1.62,1.65,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Port Vale,Newport County,ENG_20261128T1500_port-vale_vs_newport,8OLg3VsA,2026-11-28T15:00:00Z,1,1.85,3.5,3.75,1.73,1.85,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Fleetwood Town,Accrington Stanley,ENG_20261128T1500_fleetwood-town_vs_accrington,foJUdE2m,2026-11-28T15:00:00Z,1,2.0,3.2,3.5,1.73,1.9,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Crewe Alexandra,Grimsby Town,ENG_20261128T1500_crewe_vs_grimsby,W8uDvXnJ,2026-11-28T15:00:00Z,1,3.1,3.4,2.1,1.57,1.67,2026-11-23T06:42:30Z
+17,2026-11-28,16:00,Colchester United,York City,ENG_20261128T1500_colchester_vs_york-city,Orx5tgI6,2026-11-28T15:00:00Z,1,2.9,3.3,2.25,1.57,1.7,2026-11-23T06:42:30Z
+17,2026-11-28,13:30,Exeter City,Crawley Town,ENG_20261128T1230_exeter_vs_crawley-town,O2Sb2zuQ,2026-11-28T12:30:00Z,1,1.83,3.5,3.8,1.67,1.8,2026-11-23T06:42:30Z
+17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers,ENG_20261128T1230_bristol-rovers_vs_tranmere,xSwcrFmf,2026-11-28T12:30:00Z,1,1.85,3.5,3.8,1.67,1.73,2026-11-23T06:42:30Z
+8,2026-11-24,20:45,Port Vale,Northampton Town,ENG_20261124T1945_port-vale_vs_northampton,zoA0SBO6,2026-11-24T19:45:00Z,3,2.05,3.25,3.6,1.87,2.15,2026-11-23T06:42:30Z
+8,2026-11-24,20:45,Crawley Town,Barnet,ENG_20261124T1945_crawley-town_vs_barnet,jysDl2u9,2026-11-24T19:45:00Z,3,3.75,3.75,1.85,1.53,1.57,2026-11-23T06:42:30Z

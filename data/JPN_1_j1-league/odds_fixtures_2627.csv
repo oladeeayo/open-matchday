@@ -1,18 +1,18 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-32,2026-11-29,08:00,Machida Zelvia,Tokyo Verdy 1969,JPN_20261129T0700_machida-zelvia_vs_verdy,U7umyH5d,2026-11-29T07:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-29,07:00,Nagoya Grampus,Avispa Fukuoka,JPN_20261129T0600_nagoya-grampus_vs_avispa-fukuoka,67PKkGKk,2026-11-29T06:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-29,07:00,Kawasaki Frontale,Gamba Osaka,JPN_20261129T0600_kawasaki-frontale_vs_gamba-osaka,dEXYbKc3,2026-11-29T06:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-29,06:00,Yokohama F. Marinos,FC Tokyo,JPN_20261129T0500_yokohama-f-marinos_vs_fc-tokyo,2BzscbSF,2026-11-29T05:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-29,06:00,Mito Hollyhock,V-Varen Nagasaki,JPN_20261129T0500_mito_vs_v-varen-nagasaki,jeF7eoiB,2026-11-29T05:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-28,08:00,Kashiwa Reysol,Sanfrecce Hiroshima,JPN_20261128T0700_kashiwa-reysol_vs_sanfrecce-hiroshima,dfsuwwyp,2026-11-28T07:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-28,07:00,Vissel Kobe,JEF United Ichihara-Chiba,JPN_20261128T0600_vissel-kobe_vs_chiba,6RFEBcs9,2026-11-28T06:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-28,07:00,Kashima Antlers,Fagiano Okayama,JPN_20261128T0600_kashima-antlers_vs_okayama,IT10c7Mb,2026-11-28T06:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-28,06:00,Shimizu S-Pulse,Urawa Red Diamonds,JPN_20261128T0500_shimizu-s-pulse_vs_urawa-reds,zPYlexcS,2026-11-28T05:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-28,06:00,Kyoto Sanga,Cerezo Osaka,JPN_20261128T0500_kyoto_vs_cerezo-osaka,EXSSmfk2,2026-11-28T05:00:00Z,0,,,,,,2026-11-22T17:53:35Z
-32,2026-11-25,11:30,Urawa Red Diamonds,Cerezo Osaka,JPN_20261125T1030_urawa-reds_vs_cerezo-osaka,jcvmWUNa,2026-11-25T10:30:00Z,1,1.79,3.7,3.8,1.53,1.57,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,V-Varen Nagasaki,Kawasaki Frontale,JPN_20261125T1000_v-varen-nagasaki_vs_kawasaki-frontale,EDMSr875,2026-11-25T10:00:00Z,3,3.6,3.75,1.86,1.53,1.57,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,Fagiano Okayama,Shimizu S-Pulse,JPN_20261125T1000_okayama_vs_shimizu-s-pulse,0jGCnj8t,2026-11-25T10:00:00Z,3,1.96,3.25,3.6,1.91,2.08,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,Mito Hollyhock,Tokyo Verdy 1969,JPN_20261125T1000_mito_vs_verdy,IqtuYjgm,2026-11-25T10:00:00Z,3,2.75,3.1,2.4,2.0,2.38,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,FC Tokyo,Sanfrecce Hiroshima,JPN_20261125T1000_fc-tokyo_vs_sanfrecce-hiroshima,pvt3SnNO,2026-11-25T10:00:00Z,3,2.3,3.4,2.65,1.57,1.7,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,JEF United Ichihara-Chiba,Nagoya Grampus,JPN_20261125T1000_chiba_vs_nagoya-grampus,xExeU8hC,2026-11-25T10:00:00Z,3,3.2,3.5,2.0,1.62,1.7,2026-11-22T17:53:35Z
-32,2026-11-25,11:00,Avispa Fukuoka,Yokohama F. Marinos,JPN_20261125T1000_avispa-fukuoka_vs_yokohama-f-marinos,8GJKpUxg,2026-11-25T10:00:00Z,3,2.63,3.4,2.5,1.75,1.95,2026-11-22T17:53:35Z
+32,2026-11-29,08:00,Machida Zelvia,Tokyo Verdy 1969,JPN_20261129T0700_machida-zelvia_vs_verdy,U7umyH5d,2026-11-29T07:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-29,07:00,Nagoya Grampus,Avispa Fukuoka,JPN_20261129T0600_nagoya-grampus_vs_avispa-fukuoka,67PKkGKk,2026-11-29T06:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-29,07:00,Kawasaki Frontale,Gamba Osaka,JPN_20261129T0600_kawasaki-frontale_vs_gamba-osaka,dEXYbKc3,2026-11-29T06:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-29,06:00,Yokohama F. Marinos,FC Tokyo,JPN_20261129T0500_yokohama-f-marinos_vs_fc-tokyo,2BzscbSF,2026-11-29T05:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-29,06:00,Mito Hollyhock,V-Varen Nagasaki,JPN_20261129T0500_mito_vs_v-varen-nagasaki,jeF7eoiB,2026-11-29T05:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-28,08:00,Kashiwa Reysol,Sanfrecce Hiroshima,JPN_20261128T0700_kashiwa-reysol_vs_sanfrecce-hiroshima,dfsuwwyp,2026-11-28T07:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-28,07:00,Vissel Kobe,JEF United Ichihara-Chiba,JPN_20261128T0600_vissel-kobe_vs_chiba,6RFEBcs9,2026-11-28T06:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-28,07:00,Kashima Antlers,Fagiano Okayama,JPN_20261128T0600_kashima-antlers_vs_okayama,IT10c7Mb,2026-11-28T06:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-28,06:00,Shimizu S-Pulse,Urawa Red Diamonds,JPN_20261128T0500_shimizu-s-pulse_vs_urawa-reds,zPYlexcS,2026-11-28T05:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-28,06:00,Kyoto Sanga,Cerezo Osaka,JPN_20261128T0500_kyoto_vs_cerezo-osaka,EXSSmfk2,2026-11-28T05:00:00Z,0,,,,,,2026-11-23T06:42:30Z
+32,2026-11-25,11:30,Urawa Red Diamonds,Cerezo Osaka,JPN_20261125T1030_urawa-reds_vs_cerezo-osaka,jcvmWUNa,2026-11-25T10:30:00Z,1,1.79,3.7,3.8,1.53,1.57,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,V-Varen Nagasaki,Kawasaki Frontale,JPN_20261125T1000_v-varen-nagasaki_vs_kawasaki-frontale,EDMSr875,2026-11-25T10:00:00Z,3,3.3,4.0,1.91,1.53,1.57,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,Fagiano Okayama,Shimizu S-Pulse,JPN_20261125T1000_okayama_vs_shimizu-s-pulse,0jGCnj8t,2026-11-25T10:00:00Z,3,2.0,3.3,3.6,1.91,2.08,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,Mito Hollyhock,Tokyo Verdy 1969,JPN_20261125T1000_mito_vs_verdy,IqtuYjgm,2026-11-25T10:00:00Z,3,2.75,3.1,2.4,2.0,2.38,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,FC Tokyo,Sanfrecce Hiroshima,JPN_20261125T1000_fc-tokyo_vs_sanfrecce-hiroshima,pvt3SnNO,2026-11-25T10:00:00Z,3,2.3,3.4,2.65,1.57,1.7,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,JEF United Ichihara-Chiba,Nagoya Grampus,JPN_20261125T1000_chiba_vs_nagoya-grampus,xExeU8hC,2026-11-25T10:00:00Z,3,3.2,3.5,2.0,1.62,1.7,2026-11-23T06:42:30Z
+32,2026-11-25,11:00,Avispa Fukuoka,Yokohama F. Marinos,JPN_20261125T1000_avispa-fukuoka_vs_yokohama-f-marinos,8GJKpUxg,2026-11-25T10:00:00Z,3,2.63,3.3,2.55,1.75,1.95,2026-11-23T06:42:30Z
