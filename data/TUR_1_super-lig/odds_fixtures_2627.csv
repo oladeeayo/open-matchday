@@ -1,11 +1,10 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-13,2026-11-30,19:00,Besiktas,Galatasaray,TUR_20261130T1800_besiktas_vs_galatasaray,biJZgBcl,2026-11-30T18:00:00Z,0,,,,,,2026-11-23T06:42:30Z
-13,2026-11-30,17:00,Göztepe,Trabzonspor,TUR_20261130T1600_goztepe_vs_trabzonspor,Es68jxid,2026-11-30T16:00:00Z,0,,,,,,2026-11-23T06:42:30Z
-13,2026-11-29,17:00,Fenerbahçe,Erzurumspor,TUR_20261129T1600_fenerbahce_vs_erzurumspor-fk,E1d2CJDF,2026-11-29T16:00:00Z,2,1.22,5.5,10.5,1.91,1.47,2026-11-23T06:42:30Z
-13,2026-11-29,14:00,Eyüpspor,Istanbul Basaksehir,TUR_20261129T1300_eyupspor_vs_basaksehir,IwaNatU9,2026-11-29T13:00:00Z,1,5.25,4.2,1.5,1.75,1.57,2026-11-23T06:42:30Z
-13,2026-11-29,11:30,Çorum,Kocaelispor,TUR_20261129T1030_corum-fk_vs_kocaelispor,tlbfEuq3,2026-11-29T10:30:00Z,1,1.91,3.6,3.5,1.73,1.78,2026-11-23T06:42:30Z
-13,2026-11-28,17:00,Gaziantep,Amedspor,TUR_20261128T1600_gaziantep_vs_amedspor,ADeF12ac,2026-11-28T16:00:00Z,2,3.2,3.6,1.95,1.57,1.65,2026-11-23T06:42:30Z
-13,2026-11-28,14:00,Samsunspor,Gençlerbirligi,TUR_20261128T1300_samsunspor_vs_genclerbirligi,6HMshkS0,2026-11-28T13:00:00Z,2,1.91,3.5,3.6,1.73,1.83,2026-11-23T06:42:30Z
-13,2026-11-27,18:00,Çaykur Rizespor,Kasimpasa,TUR_20261127T1700_rizespor_vs_kasimpasa,6H20hbMq,2026-11-27T17:00:00Z,2,1.83,3.6,3.75,1.6,1.67,2026-11-23T06:42:30Z
-13,2026-11-27,18:00,Alanyaspor,Konyaspor,TUR_20261127T1700_alanyaspor_vs_konyaspor,AoHUcKbM,2026-11-27T17:00:00Z,2,2.45,3.2,2.63,1.73,1.95,2026-11-23T06:42:30Z
-12,2026-11-23,18:00,Istanbul Basaksehir,Çorum,TUR_20261123T1700_basaksehir_vs_corum-fk,d4vIWs0N,2026-11-23T17:00:00Z,3,1.86,3.7,3.5,1.53,1.57,2026-11-23T06:42:30Z
+13,2026-11-30,19:00,Besiktas,Galatasaray,TUR_20261130T1800_besiktas_vs_galatasaray,biJZgBcl,2026-11-30T18:00:00Z,3,1.86,4.0,3.2,1.44,1.44,2026-11-24T09:12:49Z
+13,2026-11-30,17:00,Göztepe,Trabzonspor,TUR_20261130T1600_goztepe_vs_trabzonspor,Es68jxid,2026-11-30T16:00:00Z,3,3.0,3.5,2.1,1.53,1.62,2026-11-24T09:12:49Z
+13,2026-11-29,17:00,Fenerbahçe,Erzurumspor,TUR_20261129T1600_fenerbahce_vs_erzurumspor-fk,E1d2CJDF,2026-11-29T16:00:00Z,3,1.22,5.25,10.0,1.91,1.5,2026-11-24T09:12:49Z
+13,2026-11-29,14:00,Eyüpspor,Istanbul Basaksehir,TUR_20261129T1300_eyupspor_vs_basaksehir,IwaNatU9,2026-11-29T13:00:00Z,3,5.25,4.1,1.51,1.7,1.6,2026-11-24T09:12:49Z
+13,2026-11-29,11:30,Çorum,Kocaelispor,TUR_20261129T1030_corum-fk_vs_kocaelispor,tlbfEuq3,2026-11-29T10:30:00Z,3,1.76,3.4,4.2,1.83,1.95,2026-11-24T09:12:49Z
+13,2026-11-28,17:00,Gaziantep,Amedspor,TUR_20261128T1600_gaziantep_vs_amedspor,ADeF12ac,2026-11-28T16:00:00Z,3,3.4,3.5,1.9,1.57,1.67,2026-11-24T09:12:49Z
+13,2026-11-28,14:00,Samsunspor,Gençlerbirligi,TUR_20261128T1300_samsunspor_vs_genclerbirligi,6HMshkS0,2026-11-28T13:00:00Z,3,1.79,3.4,3.9,1.73,1.85,2026-11-24T09:12:49Z
+13,2026-11-27,18:00,Çaykur Rizespor,Kasimpasa,TUR_20261127T1700_rizespor_vs_kasimpasa,6H20hbMq,2026-11-27T17:00:00Z,3,1.83,3.6,3.7,1.65,1.7,2026-11-24T09:12:49Z
+13,2026-11-27,18:00,Alanyaspor,Konyaspor,TUR_20261127T1700_alanyaspor_vs_konyaspor,AoHUcKbM,2026-11-27T17:00:00Z,3,2.5,3.25,2.6,1.75,1.95,2026-11-24T09:12:49Z

@@ -1,11 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-18,2026-11-24,,Weston-super-Mare,Walton & Hersham,ENG_20261124T1945_weston-super-mare_vs_walton-hersham,0.4624,1.44,Betway,-0.3342,no
-18,2026-11-24,,Torquay,Chesham,ENG_20261124T1945_torquay_vs_chesham,0.6009,1.43,Betway,-0.1406,yes
-18,2026-11-24,,Slough,Farnborough,ENG_20261124T1945_slough-town_vs_farnborough,0.5783,1.29,Betway,-0.2540,no
-18,2026-11-24,,Salisbury,AFC Totton,ENG_20261124T1945_salisbury_vs_afc-totton,0.5805,1.45,Betway,-0.1582,no
-18,2026-11-24,,Horsham FC,Truro,ENG_20261124T1945_horsham-fc_vs_truro,0.7088,1.67,Betway,+0.1837,yes
-18,2026-11-24,,Hampton & Richmond,Dover,ENG_20261124T1945_hampton-richmond_vs_dover-ath,0.4931,1.50,Betway,-0.2604,no
-18,2026-11-24,,Farnham,Maidenhead,ENG_20261124T1945_farnham_vs_maidenhead,0.7044,1.40,Betway,-0.0138,yes
-18,2026-11-24,,Ebbsfleet,Billericay,ENG_20261124T1945_ebbsfleet_vs_billericay,0.5933,1.40,Betway,-0.1694,no
-18,2026-11-24,,Dag & Red,Tonbridge,ENG_20261124T1945_dagenham-red_vs_tonbridge,0.4498,1.75,Betway,-0.2128,no
-18,2026-11-23,,Chelmsford,Maidstone,ENG_20261123T1945_chelmsford_vs_maidstone,0.5527,1.57,Betano,-0.1322,no
+18,2026-11-24,,Weston-super-Mare,Walton & Hersham,ENG_20261124T1945_weston-super-mare_vs_walton-hersham,0.5536,1.60,Betano,-0.1143,no
+18,2026-11-24,,Torquay,Chesham,ENG_20261124T1945_torquay_vs_chesham,0.5370,1.47,Betano,-0.2106,no
+18,2026-11-24,,Slough,Farnborough,ENG_20261124T1945_slough-town_vs_farnborough,0.5772,1.29,Betano,-0.2554,no
+18,2026-11-24,,Salisbury,AFC Totton,ENG_20261124T1945_salisbury_vs_afc-totton,0.5786,1.47,Betano,-0.1494,no
+18,2026-11-24,,Horsham FC,Truro,ENG_20261124T1945_horsham-fc_vs_truro,0.6726,1.70,Betano,+0.1434,yes
+18,2026-11-24,,Hampton & Richmond,Dover,ENG_20261124T1945_hampton-richmond_vs_dover-ath,0.5992,1.50,Betano,-0.1012,no
+18,2026-11-24,,Farnham,Maidenhead,ENG_20261124T1945_farnham_vs_maidenhead,0.7054,1.44,Betano,+0.0157,yes
+18,2026-11-24,,Ebbsfleet,Billericay,ENG_20261124T1945_ebbsfleet_vs_billericay,0.5762,1.50,Betano,-0.1357,no
+18,2026-11-24,,Dag & Red,Tonbridge,ENG_20261124T1945_dagenham-red_vs_tonbridge,0.4836,1.83,Betano,-0.1150,no

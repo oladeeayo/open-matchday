@@ -1,11 +1,10 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-30,,Korona Kielce,Cracovia,POL_20261130T1800_korona-kielce_vs_cracovia,UcE4Tf7m,2026-11-30T18:00:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-29,,Jagiellonia,Radomiak Radom,POL_20261129T1915_jagiellonia_vs_radomiak-radom,SfehvCL5,2026-11-29T19:15:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-29,,Legia,Wieczysta Krakow,POL_20261129T1630_legia_vs_ks-wieczysta-krakow,AyGKPC6C,2026-11-29T16:30:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-29,,Lech Poznan,Pogon Szczecin,POL_20261129T1345_lech-poznan_vs_pogon-szczecin,hGB7zUKU,2026-11-29T13:45:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-28,,Wisla,Motor Lublin,POL_20261128T1915_wisla_vs_motor-lublin,xOHCRYy0,2026-11-28T19:15:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-28,,Slask Wroclaw,GKS Katowice,POL_20261128T1630_slask-wroclaw_vs_gks-katowice,nHgxrfMt,2026-11-28T16:30:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-28,,Widzew Lodz,Zaglebie,POL_20261128T1345_widzew-lodz_vs_zaglebie,KUiptYjg,2026-11-28T13:45:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-27,,Gornik Zabrze,Wisla Plock,POL_20261127T1930_gornik-zabrze_vs_wisla-plock,K2DaxjjI,2026-11-27T19:30:00Z,0,,,,,,2026-11-23T06:42:30Z
-16,2026-11-27,,Rakow,Piast Gliwice,POL_20261127T1700_rakow-czestochowa_vs_piast-gliwice,dhESNjyP,2026-11-27T17:00:00Z,0,,,,,,2026-11-23T06:42:30Z
-15,2026-11-23,,Wieczysta Krakow,Motor Lublin,POL_20261123T1800_ks-wieczysta-krakow_vs_motor-lublin,IsDSI4gS,2026-11-23T18:00:00Z,3,2.4,3.8,2.4,1.4,1.48,2026-11-23T06:42:30Z
+16,2026-11-30,,Korona Kielce,Cracovia,POL_20261130T1800_korona-kielce_vs_cracovia,UcE4Tf7m,2026-11-30T18:00:00Z,0,,,,,,2026-11-24T09:12:49Z
+16,2026-11-29,,Jagiellonia,Radomiak Radom,POL_20261129T1915_jagiellonia_vs_radomiak-radom,SfehvCL5,2026-11-29T19:15:00Z,0,,,,,,2026-11-24T09:12:49Z
+16,2026-11-29,,Legia,Wieczysta Krakow,POL_20261129T1630_legia_vs_ks-wieczysta-krakow,AyGKPC6C,2026-11-29T16:30:00Z,0,,,,,,2026-11-24T09:12:49Z
+16,2026-11-29,,Lech Poznan,Pogon Szczecin,POL_20261129T1345_lech-poznan_vs_pogon-szczecin,hGB7zUKU,2026-11-29T13:45:00Z,0,,,,,,2026-11-24T09:12:49Z
+16,2026-11-28,,Wisla,Motor Lublin,POL_20261128T1915_wisla_vs_motor-lublin,xOHCRYy0,2026-11-28T19:15:00Z,1,1.8,3.8,3.4,1.48,1.43,2026-11-24T09:12:49Z
+16,2026-11-28,,Slask Wroclaw,GKS Katowice,POL_20261128T1630_slask-wroclaw_vs_gks-katowice,nHgxrfMt,2026-11-28T16:30:00Z,1,2.7,3.5,2.2,1.48,1.5,2026-11-24T09:12:49Z
+16,2026-11-28,,Widzew Lodz,Zaglebie,POL_20261128T1345_widzew-lodz_vs_zaglebie,KUiptYjg,2026-11-28T13:45:00Z,1,1.73,3.6,3.8,1.73,1.7,2026-11-24T09:12:49Z
+16,2026-11-27,,Gornik Zabrze,Wisla Plock,POL_20261127T1930_gornik-zabrze_vs_wisla-plock,K2DaxjjI,2026-11-27T19:30:00Z,1,1.48,4.33,5.5,1.75,1.62,2026-11-24T09:12:49Z
+16,2026-11-27,,Rakow,Piast Gliwice,POL_20261127T1700_rakow-czestochowa_vs_piast-gliwice,dhESNjyP,2026-11-27T17:00:00Z,1,1.78,4.0,3.6,1.45,1.45,2026-11-24T09:12:49Z

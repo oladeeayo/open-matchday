@@ -1,5 +1,4 @@
 gw,date,time,home,away
-10,2026-11-23,,Krasava,Anorthosis
 11,2026-11-27,,AEK Larnaca,Apollon
 11,2026-11-27,,AEL Limassol,Ol. Nicosia
 11,2026-11-27,,Omonia 29th May,Omonia Aradippou
@@ -42,41 +41,41 @@ gw,date,time,home,away
 16,2027-01-03,,Omonia 29th May,Ol. Nicosia
 16,2027-01-03,,Omonia Aradippou,Karmiotissa
 16,2027-01-04,,Aris,Krasava
+17,2027-01-08,,AEL Limassol,Pafos
+17,2027-01-08,,Anorthosis,Nea Salamis
 17,2027-01-09,,AEK Larnaca,Omonia 29th May
-17,2027-01-09,,AEL Limassol,Pafos
 17,2027-01-09,,APOEL,Apollon
-17,2027-01-09,,Anorthosis,Nea Salamis
 17,2027-01-09,,Karmiotissa,Aris
-17,2027-01-09,,Krasava,Omonia
-17,2027-01-09,,Ol. Nicosia,Omonia Aradippou
-18,2027-01-12,,Apollon,Krasava
-18,2027-01-12,,Aris,Ol. Nicosia
-18,2027-01-12,,Nea Salamis,APOEL
-18,2027-01-12,,Omonia,Karmiotissa
+17,2027-01-10,,Krasava,Omonia
+17,2027-01-10,,Ol. Nicosia,Omonia Aradippou
 18,2027-01-12,,Omonia 29th May,AEL Limassol
-18,2027-01-12,,Omonia Aradippou,AEK Larnaca
 18,2027-01-12,,Pafos,Anorthosis
-19,2027-01-16,,AEK Larnaca,Aris
-19,2027-01-16,,AEL Limassol,Omonia Aradippou
-19,2027-01-16,,APOEL,Pafos
-19,2027-01-16,,Anorthosis,Omonia 29th May
-19,2027-01-16,,Karmiotissa,Krasava
-19,2027-01-16,,Nea Salamis,Apollon
-19,2027-01-16,,Ol. Nicosia,Omonia
+18,2027-01-13,,Aris,Ol. Nicosia
+18,2027-01-13,,Nea Salamis,APOEL
+18,2027-01-13,,Omonia Aradippou,AEK Larnaca
+18,2027-01-14,,Apollon,Krasava
+18,2027-01-14,,Omonia,Karmiotissa
+19,2027-01-17,,AEK Larnaca,Aris
+19,2027-01-17,,APOEL,Pafos
+19,2027-01-17,,Anorthosis,Omonia 29th May
+19,2027-01-18,,Karmiotissa,Krasava
+19,2027-01-18,,Nea Salamis,Apollon
+19,2027-01-18,,Ol. Nicosia,Omonia
+19,2027-01-19,,AEL Limassol,Omonia Aradippou
 20,2027-01-23,,Apollon,Karmiotissa
-20,2027-01-23,,Aris,AEL Limassol
 20,2027-01-23,,Krasava,Ol. Nicosia
-20,2027-01-23,,Omonia,AEK Larnaca
-20,2027-01-23,,Omonia 29th May,APOEL
-20,2027-01-23,,Omonia Aradippou,Anorthosis
 20,2027-01-23,,Pafos,Nea Salamis
-21,2027-01-30,,AEK Larnaca,Krasava
-21,2027-01-30,,AEL Limassol,Omonia
-21,2027-01-30,,APOEL,Omonia Aradippou
-21,2027-01-30,,Anorthosis,Aris
-21,2027-01-30,,Nea Salamis,Omonia 29th May
-21,2027-01-30,,Ol. Nicosia,Karmiotissa
-21,2027-01-30,,Pafos,Apollon
+20,2027-01-24,,Aris,AEL Limassol
+20,2027-01-24,,Omonia 29th May,APOEL
+20,2027-01-24,,Omonia Aradippou,Anorthosis
+20,2027-01-25,,Omonia,AEK Larnaca
+21,2027-01-29,,Anorthosis,Aris
+21,2027-01-31,,APOEL,Omonia Aradippou
+21,2027-01-31,,Nea Salamis,Omonia 29th May
+21,2027-01-31,,Pafos,Apollon
+21,2027-02-01,,AEK Larnaca,Krasava
+21,2027-02-01,,AEL Limassol,Omonia
+21,2027-02-01,,Ol. Nicosia,Karmiotissa
 22,2027-02-06,,Apollon,Ol. Nicosia
 22,2027-02-06,,Aris,APOEL
 22,2027-02-06,,Karmiotissa,AEK Larnaca

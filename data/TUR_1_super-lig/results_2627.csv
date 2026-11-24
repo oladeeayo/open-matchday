@@ -98,11 +98,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 11,2026-11-08,13:00,Çorum,Fenerbahçe,0,5,A,0,2,A,22,10,8,6,11,10,7,1,2,1,5,0,1,1,0,0,,fixturedl
 11,2026-11-08,15:30,Alanyaspor,Trabzonspor,0,2,A,0,2,A,14,21,2,5,14,11,5,4,2,4,3,0,1,1,0,0,,fixturedl
 11,2026-11-08,18:00,Besiktas,Gençlerbirligi,3,0,H,2,0,H,20,3,10,1,14,15,4,1,3,0,1,1,3,3,0,1,,fixturedl
-12,2026-11-21,11:30,Gençlerbirligi,Gaziantep,1,0,H,,,,,,,,,,1,3,0,1,1,2,,,,,,fixturedl
-12,2026-11-21,14:00,Amedspor,Çaykur Rizespor,0,2,A,,,,,,,,,,7,4,3,3,4,1,,,,,,fixturedl
-12,2026-11-21,14:00,Galatasaray,Samsunspor,2,1,H,,,,,,,,,,5,8,0,3,5,5,,,,,,fixturedl
-12,2026-11-21,17:00,Kocaelispor,Fenerbahçe,2,2,D,,,,,,,,,,4,5,2,1,2,4,,,,,,fixturedl
-12,2026-11-22,11:30,Erzurumspor,Göztepe,0,1,A,,,,,,,,,,5,5,1,2,4,3,,,,,,fixturedl
-12,2026-11-22,14:00,Kasimpasa,Alanyaspor,2,1,H,,,,,,,,,,4,1,2,0,2,1,,,,,,fixturedl
-12,2026-11-22,14:00,Konyaspor,Besiktas,2,4,A,,,,,,,,,,2,3,1,0,1,3,,,,,,fixturedl
-12,2026-11-22,17:00,Trabzonspor,Eyüpspor,1,0,H,,,,,,,,,,11,4,5,1,6,3,,,,,,fixturedl
+12,2026-11-21,10:30,Gençlerbirligi,Gaziantep,1,0,H,1,0,H,7,13,2,2,18,13,1,3,0,1,1,2,1,2,0,0,,fixturedl
+12,2026-11-21,13:00,Amedspor,Çaykur Rizespor,0,2,A,0,1,A,16,10,7,5,10,7,7,4,3,3,4,1,2,5,0,0,,fixturedl
+12,2026-11-21,13:00,Galatasaray,Samsunspor,2,1,H,1,0,H,11,18,5,7,10,9,5,8,0,3,5,5,2,1,0,0,,fixturedl
+12,2026-11-21,16:00,Kocaelispor,Fenerbahçe,2,2,D,0,0,D,14,13,5,6,17,19,4,5,2,1,2,4,4,6,0,0,,fixturedl
+12,2026-11-22,10:30,Erzurumspor,Göztepe,0,1,A,0,0,D,15,11,5,4,9,13,5,5,1,2,4,3,2,1,0,0,,fixturedl
+12,2026-11-22,13:00,Kasimpasa,Alanyaspor,2,1,H,1,1,D,14,7,4,2,25,20,4,1,2,0,2,1,5,3,0,0,,fixturedl
+12,2026-11-22,13:00,Konyaspor,Besiktas,2,4,A,1,2,A,10,16,6,7,10,20,2,3,1,0,1,3,1,3,0,0,,fixturedl
+12,2026-11-22,16:00,Trabzonspor,Eyüpspor,1,0,H,1,0,H,24,7,9,1,10,8,11,4,5,1,6,3,0,2,0,0,,fixturedl
+12,2026-11-23,17:00,Istanbul Basaksehir,Çorum,4,2,H,0,1,A,26,11,5,3,7,6,3,1,1,0,2,1,0,3,0,0,,fixturedl

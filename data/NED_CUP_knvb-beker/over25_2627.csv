@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-01,,G.A. Eagles,Oss,NED_20261201T2000_g-a-eagles_vs_top-oss,0.7470,,,,yes
+1,2026-12-01,20:00,Willem II,Excelsior,NED_20261201T1900_willem-ii_vs_excelsior,0.7470,,,,yes
+1,2026-12-01,20:00,NAC Breda,SC Genemuiden,NED_20261201T1900_nac-breda_vs_genemuiden,0.7928,,,,yes
+1,2026-12-01,20:00,Almere City,VVSB,NED_20261201T1900_almere-city_vs_vvsb,0.6793,,,,yes
+1,2026-12-01,18:45,RKC Waalwijk,SC Cambuur,NED_20261201T1745_waalwijk_vs_cambuur,0.7147,,,,yes
