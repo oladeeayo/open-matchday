@@ -1,3 +1,8 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-1,2026-12-01,,Lausanne,Grasshoppers,SUI_20261201T1930_lausanne_vs_grasshoppers,ChCDNcHt,2026-12-01T19:30:00Z,0,,,,,,2026-11-24T09:12:49Z
-1,2026-12-01,,Bruhl,Aarau,SUI_20261201T1800_bruhl-sg_vs_aarau,bTGyIgoI,2026-12-01T18:00:00Z,0,,,,,,2026-11-24T09:12:49Z
+1,2026-12-02,,Young Boys,Basel,SUI_20261202T1930_young-boys_vs_basel,SranKOAl,2026-12-02T19:30:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-02,,Wil,Luzern,SUI_20261202T1830_wil_vs_luzern,hWDTJFG5,2026-12-02T18:30:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-02,,St. Gallen,Lugano,SUI_20261202T1830_st-gallen_vs_lugano,p6ALLyng,2026-12-02T18:30:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-02,,Yverdon,Thun,SUI_20261202T1800_yverdon_vs_thun,WtFqGXFU,2026-12-02T18:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-02,,Lausanne Ouchy,Sion,SUI_20261202T1800_lausanne-ouchy_vs_sion,nDe2GtAD,2026-12-02T18:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-01,,Lausanne,Grasshoppers,SUI_20261201T1930_lausanne_vs_grasshoppers,ChCDNcHt,2026-12-01T19:30:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-01,,Bruhl,Aarau,SUI_20261201T1800_bruhl-sg_vs_aarau,bTGyIgoI,2026-12-01T18:00:00Z,0,,,,,,2026-11-25T07:50:43Z

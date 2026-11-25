@@ -1,7 +1,7 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-16,2026-11-30,,Odense,Nordsjaelland,DEN_20261130T1800_odense_vs_nordsjaelland,29k2dvS9,2026-11-30T18:00:00Z,3,3.5,3.9,1.79,1.45,1.48,2026-11-24T09:12:49Z
-16,2026-11-29,,Silkeborg,Aarhus,DEN_20261129T1700_silkeborg_vs_aarhus,CMXs9HBF,2026-11-29T17:00:00Z,3,3.3,3.6,1.9,1.57,1.62,2026-11-24T09:12:49Z
-16,2026-11-29,,FC Copenhagen,Midtjylland,DEN_20261129T1500_fc-copenhagen_vs_midtjylland,65vtkdKq,2026-11-29T15:00:00Z,3,1.95,3.5,3.4,1.62,1.65,2026-11-24T09:12:49Z
-16,2026-11-29,,Randers FC,Horsens,DEN_20261129T1300_randers-fc_vs_horsens,EVslmzkd,2026-11-29T13:00:00Z,3,2.05,3.5,3.0,1.62,1.7,2026-11-24T09:12:49Z
-16,2026-11-29,,Lyngby,Viborg,DEN_20261129T1300_lyngby_vs_viborg,v9ZZAws3,2026-11-29T13:00:00Z,3,3.3,3.7,1.9,1.5,1.53,2026-11-24T09:12:49Z
-16,2026-11-27,,Sonderjyske,Brondby,DEN_20261127T1800_sonderjyske_vs_brondby,AZhAfIdM,2026-11-27T18:00:00Z,3,4.2,3.9,1.66,1.62,1.6,2026-11-24T09:12:49Z
+16,2026-11-30,,Odense,Nordsjaelland,DEN_20261130T1800_odense_vs_nordsjaelland,29k2dvS9,2026-11-30T18:00:00Z,3,3.5,3.9,1.79,1.45,1.48,2026-11-25T07:50:43Z
+16,2026-11-29,,Silkeborg,Aarhus,DEN_20261129T1700_silkeborg_vs_aarhus,CMXs9HBF,2026-11-29T17:00:00Z,3,3.3,3.6,1.9,1.57,1.62,2026-11-25T07:50:43Z
+16,2026-11-29,,FC Copenhagen,Midtjylland,DEN_20261129T1500_fc-copenhagen_vs_midtjylland,65vtkdKq,2026-11-29T15:00:00Z,3,1.91,3.5,3.5,1.57,1.65,2026-11-25T07:50:43Z
+16,2026-11-29,,Randers FC,Horsens,DEN_20261129T1300_randers-fc_vs_horsens,EVslmzkd,2026-11-29T13:00:00Z,3,2.05,3.5,3.0,1.62,1.67,2026-11-25T07:50:43Z
+16,2026-11-29,,Lyngby,Viborg,DEN_20261129T1300_lyngby_vs_viborg,v9ZZAws3,2026-11-29T13:00:00Z,3,3.3,3.7,1.9,1.5,1.53,2026-11-25T07:50:43Z
+16,2026-11-27,,Sonderjyske,Brondby,DEN_20261127T1800_sonderjyske_vs_brondby,AZhAfIdM,2026-11-27T18:00:00Z,3,4.1,3.8,1.7,1.62,1.6,2026-11-25T07:50:43Z

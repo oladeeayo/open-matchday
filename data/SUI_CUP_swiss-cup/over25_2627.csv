@@ -1,3 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-02,,Young Boys,Basel,SUI_20261202T1930_young-boys_vs_basel,0.8356,,,,yes
+1,2026-12-02,,Wil,Luzern,SUI_20261202T1830_wil_vs_luzern,0.7065,,,,yes
+1,2026-12-02,,St. Gallen,Lugano,SUI_20261202T1830_st-gallen_vs_lugano,0.8822,,,,yes
+1,2026-12-02,,Yverdon,Thun,SUI_20261202T1800_yverdon_vs_thun,0.8356,,,,yes
+1,2026-12-02,,Lausanne Ouchy,Sion,SUI_20261202T1800_lausanne-ouchy_vs_sion,0.7774,,,,yes
 1,2026-12-01,,Lausanne,Grasshoppers,SUI_20261201T1930_lausanne_vs_grasshoppers,0.8652,,,,yes
 1,2026-12-01,,Bruhl,Aarau,SUI_20261201T1800_bruhl-sg_vs_aarau,0.8424,,,,yes

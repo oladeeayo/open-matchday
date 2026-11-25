@@ -53,6 +53,7 @@ gw,date,time,home,away
 21,2027-01-22,,Pure Swansea,Ynyshir Albions
 21,2027-01-23,,Treowen,Baglan Dragons
 7,2027-01-30,,Llantwit Major,Cardiff Draconians
+8,2027-01-30,,Newport City,Trethomas Bluebirds
 7,2027-01-30,,Ynyshir Albions,Pontypridd
 22,2027-02-05,,Pontypridd,Caerphilly
 22,2027-02-06,,Aberystwyth,Baglan Dragons
@@ -87,9 +88,9 @@ gw,date,time,home,away
 25,2027-03-12,,Caerau Ely,Pontardawe
 25,2027-03-12,,Caerphilly,Llantwit Major
 25,2027-03-12,,Newport City,Llanelli
+25,2027-03-12,,Pure Swansea,Aberystwyth
 25,2027-03-13,,Cardiff Draconians,Trethomas Bluebirds
 25,2027-03-13,,Carmarthen Town,Baglan Dragons
-25,2027-03-13,,Pure Swansea,Aberystwyth
 25,2027-03-13,,Ynyshir Albions,Treowen
 26,2027-03-19,,Baglan Dragons,Newport City
 26,2027-03-19,,Llanelli,Caerphilly

@@ -2,9 +2,9 @@ gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 16,2026-11-30,,Korona Kielce,Cracovia,POL_20261130T1800_korona-kielce_vs_cracovia,0.5607,,,,no
 16,2026-11-29,,Jagiellonia,Radomiak Radom,POL_20261129T1915_jagiellonia_vs_radomiak-radom,0.5459,,,,no
 16,2026-11-29,,Legia,Wieczysta Krakow,POL_20261129T1630_legia_vs_ks-wieczysta-krakow,0.5652,,,,no
-16,2026-11-29,,Lech Poznan,Pogon Szczecin,POL_20261129T1345_lech-poznan_vs_pogon-szczecin,0.6113,,,,yes
+16,2026-11-29,,Lech Poznan,Pogon Szczecin,POL_20261129T1345_lech-poznan_vs_pogon-szczecin,0.6113,1.40,Betway,-0.1442,yes
 16,2026-11-28,,Wisla,Motor Lublin,POL_20261128T1915_wisla_vs_motor-lublin,0.5400,1.43,Betway,-0.2279,no
 16,2026-11-28,,Slask Wroclaw,GKS Katowice,POL_20261128T1630_slask-wroclaw_vs_gks-katowice,0.5601,1.50,Betway,-0.1599,no
-16,2026-11-28,,Widzew Lodz,Zaglebie,POL_20261128T1345_widzew-lodz_vs_zaglebie,0.5052,1.70,Betway,-0.1412,no
-16,2026-11-27,,Gornik Zabrze,Wisla Plock,POL_20261127T1930_gornik-zabrze_vs_wisla-plock,0.5328,1.62,Betway,-0.1368,no
+16,2026-11-28,,Widzew Lodz,Zaglebie,POL_20261128T1345_widzew-lodz_vs_zaglebie,0.5052,1.73,Betway,-0.1260,no
+16,2026-11-27,,Gornik Zabrze,Wisla Plock,POL_20261127T1930_gornik-zabrze_vs_wisla-plock,0.5328,1.57,Betway,-0.1634,no
 16,2026-11-27,,Rakow,Piast Gliwice,POL_20261127T1700_rakow-czestochowa_vs_piast-gliwice,0.6310,1.45,Betway,-0.0850,yes

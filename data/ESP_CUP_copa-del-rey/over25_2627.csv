@@ -1,0 +1,21 @@
+gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-02,21:00,Sestao,Villarreal,ESP_20261202T2000_sestao_vs_villarreal,0.7754,,,,yes
+1,2026-12-02,21:00,Rayo Majadahonda,Mallorca,ESP_20261202T2000_rayo-majadahonda_vs_mallorca,0.7020,,,,yes
+1,2026-12-02,21:00,Arosa,Celta Vigo,ESP_20261202T2000_arosa-sc_vs_celta-vigo,0.6624,,,,yes
+1,2026-12-02,20:00,Zamora CF,Real Valladolid,ESP_20261202T1900_zamora_vs_valladolid,0.5910,,,,no
+1,2026-12-02,20:00,CD Sabadell,Sporting Gijón,ESP_20261202T1900_sabadell_vs_gijon,0.7020,,,,yes
+1,2026-12-02,20:00,Mirandés,Leganés,ESP_20261202T1900_mirandes_vs_leganes,0.5910,,,,no
+1,2026-12-02,20:00,Eldense,Tenerife,ESP_20261202T1900_eldense_vs_tenerife,0.7560,,,,yes
+1,2026-12-02,20:00,Cultural Leonesa,Castellón,ESP_20261202T1900_leonesa_vs_castellon,0.6725,,,,yes
+1,2026-12-02,20:00,Almería,Granada,ESP_20261202T1900_almeria_vs_granada-cf,0.6725,,,,yes
+1,2026-12-02,19:00,Sant Andreu,Eibar,ESP_20261202T1800_sant-andreu_vs_eibar,0.6725,,,,yes
+1,2026-12-02,18:30,Ceuta,Cádiz,ESP_20261202T1730_ad-ceuta_vs_cadiz,0.7020,,,,yes
+1,2026-12-01,21:00,Gimnástica Torrelavega,Alavés,ESP_20261201T2000_gimnastic-de-torrelavega_vs_alaves,0.7584,,,,yes
+1,2026-12-01,21:00,Numancia,Athletic Club,ESP_20261201T2000_numancia_vs_ath-bilbao,0.7948,,,,yes
+1,2026-12-01,21:00,FC Cartagena,Elche,ESP_20261201T2000_fc-cartagena-sad_vs_elche,0.7020,,,,yes
+1,2026-12-01,21:00,CE Europa,Rayo Vallecano,ESP_20261201T2000_ce-europa_vs_rayo-vallecano,0.7209,,,,yes
+1,2026-12-01,21:00,CD Extremadura,Real Betis,ESP_20261201T2000_cd-extremadura_vs_betis,0.7209,,,,yes
+1,2026-12-01,20:00,Ponferradina,FC Andorra,ESP_20261201T1900_ponferradina_vs_fc-andorra,0.6725,,,,yes
+1,2026-12-01,20:00,Albacete,Las Palmas,ESP_20261201T1900_albacete_vs_las-palmas,0.7020,,,,yes
+1,2026-12-01,19:30,Huesca,Girona,ESP_20261201T1830_huesca_vs_girona,0.6333,,,,yes
+1,2026-12-01,19:00,Antequera CF,Levante,ESP_20261201T1800_antequera_vs_levante,0.6103,,,,yes

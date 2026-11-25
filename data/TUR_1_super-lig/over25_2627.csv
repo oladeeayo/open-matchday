@@ -1,10 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 13,2026-11-30,19:00,Besiktas,Galatasaray,TUR_20261130T1800_besiktas_vs_galatasaray,0.6201,1.44,bet365,-0.1070,yes
-13,2026-11-30,17:00,Göztepe,Trabzonspor,TUR_20261130T1600_goztepe_vs_trabzonspor,0.6034,1.62,bet365,-0.0224,yes
+13,2026-11-30,17:00,Göztepe,Trabzonspor,TUR_20261130T1600_goztepe_vs_trabzonspor,0.6034,1.57,bet365,-0.0526,yes
 13,2026-11-29,17:00,Fenerbahçe,Erzurumspor,TUR_20261129T1600_fenerbahce_vs_erzurumspor-fk,0.6621,1.50,bet365,-0.0069,yes
 13,2026-11-29,14:00,Eyüpspor,Istanbul Basaksehir,TUR_20261129T1300_eyupspor_vs_basaksehir,0.3499,1.60,bet365,-0.4402,no
 13,2026-11-29,11:30,Çorum,Kocaelispor,TUR_20261129T1030_corum-fk_vs_kocaelispor,0.4884,1.95,bet365,-0.0476,no
 13,2026-11-28,17:00,Gaziantep,Amedspor,TUR_20261128T1600_gaziantep_vs_amedspor,0.5921,1.67,bet365,-0.0113,no
 13,2026-11-28,14:00,Samsunspor,Gençlerbirligi,TUR_20261128T1300_samsunspor_vs_genclerbirligi,0.5346,1.85,bet365,-0.0111,no
 13,2026-11-27,18:00,Çaykur Rizespor,Kasimpasa,TUR_20261127T1700_rizespor_vs_kasimpasa,0.5120,1.70,bet365,-0.1296,no
-13,2026-11-27,18:00,Alanyaspor,Konyaspor,TUR_20261127T1700_alanyaspor_vs_konyaspor,0.2828,1.95,bet365,-0.4485,no
+13,2026-11-27,18:00,Alanyaspor,Konyaspor,TUR_20261127T1700_alanyaspor_vs_konyaspor,0.2828,2.00,bet365,-0.4344,no

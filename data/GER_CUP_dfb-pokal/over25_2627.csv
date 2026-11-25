@@ -1,4 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-02,20:45,Eintracht Frankfurt,Borussia Dortmund,GER_20261202T1945_eintracht-frankfurt_vs_dortmund,0.8116,,,,yes
+1,2026-12-02,20:45,VfL Bochum,FC Augsburg,GER_20261202T1945_bochum_vs_augsburg,0.7193,1.43,Betway,+0.0286,yes
+1,2026-12-02,18:00,Kaiserslautern,SC Freiburg,GER_20261202T1700_kaiserslautern_vs_freiburg,0.8246,,,,yes
+1,2026-12-02,18:00,Bayer Leverkusen,RB Leipzig,GER_20261202T1700_bayer-leverkusen_vs_rb-leipzig,0.8350,,,,yes
 1,2026-12-01,20:45,Borussia Mönchengladbach,SV Darmstadt 98,GER_20261201T1945_b-monchengladbach_vs_darmstadt,0.6357,1.30,Betway,-0.1736,yes
 1,2026-12-01,20:45,Bayern Munich,Hertha Berlin,GER_20261201T1945_bayern-munich_vs_hertha-berlin,0.7540,,,,yes
-1,2026-12-01,18:00,VfB Stuttgart,Dynamo Dresden,GER_20261201T1700_vfb-stuttgart_vs_dresden,0.8246,1.17,Betway,-0.0352,yes
+1,2026-12-01,18:00,VfB Stuttgart,Dynamo Dresden,GER_20261201T1700_vfb-stuttgart_vs_dresden,0.8246,1.18,Betway,-0.0270,yes

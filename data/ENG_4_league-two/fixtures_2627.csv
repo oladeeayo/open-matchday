@@ -1,8 +1,4 @@
 gw,date,time,home,away
-15,2026-11-14,16:00,Rotherham United,Crawley Town
-15,2026-11-14,16:00,Walsall,Barnet
-8,2026-11-24,20:45,Crawley Town,Barnet
-8,2026-11-24,20:45,Port Vale,Northampton Town
 17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers
 17,2026-11-28,13:30,Exeter City,Crawley Town
 17,2026-11-28,16:00,Colchester United,York City
@@ -149,6 +145,8 @@ gw,date,time,home,away
 28,2027-01-30,16:00,Northampton Town,Accrington Stanley
 28,2027-01-30,16:00,Rochdale,Port Vale
 28,2027-01-30,16:00,Walsall,Colchester United
+26,2027-02-02,20:45,Rotherham United,Crawley Town
+26,2027-02-02,20:45,Walsall,Barnet
 29,2027-02-06,13:30,Crewe Alexandra,Port Vale
 29,2027-02-06,13:30,Tranmere Rovers,Newport County
 29,2027-02-06,16:00,Accrington Stanley,Walsall

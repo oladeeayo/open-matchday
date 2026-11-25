@@ -1,13 +1,4 @@
 gw,date,time,home,away
-15,2026-11-24,20:45,AFC Fylde,FC Halifax Town
-15,2026-11-24,20:45,AFC Hornchurch,Sutton United
-15,2026-11-24,20:45,Altrincham,Wealdstone
-15,2026-11-24,20:45,Boston United,Barrow
-15,2026-11-24,20:45,Carlisle United,Tamworth
-15,2026-11-24,20:45,Eastleigh,Yeovil Town
-15,2026-11-24,20:45,Forest Green Rovers,Southend United
-15,2026-11-24,20:45,Scunthorpe United,Gateshead
-15,2026-11-24,20:45,Woking,Worthing
 15,2026-11-25,20:00,Boreham Wood,Aldershot Town
 15,2026-11-25,20:45,Harrogate Town,Kidderminster Harriers
 15,2026-11-25,20:45,Hartlepool United,Solihull Moors
@@ -24,7 +15,6 @@ gw,date,time,home,away
 15,2026-11-28,16:00,Harrogate Town,Yeovil Town
 15,2026-11-28,18:30,Hartlepool United,Southend United
 16,2026-12-04,20:45,Wealdstone,Woking
-16,2026-12-05,13:30,Barrow,Boreham Wood
 16,2026-12-05,13:30,Gateshead,AFC Hornchurch
 16,2026-12-05,16:00,Aldershot Town,Forest Green Rovers
 16,2026-12-05,16:00,Kidderminster Harriers,Scunthorpe United
@@ -33,7 +23,6 @@ gw,date,time,home,away
 16,2026-12-05,16:00,Tamworth,Altrincham
 16,2026-12-05,16:00,Worthing,Boston United
 16,2026-12-05,16:00,Yeovil Town,Hartlepool United
-16,2026-12-05,18:30,FC Halifax Town,Carlisle United
 17,2026-12-08,20:00,Boreham Wood,Sutton United
 17,2026-12-08,20:45,Aldershot Town,Altrincham
 17,2026-12-08,20:45,Eastleigh,AFC Hornchurch
@@ -95,6 +84,7 @@ gw,date,time,home,away
 20,2027-01-02,16:00,Wealdstone,Aldershot Town
 20,2027-01-02,16:00,Woking,Scunthorpe United
 20,2027-01-02,16:00,Worthing,Kidderminster Harriers
+21,2027-01-05,20:45,FC Halifax Town,Carlisle United
 21,2027-01-05,20:45,Scunthorpe United,Forest Green Rovers
 21,2027-01-08,20:45,Aldershot Town,Sutton United
 21,2027-01-09,13:30,Boreham Wood,Woking
@@ -110,6 +100,7 @@ gw,date,time,home,away
 21,2027-01-09,18:30,Barrow,FC Halifax Town
 22,2027-01-12,20:45,Sutton United,AFC Fylde
 22,2027-01-12,20:45,Woking,Forest Green Rovers
+23,2027-01-19,20:45,Barrow,Boreham Wood
 23,2027-01-19,20:45,Gateshead,Tamworth
 23,2027-01-22,20:45,Eastleigh,Kidderminster Harriers
 23,2027-01-23,13:30,Boston United,Solihull Moors

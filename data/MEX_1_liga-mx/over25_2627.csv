@@ -3,5 +3,5 @@ gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 20,2026-11-29,02:00,Atlas,Toluca,MEX_20261129T0100_atlas_vs_toluca,0.6412,,,,yes
 20,2026-11-27,04:10,León,Cruz Azul,MEX_20261127T0310_club-leon_vs_cruz-azul,0.6510,1.73,bet365,+0.1262,yes
 20,2026-11-27,02:00,Pachuca,Guadalajara,MEX_20261127T0100_pachuca_vs_guadalajara-chivas,0.5017,1.73,bet365,-0.1321,no
-20,2026-11-26,04:10,Monterrey,América,MEX_20261126T0310_monterrey_vs_club-america,0.7471,1.90,bet365,+0.4194,yes
-20,2026-11-26,02:00,Toluca,Atlas,MEX_20261126T0100_toluca_vs_atlas,0.7406,1.48,bet365,+0.0960,yes
+20,2026-11-26,04:10,Monterrey,América,MEX_20261126T0310_monterrey_vs_club-america,0.7471,1.95,bet365,+0.4568,yes
+20,2026-11-26,02:00,Toluca,Atlas,MEX_20261126T0100_toluca_vs_atlas,0.7406,1.50,bet365,+0.1108,yes

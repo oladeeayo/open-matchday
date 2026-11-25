@@ -1,10 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-18,2026-11-24,,Weston-super-Mare,Walton & Hersham,ENG_20261124T1945_weston-super-mare_vs_walton-hersham,0.5536,1.60,Betano,-0.1143,no
-18,2026-11-24,,Torquay,Chesham,ENG_20261124T1945_torquay_vs_chesham,0.5370,1.47,Betano,-0.2106,no
-18,2026-11-24,,Slough,Farnborough,ENG_20261124T1945_slough-town_vs_farnborough,0.5772,1.29,Betano,-0.2554,no
-18,2026-11-24,,Salisbury,AFC Totton,ENG_20261124T1945_salisbury_vs_afc-totton,0.5786,1.47,Betano,-0.1494,no
-18,2026-11-24,,Horsham FC,Truro,ENG_20261124T1945_horsham-fc_vs_truro,0.6726,1.70,Betano,+0.1434,yes
-18,2026-11-24,,Hampton & Richmond,Dover,ENG_20261124T1945_hampton-richmond_vs_dover-ath,0.5992,1.50,Betano,-0.1012,no
-18,2026-11-24,,Farnham,Maidenhead,ENG_20261124T1945_farnham_vs_maidenhead,0.7054,1.44,Betano,+0.0157,yes
-18,2026-11-24,,Ebbsfleet,Billericay,ENG_20261124T1945_ebbsfleet_vs_billericay,0.5762,1.50,Betano,-0.1357,no
-18,2026-11-24,,Dag & Red,Tonbridge,ENG_20261124T1945_dagenham-red_vs_tonbridge,0.4836,1.83,Betano,-0.1150,no
+19,2026-11-28,,Weston-super-Mare,Maidenhead,ENG_20261128T1500_weston-super-mare_vs_maidenhead,0.6001,,,,yes
+19,2026-11-28,,Truro,Dover,ENG_20261128T1500_truro_vs_dover-ath,0.4793,,,,no
+19,2026-11-28,,Torquay,Chelmsford,ENG_20261128T1500_torquay_vs_chelmsford,0.6401,,,,yes
+19,2026-11-28,,Slough,Tonbridge,ENG_20261128T1500_slough-town_vs_tonbridge,0.6919,,,,yes
+19,2026-11-28,,Salisbury,Dag & Red,ENG_20261128T1500_salisbury_vs_dagenham-red,0.2989,,,,no
+19,2026-11-28,,Maidstone,Chesham,ENG_20261128T1500_maidstone_vs_chesham,0.4115,,,,no
+19,2026-11-28,,Hemel Hempstead,Walton & Hersham,ENG_20261128T1500_hemel-hempstead_vs_walton-hersham,0.4945,,,,no
+19,2026-11-28,,Folkestone,Hampton & Richmond,ENG_20261128T1500_folkestone_vs_hampton-richmond,0.5037,,,,no
+19,2026-11-28,,Farnham,Ebbsfleet,ENG_20261128T1500_farnham_vs_ebbsfleet,0.7122,,,,yes
+19,2026-11-28,,Dorking,Farnborough,ENG_20261128T1500_dorking-wanderers_vs_farnborough,0.7755,,,,yes
+19,2026-11-28,,Braintree,AFC Totton,ENG_20261128T1500_braintree_vs_afc-totton,0.5261,,,,no
+19,2026-11-28,,Billericay,Horsham FC,ENG_20261128T1500_billericay_vs_horsham-fc,0.6488,,,,yes

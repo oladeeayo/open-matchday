@@ -191,3 +191,11 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 16,2026-11-21,15:00,West Ham United,Preston North End,1,1,D,0,1,A,30,8,4,2,10,6,14,2,5,2,9,0,2,3,0,0,,fixturedl
 16,2026-11-21,15:00,Wolverhampton Wanderers,Charlton Athletic,2,1,H,0,0,D,19,3,4,2,11,12,7,6,4,2,3,4,2,2,0,0,,fixturedl
 16,2026-11-22,12:00,Burnley,Blackburn Rovers,2,2,D,1,1,D,12,12,4,3,17,15,4,2,4,1,0,1,4,3,0,0,,fixturedl
+17,2026-11-24,20:45,Bristol City,Wrexham,1,1,D,,,,,,,,,,4,9,0,4,4,5,,,,,,fixturedl
+17,2026-11-24,20:45,Cardiff City,Preston North End,0,4,A,,,,,,,,,,8,8,4,3,4,5,,,,,,fixturedl
+17,2026-11-24,20:45,Charlton Athletic,Lincoln City,4,0,H,,,,,,,,,,10,3,6,3,4,0,,,,,,fixturedl
+17,2026-11-24,20:45,Middlesbrough,Swansea City,2,1,H,,,,,,,,,,3,2,1,1,2,1,,,,,,fixturedl
+17,2026-11-24,20:45,Norwich City,Queens Park Rangers,1,1,D,,,,,,,,,,4,3,2,3,2,0,,,,,,fixturedl
+17,2026-11-24,20:45,Portsmouth,West Ham United,1,0,H,,,,,,,,,,4,5,2,3,2,2,,,,,,fixturedl
+17,2026-11-24,20:45,Sheffield United,Southampton,1,1,D,,,,,,,,,,9,6,2,4,7,2,,,,,,fixturedl
+17,2026-11-24,21:00,Wolverhampton Wanderers,Derby County,3,0,H,,,,,,,,,,11,1,4,1,7,0,,,,,,fixturedl

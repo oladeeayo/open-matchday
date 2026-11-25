@@ -1,22 +1,13 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-19,2026-11-28,,Weston-super-Mare,Maidenhead,ENG_20261128T1500_weston-super-mare_vs_maidenhead,jRDjH90f,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Truro,Dover,ENG_20261128T1500_truro_vs_dover-ath,IDFrJVVs,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Torquay,Chelmsford,ENG_20261128T1500_torquay_vs_chelmsford,fNMR0lGD,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Slough,Tonbridge,ENG_20261128T1500_slough-town_vs_tonbridge,M9OJ2Ao1,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Salisbury,Dag & Red,ENG_20261128T1500_salisbury_vs_dagenham-red,EqLB4WGl,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Maidstone,Chesham,ENG_20261128T1500_maidstone_vs_chesham,r1UuAhgR,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Hemel Hempstead,Walton & Hersham,ENG_20261128T1500_hemel-hempstead_vs_walton-hersham,AmWXBEOE,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Folkestone,Hampton & Richmond,ENG_20261128T1500_folkestone_vs_hampton-richmond,pAvnlBW7,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Farnham,Ebbsfleet,ENG_20261128T1500_farnham_vs_ebbsfleet,xpyvjX1e,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Dorking,Farnborough,ENG_20261128T1500_dorking-wanderers_vs_farnborough,4WxWigXr,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Braintree,AFC Totton,ENG_20261128T1500_braintree_vs_afc-totton,bXAbA1mA,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-19,2026-11-28,,Billericay,Horsham FC,ENG_20261128T1500_billericay_vs_horsham-fc,CGCjCNIc,2026-11-28T15:00:00Z,0,,,,,,2026-11-24T09:12:49Z
-18,2026-11-24,,Weston-super-Mare,Walton & Hersham,ENG_20261124T1945_weston-super-mare_vs_walton-hersham,KMP4lKQj,2026-11-24T19:45:00Z,2,1.57,4.0,4.5,1.67,1.6,2026-11-24T09:12:49Z
-18,2026-11-24,,Torquay,Chesham,ENG_20261124T1945_torquay_vs_chesham,lvZYgt3T,2026-11-24T19:45:00Z,2,1.57,4.1,4.6,1.55,1.47,2026-11-24T09:12:49Z
-18,2026-11-24,,Slough,Farnborough,ENG_20261124T1945_slough-town_vs_farnborough,tEVQe2YG,2026-11-24T19:45:00Z,2,2.2,3.9,2.6,1.25,1.29,2026-11-24T09:12:49Z
-18,2026-11-24,,Salisbury,AFC Totton,ENG_20261124T1945_salisbury_vs_afc-totton,80XIcO34,2026-11-24T19:45:00Z,2,1.7,3.8,3.8,1.5,1.47,2026-11-24T09:12:49Z
-18,2026-11-24,,Horsham FC,Truro,ENG_20261124T1945_horsham-fc_vs_truro,GhFBapZi,2026-11-24T19:45:00Z,2,3.0,3.4,2.1,1.6,1.7,2026-11-24T09:12:49Z
-18,2026-11-24,,Hampton & Richmond,Dover,ENG_20261124T1945_hampton-richmond_vs_dover-ath,hGyfs3JN,2026-11-24T19:45:00Z,2,2.2,3.6,2.75,1.44,1.5,2026-11-24T09:12:49Z
-18,2026-11-24,,Farnham,Maidenhead,ENG_20261124T1945_farnham_vs_maidenhead,bZZwooKb,2026-11-24T19:45:00Z,2,1.93,3.8,3.2,1.44,1.44,2026-11-24T09:12:49Z
-18,2026-11-24,,Ebbsfleet,Billericay,ENG_20261124T1945_ebbsfleet_vs_billericay,QLyWn7kn,2026-11-24T19:45:00Z,2,1.5,4.2,5.25,1.62,1.5,2026-11-24T09:12:49Z
-18,2026-11-24,,Dag & Red,Tonbridge,ENG_20261124T1945_dagenham-red_vs_tonbridge,zcdMS34U,2026-11-24T19:45:00Z,2,1.95,3.4,3.5,1.73,1.83,2026-11-24T09:12:49Z
+19,2026-11-28,,Weston-super-Mare,Maidenhead,ENG_20261128T1500_weston-super-mare_vs_maidenhead,jRDjH90f,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Truro,Dover,ENG_20261128T1500_truro_vs_dover-ath,IDFrJVVs,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Torquay,Chelmsford,ENG_20261128T1500_torquay_vs_chelmsford,fNMR0lGD,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Slough,Tonbridge,ENG_20261128T1500_slough-town_vs_tonbridge,M9OJ2Ao1,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Salisbury,Dag & Red,ENG_20261128T1500_salisbury_vs_dagenham-red,EqLB4WGl,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Maidstone,Chesham,ENG_20261128T1500_maidstone_vs_chesham,r1UuAhgR,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Hemel Hempstead,Walton & Hersham,ENG_20261128T1500_hemel-hempstead_vs_walton-hersham,AmWXBEOE,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Folkestone,Hampton & Richmond,ENG_20261128T1500_folkestone_vs_hampton-richmond,pAvnlBW7,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Farnham,Ebbsfleet,ENG_20261128T1500_farnham_vs_ebbsfleet,xpyvjX1e,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Dorking,Farnborough,ENG_20261128T1500_dorking-wanderers_vs_farnborough,4WxWigXr,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Braintree,AFC Totton,ENG_20261128T1500_braintree_vs_afc-totton,bXAbA1mA,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+19,2026-11-28,,Billericay,Horsham FC,ENG_20261128T1500_billericay_vs_horsham-fc,CGCjCNIc,2026-11-28T15:00:00Z,0,,,,,,2026-11-25T07:50:43Z

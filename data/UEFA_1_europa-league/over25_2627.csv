@@ -1,16 +1,16 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 5,2026-11-26,21:00,Torreense,Celtic,UEFA_20261126T2000_torreense_vs_celtic,0.6645,1.57,bet365,+0.0433,yes
-5,2026-11-26,21:00,Sunderland,Jagiellonia,UEFA_20261126T2000_sunderland_vs_jagiellonia,0.3754,1.57,bet365,-0.4106,no
-5,2026-11-26,21:00,OFI Crete,Anderlecht,UEFA_20261126T2000_ofi-crete_vs_anderlecht,0.4190,1.67,bet365,-0.3003,no
+5,2026-11-26,21:00,Sunderland,Jagiellonia,UEFA_20261126T2000_sunderland_vs_jagiellonia,0.3754,1.53,bet365,-0.4256,no
+5,2026-11-26,21:00,OFI Crete,Anderlecht,UEFA_20261126T2000_ofi-crete_vs_anderlecht,0.4190,1.67,Betano,-0.3003,no
 5,2026-11-26,21:00,Juventus,Omonia,UEFA_20261126T2000_juventus_vs_omonia,0.6566,1.40,bet365,-0.0808,yes
 5,2026-11-26,21:00,Hoffenheim,Sturm Graz,UEFA_20261126T2000_hoffenheim_vs_sturm-graz,0.6217,1.40,bet365,-0.1296,yes
 5,2026-11-26,21:00,Ferencváros,Celje,UEFA_20261126T2000_ferencvaros_vs_celje,0.6424,1.53,bet365,-0.0172,yes
 5,2026-11-26,21:00,Crystal Palace,Real Sociedad,UEFA_20261126T2000_crystal-palace_vs_real-sociedad,0.5988,1.57,bet365,-0.0599,no
 5,2026-11-26,18:45,Salzburg,Ararat-Armenia,UEFA_20261126T1745_salzburg_vs_ararat-armenia,0.6516,1.30,bet365,-0.1529,yes
-5,2026-11-26,18:45,Union SG,Lech Poznan,UEFA_20261126T1745_royale-union-sg_vs_lech-poznan,0.6352,1.44,Betano,-0.0853,yes
+5,2026-11-26,18:45,Union SG,Lech Poznan,UEFA_20261126T1745_royale-union-sg_vs_lech-poznan,0.6352,1.44,bet365,-0.0853,yes
 5,2026-11-26,18:45,Viktoria Plzen,Benfica,UEFA_20261126T1745_plzen_vs_benfica,0.6082,1.44,bet365,-0.1241,yes
 5,2026-11-26,18:45,Olympiacos,Milan,UEFA_20261126T1745_olympiacos-piraeus_vs_ac-milan,0.5282,1.83,Betano,-0.0335,no
-5,2026-11-26,18:45,Marseille,Levski Sofia,UEFA_20261126T1745_marseille_vs_levski-sofia,0.4433,1.67,Betano,-0.2597,no
+5,2026-11-26,18:45,Marseille,Levski Sofia,UEFA_20261126T1745_marseille_vs_levski-sofia,0.4433,1.62,bet365,-0.2818,no
 5,2026-11-26,18:45,Celta,Bournemouth,UEFA_20261126T1745_celta-vigo_vs_bournemouth,0.5988,1.91,bet365,+0.1437,no
 5,2026-11-26,18:45,Besiktas,H. Beer-Sheva,UEFA_20261126T1745_besiktas_vs_h-beer-sheva,0.6704,1.36,bet365,-0.0882,yes
 5,2026-11-26,21:00,Lyon,Lillestrøm,UEFA_20261126T2000_lyon_vs_lillestrom,0.5949,1.36,bet365,-0.1910,no

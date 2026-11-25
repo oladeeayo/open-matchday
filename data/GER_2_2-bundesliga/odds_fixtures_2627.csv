@@ -1,9 +1,9 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus,GER_20261129T1230_magdeburg_vs_energie-cottbus,EiZKGtKh,2026-11-29T12:30:00Z,2,1.62,4.33,4.2,1.44,1.36,2026-11-24T09:12:49Z
-13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld,GER_20261129T1230_greuther-furth_vs_arminia-bielefeld,fVzyDbJH,2026-11-29T12:30:00Z,2,3.0,3.6,2.15,1.57,1.7,2026-11-24T09:12:49Z
-13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg,GER_20261129T1230_braunschweig_vs_wolfsburg,n5XSEKl5,2026-11-29T12:30:00Z,2,3.6,3.9,1.8,1.44,1.44,2026-11-24T09:12:49Z
-13,2026-11-28,20:30,VfL Osnabrück,Hannover 96,GER_20261128T1930_vfl-osnabruck_vs_hannover,2evqBxlU,2026-11-28T19:30:00Z,2,3.0,3.6,2.1,1.5,1.57,2026-11-24T09:12:49Z
-13,2026-11-28,13:00,Dynamo Dresden,FC St. Pauli,GER_20261128T1200_dresden_vs_st-pauli,nqIiZ6KD,2026-11-28T12:00:00Z,2,2.7,3.4,2.4,1.57,1.7,2026-11-24T09:12:49Z
-13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern,GER_20261128T1200_holstein-kiel_vs_kaiserslautern,8fWCI2kt,2026-11-28T12:00:00Z,2,2.3,3.5,2.75,1.57,1.7,2026-11-24T09:12:49Z
-13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,GER_20261127T1730_heidenheim_vs_nurnberg,dWU5rBcR,2026-11-27T17:30:00Z,2,2.05,3.8,3.0,1.36,1.36,2026-11-24T09:12:49Z
-13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,GER_20261127T1730_bochum_vs_darmstadt,EVJqyTk1,2026-11-27T17:30:00Z,2,1.73,4.0,4.0,1.57,1.57,2026-11-24T09:12:49Z
+13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus,GER_20261129T1230_magdeburg_vs_energie-cottbus,EiZKGtKh,2026-11-29T12:30:00Z,2,1.55,4.5,4.33,1.44,1.36,2026-11-25T07:50:43Z
+13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld,GER_20261129T1230_greuther-furth_vs_arminia-bielefeld,fVzyDbJH,2026-11-29T12:30:00Z,2,3.0,3.6,2.15,1.57,1.7,2026-11-25T07:50:43Z
+13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg,GER_20261129T1230_braunschweig_vs_wolfsburg,n5XSEKl5,2026-11-29T12:30:00Z,2,3.6,3.9,1.8,1.44,1.44,2026-11-25T07:50:43Z
+13,2026-11-28,20:30,VfL Osnabrück,Hannover 96,GER_20261128T1930_vfl-osnabruck_vs_hannover,2evqBxlU,2026-11-28T19:30:00Z,2,3.0,3.6,2.1,1.5,1.57,2026-11-25T07:50:43Z
+13,2026-11-28,13:00,Dynamo Dresden,FC St. Pauli,GER_20261128T1200_dresden_vs_st-pauli,nqIiZ6KD,2026-11-28T12:00:00Z,2,2.7,3.4,2.4,1.6,1.7,2026-11-25T07:50:43Z
+13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern,GER_20261128T1200_holstein-kiel_vs_kaiserslautern,8fWCI2kt,2026-11-28T12:00:00Z,2,2.3,3.5,2.75,1.57,1.7,2026-11-25T07:50:43Z
+13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,GER_20261127T1730_heidenheim_vs_nurnberg,dWU5rBcR,2026-11-27T17:30:00Z,2,2.05,4.0,2.88,1.36,1.36,2026-11-25T07:50:43Z
+13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,GER_20261127T1730_bochum_vs_darmstadt,EVJqyTk1,2026-11-27T17:30:00Z,2,1.75,3.8,4.1,1.57,1.57,2026-11-25T07:50:43Z

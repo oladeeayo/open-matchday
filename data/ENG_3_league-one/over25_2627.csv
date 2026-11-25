@@ -1,3 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-8,2026-11-24,20:45,Stevenage,Sheffield Wednesday,ENG_20261124T1945_stevenage_vs_sheffield-wed,0.4912,1.85,bet365,-0.0912,no
-8,2026-11-24,20:45,Bradford City,Barnsley,ENG_20261124T1945_bradford-city_vs_barnsley,0.4311,1.50,bet365,-0.3533,no
+17,2026-11-28,16:00,Wycombe Wanderers,Bradford City,ENG_20261128T1500_wycombe_vs_bradford-city,0.2968,1.85,bet365,-0.4508,no
+17,2026-11-28,16:00,Wigan Athletic,Plymouth Argyle,ENG_20261128T1500_wigan_vs_plymouth,0.5734,1.67,bet365,-0.0424,no
+17,2026-11-28,16:00,Stockport County,Leyton Orient,ENG_20261128T1500_stockport-county_vs_leyton-orient,0.5252,1.44,bet365,-0.2437,no
+17,2026-11-28,16:00,Stevenage,Blackpool,ENG_20261128T1500_stevenage_vs_blackpool,0.3568,2.05,bet365,-0.2686,no
+17,2026-11-28,16:00,Sheffield Wednesday,Reading,ENG_20261128T1500_sheffield-wed_vs_reading,0.4740,1.62,bet365,-0.2321,no
+17,2026-11-28,16:00,Luton Town,Oxford United,ENG_20261128T1500_luton_vs_oxford-utd,0.5311,1.65,bet365,-0.1236,no
+17,2026-11-28,16:00,Leicester City,Mansfield Town,ENG_20261128T1500_leicester_vs_mansfield,0.6059,1.48,bet365,-0.1033,yes
+17,2026-11-28,16:00,Bromley,Burton Albion,ENG_20261128T1500_bromley_vs_burton,0.5399,1.73,Betano,-0.0659,no
+17,2026-11-28,16:00,AFC Wimbledon,Barnsley,ENG_20261128T1500_afc-wimbledon_vs_barnsley,0.2593,1.62,bet365,-0.5800,no
+17,2026-11-28,13:30,Peterborough United,Cambridge United,ENG_20261128T1230_peterborough_vs_cambridge-utd,0.4522,1.53,bet365,-0.3081,no
+17,2026-11-28,13:30,MK Dons,Notts County,ENG_20261128T1230_milton-keynes-dons_vs_notts-county,0.6246,1.73,bet365,+0.0805,yes
+17,2026-11-26,21:00,Doncaster Rovers,Huddersfield Town,ENG_20261126T2000_doncaster_vs_huddersfield,0.3655,1.60,bet365,-0.4152,no
