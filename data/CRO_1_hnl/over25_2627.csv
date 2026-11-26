@@ -1,6 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-15,2026-11-29,,Hajduk Split,Rudes,CRO_20261129T1700_hajduk-split_vs_rudes,0.5323,1.57,bet365,-0.1643,no
-15,2026-11-29,,Gorica,Din. Zagreb,CRO_20261129T1400_hnk-gorica_vs_din-zagreb,0.6649,1.50,bet365,-0.0027,yes
-15,2026-11-28,,Osijek,Rijeka,CRO_20261128T1700_osijek_vs_rijeka,0.4696,1.95,bet365,-0.0842,no
-15,2026-11-28,,Lok. Zagreb,Slaven Belupo,CRO_20261128T1400_lok-zagreb_vs_slaven-belupo,0.5408,1.62,bet365,-0.1239,no
-15,2026-11-27,,Istra 1961,Varazdin,CRO_20261127T1700_istra-1961_vs_varazdin,0.6162,1.73,bet365,+0.0660,yes
+2,2026-12-03,,Rijeka,Din. Zagreb,CRO_20261203T1700_rijeka_vs_din-zagreb,0.6844,1.85,bet365,+0.2662,yes

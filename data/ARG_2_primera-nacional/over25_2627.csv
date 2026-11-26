@@ -1,5 +1,5 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-42,2026-11-28,00:00,Deportivo Madryn,Gimnasia y Esgrima (Jujuy),ARG_20261128T2300_deportivo-madryn_vs_gimnasia-jujuy,0.6133,2.10,bet365,+0.2880,yes
-42,2026-11-28,01:00,Tristán Suárez,Gimnasia y Tiro (Salta),ARG_20261128T0000_tristan-suarez_vs_gimnasia-y-tiro,0.2395,2.90,Betway,-0.3054,no
-42,2026-11-28,01:00,Deportivo Morón,Colón (Santa Fe),ARG_20261128T0000_deportivo-moron_vs_colon-santa-fe,0.3815,3.00,Betway,+0.1444,no
-42,2026-11-27,23:00,Atlanta,Ciudad de Bolívar,ARG_20261127T2200_atletico-atlanta_vs_ciudad-bolivar,0.2238,2.50,bet365,-0.4405,no
+42,2026-11-28,00:00,Deportivo Madryn,Gimnasia y Esgrima (Jujuy),ARG_20261128T2300_deportivo-madryn_vs_gimnasia-jujuy,0.6133,2.20,bet365,+0.3494,yes
+42,2026-11-28,01:00,Tristán Suárez,Gimnasia y Tiro (Salta),ARG_20261128T0000_tristan-suarez_vs_gimnasia-y-tiro,0.2395,3.10,bet365,-0.2575,no
+42,2026-11-28,01:00,Deportivo Morón,Colón (Santa Fe),ARG_20261128T0000_deportivo-moron_vs_colon-santa-fe,0.3815,3.10,bet365,+0.1826,no
+42,2026-11-27,23:00,Atlanta,Ciudad de Bolívar,ARG_20261127T2200_atletico-atlanta_vs_ciudad-bolivar,0.2238,2.88,bet365,-0.3554,no

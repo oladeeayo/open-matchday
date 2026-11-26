@@ -1,5 +1,13 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-17,2026-11-25,21:00,Stoke City,Millwall,ENG_20261125T2000_stoke-city_vs_millwall,0.5359,2.00,bet365,+0.0719,no
-17,2026-11-25,20:45,Watford,Blackburn Rovers,ENG_20261125T1945_watford_vs_blackburn,0.4770,2.00,bet365,-0.0459,no
-17,2026-11-25,20:45,Burnley,Birmingham City,ENG_20261125T1945_burnley_vs_birmingham,0.3957,1.80,bet365,-0.2878,no
-17,2026-11-25,20:45,Bolton Wanderers,West Bromwich Albion,ENG_20261125T1945_bolton_vs_west-brom,0.5900,1.73,bet365,+0.0207,no
+18,2026-11-29,13:00,Swansea City,Cardiff City,ENG_20261129T1200_swansea_vs_cardiff,0.4658,1.50,bet365,-0.3013,no
+18,2026-11-28,16:00,Wrexham,Portsmouth,ENG_20261128T1500_wrexham_vs_portsmouth,0.3155,2.20,bet365,-0.3059,no
+18,2026-11-28,16:00,West Ham United,Stoke City,ENG_20261128T1500_west-ham_vs_stoke-city,0.6666,1.67,bet365,+0.1132,yes
+18,2026-11-28,16:00,West Bromwich Albion,Bristol City,ENG_20261128T1500_west-brom_vs_bristol-city,0.5188,1.91,bet365,-0.0092,no
+18,2026-11-28,16:00,Queens Park Rangers,Sheffield United,ENG_20261128T1500_qpr_vs_sheffield-utd,0.5550,1.80,bet365,-0.0010,no
+18,2026-11-28,16:00,Millwall,Burnley,ENG_20261128T1500_millwall_vs_burnley,0.7287,1.67,bet365,+0.2169,yes
+18,2026-11-28,16:00,Derby County,Watford,ENG_20261128T1500_derby_vs_watford,0.4326,1.91,bet365,-0.1737,no
+18,2026-11-28,16:00,Birmingham City,Bolton Wanderers,ENG_20261128T1500_birmingham_vs_bolton,0.6320,1.57,bet365,-0.0077,yes
+18,2026-11-28,13:30,Preston North End,Norwich City,ENG_20261128T1230_preston_vs_norwich,0.6486,1.62,bet365,+0.0507,yes
+18,2026-11-28,13:30,Lincoln City,Wolverhampton Wanderers,ENG_20261128T1230_lincoln-city_vs_wolves,0.6090,1.80,bet365,+0.0962,yes
+18,2026-11-28,13:30,Blackburn Rovers,Charlton Athletic,ENG_20261128T1230_blackburn_vs_charlton,0.5934,1.91,bet365,+0.1335,no
+18,2026-11-27,21:00,Southampton,Middlesbrough,ENG_20261127T2000_southampton_vs_middlesbrough,0.5774,1.57,bet365,-0.0934,no

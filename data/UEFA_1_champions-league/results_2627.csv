@@ -80,3 +80,12 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 5,2026-11-24,21:00,Man City,Napoli,2,2,D,,,,,,,,,,,,,,,,,,,,"55,67,76,86",fixturedl
 5,2026-11-24,21:00,Real Madrid,PSV,5,1,H,,,,,,,,,,,,,,,,,,,,"32,50,64,84,87",fixturedl
 5,2026-11-24,21:00,S. Bratislava,Real Betis,0,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-11-25,18:45,Sabah,Barcelona,1,4,A,,,,,,,,,,,,,,,,,,,,"31,55,60,63",fixturedl
+5,2026-11-25,18:45,Slavia Praha,Villarreal,0,1,A,,,,,,,,,,,,,,,,,,,,62,fixturedl
+5,2026-11-25,21:00,Atleti,Viking,2,0,H,,,,,,,,,,,,,,,,,,,,19,fixturedl
+5,2026-11-25,21:00,Club Brugge,Liverpool,0,3,A,,,,,,,,,,,,,,,,,,,,"13,79,82",fixturedl
+5,2026-11-25,21:00,Inter,Stuttgart,2,0,H,,,,,,,,,,,,,,,,,,,,"57,74",fixturedl
+5,2026-11-25,21:00,Lille,Bayern München,2,1,H,,,,,,,,,,,,,,,,,,,,"62,65",fixturedl
+5,2026-11-25,21:00,Paris,Roma,2,2,D,,,,,,,,,,,,,,,,,,,,"5,62,78",fixturedl
+5,2026-11-25,21:00,Shakhtar,Fenerbahçe,0,1,A,,,,,,,,,,,,,,,,,,,,56,fixturedl
+5,2026-11-25,21:00,Sporting CP,Man Utd,2,2,D,,,,,,,,,,,,,,,,,,,,"33,48,50,80",fixturedl

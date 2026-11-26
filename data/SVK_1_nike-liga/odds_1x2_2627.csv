@@ -1,11 +1,13 @@
 match_id,event_id,bookmaker,home,draw,away,home_open,draw_open,away_open
-SVK_20261129T1700_spartak-trnava_vs_trencin,4MZ4NqUb,Betano,1.5,4.2,5.25,1.53,4.0,5.25
+SVK_20261129T1700_spartak-trnava_vs_trencin,4MZ4NqUb,Betway,1.57,4.2,4.5,1.55,4.0,4.33
+SVK_20261129T1700_spartak-trnava_vs_trencin,4MZ4NqUb,Betano,1.53,4.1,5.0,1.53,4.0,5.25
+SVK_20261129T1430_skalica_vs_michalovce,Stdm52EU,Betway,1.95,3.5,3.25,1.95,3.5,3.2
 SVK_20261129T1430_skalica_vs_michalovce,Stdm52EU,Betano,1.95,3.4,3.5,2.15,3.3,3.1
 SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,fTcu7OqI,Betano,1.5,4.4,5.0,1.33,5.0,7.0
 SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,fTcu7OqI,Betway,1.5,4.5,4.5,1.48,4.5,4.5
-SVK_20261128T1430_podbrezova_vs_dun-streda,n3fX8pF5,Betano,3.9,3.9,1.73,4.0,4.0,1.67
 SVK_20261128T1430_podbrezova_vs_dun-streda,n3fX8pF5,Betway,3.8,3.8,1.73,3.8,3.8,1.7
+SVK_20261128T1430_podbrezova_vs_dun-streda,n3fX8pF5,Betano,3.9,3.9,1.73,4.0,4.0,1.67
+SVK_20261128T1430_komarno_vs_zilina,ddWdP5an,Betway,2.8,3.5,2.15,2.8,3.4,2.15
 SVK_20261128T1430_komarno_vs_zilina,ddWdP5an,Betano,2.88,3.5,2.15,2.75,3.6,2.2
-SVK_20261128T1430_komarno_vs_zilina,ddWdP5an,Betway,2.88,3.4,2.15,2.8,3.4,2.15
 SVK_20261128T1430_banska-bystrica_vs_ruzomberok,xzYCLNbB,Betano,2.63,3.4,2.38,2.55,3.4,2.45
-SVK_20261128T1430_banska-bystrica_vs_ruzomberok,xzYCLNbB,Betway,2.63,3.4,2.3,2.63,3.3,2.3
+SVK_20261128T1430_banska-bystrica_vs_ruzomberok,xzYCLNbB,Betway,2.7,3.4,2.3,2.63,3.3,2.3

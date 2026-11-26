@@ -3,8 +3,8 @@ gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 14,2026-11-29,21:00,Real Sociedad,Sevilla FC,ESP_20261129T2000_real-sociedad_vs_sevilla,0.5847,1.80,bet365,+0.0524,no
 14,2026-11-29,18:30,Celta,Villarreal CF,ESP_20261129T1730_celta-vigo_vs_villarreal,0.4670,1.80,bet365,-0.1594,no
 14,2026-11-29,16:15,RC Deportivo,FC Barcelona,ESP_20261129T1515_dep-a-coruna_vs_barcelona,0.6722,1.25,bet365,-0.1597,yes
-14,2026-11-29,14:00,Valencia CF,CA Osasuna,ESP_20261129T1300_valencia_vs_osasuna,0.5775,2.25,Betway,+0.2993,no
+14,2026-11-29,14:00,Valencia CF,CA Osasuna,ESP_20261129T1300_valencia_vs_osasuna,0.5775,2.30,bet365,+0.3282,no
 14,2026-11-28,21:00,Real Madrid,Deportivo Alavés,ESP_20261128T2000_real-madrid_vs_alaves,0.6246,1.33,bet365,-0.1693,yes
 14,2026-11-28,18:30,Elche CF,Atlético de Madrid,ESP_20261128T1730_elche_vs_atl-madrid,0.5935,1.57,bet365,-0.0682,no
-14,2026-11-28,16:15,Málaga CF,Athletic Club,ESP_20261128T1515_malaga_vs_ath-bilbao,0.4363,1.91,bet365,-0.1666,no
+14,2026-11-28,16:15,Málaga CF,Athletic Club,ESP_20261128T1515_malaga_vs_ath-bilbao,0.4363,1.80,bet365,-0.2146,no
 14,2026-11-28,14:00,Real Betis,Rayo Vallecano,ESP_20261128T1300_betis_vs_rayo-vallecano,0.6406,1.57,bet365,+0.0057,yes

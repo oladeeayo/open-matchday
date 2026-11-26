@@ -1,3 +1,4 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-1,2026-12-02,21:00,Como,Cremonese,ITA_20261202T2000_como_vs_cremonese,rRXxPyAT,2026-12-02T20:00:00Z,0,,,,,,2026-11-25T07:50:43Z
-1,2026-12-01,21:00,Internazionale,Genoa,ITA_20261201T2000_inter_vs_genoa,t2LEA27M,2026-12-01T20:00:00Z,0,,,,,,2026-11-25T07:50:43Z
+1,2026-12-03,21:00,Juventus,Sassuolo,ITA_20261203T2000_juventus_vs_sassuolo,viz5KeNP,2026-12-03T20:00:00Z,0,,,,,,2026-11-26T07:41:00Z
+1,2026-12-02,21:00,Como,Cremonese,ITA_20261202T2000_como_vs_cremonese,rRXxPyAT,2026-12-02T20:00:00Z,0,,,,,,2026-11-26T07:41:00Z
+1,2026-12-01,21:00,Internazionale,Genoa,ITA_20261201T2000_inter_vs_genoa,t2LEA27M,2026-12-01T20:00:00Z,0,,,,,,2026-11-26T07:41:00Z

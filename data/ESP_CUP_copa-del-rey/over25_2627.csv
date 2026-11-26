@@ -1,4 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-03,21:00,Real Zaragoza,Burgos,ESP_20261203T2000_zaragoza_vs_burgos-cf,0.7389,,,,yes
+1,2026-12-03,21:00,Real Jaen CF,Valencia,ESP_20261203T2000_jaen_vs_valencia,0.7389,,,,yes
+1,2026-12-03,21:00,Coria,Málaga,ESP_20261203T2000_cd-coria_vs_malaga,0.6725,,,,yes
+1,2026-12-03,21:00,Amorebieta,Osasuna,ESP_20261203T2000_amorebieta_vs_osasuna,0.6624,,,,yes
+1,2026-12-03,19:00,Real Ávila,Getafe,ESP_20261203T1800_real-avila_vs_getafe,0.6433,,,,yes
 1,2026-12-02,21:00,Sestao,Villarreal,ESP_20261202T2000_sestao_vs_villarreal,0.7754,,,,yes
 1,2026-12-02,21:00,Rayo Majadahonda,Mallorca,ESP_20261202T2000_rayo-majadahonda_vs_mallorca,0.7020,,,,yes
 1,2026-12-02,21:00,Arosa,Celta Vigo,ESP_20261202T2000_arosa-sc_vs_celta-vigo,0.6624,,,,yes

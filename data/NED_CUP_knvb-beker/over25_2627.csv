@@ -1,4 +1,7 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-03,21:00,Ajax Amsterdam,FC Den Bosch,NED_20261203T2000_ajax_vs_den-bosch,0.8327,,,,yes
+1,2026-12-03,20:00,Roda JC Kerkrade,RKAV Volendam,NED_20261203T1900_roda_vs_rkav-volendam,0.6793,,,,yes
+1,2026-12-03,18:45,FC Emmen,FC Utrecht,NED_20261203T1745_fc-emmen_vs_utrecht,0.6793,,,,yes
 1,2026-12-02,21:00,Fortuna Sittard,FC Twente,NED_20261202T2000_sittard_vs_twente,0.7798,,,,yes
 1,2026-12-02,20:00,FC Eindhoven,Quick Boys,NED_20261202T1900_eindhoven-fc_vs_quick-boys,0.8327,,,,yes
 1,2026-12-02,18:45,Heerenveen,De Treffers,NED_20261202T1745_heerenveen_vs_de-treffers,0.7798,,,,yes
