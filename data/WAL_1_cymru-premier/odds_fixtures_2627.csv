@@ -1,9 +1,11 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-18,2026-11-28,,Holywell,Llandudno,WAL_20261128T1715_holywell-town-fc_vs_llandudno-fc,GAWJP857,2026-11-28T17:15:00Z,1,4.5,4.2,1.55,1.53,1.43,2026-11-26T07:41:00Z
-18,2026-11-28,,Barry,Caernarfon,WAL_20261128T1230_barry-town_vs_caernarfon,QB6jrZ5S,2026-11-28T12:30:00Z,1,3.6,3.8,1.78,1.53,1.48,2026-11-26T07:41:00Z
-18,2026-11-27,,Haverfordwest,Connahs Q.,WAL_20261127T1945_haverfordwest_vs_connahs-q,rcYBRUze,2026-11-27T19:45:00Z,1,4.33,3.8,1.67,1.85,1.83,2026-11-26T07:41:00Z
-18,2026-11-27,,Flint,TNS,WAL_20261127T1945_flint-town_vs_tns,zXU3Tj6r,2026-11-27T19:45:00Z,1,15.0,11.0,1.09,2.15,1.29,2026-11-26T07:41:00Z
-18,2026-11-27,,Colwyn Bay,Ammanford,WAL_20261127T1945_colwyn-bay_vs_ammanford-town,QcqYYCrL,2026-11-27T19:45:00Z,1,1.07,12.0,21.0,2.2,1.22,2026-11-26T07:41:00Z
-18,2026-11-27,,Cardiff Metropolitan,Airbus,WAL_20261127T1945_cardiff-metropolitan-university_vs_airbus-uk-broughton-fc,hpoQzZD8,2026-11-27T19:45:00Z,1,1.95,3.6,3.2,1.48,1.5,2026-11-26T07:41:00Z
-18,2026-11-27,,Cambrian United,Trefelin,WAL_20261127T1945_cambrian-united_vs_trefelin,U7eUzib2,2026-11-27T19:45:00Z,1,1.5,4.33,5.0,1.67,1.5,2026-11-26T07:41:00Z
-18,2026-11-27,,Briton Ferry,Penybont,WAL_20261127T1945_briton-ferry_vs_penybont,MshMxDTk,2026-11-27T19:45:00Z,1,4.75,4.0,1.6,1.73,1.65,2026-11-26T07:41:00Z
+19,2026-12-04,,Trefelin,Cardiff Metropolitan,WAL_20261204T1945_trefelin_vs_cardiff-metropolitan-university,WfnQuLe5,2026-12-04T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+19,2026-12-04,,Connahs Q.,Holywell,WAL_20261204T1945_connahs-q_vs_holywell-town-fc,M1A0PaBO,2026-12-04T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-11-28,,Holywell,Llandudno,WAL_20261128T1715_holywell-town-fc_vs_llandudno-fc,GAWJP857,2026-11-28T17:15:00Z,1,4.5,4.2,1.57,1.57,1.53,2026-11-27T14:48:36Z
+18,2026-11-28,,Barry,Caernarfon,WAL_20261128T1230_barry-town_vs_caernarfon,QB6jrZ5S,2026-11-28T12:30:00Z,2,4.5,4.0,1.62,1.55,1.5,2026-11-27T14:48:36Z
+18,2026-11-27,,Haverfordwest,Connahs Q.,WAL_20261127T1945_haverfordwest_vs_connahs-q,rcYBRUze,2026-11-27T19:45:00Z,2,4.1,3.13,1.57,1.95,1.95,2026-11-27T14:48:36Z
+18,2026-11-27,,Flint,TNS,WAL_20261127T1945_flint-town_vs_tns,zXU3Tj6r,2026-11-27T19:45:00Z,2,15.0,10.0,1.1,2.2,1.3,2026-11-27T14:48:36Z
+18,2026-11-27,,Colwyn Bay,Ammanford,WAL_20261127T1945_colwyn-bay_vs_ammanford-town,QcqYYCrL,2026-11-27T19:45:00Z,2,1.07,12.0,21.0,2.38,1.3,2026-11-27T14:48:36Z
+18,2026-11-27,,Cardiff Metropolitan,Airbus,WAL_20261127T1945_cardiff-metropolitan-university_vs_airbus-uk-broughton-fc,hpoQzZD8,2026-11-27T19:45:00Z,2,2.25,3.6,2.75,1.53,1.57,2026-11-27T14:48:36Z
+18,2026-11-27,,Cambrian United,Trefelin,WAL_20261127T1945_cambrian-united_vs_trefelin,U7eUzib2,2026-11-27T19:45:00Z,2,1.78,3.8,3.8,1.55,1.53,2026-11-27T14:48:36Z
+18,2026-11-27,,Briton Ferry,Penybont,WAL_20261127T1945_briton-ferry_vs_penybont,MshMxDTk,2026-11-27T19:45:00Z,2,4.5,4.0,1.62,1.78,1.73,2026-11-27T14:48:36Z

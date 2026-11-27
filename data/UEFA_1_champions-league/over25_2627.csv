@@ -1,19 +1,19 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-6,2026-12-09,21:00,Stuttgart,Lille,UEFA_20261209T2000_vfb-stuttgart_vs_lille,0.5366,1.44,bet365,-0.2273,no
-6,2026-12-09,21:00,PSV,Atleti,UEFA_20261209T2000_psv_vs_atl-madrid,0.5680,1.44,bet365,-0.1820,no
+6,2026-12-09,21:00,Stuttgart,Lille,UEFA_20261209T2000_vfb-stuttgart_vs_lille,0.5366,1.50,bet365,-0.1951,no
+6,2026-12-09,21:00,PSV,Atleti,UEFA_20261209T2000_psv_vs_atl-madrid,0.5680,1.40,bet365,-0.2047,no
 6,2026-12-09,21:00,Liverpool,Porto,UEFA_20261209T2000_liverpool_vs_fc-porto,0.7378,1.50,bet365,+0.1067,yes
 6,2026-12-09,21:00,Lens,Bodø/Glimt,UEFA_20261209T2000_lens_vs_bodo-glimt,0.8341,1.40,bet365,+0.1677,yes
 6,2026-12-09,21:00,LASK,Fenerbahçe,UEFA_20261209T2000_lask-linz_vs_fenerbahce,0.7947,1.50,bet365,+0.1920,yes
-6,2026-12-09,21:00,B. Dortmund,Inter,UEFA_20261209T2000_dortmund_vs_inter,0.6902,1.45,Betway,+0.0008,yes
+6,2026-12-09,21:00,B. Dortmund,Inter,UEFA_20261209T2000_dortmund_vs_inter,0.6902,1.44,bet365,-0.0061,yes
 6,2026-12-09,21:00,Arsenal,Real Madrid,UEFA_20261209T2000_arsenal_vs_real-madrid,0.7469,1.53,bet365,+0.1428,yes
-6,2026-12-09,18:45,Real Betis,Como,UEFA_20261209T1745_betis_vs_como,0.8019,1.57,bet365,+0.2590,yes
+6,2026-12-09,18:45,Real Betis,Como,UEFA_20261209T1745_betis_vs_como,0.8019,1.53,bet365,+0.2269,yes
 6,2026-12-08,21:00,Napoli,Club Brugge,UEFA_20261208T2000_napoli_vs_club-brugge,0.7715,1.44,bet365,+0.1109,yes
-6,2026-12-08,21:00,Man Utd,Leipzig,UEFA_20261208T2000_manchester-united_vs_rb-leipzig,0.7912,1.30,bet365,+0.0285,yes
+6,2026-12-08,21:00,Man Utd,Leipzig,UEFA_20261208T2000_manchester-united_vs_rb-leipzig,0.7912,1.33,bet365,+0.0523,yes
 6,2026-12-08,21:00,Barcelona,Man City,UEFA_20261208T2000_barcelona_vs_manchester-city,0.7214,1.25,bet365,-0.0982,yes
 6,2026-12-08,21:00,Aston Villa,Paris,UEFA_20261208T2000_aston-villa_vs_psg,0.8038,1.44,bet365,+0.1575,yes
 6,2026-12-08,21:00,Roma,Sporting CP,UEFA_20261208T2000_as-roma_vs_sporting-cp,0.6660,1.44,bet365,-0.0409,yes
-6,2026-12-08,21:00,AEK Athens,Galatasaray,UEFA_20261208T2000_aek_vs_galatasaray,0.7385,1.50,bet365,+0.1078,yes
+6,2026-12-08,21:00,AEK Athens,Galatasaray,UEFA_20261208T2000_aek_vs_galatasaray,0.7385,1.53,bet365,+0.1299,yes
 6,2026-12-08,18:45,Villarreal,Sabah,UEFA_20261208T1745_villarreal_vs_sabah-fc,0.7733,1.25,bet365,-0.0334,yes
 6,2026-12-08,18:45,Viking,Feyenoord,UEFA_20261208T1745_viking_vs_feyenoord,0.7713,1.36,bet365,+0.0489,yes
-6,2026-12-09,18:45,S. Bratislava,Shakhtar,UEFA_20261209T1745_slovan-bratislava_vs_shakhtar,0.4925,1.57,Betano,-0.2268,no
+6,2026-12-09,18:45,S. Bratislava,Shakhtar,UEFA_20261209T1745_slovan-bratislava_vs_shakhtar,0.4925,1.62,bet365,-0.2022,no
 6,2026-12-08,21:00,Bayern München,Slavia Praha,UEFA_20261208T2000_bayern-munich_vs_slavia-prague,0.7245,1.22,bet365,-0.1161,yes

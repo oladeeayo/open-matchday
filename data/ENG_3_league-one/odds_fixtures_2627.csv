@@ -1,25 +1,24 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-18,2026-12-01,21:00,Reading,Doncaster Rovers,ENG_20261201T2000_reading_vs_doncaster,6DIclQmA,2026-12-01T20:00:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Plymouth Argyle,Bromley,ENG_20261201T1945_plymouth_vs_bromley,bmFkjnJc,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Oxford United,Sheffield Wednesday,ENG_20261201T1945_oxford-utd_vs_sheffield-wed,6gS3SrRj,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Notts County,AFC Wimbledon,ENG_20261201T1945_notts-county_vs_afc-wimbledon,xvxYX43T,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Mansfield Town,Stockport County,ENG_20261201T1945_mansfield_vs_stockport-county,UDYPZQYG,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Huddersfield Town,Stevenage,ENG_20261201T1945_huddersfield_vs_stevenage,lzX9w9Zi,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Cambridge United,Leicester City,ENG_20261201T1945_cambridge-utd_vs_leicester,dSUOF5so,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Burton Albion,Wigan Athletic,ENG_20261201T1945_burton_vs_wigan,0dqgLRJN,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Bradford City,MK Dons,ENG_20261201T1945_bradford-city_vs_milton-keynes-dons,hWuoNmkB,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Blackpool,Luton Town,ENG_20261201T1945_blackpool_vs_luton,p6xwP9Kb,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:45,Barnsley,Wycombe Wanderers,ENG_20261201T1945_barnsley_vs_wycombe,ChvVQVkn,2026-12-01T19:45:00Z,0,,,,,,2026-11-26T07:41:00Z
-18,2026-12-01,20:00,Leyton Orient,Peterborough United,ENG_20261201T1900_leyton-orient_vs_peterborough,d0zIym44,2026-12-01T19:00:00Z,0,,,,,,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Wycombe Wanderers,Bradford City,ENG_20261128T1500_wycombe_vs_bradford-city,OdaL6S4U,2026-11-28T15:00:00Z,3,2.15,3.4,3.0,1.67,1.85,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Wigan Athletic,Plymouth Argyle,ENG_20261128T1500_wigan_vs_plymouth,GWeD8lzI,2026-11-28T15:00:00Z,3,2.55,3.3,2.55,1.55,1.7,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Stockport County,Leyton Orient,ENG_20261128T1500_stockport-county_vs_leyton-orient,rJc5AA55,2026-11-28T15:00:00Z,3,1.4,4.5,6.25,1.67,1.5,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Stevenage,Blackpool,ENG_20261128T1500_stevenage_vs_blackpool,zgfcCWzg,2026-11-28T15:00:00Z,3,1.83,3.8,3.6,1.75,1.8,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Sheffield Wednesday,Reading,ENG_20261128T1500_sheffield-wed_vs_reading,lxdkEh6t,2026-11-28T15:00:00Z,3,2.25,3.5,2.75,1.57,1.67,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Luton Town,Oxford United,ENG_20261128T1500_luton_vs_oxford-utd,rJwOAJal,2026-11-28T15:00:00Z,3,1.7,3.8,4.1,1.62,1.62,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Leicester City,Mansfield Town,ENG_20261128T1500_leicester_vs_mansfield,nmhhGuxR,2026-11-28T15:00:00Z,3,1.48,4.2,5.25,1.62,1.48,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,Bromley,Burton Albion,ENG_20261128T1500_bromley_vs_burton,SYsafbF7,2026-11-28T15:00:00Z,3,2.2,3.4,2.88,1.62,1.78,2026-11-26T07:41:00Z
-17,2026-11-28,16:00,AFC Wimbledon,Barnsley,ENG_20261128T1500_afc-wimbledon_vs_barnsley,fLqidKpe,2026-11-28T15:00:00Z,3,2.7,3.6,2.25,1.5,1.57,2026-11-26T07:41:00Z
-17,2026-11-28,13:30,Peterborough United,Cambridge United,ENG_20261128T1230_peterborough_vs_cambridge-utd,b9pv7yaD,2026-11-28T12:30:00Z,3,2.2,3.5,2.8,1.5,1.6,2026-11-26T07:41:00Z
-17,2026-11-28,13:30,MK Dons,Notts County,ENG_20261128T1230_milton-keynes-dons_vs_notts-county,jqsW8cU0,2026-11-28T12:30:00Z,3,1.85,3.5,3.7,1.67,1.73,2026-11-26T07:41:00Z
-17,2026-11-26,21:00,Doncaster Rovers,Huddersfield Town,ENG_20261126T2000_doncaster_vs_huddersfield,fuzoI17E,2026-11-26T20:00:00Z,3,4.5,4.1,1.7,1.62,1.62,2026-11-26T07:41:00Z
+18,2026-12-01,21:00,Reading,Doncaster Rovers,ENG_20261201T2000_reading_vs_doncaster,6DIclQmA,2026-12-01T20:00:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Plymouth Argyle,Bromley,ENG_20261201T1945_plymouth_vs_bromley,bmFkjnJc,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Oxford United,Sheffield Wednesday,ENG_20261201T1945_oxford-utd_vs_sheffield-wed,6gS3SrRj,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Notts County,AFC Wimbledon,ENG_20261201T1945_notts-county_vs_afc-wimbledon,xvxYX43T,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Mansfield Town,Stockport County,ENG_20261201T1945_mansfield_vs_stockport-county,UDYPZQYG,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Huddersfield Town,Stevenage,ENG_20261201T1945_huddersfield_vs_stevenage,lzX9w9Zi,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Cambridge United,Leicester City,ENG_20261201T1945_cambridge-utd_vs_leicester,dSUOF5so,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Burton Albion,Wigan Athletic,ENG_20261201T1945_burton_vs_wigan,0dqgLRJN,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Bradford City,MK Dons,ENG_20261201T1945_bradford-city_vs_milton-keynes-dons,hWuoNmkB,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Blackpool,Luton Town,ENG_20261201T1945_blackpool_vs_luton,p6xwP9Kb,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:45,Barnsley,Wycombe Wanderers,ENG_20261201T1945_barnsley_vs_wycombe,ChvVQVkn,2026-12-01T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
+18,2026-12-01,20:00,Leyton Orient,Peterborough United,ENG_20261201T1900_leyton-orient_vs_peterborough,d0zIym44,2026-12-01T19:00:00Z,0,,,,,,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Wycombe Wanderers,Bradford City,ENG_20261128T1500_wycombe_vs_bradford-city,OdaL6S4U,2026-11-28T15:00:00Z,3,2.2,3.25,3.25,1.7,1.85,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Wigan Athletic,Plymouth Argyle,ENG_20261128T1500_wigan_vs_plymouth,GWeD8lzI,2026-11-28T15:00:00Z,3,2.6,3.25,2.63,1.57,1.7,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Stockport County,Leyton Orient,ENG_20261128T1500_stockport-county_vs_leyton-orient,rJc5AA55,2026-11-28T15:00:00Z,3,1.36,4.75,6.5,1.7,1.5,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Stevenage,Blackpool,ENG_20261128T1500_stevenage_vs_blackpool,zgfcCWzg,2026-11-28T15:00:00Z,3,1.85,3.6,3.9,1.7,1.8,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Sheffield Wednesday,Reading,ENG_20261128T1500_sheffield-wed_vs_reading,lxdkEh6t,2026-11-28T15:00:00Z,3,2.25,3.5,2.9,1.57,1.67,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Luton Town,Oxford United,ENG_20261128T1500_luton_vs_oxford-utd,rJwOAJal,2026-11-28T15:00:00Z,3,1.7,3.8,4.2,1.62,1.62,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Leicester City,Mansfield Town,ENG_20261128T1500_leicester_vs_mansfield,nmhhGuxR,2026-11-28T15:00:00Z,3,1.5,4.33,5.25,1.57,1.48,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,Bromley,Burton Albion,ENG_20261128T1500_bromley_vs_burton,SYsafbF7,2026-11-28T15:00:00Z,3,2.25,3.4,3.0,1.67,1.8,2026-11-27T14:48:36Z
+17,2026-11-28,16:00,AFC Wimbledon,Barnsley,ENG_20261128T1500_afc-wimbledon_vs_barnsley,fLqidKpe,2026-11-28T15:00:00Z,3,2.75,3.6,2.3,1.5,1.57,2026-11-27T14:48:36Z
+17,2026-11-28,13:30,Peterborough United,Cambridge United,ENG_20261128T1230_peterborough_vs_cambridge-utd,b9pv7yaD,2026-11-28T12:30:00Z,3,2.2,3.5,2.8,1.53,1.6,2026-11-27T14:48:36Z
+17,2026-11-28,13:30,MK Dons,Notts County,ENG_20261128T1230_milton-keynes-dons_vs_notts-county,jqsW8cU0,2026-11-28T12:30:00Z,3,1.85,3.5,4.0,1.67,1.75,2026-11-27T14:48:36Z

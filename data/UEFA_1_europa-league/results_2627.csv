@@ -71,3 +71,21 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 4,2026-11-05,21:00,Sturm Graz,Celje,2,3,A,,,,,,,,,,,,,,,,,,,,"29,40,45,73,93",fixturedl
 4,2026-11-05,21:00,Sunderland,GNK Dinamo,0,2,A,,,,,,,,,,,,,,,,,,,,,fixturedl
 4,2026-11-05,21:00,Torreense,Ararat-Armenia,3,2,H,,,,,,,,,,,,,,,,,,,,"13,41,95",fixturedl
+5,2026-11-26,18:45,Besiktas,H. Beer-Sheva,2,1,H,,,,,,,,,,,,,,,,,,,,"75,90,93",fixturedl
+5,2026-11-26,18:45,Celta,Bournemouth,1,2,A,,,,,,,,,,,,,,,,,,,,"19,78",fixturedl
+5,2026-11-26,18:45,GNK Dinamo,Leverkusen,0,2,A,,,,,,,,,,,,,,,,,,,,"10,45",fixturedl
+5,2026-11-26,18:45,Marseille,Levski Sofia,1,0,H,,,,,,,,,,,,,,,,,,,,28,fixturedl
+5,2026-11-26,18:45,Olympiacos,Milan,2,4,A,,,,,,,,,,,,,,,,,,,,"31,49,56,71,95",fixturedl
+5,2026-11-26,18:45,Salzburg,Ararat-Armenia,2,0,H,,,,,,,,,,,,,,,,,,,,"47,51",fixturedl
+5,2026-11-26,18:45,Union SG,Lech Poznan,2,2,D,,,,,,,,,,,,,,,,,,,,"15,18,54,66",fixturedl
+5,2026-11-26,18:45,Viktoria Plzen,Benfica,4,0,H,,,,,,,,,,,,,,,,,,,,"30,43,44,46",fixturedl
+5,2026-11-26,21:00,Crystal Palace,Real Sociedad,2,1,H,,,,,,,,,,,,,,,,,,,,"66,73,81",fixturedl
+5,2026-11-26,21:00,Ferencváros,Celje,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-11-26,21:00,Hoffenheim,Sturm Graz,3,1,H,,,,,,,,,,,,,,,,,,,,"43,72,80,90",fixturedl
+5,2026-11-26,21:00,Juventus,Omonia,4,1,H,,,,,,,,,,,,,,,,,,,,"37,43,68,73",fixturedl
+5,2026-11-26,21:00,Lyon,Lillestrøm,0,0,D,,,,,,,,,,,,,,,,,,,,,fixturedl
+5,2026-11-26,21:00,N.E.C.,Rennes,3,1,H,,,,,,,,,,,,,,,,,,,,"29,36,81",fixturedl
+5,2026-11-26,21:00,OFI Crete,Anderlecht,1,3,A,,,,,,,,,,,,,,,,,,,,"20,39,54,95",fixturedl
+5,2026-11-26,21:00,Sparta Praha,AZ Alkmaar,2,4,A,,,,,,,,,,,,,,,,,,,,"27,52,68,73,84",fixturedl
+5,2026-11-26,21:00,Sunderland,Jagiellonia,1,1,D,,,,,,,,,,,,,,,,,,,,52,fixturedl
+5,2026-11-26,21:00,Torreense,Celtic,1,2,A,,,,,,,,,,,,,,,,,,,,"9,19",fixturedl

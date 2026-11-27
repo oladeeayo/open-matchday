@@ -1,0 +1,6 @@
+gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
+14,2026-12-04,20:00,Grenoble Foot 38,EN Avant Guingamp,FRA_20261204T1900_grenoble_vs_guingamp,bcnk3IAm,2026-12-04T19:00:00Z,2,3.1,3.4,2.1,1.73,1.9,2026-11-27T14:48:36Z
+14,2026-12-04,20:00,Dijon FCO,FC Sochaux-Montbéliard,FRA_20261204T1900_dijon_vs_sochaux,dUDXpyeJ,2026-12-04T19:00:00Z,1,1.85,3.25,3.7,1.73,1.85,2026-11-27T14:48:36Z
+14,2026-12-04,20:00,Clermont Foot 63,FC Metz,FRA_20261204T1900_clermont_vs_metz,l4APncQ6,2026-12-04T19:00:00Z,2,3.0,3.1,2.15,1.67,1.85,2026-11-27T14:48:36Z
+14,2026-12-04,20:00,US Boulogne CO,Pau FC,FRA_20261204T1900_boulogne_vs_pau,tv7HlJef,2026-12-04T19:00:00Z,2,2.3,2.9,2.88,1.83,2.1,2026-11-27T14:48:36Z
+14,2026-12-04,20:00,FC Annecy,Stade Lavallois MFC,FRA_20261204T1900_annecy_vs_laval,8Q89juRs,2026-12-04T19:00:00Z,2,2.15,3.4,3.0,1.67,1.9,2026-11-27T14:48:36Z

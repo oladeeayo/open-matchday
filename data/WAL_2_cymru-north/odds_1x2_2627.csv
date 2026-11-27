@@ -1,2 +1,7 @@
 match_id,event_id,bookmaker,home,draw,away,home_open,draw_open,away_open
 WAL_20261201T1930_bangor-1876_vs_ruthin-town,ERcCfjt4,Betway,1.38,5.25,5.5,1.33,5.0,6.5
+WAL_20261127T1945_denbigh_vs_brickfield-rangers,YNKil9KN,Betway,2.25,3.75,2.6,2.5,4.33,2.05
+WAL_20261127T1945_bala_vs_caersws-fc,SQHqjVkB,Betway,1.67,4.0,3.8,1.62,4.33,4.0
+WAL_20261127T1945_bala_vs_caersws-fc,SQHqjVkB,Betano,1.57,3.5,3.6,1.57,3.5,3.6
+WAL_20261127T1930_bangor-1876_vs_mold-alexandra,Ug6Nrmro,Betano,1.85,3.4,2.75,1.85,3.4,2.75
+WAL_20261127T1930_bangor-1876_vs_mold-alexandra,Ug6Nrmro,Betway,1.88,4.0,3.1,2.0,4.2,2.75

@@ -1,3 +1,4 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-12,2026-12-01,20:45,Greenock Morton,Ayr United,SCO_20261201T1945_morton_vs_ayr,OKXOGXSh,2026-12-01T19:45:00Z,3,2.8,3.25,2.3,1.8,1.95,2026-11-26T07:41:00Z
-15,2026-12-01,20:45,Dunfermline Athletic,Arbroath,SCO_20261201T1945_dunfermline_vs_arbroath,0vOdzJPr,2026-12-01T19:45:00Z,2,1.42,4.0,6.25,2.1,1.85,2026-11-26T07:41:00Z
+17,2026-12-04,20:30,Livingston,Raith Rovers,SCO_20261204T1930_livingston_vs_raith,0OqIaZhf,2026-12-04T19:30:00Z,1,1.85,3.4,3.6,1.83,2.0,2026-11-27T14:48:36Z
+12,2026-12-01,20:45,Greenock Morton,Ayr United,SCO_20261201T1945_morton_vs_ayr,OKXOGXSh,2026-12-01T19:45:00Z,3,2.8,3.25,2.3,1.67,1.8,2026-11-27T14:48:36Z
+15,2026-12-01,20:45,Dunfermline Athletic,Arbroath,SCO_20261201T1945_dunfermline_vs_arbroath,0vOdzJPr,2026-12-01T19:45:00Z,3,1.42,4.0,6.25,2.1,1.85,2026-11-27T14:48:36Z

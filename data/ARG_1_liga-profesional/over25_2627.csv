@@ -1,4 +1,5 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-36,2026-11-29,21:00,Vélez Sarsfield,Independiente,ARG_20261129T2100_velez-sarsfield_vs_independiente,0.3909,2.20,bet365,-0.1400,no
-36,2026-11-29,21:00,Rosario Central,Barracas Central,ARG_20261129T2100_rosario-central_vs_barracas-central,0.3276,2.25,bet365,-0.2629,no
-36,2026-11-29,21:00,Instituto (Córdoba),River Plate,ARG_20261129T2100_instituto_vs_river-plate,0.3311,2.70,bet365,-0.1061,no
+36,2026-11-29,21:00,Rosario Central,Barracas Central,ARG_20261129T2000_rosario-central_vs_barracas-central,0.3276,2.20,Betano,-0.2792,no
+36,2026-11-29,02:00,Instituto (Córdoba),River Plate,ARG_20261129T0100_instituto_vs_river-plate,0.3311,2.70,bet365,-0.1061,no
+36,2026-11-28,00:00,Vélez Sarsfield,Independiente,ARG_20261128T2300_velez-sarsfield_vs_independiente,0.3909,2.30,bet365,-0.1010,no
+36,2026-11-29,00:30,Boca Juniors,Gimnasia La Plata,ARG_20261129T2330_boca-juniors_vs_gimnasia-l-p,0.3643,1.95,bet365,-0.2896,no

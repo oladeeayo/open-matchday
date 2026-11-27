@@ -1,7 +1,8 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-14,2026-11-29,,Salzburg,LASK,AUT_20261129T1600_salzburg_vs_lask-linz,MNaRIH8N,2026-11-29T16:00:00Z,3,2.45,3.6,2.55,1.4,1.44,2026-11-26T07:41:00Z
-14,2026-11-29,,Sturm Graz,Tirol,AUT_20261129T1330_sturm-graz_vs_tirol,AT1WE87k,2026-11-29T13:30:00Z,3,1.53,4.2,5.25,1.62,1.53,2026-11-26T07:41:00Z
-14,2026-11-29,,Ried,Hartberg,AUT_20261129T1330_ried_vs_hartberg,WGyiZxg4,2026-11-29T13:30:00Z,3,2.2,3.6,2.88,1.5,1.57,2026-11-26T07:41:00Z
-14,2026-11-28,,A. Lustenau,SK Rapid,AUT_20261128T1830_a-lustenau_vs_rapid-vienna,h6jcDeWp,2026-11-28T18:30:00Z,3,8.5,5.0,1.3,1.67,1.44,2026-11-26T07:41:00Z
-14,2026-11-28,,Austria Vienna,Wolfsberger AC,AUT_20261128T1600_austria-vienna_vs_wolfsberger-ac,p0wqyaOi,2026-11-28T16:00:00Z,3,1.69,3.8,4.5,1.67,1.7,2026-11-26T07:41:00Z
-14,2026-11-27,,Grazer AK,Altach,AUT_20261127T1830_grazer-ak_vs_altach,vsuaXGNG,2026-11-27T18:30:00Z,3,3.1,3.5,2.15,1.75,1.95,2026-11-26T07:41:00Z
+15,2026-12-04,,Altach,Salzburg,AUT_20261204T1830_altach_vs_salzburg,2eAXYTbL,2026-12-04T18:30:00Z,0,,,,,,2026-11-27T14:48:36Z
+14,2026-11-29,,Salzburg,LASK,AUT_20261129T1600_salzburg_vs_lask-linz,MNaRIH8N,2026-11-29T16:00:00Z,3,2.4,3.6,2.65,1.4,1.44,2026-11-27T14:48:36Z
+14,2026-11-29,,Sturm Graz,Tirol,AUT_20261129T1330_sturm-graz_vs_tirol,AT1WE87k,2026-11-29T13:30:00Z,3,1.57,4.2,4.5,1.62,1.53,2026-11-27T14:48:36Z
+14,2026-11-29,,Ried,Hartberg,AUT_20261129T1330_ried_vs_hartberg,WGyiZxg4,2026-11-29T13:30:00Z,3,2.2,3.6,2.88,1.5,1.57,2026-11-27T14:48:36Z
+14,2026-11-28,,A. Lustenau,SK Rapid,AUT_20261128T1830_a-lustenau_vs_rapid-vienna,h6jcDeWp,2026-11-28T18:30:00Z,3,8.5,5.5,1.29,1.73,1.44,2026-11-27T14:48:36Z
+14,2026-11-28,,Austria Vienna,Wolfsberger AC,AUT_20261128T1600_austria-vienna_vs_wolfsberger-ac,p0wqyaOi,2026-11-28T16:00:00Z,3,1.69,3.8,4.5,1.67,1.7,2026-11-27T14:48:36Z
+14,2026-11-27,,Grazer AK,Altach,AUT_20261127T1830_grazer-ak_vs_altach,vsuaXGNG,2026-11-27T18:30:00Z,3,3.1,3.5,2.15,1.75,1.85,2026-11-27T14:48:36Z

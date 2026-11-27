@@ -1,4 +1,4 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-1,2026-12-03,21:00,Juventus,Sassuolo,ITA_20261203T2000_juventus_vs_sassuolo,0.6080,,,,yes
-1,2026-12-02,21:00,Como,Cremonese,ITA_20261202T2000_como_vs_cremonese,0.5573,,,,no
-1,2026-12-01,21:00,Internazionale,Genoa,ITA_20261201T2000_inter_vs_genoa,0.6080,,,,yes
+1,2026-12-03,21:00,Juventus,Sassuolo,ITA_20261203T2000_juventus_vs_sassuolo,0.6080,1.53,bet365,-0.0697,yes
+1,2026-12-02,21:00,Como,Cremonese,ITA_20261202T2000_como_vs_cremonese,0.5573,1.44,bet365,-0.1974,no
+1,2026-12-01,21:00,Internazionale,Genoa,ITA_20261201T2000_inter_vs_genoa,0.6080,1.44,bet365,-0.1244,yes

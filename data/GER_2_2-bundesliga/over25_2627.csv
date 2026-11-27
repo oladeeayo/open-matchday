@@ -1,9 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 13,2026-11-29,13:30,1. FC Magdeburg,Energie Cottbus,GER_20261129T1230_magdeburg_vs_energie-cottbus,0.7312,1.36,bet365,-0.0056,yes
-13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld,GER_20261129T1230_greuther-furth_vs_arminia-bielefeld,0.4510,1.70,bet365,-0.2333,no
+13,2026-11-29,13:30,SpVgg Greuther Fürth,DSC Arminia Bielefeld,GER_20261129T1230_greuther-furth_vs_arminia-bielefeld,0.4510,1.73,bet365,-0.2198,no
 13,2026-11-29,13:30,Eintracht Braunschweig,VfL Wolfsburg,GER_20261129T1230_braunschweig_vs_wolfsburg,0.6104,1.44,bet365,-0.1211,yes
-13,2026-11-28,20:30,VfL Osnabrück,Hannover 96,GER_20261128T1930_vfl-osnabruck_vs_hannover,0.5188,1.57,Betway,-0.1854,no
+13,2026-11-28,20:30,VfL Osnabrück,Hannover 96,GER_20261128T1930_vfl-osnabruck_vs_hannover,0.5188,1.65,bet365,-0.1439,no
 13,2026-11-28,13:00,Dynamo Dresden,FC St. Pauli,GER_20261128T1200_dresden_vs_st-pauli,0.4766,1.70,bet365,-0.1898,no
-13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern,GER_20261128T1200_holstein-kiel_vs_kaiserslautern,0.2881,1.70,bet365,-0.5103,no
-13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,GER_20261127T1730_heidenheim_vs_nurnberg,0.6693,1.36,bet365,-0.0898,yes
-13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,GER_20261127T1730_bochum_vs_darmstadt,0.4082,1.57,bet365,-0.3592,no
+13,2026-11-28,13:00,Holstein Kiel,1. FC Kaiserslautern,GER_20261128T1200_holstein-kiel_vs_kaiserslautern,0.2881,1.73,bet365,-0.5017,no
+13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,GER_20261127T1730_heidenheim_vs_nurnberg,0.6693,1.44,bet365,-0.0362,yes
+13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,GER_20261127T1730_bochum_vs_darmstadt,0.4082,1.70,bet365,-0.3061,no

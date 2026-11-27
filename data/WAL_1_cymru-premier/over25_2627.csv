@@ -1,9 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-18,2026-11-28,,Holywell,Llandudno,WAL_20261128T1715_holywell-town-fc_vs_llandudno-fc,0.7448,1.43,Betway,+0.0650,yes
-18,2026-11-28,,Barry,Caernarfon,WAL_20261128T1230_barry-town_vs_caernarfon,0.7810,1.48,Betway,+0.1558,yes
-18,2026-11-27,,Haverfordwest,Connahs Q.,WAL_20261127T1945_haverfordwest_vs_connahs-q,0.4409,1.83,Betway,-0.1931,no
-18,2026-11-27,,Flint,TNS,WAL_20261127T1945_flint-town_vs_tns,0.5780,1.29,Betway,-0.2544,no
-18,2026-11-27,,Colwyn Bay,Ammanford,WAL_20261127T1945_colwyn-bay_vs_ammanford-town,0.6754,1.22,Betway,-0.1760,yes
-18,2026-11-27,,Cardiff Metropolitan,Airbus,WAL_20261127T1945_cardiff-metropolitan-university_vs_airbus-uk-broughton-fc,0.7497,1.50,Betway,+0.1246,yes
-18,2026-11-27,,Cambrian United,Trefelin,WAL_20261127T1945_cambrian-united_vs_trefelin,0.6784,1.50,Betway,+0.0176,yes
-18,2026-11-27,,Briton Ferry,Penybont,WAL_20261127T1945_briton-ferry_vs_penybont,0.5788,1.65,Betway,-0.0450,no
+18,2026-11-28,,Holywell,Llandudno,WAL_20261128T1715_holywell-town-fc_vs_llandudno-fc,0.7448,1.53,Betway,+0.1395,yes
+18,2026-11-28,,Barry,Caernarfon,WAL_20261128T1230_barry-town_vs_caernarfon,0.7810,1.50,Betway,+0.1714,yes
+18,2026-11-27,,Haverfordwest,Connahs Q.,WAL_20261127T1945_haverfordwest_vs_connahs-q,0.4409,1.95,Betway,-0.1402,no
+18,2026-11-27,,Flint,TNS,WAL_20261127T1945_flint-town_vs_tns,0.5780,1.30,Betway,-0.2487,no
+18,2026-11-27,,Colwyn Bay,Ammanford,WAL_20261127T1945_colwyn-bay_vs_ammanford-town,0.6754,1.30,Betway,-0.1219,yes
+18,2026-11-27,,Cardiff Metropolitan,Airbus,WAL_20261127T1945_cardiff-metropolitan-university_vs_airbus-uk-broughton-fc,0.7497,1.57,Betway,+0.1771,yes
+18,2026-11-27,,Cambrian United,Trefelin,WAL_20261127T1945_cambrian-united_vs_trefelin,0.6784,1.53,Betway,+0.0379,yes
+18,2026-11-27,,Briton Ferry,Penybont,WAL_20261127T1945_briton-ferry_vs_penybont,0.5788,1.73,Betway,+0.0013,no

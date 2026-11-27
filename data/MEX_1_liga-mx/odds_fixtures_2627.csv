@@ -1,7 +1,5 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-21,2026-11-30,04:00,Cruz Azul,León,MEX_20261130T0300_cruz-azul_vs_club-leon,KOlVPC0c,2026-11-30T03:00:00Z,0,,,,,,2026-11-26T07:41:00Z
-21,2026-11-30,02:07,Guadalajara,Pachuca,MEX_20261130T0107_guadalajara-chivas_vs_pachuca,O26D7VpT,2026-11-30T01:07:00Z,0,,,,,,2026-11-26T07:41:00Z
-20,2026-11-29,04:10,América,Monterrey,MEX_20261129T0310_club-america_vs_monterrey,02joMUaM,2026-11-29T03:10:00Z,2,2.6,2.7,3.1,1.62,1.78,2026-11-26T07:41:00Z
-20,2026-11-29,02:00,Atlas,Toluca,MEX_20261129T0100_atlas_vs_toluca,rP4cBDo4,2026-11-29T01:00:00Z,0,,,,,,2026-11-26T07:41:00Z
-20,2026-11-27,04:10,León,Cruz Azul,MEX_20261127T0310_club-leon_vs_cruz-azul,focq298j,2026-11-27T03:10:00Z,3,3.1,3.5,2.1,1.62,1.75,2026-11-26T07:41:00Z
-20,2026-11-27,02:00,Pachuca,Guadalajara,MEX_20261127T0100_pachuca_vs_guadalajara-chivas,jk859iGG,2026-11-27T01:00:00Z,3,2.75,3.1,2.6,1.7,1.9,2026-11-26T07:41:00Z
+21,2026-11-30,04:00,Cruz Azul,León,MEX_20261130T0300_cruz-azul_vs_club-leon,KOlVPC0c,2026-11-30T03:00:00Z,3,1.66,4.0,4.2,1.57,1.62,2026-11-27T14:48:36Z
+21,2026-11-30,02:07,Guadalajara,Pachuca,MEX_20261130T0107_guadalajara-chivas_vs_pachuca,O26D7VpT,2026-11-30T01:07:00Z,3,1.61,4.1,4.5,1.62,1.6,2026-11-27T14:48:36Z
+20,2026-11-29,04:10,América,Monterrey,MEX_20261129T0310_club-america_vs_monterrey,02joMUaM,2026-11-29T03:10:00Z,3,2.15,3.2,3.5,1.62,1.8,2026-11-27T14:48:36Z
+20,2026-11-29,02:00,Atlas,Toluca,MEX_20261129T0100_atlas_vs_toluca,rP4cBDo4,2026-11-29T01:00:00Z,2,3.0,3.8,2.15,1.44,1.48,2026-11-27T14:48:36Z

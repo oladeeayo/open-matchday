@@ -1,10 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 12,2026-11-29,19:30,Arezzo,Pisa,ITA_20261129T1830_arezzo_vs_pisa,0.4874,1.95,bet365,-0.0495,no
-12,2026-11-29,17:15,Sampdoria,Cremonese,ITA_20261129T1615_sampdoria_vs_cremonese,0.4989,2.10,bet365,+0.0476,no
+12,2026-11-29,17:15,Sampdoria,Cremonese,ITA_20261129T1615_sampdoria_vs_cremonese,0.4989,2.15,bet365,+0.0726,no
 12,2026-11-29,15:00,Sudtirol,Mantova,ITA_20261129T1400_sudtirol_vs_mantova,0.3026,1.85,bet365,-0.4401,no
 12,2026-11-29,15:00,Modena,Padova,ITA_20261129T1400_modena_vs_padova,0.4215,1.70,bet365,-0.2835,no
 12,2026-11-28,19:30,Palermo,Benevento,ITA_20261128T1830_palermo_vs_benevento,0.5197,1.67,bet365,-0.1322,no
-12,2026-11-28,17:15,Vicenza,Cesena,ITA_20261128T1615_vicenza_vs_cesena,0.5092,1.85,bet365,-0.0579,no
+12,2026-11-28,17:15,Vicenza,Cesena,ITA_20261128T1615_vicenza_vs_cesena,0.5092,2.00,bet365,+0.0184,no
 12,2026-11-28,15:00,Empoli,Hellas Verona,ITA_20261128T1400_empoli_vs_verona,0.4379,1.80,bet365,-0.2118,no
 12,2026-11-28,15:00,Carrarese,Juve Stabia,ITA_20261128T1400_carrarese_vs_juve-stabia,0.2921,2.00,bet365,-0.4158,no
-12,2026-11-28,15:00,Ascoli,Virtus Entella,ITA_20261128T1400_ascoli_vs_entella,0.3575,2.00,bet365,-0.2850,no
+12,2026-11-28,15:00,Ascoli,Virtus Entella,ITA_20261128T1400_ascoli_vs_entella,0.3575,1.95,bet365,-0.3029,no

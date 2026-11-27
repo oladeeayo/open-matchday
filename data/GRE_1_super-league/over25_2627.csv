@@ -1,8 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 12,2026-11-29,20:00,AEK Athens,PAOK,GRE_20261129T1900_aek_vs_paok,0.6409,1.73,bet365,+0.1087,yes
-12,2026-11-29,18:00,Aris,Olympiacos,GRE_20261129T1700_aris_vs_olympiacos-piraeus,0.4451,2.00,bet365,-0.1099,no
-12,2026-11-29,16:30,OFI Crete,Levadiakos,GRE_20261129T1530_ofi-crete_vs_levadiakos,0.3282,2.10,bet365,-0.3107,no
-12,2026-11-29,16:00,Atromitos,Panathinaikos,GRE_20261129T1500_atromitos_vs_panathinaikos,0.3717,1.85,bet365,-0.3124,no
+12,2026-11-29,18:00,Aris,Olympiacos,GRE_20261129T1700_aris_vs_olympiacos-piraeus,0.4451,2.05,bet365,-0.0876,no
+12,2026-11-29,16:30,OFI Crete,Levadiakos,GRE_20261129T1530_ofi-crete_vs_levadiakos,0.3282,2.15,bet365,-0.2943,no
+12,2026-11-29,16:00,Atromitos,Panathinaikos,GRE_20261129T1500_atromitos_vs_panathinaikos,0.3717,1.80,bet365,-0.3310,no
 12,2026-11-28,19:00,Kifisia,Kalamata,GRE_20261128T1800_kifisia_vs_kalamata,0.4998,1.90,bet365,-0.0504,no
-12,2026-11-28,16:00,Volos NFC,Asteras Tripoli,GRE_20261128T1500_volos_vs_asteras-tripolis,0.5861,2.15,Betano,+0.2600,no
+12,2026-11-28,16:00,Volos NFC,Asteras Tripoli,GRE_20261128T1500_volos_vs_asteras-tripolis,0.5861,2.20,bet365,+0.2893,no
 12,2026-11-28,16:00,Iraklis,Panetolikos,GRE_20261128T1500_iraklis-fc_vs_panetolikos,0.5466,2.08,bet365,+0.1368,no

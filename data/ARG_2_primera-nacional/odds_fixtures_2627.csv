@@ -1,5 +1,5 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-42,2026-11-28,00:00,Deportivo Madryn,Gimnasia y Esgrima (Jujuy),ARG_20261128T2300_deportivo-madryn_vs_gimnasia-jujuy,tfHEbwdl,2026-11-28T23:00:00Z,2,1.61,3.3,5.5,2.2,2.2,2026-11-26T07:41:00Z
-42,2026-11-28,01:00,Tristán Suárez,Gimnasia y Tiro (Salta),ARG_20261128T0000_tristan-suarez_vs_gimnasia-y-tiro,4jPqimiC,2026-11-28T00:00:00Z,2,1.81,3.0,4.5,2.63,3.1,2026-11-26T07:41:00Z
-42,2026-11-28,01:00,Deportivo Morón,Colón (Santa Fe),ARG_20261128T0000_deportivo-moron_vs_colon-santa-fe,tj9H5n65,2026-11-28T00:00:00Z,2,2.15,2.75,3.4,2.5,3.1,2026-11-26T07:41:00Z
-42,2026-11-27,23:00,Atlanta,Ciudad de Bolívar,ARG_20261127T2200_atletico-atlanta_vs_ciudad-bolivar,0C719U6t,2026-11-27T22:00:00Z,2,1.86,3.0,5.0,2.5,2.88,2026-11-26T07:41:00Z
+42,2026-11-28,00:00,Deportivo Madryn,Gimnasia y Esgrima (Jujuy),ARG_20261128T2300_deportivo-madryn_vs_gimnasia-jujuy,tfHEbwdl,2026-11-28T23:00:00Z,2,1.39,3.9,8.0,2.3,2.08,2026-11-27T14:48:36Z
+42,2026-11-28,01:00,Tristán Suárez,Gimnasia y Tiro (Salta),ARG_20261128T0000_tristan-suarez_vs_gimnasia-y-tiro,4jPqimiC,2026-11-28T00:00:00Z,3,1.8,3.0,5.25,2.75,3.1,2026-11-27T14:48:36Z
+42,2026-11-28,01:00,Deportivo Morón,Colón (Santa Fe),ARG_20261128T0000_deportivo-moron_vs_colon-santa-fe,tj9H5n65,2026-11-28T00:00:00Z,2,2.63,2.5,3.2,2.5,3.4,2026-11-27T14:48:36Z
+42,2026-11-27,23:00,Atlanta,Ciudad de Bolívar,ARG_20261127T2200_atletico-atlanta_vs_ciudad-bolivar,0C719U6t,2026-11-27T22:00:00Z,2,1.9,3.0,4.75,2.5,3.1,2026-11-27T14:48:36Z

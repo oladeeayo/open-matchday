@@ -211,15 +211,15 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 14,2026-11-21,15:00,Wealdstone,AFC Hornchurch,4,0,H,1,0,H,10,5,9,3,8,13,2,0,,,,,3,3,0,0,,espn
 14,2026-11-21,15:00,Worthing,Harrogate Town,2,1,H,1,1,D,9,9,5,5,12,11,7,1,,,,,2,2,0,0,,espn
 14,2026-11-21,17:30,Yeovil Town,Forest Green Rovers,3,2,H,0,1,A,9,15,6,11,9,12,6,12,,,,,3,2,0,0,,espn
-15,2026-11-24,20:45,AFC Fylde,FC Halifax Town,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,AFC Hornchurch,Sutton United,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Altrincham,Wealdstone,3,0,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Boston United,Barrow,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Carlisle United,Tamworth,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Eastleigh,Yeovil Town,1,3,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Forest Green Rovers,Southend United,0,2,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Scunthorpe United,Gateshead,1,2,A,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-24,20:45,Woking,Worthing,4,3,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-25,20:00,Boreham Wood,Aldershot Town,4,1,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-25,20:45,Harrogate Town,Kidderminster Harriers,3,1,H,,,,,,,,,,,,,,,,,,,,,espn
-15,2026-11-25,20:45,Hartlepool United,Solihull Moors,2,0,H,,,,,,,,,,,,,,,,,,,,,espn
+15,2026-11-24,19:45,AFC Fylde,FC Halifax Town,0,2,A,0,0,D,11,23,7,13,4,9,7,4,,,,,0,0,0,0,,espn
+15,2026-11-24,19:45,AFC Hornchurch,Sutton United,0,0,D,0,0,D,3,3,1,1,9,13,3,1,,,,,0,2,0,0,,espn
+15,2026-11-24,19:45,Altrincham,Wealdstone,3,0,H,0,0,D,12,7,7,5,10,8,6,5,,,,,2,2,0,0,,espn
+15,2026-11-24,19:45,Boston United,Barrow,0,1,A,0,0,D,7,4,5,3,9,19,13,5,,,,,0,3,0,0,,espn
+15,2026-11-24,19:45,Carlisle United,Tamworth,1,2,A,0,0,D,17,5,6,3,9,13,3,4,,,,,0,1,0,0,,espn
+15,2026-11-24,19:45,Eastleigh,Yeovil Town,1,3,A,0,1,A,6,11,4,6,15,7,2,6,,,,,4,1,0,0,,espn
+15,2026-11-24,19:45,Forest Green Rovers,Southend United,0,2,A,0,0,D,7,10,5,8,10,14,5,5,,,,,1,4,0,0,,espn
+15,2026-11-24,19:45,Scunthorpe United,Gateshead,1,2,A,1,1,D,15,9,7,4,8,10,3,6,,,,,0,2,0,0,,espn
+15,2026-11-24,19:45,Woking,Worthing,4,3,H,1,1,D,13,14,12,10,19,12,4,7,,,,,2,1,0,0,,espn
+15,2026-11-25,19:00,Boreham Wood,Aldershot Town,4,1,H,2,1,H,10,4,6,1,7,25,1,6,,,,,0,3,0,0,,espn
+15,2026-11-25,19:45,Harrogate Town,Kidderminster Harriers,3,1,H,0,1,A,13,3,6,2,8,13,8,2,,,,,1,0,0,0,,espn
+15,2026-11-25,19:45,Hartlepool United,Solihull Moors,2,0,H,1,0,H,7,4,3,2,10,8,2,8,,,,,2,1,0,0,,espn
