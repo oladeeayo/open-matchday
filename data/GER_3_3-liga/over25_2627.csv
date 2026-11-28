@@ -1,9 +1,8 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-15,2026-11-29,19:30,FC Ingolstadt 04,Jahn Regensburg,GER_20261129T1830_ingolstadt_vs_regensburg,0.7578,1.53,bet365,+0.1594,yes
-15,2026-11-29,16:30,SV Wehen Wiesbaden,SV Meppen,GER_20261129T1530_wehen_vs_meppen,0.4878,1.57,bet365,-0.2341,no
-15,2026-11-29,13:30,Viktoria Köln,Fortuna Köln,GER_20261129T1230_fc-viktoria-koln_vs_fortuna-koln,0.7104,1.57,bet365,+0.1154,yes
-15,2026-11-28,14:00,Würzburger Kickers,Fortuna Düsseldorf,GER_20261128T1300_wurzburger-kickers_vs_dusseldorf,0.3712,1.67,bet365,-0.3801,no
-15,2026-11-28,14:00,1. FC Saarbrücken,Alemannia Aachen,GER_20261128T1300_saarbrucken_vs_alemannia-aachen,0.5874,1.53,bet365,-0.1012,no
-15,2026-11-28,14:00,SV Waldhof Mannheim,VfB Stuttgart II,GER_20261128T1300_mannheim_vs_vfb-stuttgart,0.5790,1.44,bet365,-0.1663,no
-15,2026-11-27,19:00,Hansa Rostock,TSV Havelse,GER_20261127T1800_hansa-rostock_vs_tsv-havelse,0.5870,1.33,bet365,-0.2193,no
-15,2026-11-28,14:00,Preußen Münster,SC Verl,GER_20261128T1300_preussen-munster_vs_verl,0.5927,1.53,bet365,-0.0931,no
+15,2026-11-29,19:30,FC Ingolstadt 04,Jahn Regensburg,GER_20261129T1830_ingolstadt_vs_regensburg,0.7579,1.53,bet365,+0.1597,yes
+15,2026-11-29,16:30,SV Wehen Wiesbaden,SV Meppen,GER_20261129T1530_wehen_vs_meppen,0.4880,1.57,bet365,-0.2338,no
+15,2026-11-29,13:30,Viktoria Köln,Fortuna Köln,GER_20261129T1230_fc-viktoria-koln_vs_fortuna-koln,0.7103,1.60,bet365,+0.1364,yes
+15,2026-11-28,14:00,Würzburger Kickers,Fortuna Düsseldorf,GER_20261128T1300_wurzburger-kickers_vs_dusseldorf,0.3712,1.70,bet365,-0.3689,no
+15,2026-11-28,14:00,1. FC Saarbrücken,Alemannia Aachen,GER_20261128T1300_saarbrucken_vs_alemannia-aachen,0.5878,1.44,bet365,-0.1535,no
+15,2026-11-28,14:00,SV Waldhof Mannheim,VfB Stuttgart II,GER_20261128T1300_mannheim_vs_vfb-stuttgart,0.5796,1.44,bet365,-0.1654,no
+15,2026-11-28,14:00,Preußen Münster,SC Verl,GER_20261128T1300_preussen-munster_vs_verl,0.5930,1.62,bet365,-0.0393,no

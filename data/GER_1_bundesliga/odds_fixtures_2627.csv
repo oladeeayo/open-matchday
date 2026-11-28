@@ -1,11 +1,16 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-12,2026-12-04,20:30,FC Bayern München,SC Paderborn 07,GER_20261204T1930_bayern-munich_vs_paderborn,j31hEIef,2026-12-04T19:30:00Z,3,1.06,9.5,19.0,1.95,1.2,2026-11-27T14:48:36Z
-11,2026-11-29,19:30,Borussia Dortmund,Bayer 04 Leverkusen,GER_20261129T1830_dortmund_vs_bayer-leverkusen,OWwumtce,2026-11-29T18:30:00Z,3,2.1,4.0,3.0,1.44,1.44,2026-11-27T14:48:36Z
-11,2026-11-29,17:30,TSG Hoffenheim,FC Augsburg,GER_20261129T1630_hoffenheim_vs_augsburg,OjUY8NJE,2026-11-29T16:30:00Z,3,1.73,4.33,4.0,1.35,1.3,2026-11-27T14:48:36Z
-11,2026-11-29,15:30,SC Freiburg,RB Leipzig,GER_20261129T1430_freiburg_vs_rb-leipzig,UmXt71lR,2026-11-29T14:30:00Z,3,2.7,3.75,2.38,1.4,1.5,2026-11-27T14:48:36Z
-11,2026-11-28,18:30,VfB Stuttgart,Eintracht Frankfurt,GER_20261128T1730_vfb-stuttgart_vs_eintracht-frankfurt,dpxmoKR7,2026-11-28T17:30:00Z,3,1.73,4.2,3.5,1.33,1.29,2026-11-27T14:48:36Z
-11,2026-11-28,15:30,SC Paderborn 07,FC Schalke 04,GER_20261128T1430_paderborn_vs_schalke,rwbpGvRs,2026-11-28T14:30:00Z,3,2.45,3.3,2.55,1.62,1.8,2026-11-27T14:48:36Z
-11,2026-11-28,15:30,1. FSV Mainz 05,1. FC Union Berlin,GER_20261128T1430_mainz_vs_union-berlin,QJIC1uCl,2026-11-28T14:30:00Z,3,1.45,4.75,6.0,1.67,1.57,2026-11-27T14:48:36Z
-11,2026-11-28,15:30,Hamburger SV,FC Bayern München,GER_20261128T1430_hamburger_vs_bayern-munich,YqMKaJt1,2026-11-28T14:30:00Z,3,8.0,7.0,1.27,1.67,1.33,2026-11-27T14:48:36Z
-11,2026-11-28,15:30,1. FC Köln,SV 07 Elversberg,GER_20261128T1430_1-fc-koln_vs_elversberg,tAPSccBD,2026-11-28T14:30:00Z,3,1.93,3.6,3.3,1.57,1.62,2026-11-27T14:48:36Z
-11,2026-11-27,20:30,SV Werder Bremen,Borussia Mönchengladbach,GER_20261127T1930_werder-bremen_vs_b-monchengladbach,Y3CEL03K,2026-11-27T19:30:00Z,3,1.65,4.33,4.5,1.57,1.53,2026-11-27T14:48:36Z
+12,2026-12-05,18:30,Eintracht Frankfurt,SV Werder Bremen,GER_20261205T1730_eintracht-frankfurt_vs_werder-bremen,v1ePSHAm,2026-12-05T17:30:00Z,3,2.05,3.9,3.1,1.4,1.44,2026-11-28T07:07:27Z
+12,2026-12-05,15:30,1. FC Union Berlin,Hamburger SV,GER_20261205T1430_union-berlin_vs_hamburger,fi2uPZ9C,2026-12-05T14:30:00Z,3,2.45,3.5,2.63,1.57,1.67,2026-11-28T07:07:27Z
+12,2026-12-05,15:30,RB Leipzig,1. FSV Mainz 05,GER_20261205T1430_rb-leipzig_vs_mainz,OGa0CdQ6,2026-12-05T14:30:00Z,3,1.57,4.5,4.75,1.4,1.33,2026-11-28T07:07:27Z
+12,2026-12-05,15:30,SC Freiburg,TSG Hoffenheim,GER_20261205T1430_freiburg_vs_hoffenheim,rV9gYwmQ,2026-12-05T14:30:00Z,3,2.1,3.8,3.0,1.45,1.53,2026-11-28T07:07:27Z
+12,2026-12-05,15:30,Bayer 04 Leverkusen,Borussia Mönchengladbach,GER_20261205T1430_bayer-leverkusen_vs_b-monchengladbach,Wt38AzeJ,2026-12-05T14:30:00Z,3,1.25,6.0,7.5,1.57,1.3,2026-11-28T07:07:27Z
+12,2026-12-05,15:30,FC Augsburg,1. FC Köln,GER_20261205T1430_augsburg_vs_1-fc-koln,nRbXQeu0,2026-12-05T14:30:00Z,3,2.05,3.8,2.9,1.4,1.44,2026-11-28T07:07:27Z
+12,2026-12-04,20:30,FC Bayern München,SC Paderborn 07,GER_20261204T1930_bayern-munich_vs_paderborn,j31hEIef,2026-12-04T19:30:00Z,3,1.08,13.0,17.0,1.95,1.2,2026-11-28T07:07:27Z
+11,2026-11-29,19:30,Borussia Dortmund,Bayer 04 Leverkusen,GER_20261129T1830_dortmund_vs_bayer-leverkusen,OWwumtce,2026-11-29T18:30:00Z,3,2.1,4.0,3.0,1.44,1.5,2026-11-28T07:07:27Z
+11,2026-11-29,17:30,TSG Hoffenheim,FC Augsburg,GER_20261129T1630_hoffenheim_vs_augsburg,OjUY8NJE,2026-11-29T16:30:00Z,3,1.67,4.5,4.0,1.38,1.3,2026-11-28T07:07:27Z
+11,2026-11-29,15:30,SC Freiburg,RB Leipzig,GER_20261129T1430_freiburg_vs_rb-leipzig,UmXt71lR,2026-11-29T14:30:00Z,3,2.7,3.75,2.38,1.4,1.5,2026-11-28T07:07:27Z
+11,2026-11-28,18:30,VfB Stuttgart,Eintracht Frankfurt,GER_20261128T1730_vfb-stuttgart_vs_eintracht-frankfurt,dpxmoKR7,2026-11-28T17:30:00Z,3,1.8,4.5,3.8,1.3,1.29,2026-11-28T07:07:27Z
+11,2026-11-28,15:30,SC Paderborn 07,FC Schalke 04,GER_20261128T1430_paderborn_vs_schalke,rwbpGvRs,2026-11-28T14:30:00Z,3,2.6,3.4,2.6,1.53,1.65,2026-11-28T07:07:27Z
+11,2026-11-28,15:30,1. FSV Mainz 05,1. FC Union Berlin,GER_20261128T1430_mainz_vs_union-berlin,QJIC1uCl,2026-11-28T14:30:00Z,3,1.45,4.5,6.5,1.7,1.57,2026-11-28T07:07:27Z
+11,2026-11-28,15:30,Hamburger SV,FC Bayern München,GER_20261128T1430_hamburger_vs_bayern-munich,YqMKaJt1,2026-11-28T14:30:00Z,3,8.0,6.0,1.29,1.65,1.36,2026-11-28T07:07:27Z
+11,2026-11-28,15:30,1. FC Köln,SV 07 Elversberg,GER_20261128T1430_1-fc-koln_vs_elversberg,tAPSccBD,2026-11-28T14:30:00Z,3,2.0,3.8,3.3,1.57,1.62,2026-11-28T07:07:27Z

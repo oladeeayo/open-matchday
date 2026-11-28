@@ -119,3 +119,4 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-11-22,17:00,Milan,Frosinone,5,1,H,2,1,H,12,15,8,3,6,17,2,9,2,4,0,5,1,4,0,0,"4,19,25,48,60,68",fixturedl
 12,2026-11-22,19:45,Atalanta,Internazionale,4,4,D,1,2,A,15,16,10,6,9,10,5,6,2,4,3,2,2,1,0,0,"16,35,52,76,80,91",fixturedl
 12,2026-11-23,19:45,Monza,Fiorentina,3,0,H,1,0,H,13,17,5,8,8,13,3,7,1,4,2,3,0,1,0,0,"45,51",fixturedl
+13,2026-11-27,20:45,Venezia,Bologna,0,0,D,,,,,,,,,,3,6,3,2,0,4,,,,,,fixturedl

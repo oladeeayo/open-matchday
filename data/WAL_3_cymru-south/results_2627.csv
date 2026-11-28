@@ -1,6 +1,4 @@
 gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_shots,away_shots,home_target,away_target,home_fouls,away_fouls,home_corners,away_corners,home_corners_1h,away_corners_1h,home_corners_2h,away_corners_2h,home_yellow,away_yellow,home_red,away_red,goal_minutes,source
-1,2026-07-31,,Llanelli,Newport City,1,4,A,,,,,,,,,,,,,,,,,,,,,soccerway
-1,2026-07-31,,Trethomas Bluebirds,Baglan Dragons,0,0,D,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Afan Lido,Aberystwyth,2,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Carmarthen Town,Caerau Ely,4,3,H,,,,,,,,,,,,,,,,,,,,,soccerway
 1,2026-08-01,,Llantwit Major,Pure Swansea,0,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
@@ -106,3 +104,8 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 15,2026-11-21,,Pontardawe,Baglan Dragons,2,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 15,2026-11-21,,Treowen,Afan Lido,1,0,H,,,,,,,,,,,,,,,,,,,,,soccerway
 15,2026-11-21,,Ynyshir Albions,Llantwit Major,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-11-27,,Afan Lido,Caerau Ely,2,3,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-11-27,,Caerphilly,Baglan Dragons,0,2,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-11-27,,Carmarthen Town,Pure Swansea,1,5,A,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-11-27,,Llanelli,Cardiff Draconians,1,1,D,,,,,,,,,,,,,,,,,,,,,soccerway
+16,2026-11-27,,Newport City,Pontardawe,1,2,A,,,,,,,,,,,,,,,,,,,,,soccerway

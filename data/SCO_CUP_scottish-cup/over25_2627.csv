@@ -1,21 +1,20 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-1,2026-11-28,,Troon FC,Raith,SCO_20261128T1500_troon-fc_vs_raith,0.7586,1.30,bet365,-0.0138,yes
-1,2026-11-28,,Threave Rovers,Alloa,SCO_20261128T1500_threave-rovers_vs_alloa,0.7734,1.40,bet365,+0.0827,yes
-1,2026-11-28,,Stranraer,Clachnacuddin,SCO_20261128T1500_stranraer_vs_clachnacuddin,0.6790,1.40,bet365,-0.0494,yes
-1,2026-11-28,,Stenhousemuir,East Fife,SCO_20261128T1500_stenhousemuir_vs_east-fife,0.6973,1.62,bet365,+0.1296,yes
-1,2026-11-28,,Ross County,Brora Rangers,SCO_20261128T1500_ross-county_vs_brora-rangers,0.7898,1.22,bet365,-0.0365,yes
-1,2026-11-28,,Renfrew,Cumbernauld Colts,SCO_20261128T1500_renfrew_vs_cumbernauld-colts,0.6561,1.25,bet365,-0.1799,yes
-1,2026-11-28,,Queen's Park,Spartans,SCO_20261128T1500_queen-s-park_vs_spartans,0.6754,1.65,bet365,+0.1145,yes
-1,2026-11-28,,Queen of South,Dunfermline,SCO_20261128T1500_queen-of-the-south_vs_dunfermline,0.6973,1.48,bet365,+0.0319,yes
-1,2026-11-28,,Peterhead,Edinburgh City,SCO_20261128T1500_peterhead_vs_edinburgh-city,0.6973,1.57,bet365,+0.0947,yes
-1,2026-11-28,,Musselburgh,Airdrieonians,SCO_20261128T1500_musselburgh_vs_airdrieonians,0.6754,1.44,bet365,-0.0274,yes
-1,2026-11-28,,Montrose,Hamilton,SCO_20261128T1500_montrose_vs_hamilton,0.6973,1.75,bet365,+0.2202,yes
-1,2026-11-28,,Inverness,Cove Rangers,SCO_20261128T1500_inverness_vs_cove-rangers,0.6973,1.48,bet365,+0.0319,yes
-1,2026-11-28,,Elgin City,Partick Thistle,SCO_20261128T1500_elgin-city_vs_partick,0.6973,1.53,bet365,+0.0668,yes
-1,2026-11-28,,East Kilbride,Clyde,SCO_20261128T1500_east-kilbride_vs_clyde,0.6365,1.44,bet365,-0.0834,yes
-1,2026-11-28,,Dumbarton,Johnstone Burgh,SCO_20261128T1500_dumbarton_vs_johnstone-burgh,0.6040,1.44,bet365,-0.1302,yes
-1,2026-11-28,,Cumnock Juniors,Arbroath,SCO_20261128T1500_cumnock-juniors_vs_arbroath,0.6365,1.44,bet365,-0.0834,yes
-1,2026-11-28,,Clydebank FC,Livingston,SCO_20261128T1500_clydebank-fc_vs_livingston,0.6754,1.44,bet365,-0.0274,yes
-1,2026-11-28,,Bo'ness United,Brechin,SCO_20261128T1500_boness-united_vs_brechin,0.7112,1.45,Betway,+0.0312,yes
-1,2026-11-28,,Annan,Morton,SCO_20261128T1500_annan_vs_morton,0.6973,1.44,bet365,+0.0040,yes
-1,2026-11-27,,Largs Thistle,Ayr,SCO_20261127T1930_largs-thistle_vs_ayr,0.6973,1.45,Betway,+0.0110,yes
+1,2026-11-28,,Troon FC,Raith,SCO_20261128T1500_troon-fc_vs_raith,0.7571,1.30,bet365,-0.0158,yes
+1,2026-11-28,,Threave Rovers,Alloa,SCO_20261128T1500_threave-rovers_vs_alloa,0.7721,1.40,bet365,+0.0809,yes
+1,2026-11-28,,Stranraer,Clachnacuddin,SCO_20261128T1500_stranraer_vs_clachnacuddin,0.6773,1.40,bet365,-0.0517,yes
+1,2026-11-28,,Stenhousemuir,East Fife,SCO_20261128T1500_stenhousemuir_vs_east-fife,0.6952,1.90,bet365,+0.3208,yes
+1,2026-11-28,,Ross County,Brora Rangers,SCO_20261128T1500_ross-county_vs_brora-rangers,0.7884,1.22,bet365,-0.0382,yes
+1,2026-11-28,,Renfrew,Cumbernauld Colts,SCO_20261128T1500_renfrew_vs_cumbernauld-colts,0.6544,1.25,bet365,-0.1820,yes
+1,2026-11-28,,Queen's Park,Spartans,SCO_20261128T1500_queen-s-park_vs_spartans,0.6737,1.57,bet365,+0.0577,yes
+1,2026-11-28,,Queen of South,Dunfermline,SCO_20261128T1500_queen-of-the-south_vs_dunfermline,0.6952,1.53,bet365,+0.0636,yes
+1,2026-11-28,,Peterhead,Edinburgh City,SCO_20261128T1500_peterhead_vs_edinburgh-city,0.6952,1.70,bet365,+0.1818,yes
+1,2026-11-28,,Musselburgh,Airdrieonians,SCO_20261128T1500_musselburgh_vs_airdrieonians,0.6737,1.48,bet365,-0.0030,yes
+1,2026-11-28,,Montrose,Hamilton,SCO_20261128T1500_montrose_vs_hamilton,0.6952,1.75,bet365,+0.2165,yes
+1,2026-11-28,,Inverness,Cove Rangers,SCO_20261128T1500_inverness_vs_cove-rangers,0.6952,1.53,bet365,+0.0636,yes
+1,2026-11-28,,Elgin City,Partick Thistle,SCO_20261128T1500_elgin-city_vs_partick,0.6952,1.53,bet365,+0.0636,yes
+1,2026-11-28,,East Kilbride,Clyde,SCO_20261128T1500_east-kilbride_vs_clyde,0.6346,1.36,bet365,-0.1369,yes
+1,2026-11-28,,Dumbarton,Johnstone Burgh,SCO_20261128T1500_dumbarton_vs_johnstone-burgh,0.6025,1.44,bet365,-0.1324,yes
+1,2026-11-28,,Cumnock Juniors,Arbroath,SCO_20261128T1500_cumnock-juniors_vs_arbroath,0.6346,1.45,Betway,-0.0798,yes
+1,2026-11-28,,Clydebank FC,Livingston,SCO_20261128T1500_clydebank-fc_vs_livingston,0.6737,1.44,bet365,-0.0299,yes
+1,2026-11-28,,Bo'ness United,Brechin,SCO_20261128T1500_boness-united_vs_brechin,0.7096,1.44,bet365,+0.0218,yes
+1,2026-11-28,,Annan,Morton,SCO_20261128T1500_annan_vs_morton,0.6952,1.62,bet365,+0.1262,yes

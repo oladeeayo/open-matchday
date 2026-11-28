@@ -1,13 +1,12 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-17,2026-12-04,,Caerphilly,Pure Swansea,WAL_20261204T1945_caerphilly_vs_pure-swansea,vTcbQ74S,2026-12-04T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
-17,2026-12-04,,Caerau Ely,Carmarthen Town,WAL_20261204T1945_caerau-ely_vs_carmarthen-town,6FajSTZF,2026-12-04T19:45:00Z,0,,,,,,2026-11-27T14:48:36Z
-17,2026-12-04,,Pontypridd,Baglan Dragons,WAL_20261204T1930_pontypridd-united_vs_baglan-dragons,2J6yJPd2,2026-12-04T19:30:00Z,0,,,,,,2026-11-27T14:48:36Z
-17,2026-12-04,,Newport City,Cardiff Draconians,WAL_20261204T1930_newport-city_vs_cardiff-draconians,ABlUKoSk,2026-12-04T19:30:00Z,0,,,,,,2026-11-27T14:48:36Z
-16,2026-11-28,,Trethomas Bluebirds,Ynyshir Albions,WAL_20261128T1430_trethomas-bluebirds_vs_ynyshir-albions,hh9d6nDd,2026-11-28T14:30:00Z,1,2.15,4.0,2.5,1.38,1.38,2026-11-27T14:48:36Z
-16,2026-11-28,,Aberystwyth,Pontypridd,WAL_20261128T1430_aberystwyth_vs_pontypridd-united,bkdrUk53,2026-11-28T14:30:00Z,1,1.67,4.2,3.8,1.5,1.43,2026-11-27T14:48:36Z
-16,2026-11-28,,Llantwit Major,Treowen,WAL_20261128T1400_llantwit-major_vs_treowen,KvBl88rp,2026-11-28T14:00:00Z,1,2.0,4.0,2.8,1.43,1.4,2026-11-27T14:48:36Z
-16,2026-11-27,,Caerphilly,Baglan Dragons,WAL_20261127T1945_caerphilly_vs_baglan-dragons,ruRGg9Tj,2026-11-27T19:45:00Z,2,1.9,3.0,2.9,1.67,1.75,2026-11-27T14:48:36Z
-16,2026-11-27,,Newport City,Pontardawe,WAL_20261127T1930_newport-city_vs_pontardawe,ldKIDUKM,2026-11-27T19:30:00Z,2,1.75,4.0,3.6,1.5,1.48,2026-11-27T14:48:36Z
-16,2026-11-27,,Llanelli,Cardiff Draconians,WAL_20261127T1930_llanelli_vs_cardiff-draconians,tWGAFjjA,2026-11-27T19:30:00Z,2,4.0,4.5,1.57,1.44,1.33,2026-11-27T14:48:36Z
-16,2026-11-27,,Carmarthen Town,Pure Swansea,WAL_20261127T1930_carmarthen-town_vs_pure-swansea,8II2HCLc,2026-11-27T19:30:00Z,1,2.88,3.4,1.8,1.3,1.33,2026-11-27T14:48:36Z
-16,2026-11-27,,Afan Lido,Caerau Ely,WAL_20261127T1930_afan-lido_vs_caerau-ely,CdzoaV5T,2026-11-27T19:30:00Z,2,3.5,3.5,1.6,1.48,1.43,2026-11-27T14:48:36Z
+17,2026-12-05,,Ynyshir Albions,Afan Lido,WAL_20261205T1400_ynyshir-albions_vs_afan-lido,82Y6HXxe,2026-12-05T14:00:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-05,,Treowen,Llanelli,WAL_20261205T1400_treowen_vs_llanelli,zkzaJg8r,2026-12-05T14:00:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-05,,Pontardawe,Trethomas Bluebirds,WAL_20261205T1400_pontardawe_vs_trethomas-bluebirds,46qTOFpL,2026-12-05T14:00:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-05,,Llantwit Major,Aberystwyth,WAL_20261205T1400_llantwit-major_vs_aberystwyth,dttLQyG8,2026-12-05T14:00:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-04,,Caerphilly,Pure Swansea,WAL_20261204T1945_caerphilly_vs_pure-swansea,vTcbQ74S,2026-12-04T19:45:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-04,,Caerau Ely,Carmarthen Town,WAL_20261204T1945_caerau-ely_vs_carmarthen-town,6FajSTZF,2026-12-04T19:45:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-04,,Pontypridd,Baglan Dragons,WAL_20261204T1930_pontypridd-united_vs_baglan-dragons,2J6yJPd2,2026-12-04T19:30:00Z,0,,,,,,2026-11-28T07:07:27Z
+17,2026-12-04,,Newport City,Cardiff Draconians,WAL_20261204T1930_newport-city_vs_cardiff-draconians,ABlUKoSk,2026-12-04T19:30:00Z,0,,,,,,2026-11-28T07:07:27Z
+16,2026-11-28,,Trethomas Bluebirds,Ynyshir Albions,WAL_20261128T1430_trethomas-bluebirds_vs_ynyshir-albions,hh9d6nDd,2026-11-28T14:30:00Z,1,2.25,4.0,2.4,1.38,1.38,2026-11-28T07:07:27Z
+16,2026-11-28,,Aberystwyth,Pontypridd,WAL_20261128T1430_aberystwyth_vs_pontypridd-united,bkdrUk53,2026-11-28T14:30:00Z,1,1.78,3.8,3.6,1.55,1.53,2026-11-28T07:07:27Z
+16,2026-11-28,,Llantwit Major,Treowen,WAL_20261128T1400_llantwit-major_vs_treowen,KvBl88rp,2026-11-28T14:00:00Z,1,2.05,4.0,2.75,1.38,1.36,2026-11-28T07:07:27Z

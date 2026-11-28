@@ -1,13 +1,2 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-17,2026-11-28,16:00,Walsall,Northampton Town,ENG_20261128T1500_walsall_vs_northampton,0.3588,1.85,bet365,-0.3362,no
-17,2026-11-28,16:00,Swindon Town,Chesterfield,ENG_20261128T1500_swindon_vs_chesterfield,0.5500,1.60,bet365,-0.1200,no
-17,2026-11-28,16:00,Shrewsbury Town,Cheltenham Town,ENG_20261128T1500_shrewsbury_vs_cheltenham,0.5132,2.00,Betano,+0.0265,no
-17,2026-11-28,16:00,Salford City,Gillingham,ENG_20261128T1500_salford_vs_gillingham,0.4009,1.67,bet365,-0.3306,no
-17,2026-11-28,16:00,Rotherham United,Oldham Athletic,ENG_20261128T1500_rotherham_vs_oldham,0.5719,1.90,bet365,+0.0866,no
-17,2026-11-28,16:00,Rochdale,Barnet,ENG_20261128T1500_rochdale_vs_barnet,0.6007,1.60,bet365,-0.0388,yes
-17,2026-11-28,16:00,Port Vale,Newport County,ENG_20261128T1500_port-vale_vs_newport,0.4456,2.05,bet365,-0.0866,no
-17,2026-11-28,16:00,Fleetwood Town,Accrington Stanley,ENG_20261128T1500_fleetwood-town_vs_accrington,0.4423,1.95,bet365,-0.1376,no
-17,2026-11-28,16:00,Crewe Alexandra,Grimsby Town,ENG_20261128T1500_crewe_vs_grimsby,0.6081,1.70,bet365,+0.0338,yes
-17,2026-11-28,16:00,Colchester United,York City,ENG_20261128T1500_colchester_vs_york-city,0.4547,1.70,bet365,-0.2270,no
-17,2026-11-28,13:30,Exeter City,Crawley Town,ENG_20261128T1230_exeter_vs_crawley-town,0.2676,1.95,bet365,-0.4782,no
-17,2026-11-28,13:30,Bristol Rovers,Tranmere Rovers,ENG_20261128T1230_bristol-rovers_vs_tranmere,0.4185,1.90,bet365,-0.2048,no
+9,2026-12-05,16:00,Walsall,Crawley Town,ENG_20261205T1500_walsall_vs_crawley-town,0.4969,,,,no

@@ -1,6 +1,6 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
 15,2026-11-29,16:00,Heart of Midlothian,Celtic,SCO_20261129T1500_hearts_vs_celtic,0.6590,1.50,bet365,-0.0115,yes
-15,2026-11-28,18:45,Motherwell,Hibernian,SCO_20261128T1745_motherwell_vs_hibernian,0.4164,1.73,bet365,-0.2796,no
+15,2026-11-28,18:45,Motherwell,Hibernian,SCO_20261128T1745_motherwell_vs_hibernian,0.4164,1.67,bet365,-0.3046,no
 15,2026-11-28,16:00,St. Mirren,Kilmarnock,SCO_20261128T1500_st-mirren_vs_kilmarnock,0.5134,1.67,bet365,-0.1426,no
 15,2026-11-28,16:00,Rangers,Falkirk,SCO_20261128T1500_rangers_vs_falkirk,0.4885,1.36,bet365,-0.3357,no
 15,2026-11-28,16:00,Dundee United,St. Johnstone,SCO_20261128T1500_dundee-utd_vs_st-johnstone,0.4204,1.50,bet365,-0.3695,no

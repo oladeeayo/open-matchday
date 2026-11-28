@@ -1,11 +1,10 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-12,2026-11-29,17:30,Arsenal,Man City,ENG_20261129T1630_arsenal_vs_manchester-city,0.4830,1.73,bet365,-0.1644,no
-12,2026-11-29,15:05,Sunderland,Spurs,ENG_20261129T1405_sunderland_vs_tottenham,0.1762,2.00,bet365,-0.6476,no
-12,2026-11-29,15:05,Fulham,Bournemouth,ENG_20261129T1405_fulham_vs_bournemouth,0.6361,1.80,bet365,+0.1450,yes
-12,2026-11-29,15:05,Crystal Palace,Hull,ENG_20261129T1405_crystal-palace_vs_hull-city,0.5500,1.73,bet365,-0.0484,no
-12,2026-11-29,15:05,Brighton,Newcastle,ENG_20261129T1405_brighton_vs_newcastle-utd,0.5985,1.53,bet365,-0.0844,no
-12,2026-11-29,13:00,Everton,Liverpool,ENG_20261129T1200_everton_vs_liverpool,0.4949,1.67,bet365,-0.1735,no
-12,2026-11-28,18:30,Ipswich,Aston Villa,ENG_20261128T1730_ipswich_vs_aston-villa,0.5807,1.57,bet365,-0.0882,no
-12,2026-11-28,16:00,Man Utd,Brentford,ENG_20261128T1500_manchester-united_vs_brentford,0.6470,1.57,bet365,+0.0158,yes
-12,2026-11-28,16:00,Leeds,Coventry,ENG_20261128T1500_leeds_vs_coventry,0.4095,1.67,bet365,-0.3161,no
-12,2026-11-27,21:00,Nott'm Forest,Chelsea,ENG_20261127T2000_nottingham_vs_chelsea,0.3290,1.80,Betway,-0.4077,no
+12,2026-11-29,17:30,Arsenal,Man City,ENG_20261129T1630_arsenal_vs_manchester-city,0.4827,1.75,Betway,-0.1552,no
+12,2026-11-29,15:05,Sunderland,Spurs,ENG_20261129T1405_sunderland_vs_tottenham,0.1768,2.00,bet365,-0.6463,no
+12,2026-11-29,15:05,Fulham,Bournemouth,ENG_20261129T1405_fulham_vs_bournemouth,0.6367,1.80,bet365,+0.1461,yes
+12,2026-11-29,15:05,Crystal Palace,Hull,ENG_20261129T1405_crystal-palace_vs_hull-city,0.5511,1.75,Betway,-0.0355,no
+12,2026-11-29,15:05,Brighton,Newcastle,ENG_20261129T1405_brighton_vs_newcastle-utd,0.5992,1.53,bet365,-0.0832,no
+12,2026-11-29,13:00,Everton,Liverpool,ENG_20261129T1200_everton_vs_liverpool,0.4946,1.67,bet365,-0.1740,no
+12,2026-11-28,18:30,Ipswich,Aston Villa,ENG_20261128T1730_ipswich_vs_aston-villa,0.5816,1.57,bet365,-0.0868,no
+12,2026-11-28,16:00,Man Utd,Brentford,ENG_20261128T1500_manchester-united_vs_brentford,0.6476,1.57,bet365,+0.0168,yes
+12,2026-11-28,16:00,Leeds,Coventry,ENG_20261128T1500_leeds_vs_coventry,0.4093,1.62,bet365,-0.3370,no

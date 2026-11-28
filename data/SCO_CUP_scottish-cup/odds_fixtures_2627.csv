@@ -1,21 +1,20 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-1,2026-11-28,,Troon FC,Raith,SCO_20261128T1500_troon-fc_vs_raith,48x3ymqS,2026-11-28T15:00:00Z,2,23.0,9.0,1.08,2.25,1.3,2026-11-27T14:48:36Z
-1,2026-11-28,,Threave Rovers,Alloa,SCO_20261128T1500_threave-rovers_vs_alloa,AwZYU2Ek,2026-11-28T15:00:00Z,2,4.75,5.5,1.4,1.62,1.4,2026-11-27T14:48:36Z
-1,2026-11-28,,Stranraer,Clachnacuddin,SCO_20261128T1500_stranraer_vs_clachnacuddin,Wv0G2PsR,2026-11-28T15:00:00Z,3,1.2,5.75,11.0,1.91,1.4,2026-11-27T14:48:36Z
-1,2026-11-28,,Stenhousemuir,East Fife,SCO_20261128T1500_stenhousemuir_vs_east-fife,dOr1HRid,2026-11-28T15:00:00Z,3,1.36,4.2,7.0,1.91,1.62,2026-11-27T14:48:36Z
-1,2026-11-28,,Ross County,Brora Rangers,SCO_20261128T1500_ross-county_vs_brora-rangers,EsOYVQ6k,2026-11-28T15:00:00Z,3,1.13,7.0,13.0,1.75,1.22,2026-11-27T14:48:36Z
-1,2026-11-28,,Renfrew,Cumbernauld Colts,SCO_20261128T1500_renfrew_vs_cumbernauld-colts,CQD6q2Tr,2026-11-28T15:00:00Z,2,2.3,4.1,2.4,1.25,1.25,2026-11-27T14:48:36Z
-1,2026-11-28,,Queen's Park,Spartans,SCO_20261128T1500_queen-s-park_vs_spartans,SO0oc35l,2026-11-28T15:00:00Z,3,1.33,5.5,5.75,2.0,1.65,2026-11-27T14:48:36Z
-1,2026-11-28,,Queen of South,Dunfermline,SCO_20261128T1500_queen-of-the-south_vs_dunfermline,WK9MtrL7,2026-11-28T15:00:00Z,3,9.0,5.5,1.25,1.91,1.48,2026-11-27T14:48:36Z
-1,2026-11-28,,Peterhead,Edinburgh City,SCO_20261128T1500_peterhead_vs_edinburgh-city,E1ESi8T8,2026-11-28T15:00:00Z,3,1.65,4.0,3.9,1.65,1.57,2026-11-27T14:48:36Z
-1,2026-11-28,,Musselburgh,Airdrieonians,SCO_20261128T1500_musselburgh_vs_airdrieonians,ver3zPjS,2026-11-28T15:00:00Z,3,8.5,5.25,1.25,1.8,1.44,2026-11-27T14:48:36Z
-1,2026-11-28,,Montrose,Hamilton,SCO_20261128T1500_montrose_vs_hamilton,zk4gesz1,2026-11-28T15:00:00Z,3,4.2,3.6,1.73,1.75,1.75,2026-11-27T14:48:36Z
-1,2026-11-28,,Inverness,Cove Rangers,SCO_20261128T1500_inverness_vs_cove-rangers,MRHzjnbL,2026-11-28T15:00:00Z,3,1.4,4.5,5.75,1.7,1.48,2026-11-27T14:48:36Z
-1,2026-11-28,,Elgin City,Partick Thistle,SCO_20261128T1500_elgin-city_vs_partick,bR184oDE,2026-11-28T15:00:00Z,3,5.5,4.5,1.4,1.75,1.53,2026-11-27T14:48:36Z
-1,2026-11-28,,East Kilbride,Clyde,SCO_20261128T1500_east-kilbride_vs_clyde,SG8oWcsm,2026-11-28T15:00:00Z,3,1.4,4.6,6.0,1.62,1.44,2026-11-27T14:48:36Z
-1,2026-11-28,,Dumbarton,Johnstone Burgh,SCO_20261128T1500_dumbarton_vs_johnstone-burgh,riXtTtq2,2026-11-28T15:00:00Z,2,1.57,4.2,4.5,1.53,1.44,2026-11-27T14:48:36Z
-1,2026-11-28,,Cumnock Juniors,Arbroath,SCO_20261128T1500_cumnock-juniors_vs_arbroath,OUzmuVq3,2026-11-28T15:00:00Z,3,6.0,5.0,1.33,1.7,1.44,2026-11-27T14:48:36Z
-1,2026-11-28,,Clydebank FC,Livingston,SCO_20261128T1500_clydebank-fc_vs_livingston,Of6Er4je,2026-11-28T15:00:00Z,3,10.5,6.0,1.2,1.67,1.44,2026-11-27T14:48:36Z
-1,2026-11-28,,Bo'ness United,Brechin,SCO_20261128T1500_boness-united_vs_brechin,js86pQLr,2026-11-28T15:00:00Z,3,2.75,3.75,2.15,1.48,1.45,2026-11-27T14:48:36Z
-1,2026-11-28,,Annan,Morton,SCO_20261128T1500_annan_vs_morton,M7RtU4y2,2026-11-28T15:00:00Z,3,5.0,4.0,1.5,1.53,1.44,2026-11-27T14:48:36Z
-1,2026-11-27,,Largs Thistle,Ayr,SCO_20261127T1930_largs-thistle_vs_ayr,Wfvew9EF,2026-11-27T19:30:00Z,3,7.0,4.33,1.36,1.7,1.45,2026-11-27T14:48:36Z
+1,2026-11-28,,Troon FC,Raith,SCO_20261128T1500_troon-fc_vs_raith,48x3ymqS,2026-11-28T15:00:00Z,2,23.0,9.0,1.08,2.3,1.3,2026-11-28T07:07:27Z
+1,2026-11-28,,Threave Rovers,Alloa,SCO_20261128T1500_threave-rovers_vs_alloa,AwZYU2Ek,2026-11-28T15:00:00Z,3,4.75,5.5,1.4,1.62,1.4,2026-11-28T07:07:27Z
+1,2026-11-28,,Stranraer,Clachnacuddin,SCO_20261128T1500_stranraer_vs_clachnacuddin,Wv0G2PsR,2026-11-28T15:00:00Z,3,1.2,5.75,11.0,1.91,1.4,2026-11-28T07:07:27Z
+1,2026-11-28,,Stenhousemuir,East Fife,SCO_20261128T1500_stenhousemuir_vs_east-fife,dOr1HRid,2026-11-28T15:00:00Z,3,1.57,3.7,5.0,1.95,1.9,2026-11-28T07:07:27Z
+1,2026-11-28,,Ross County,Brora Rangers,SCO_20261128T1500_ross-county_vs_brora-rangers,EsOYVQ6k,2026-11-28T15:00:00Z,3,1.11,9.0,19.0,1.91,1.22,2026-11-28T07:07:27Z
+1,2026-11-28,,Renfrew,Cumbernauld Colts,SCO_20261128T1500_renfrew_vs_cumbernauld-colts,CQD6q2Tr,2026-11-28T15:00:00Z,2,2.4,3.6,2.38,1.25,1.25,2026-11-28T07:07:27Z
+1,2026-11-28,,Queen's Park,Spartans,SCO_20261128T1500_queen-s-park_vs_spartans,SO0oc35l,2026-11-28T15:00:00Z,3,1.48,5.25,4.5,1.8,1.57,2026-11-28T07:07:27Z
+1,2026-11-28,,Queen of South,Dunfermline,SCO_20261128T1500_queen-of-the-south_vs_dunfermline,WK9MtrL7,2026-11-28T15:00:00Z,3,8.0,5.5,1.25,1.95,1.53,2026-11-28T07:07:27Z
+1,2026-11-28,,Peterhead,Edinburgh City,SCO_20261128T1500_peterhead_vs_edinburgh-city,E1ESi8T8,2026-11-28T15:00:00Z,3,1.67,4.0,3.8,1.75,1.7,2026-11-28T07:07:27Z
+1,2026-11-28,,Musselburgh,Airdrieonians,SCO_20261128T1500_musselburgh_vs_airdrieonians,ver3zPjS,2026-11-28T15:00:00Z,3,7.0,4.75,1.33,1.75,1.48,2026-11-28T07:07:27Z
+1,2026-11-28,,Montrose,Hamilton,SCO_20261128T1500_montrose_vs_hamilton,zk4gesz1,2026-11-28T15:00:00Z,3,4.33,3.75,1.67,1.75,1.75,2026-11-28T07:07:27Z
+1,2026-11-28,,Inverness,Cove Rangers,SCO_20261128T1500_inverness_vs_cove-rangers,MRHzjnbL,2026-11-28T15:00:00Z,3,1.33,5.0,6.5,1.75,1.53,2026-11-28T07:07:27Z
+1,2026-11-28,,Elgin City,Partick Thistle,SCO_20261128T1500_elgin-city_vs_partick,bR184oDE,2026-11-28T15:00:00Z,3,7.0,5.25,1.27,1.95,1.53,2026-11-28T07:07:27Z
+1,2026-11-28,,East Kilbride,Clyde,SCO_20261128T1500_east-kilbride_vs_clyde,SG8oWcsm,2026-11-28T15:00:00Z,3,1.4,4.75,6.0,1.53,1.36,2026-11-28T07:07:27Z
+1,2026-11-28,,Dumbarton,Johnstone Burgh,SCO_20261128T1500_dumbarton_vs_johnstone-burgh,riXtTtq2,2026-11-28T15:00:00Z,2,1.65,4.33,3.7,1.5,1.44,2026-11-28T07:07:27Z
+1,2026-11-28,,Cumnock Juniors,Arbroath,SCO_20261128T1500_cumnock-juniors_vs_arbroath,OUzmuVq3,2026-11-28T15:00:00Z,3,5.25,4.5,1.42,1.62,1.45,2026-11-28T07:07:27Z
+1,2026-11-28,,Clydebank FC,Livingston,SCO_20261128T1500_clydebank-fc_vs_livingston,Of6Er4je,2026-11-28T15:00:00Z,3,5.5,4.75,1.45,1.67,1.44,2026-11-28T07:07:27Z
+1,2026-11-28,,Bo'ness United,Brechin,SCO_20261128T1500_boness-united_vs_brechin,js86pQLr,2026-11-28T15:00:00Z,3,2.9,4.1,1.91,1.44,1.44,2026-11-28T07:07:27Z
+1,2026-11-28,,Annan,Morton,SCO_20261128T1500_annan_vs_morton,M7RtU4y2,2026-11-28T15:00:00Z,3,3.6,3.6,1.85,1.57,1.62,2026-11-28T07:07:27Z

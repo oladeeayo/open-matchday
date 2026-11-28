@@ -1,4 +1,7 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+14,2026-12-05,20:45,AS Saint-Étienne,AS Nancy Lorraine,FRA_20261205T1945_st-etienne_vs_nancy,0.4823,1.73,Betano,-0.1655,no
+14,2026-12-05,14:00,Montpellier Hérault SC,FC Nantes,FRA_20261205T1300_montpellier_vs_nantes,0.4193,1.85,bet365,-0.2243,no
+14,2026-12-05,14:00,USL Dunkerque,Red Star FC,FRA_20261205T1300_dunkerque_vs_red-star,0.4799,1.73,bet365,-0.1698,no
 14,2026-12-04,20:00,Grenoble Foot 38,EN Avant Guingamp,FRA_20261204T1900_grenoble_vs_guingamp,0.4315,1.90,bet365,-0.1801,no
 14,2026-12-04,20:00,Dijon FCO,FC Sochaux-Montbéliard,FRA_20261204T1900_dijon_vs_sochaux,0.4419,1.85,bet365,-0.1824,no
 14,2026-12-04,20:00,Clermont Foot 63,FC Metz,FRA_20261204T1900_clermont_vs_metz,0.2874,1.85,bet365,-0.4683,no

@@ -1,9 +1,4 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-28,,Trethomas Bluebirds,Ynyshir Albions,WAL_20261128T1430_trethomas-bluebirds_vs_ynyshir-albions,0.5998,1.38,Betway,-0.1723,no
-16,2026-11-28,,Aberystwyth,Pontypridd,WAL_20261128T1430_aberystwyth_vs_pontypridd-united,0.6871,1.43,Betway,-0.0175,yes
-16,2026-11-28,,Llantwit Major,Treowen,WAL_20261128T1400_llantwit-major_vs_treowen,0.6540,1.40,Betway,-0.0844,yes
-16,2026-11-27,,Caerphilly,Baglan Dragons,WAL_20261127T1945_caerphilly_vs_baglan-dragons,0.3223,1.75,Betway,-0.4359,no
-16,2026-11-27,,Newport City,Pontardawe,WAL_20261127T1930_newport-city_vs_pontardawe,0.6479,1.48,Betway,-0.0411,yes
-16,2026-11-27,,Llanelli,Cardiff Draconians,WAL_20261127T1930_llanelli_vs_cardiff-draconians,0.4587,1.33,Betway,-0.3900,no
-16,2026-11-27,,Carmarthen Town,Pure Swansea,WAL_20261127T1930_carmarthen-town_vs_pure-swansea,0.8511,1.33,Betano,+0.1320,yes
-16,2026-11-27,,Afan Lido,Caerau Ely,WAL_20261127T1930_afan-lido_vs_caerau-ely,0.7429,1.43,Betway,+0.0623,yes
+16,2026-11-28,,Trethomas Bluebirds,Ynyshir Albions,WAL_20261128T1430_trethomas-bluebirds_vs_ynyshir-albions,0.6623,1.38,Betway,-0.0860,yes
+16,2026-11-28,,Aberystwyth,Pontypridd,WAL_20261128T1430_aberystwyth_vs_pontypridd-united,0.6868,1.53,Betway,+0.0509,yes
+16,2026-11-28,,Llantwit Major,Treowen,WAL_20261128T1400_llantwit-major_vs_treowen,0.6523,1.36,Betway,-0.1128,yes

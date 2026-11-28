@@ -1,7 +1,7 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-16,2026-11-29,,Trnava,Trencin,SVK_20261129T1700_spartak-trnava_vs_trencin,0.6375,1.55,Betway,-0.0119,yes
-16,2026-11-29,,Skalica,Michalovce,SVK_20261129T1430_skalica_vs_michalovce,0.5607,1.75,Betano,-0.0188,no
+16,2026-11-29,,Trnava,Trencin,SVK_20261129T1700_spartak-trnava_vs_trencin,0.6375,1.57,Betway,+0.0009,yes
+16,2026-11-29,,Skalica,Michalovce,SVK_20261129T1430_skalica_vs_michalovce,0.5607,1.73,Betano,-0.0301,no
 16,2026-11-28,,Slovan Bratislava,Kosice,SVK_20261128T1700_slovan-bratislava_vs_fc-kosice,0.8459,1.36,Betway,+0.1505,yes
-16,2026-11-28,,Podbrezova,Dun. Streda,SVK_20261128T1430_podbrezova_vs_dun-streda,0.6449,1.50,Betano,-0.0327,yes
+16,2026-11-28,,Podbrezova,Dun. Streda,SVK_20261128T1430_podbrezova_vs_dun-streda,0.6449,1.50,Betway,-0.0327,yes
 16,2026-11-28,,Komarno,Zilina,SVK_20261128T1430_komarno_vs_zilina,0.5613,1.53,Betano,-0.1413,no
-16,2026-11-28,,Banska Bystrica,Ruzomberok,SVK_20261128T1430_banska-bystrica_vs_ruzomberok,0.6644,1.67,Betano,+0.1095,yes
+16,2026-11-28,,Banska Bystrica,Ruzomberok,SVK_20261128T1430_banska-bystrica_vs_ruzomberok,0.6644,1.73,Betway,+0.1493,yes

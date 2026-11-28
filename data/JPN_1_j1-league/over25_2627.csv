@@ -1,11 +1,9 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
-32,2026-11-29,08:00,Machida Zelvia,Tokyo Verdy 1969,JPN_20261129T0700_machida-zelvia_vs_verdy,0.3083,2.20,Betano,-0.3217,no
-32,2026-11-29,07:00,Nagoya Grampus,Avispa Fukuoka,JPN_20261129T0600_nagoya-grampus_vs_avispa-fukuoka,0.4870,2.05,bet365,-0.0016,no
-32,2026-11-29,07:00,Kawasaki Frontale,Gamba Osaka,JPN_20261129T0600_kawasaki-frontale_vs_gamba-osaka,0.6146,1.50,bet365,-0.0781,yes
-32,2026-11-29,06:00,Yokohama F. Marinos,FC Tokyo,JPN_20261129T0500_yokohama-f-marinos_vs_fc-tokyo,0.5497,1.78,Betano,-0.0216,no
-32,2026-11-29,06:00,Mito Hollyhock,V-Varen Nagasaki,JPN_20261129T0500_mito_vs_v-varen-nagasaki,0.3589,2.08,bet365,-0.2536,no
-32,2026-11-28,08:00,Kashiwa Reysol,Sanfrecce Hiroshima,JPN_20261128T0700_kashiwa-reysol_vs_sanfrecce-hiroshima,0.5432,1.67,bet365,-0.0928,no
-32,2026-11-28,07:00,Vissel Kobe,JEF United Ichihara-Chiba,JPN_20261128T0600_vissel-kobe_vs_chiba,0.5995,1.80,bet365,+0.0792,no
-32,2026-11-28,07:00,Kashima Antlers,Fagiano Okayama,JPN_20261128T0600_kashima-antlers_vs_okayama,0.4400,1.95,bet365,-0.1420,no
-32,2026-11-28,06:00,Shimizu S-Pulse,Urawa Red Diamonds,JPN_20261128T0500_shimizu-s-pulse_vs_urawa-reds,0.4367,1.95,bet365,-0.1485,no
-32,2026-11-28,06:00,Kyoto Sanga,Cerezo Osaka,JPN_20261128T0500_kyoto_vs_cerezo-osaka,0.6403,1.75,bet365,+0.1205,yes
+32,2026-11-29,08:00,Machida Zelvia,Tokyo Verdy 1969,JPN_20261129T0700_machida-zelvia_vs_verdy,0.3080,2.20,Betano,-0.3223,no
+32,2026-11-29,07:00,Nagoya Grampus,Avispa Fukuoka,JPN_20261129T0600_nagoya-grampus_vs_avispa-fukuoka,0.4864,2.05,bet365,-0.0029,no
+32,2026-11-29,07:00,Kawasaki Frontale,Gamba Osaka,JPN_20261129T0600_kawasaki-frontale_vs_gamba-osaka,0.6144,1.50,bet365,-0.0784,yes
+32,2026-11-29,06:00,Yokohama F. Marinos,FC Tokyo,JPN_20261129T0500_yokohama-f-marinos_vs_fc-tokyo,0.5503,1.78,Betano,-0.0205,no
+32,2026-11-29,06:00,Mito Hollyhock,V-Varen Nagasaki,JPN_20261129T0500_mito_vs_v-varen-nagasaki,0.3587,2.05,Betano,-0.2646,no
+32,2026-11-28,08:00,Kashiwa Reysol,Sanfrecce Hiroshima,JPN_20261128T0700_kashiwa-reysol_vs_sanfrecce-hiroshima,0.5433,1.67,bet365,-0.0928,no
+32,2026-11-28,07:00,Vissel Kobe,JEF United Ichihara-Chiba,JPN_20261128T0600_vissel-kobe_vs_chiba,0.5988,1.62,Betano,-0.0299,no
+32,2026-11-28,07:00,Kashima Antlers,Fagiano Okayama,JPN_20261128T0600_kashima-antlers_vs_okayama,0.4392,1.90,bet365,-0.1655,no

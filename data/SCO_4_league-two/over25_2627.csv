@@ -1,2 +1,6 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+16,2026-12-05,,Stirling,Edinburgh City,SCO_20261205T1500_stirling_vs_edinburgh-city,0.5254,1.57,bet365,-0.1752,no
+16,2026-12-05,,Kelty Hearts,Spartans,SCO_20261205T1500_kelty-hearts_vs_spartans,0.6153,1.60,bet365,-0.0155,yes
+16,2026-12-05,,Forfar Athletic,Clyde,SCO_20261205T1500_forfar-athletic_vs_clyde,0.7080,1.50,bet365,+0.0619,yes
+16,2026-12-05,,Elgin City,Annan,SCO_20261205T1500_elgin-city_vs_annan,0.6534,1.53,bet365,-0.0002,yes
 16,2026-12-04,,Dumbarton,Stranraer,SCO_20261204T1945_dumbarton_vs_stranraer,0.6652,1.53,bet365,+0.0177,yes

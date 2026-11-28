@@ -1,3 +1,16 @@
 gw,date,time,home,away,match_id,event_id,kickoff_utc,n_books,home_odds,draw_odds,away_odds,btts_yes,over25,update_utc
-1,2026-12-04,,Wycombe,MK Dons,ENG_20261204T1945_wycombe_vs_milton-keynes-dons,dUilNvVr,2026-12-04T19:45:00Z,3,2.1,3.6,3.25,1.55,1.67,2026-11-27T14:48:36Z
-1,2026-12-04,,Wimborne,Bradford City,ENG_20261204T1930_wimborne_vs_bradford-city,hY2AUMx9,2026-12-04T19:30:00Z,2,8.5,7.5,1.2,1.95,1.45,2026-11-27T14:48:36Z
+1,2026-12-05,,Barrow,Kidderminster,ENG_20261205T2000_barrow_vs_kidderminster,f7SyT914,2026-12-05T20:00:00Z,2,1.75,3.6,3.7,1.57,1.62,2026-11-28T07:07:27Z
+1,2026-12-05,,Dover,Leicester,ENG_20261205T1715_dover-ath_vs_leicester,YJhH8uGk,2026-12-05T17:15:00Z,2,13.0,6.5,1.17,1.8,1.33,2026-11-28T07:07:27Z
+1,2026-12-05,,York City,Carlisle,ENG_20261205T1500_york-city_vs_carlisle,4fedLIae,2026-12-05T15:00:00Z,2,1.87,3.7,3.2,1.4,1.44,2026-11-28T07:07:27Z
+1,2026-12-05,,Wigan,Barnsley,ENG_20261205T1500_wigan_vs_barnsley,Qo1IS07L,2026-12-05T15:00:00Z,2,2.1,3.5,2.8,1.53,1.62,2026-11-28T07:07:27Z
+1,2026-12-05,,Shrewsbury,Burton,ENG_20261205T1500_shrewsbury_vs_burton,Gdsr7Svo,2026-12-05T15:00:00Z,2,2.05,3.6,3.1,1.62,1.73,2026-11-28T07:07:27Z
+1,2026-12-05,,Rotherham,Bristol Rovers,ENG_20261205T1500_rotherham_vs_bristol-rovers,2XVqRmWG,2026-12-05T15:00:00Z,2,3.0,3.4,2.15,1.62,1.8,2026-11-28T07:07:27Z
+1,2026-12-05,,Rochdale,Newport,ENG_20261205T1500_rochdale_vs_newport,pEjCClHN,2026-12-05T15:00:00Z,2,2.3,3.4,2.8,1.62,1.73,2026-11-28T07:07:27Z
+1,2026-12-05,,Reading,Stockport County,ENG_20261205T1500_reading_vs_stockport-county,bwnlIhmn,2026-12-05T15:00:00Z,2,2.75,3.4,2.35,1.62,1.73,2026-11-28T07:07:27Z
+1,2026-12-05,,Port Vale,Leyton Orient,ENG_20261205T1500_port-vale_vs_leyton-orient,8E6vbk2U,2026-12-05T15:00:00Z,2,2.3,3.5,2.45,1.5,1.57,2026-11-28T07:07:27Z
+1,2026-12-05,,Grimsby,Oldham,ENG_20261205T1500_grimsby_vs_oldham,8jUTUVWi,2026-12-05T15:00:00Z,2,1.8,3.6,4.0,1.62,1.67,2026-11-28T07:07:27Z
+1,2026-12-05,,Exeter,Stevenage,ENG_20261205T1500_exeter_vs_stevenage,r5tjs0ME,2026-12-05T15:00:00Z,2,3.0,3.4,2.1,1.75,1.91,2026-11-28T07:07:27Z
+1,2026-12-05,,Colchester,Mansfield,ENG_20261205T1500_colchester_vs_mansfield,4zkdGWHb,2026-12-05T15:00:00Z,2,3.3,3.4,2.05,1.7,1.91,2026-11-28T07:07:27Z
+1,2026-12-05,,Chesterfield,Cheltenham,ENG_20261205T1500_chesterfield_vs_cheltenham,z18WaBXH,2026-12-05T15:00:00Z,2,1.45,4.0,5.25,1.7,1.62,2026-11-28T07:07:27Z
+1,2026-12-04,,Wycombe,MK Dons,ENG_20261204T1945_wycombe_vs_milton-keynes-dons,dUilNvVr,2026-12-04T19:45:00Z,3,2.05,3.5,2.9,1.55,1.67,2026-11-28T07:07:27Z
+1,2026-12-04,,Wimborne,Bradford City,ENG_20261204T1930_wimborne_vs_bradford-city,hY2AUMx9,2026-12-04T19:30:00Z,2,9.0,5.25,1.22,1.95,1.45,2026-11-28T07:07:27Z

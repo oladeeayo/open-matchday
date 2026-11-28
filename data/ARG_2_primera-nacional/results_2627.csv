@@ -657,3 +657,6 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 41,2026-11-21,21:30,Colón (Santa Fe),Deportivo Morón,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
 41,2026-11-22,01:30,Gimnasia y Esgrima (Jujuy),Deportivo Madryn,1,0,H,,,,,,,,,,,,,,,,,,,,,espn
 42,2026-11-23,01:00,Gimnasia y Tiro (Salta),Tristán Suárez,0,0,D,,,,,,,,,,,,,,,,,,,,,espn
+42,2026-11-27,23:00,Atlanta,Ciudad de Bolívar,0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+42,2026-11-28,01:00,Deportivo Morón,Colón (Santa Fe),0,1,A,,,,,,,,,,,,,,,,,,,,,espn
+42,2026-11-28,01:00,Tristán Suárez,Gimnasia y Tiro (Salta),1,1,D,,,,,,,,,,,,,,,,,,,,,espn

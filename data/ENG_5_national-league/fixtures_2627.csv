@@ -1,5 +1,4 @@
 gw,date,time,home,away
-15,2026-11-27,20:45,Scunthorpe United,Wealdstone
 15,2026-11-28,13:30,AFC Fylde,Aldershot Town
 15,2026-11-28,13:30,Woking,Barrow
 15,2026-11-28,16:00,AFC Hornchurch,Solihull Moors
@@ -69,6 +68,7 @@ gw,date,time,home,away
 20,2026-12-29,20:00,Forest Green Rovers,Solihull Moors
 20,2026-12-29,20:45,Boston United,Harrogate Town
 20,2026-12-29,20:45,Wealdstone,Eastleigh
+20,2027-01-02,14:00,Wealdstone,Aldershot Town
 20,2027-01-02,16:00,AFC Fylde,Boreham Wood
 20,2027-01-02,16:00,AFC Hornchurch,Hartlepool United
 20,2027-01-02,16:00,Altrincham,Yeovil Town
@@ -78,7 +78,6 @@ gw,date,time,home,away
 20,2027-01-02,16:00,Forest Green Rovers,Barrow
 20,2027-01-02,16:00,Sutton United,Harrogate Town
 20,2027-01-02,16:00,Tamworth,Gateshead
-20,2027-01-02,16:00,Wealdstone,Aldershot Town
 20,2027-01-02,16:00,Woking,Scunthorpe United
 20,2027-01-02,16:00,Worthing,Kidderminster Harriers
 21,2027-01-05,20:45,FC Halifax Town,Carlisle United

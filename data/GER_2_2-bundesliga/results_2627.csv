@@ -107,3 +107,5 @@ gw,date,time,home,away,ft_home,ft_away,ft_result,ht_home,ht_away,ht_result,home_
 12,2026-11-22,12:30,1. FC Kaiserslautern,Dynamo Dresden,2,2,D,1,2,A,22,15,6,6,14,8,5,4,,,,,1,0,0,0,"6,14,16,84",openligadb
 12,2026-11-22,12:30,Energie Cottbus,Hertha BSC,0,4,A,0,1,A,11,20,2,7,9,19,3,12,,,,,2,3,1,1,"6,48,89,90",openligadb
 12,2026-11-22,12:30,Karlsruher SC,VfL Osnabrück,0,0,D,0,0,D,25,7,8,2,8,8,9,4,,,,,0,2,0,0,,openligadb
+13,2026-11-27,18:30,1. FC Heidenheim 1846,1. FC Nürnberg,3,1,H,1,1,D,,,,,,,,,,,,,,,,,"13,39,61,65",openligadb
+13,2026-11-27,18:30,VfL Bochum,SV Darmstadt 98,2,0,H,0,0,D,,,,,,,,,,,,,,,,,"81,94",openligadb

@@ -1,3 +1,16 @@
 gw,date,time,home,away,match_id,p_over25,price_over25,bookmaker,ev,clears_bar
+1,2026-12-05,,Barrow,Kidderminster,ENG_20261205T2000_barrow_vs_kidderminster,0.5019,1.62,bet365,-0.1870,no
+1,2026-12-05,,Dover,Leicester,ENG_20261205T1715_dover-ath_vs_leicester,0.7078,1.33,bet365,-0.0586,yes
+1,2026-12-05,,York City,Carlisle,ENG_20261205T1500_york-city_vs_carlisle,0.6649,1.44,bet365,-0.0426,yes
+1,2026-12-05,,Wigan,Barnsley,ENG_20261205T1500_wigan_vs_barnsley,0.6509,1.62,bet365,+0.0545,yes
+1,2026-12-05,,Shrewsbury,Burton,ENG_20261205T1500_shrewsbury_vs_burton,0.6509,1.73,bet365,+0.1261,yes
+1,2026-12-05,,Rotherham,Bristol Rovers,ENG_20261205T1500_rotherham_vs_bristol-rovers,0.6509,1.80,bet365,+0.1717,yes
+1,2026-12-05,,Rochdale,Newport,ENG_20261205T1500_rochdale_vs_newport,0.6509,1.73,bet365,+0.1261,yes
+1,2026-12-05,,Reading,Stockport County,ENG_20261205T1500_reading_vs_stockport-county,0.6856,1.73,bet365,+0.1861,yes
+1,2026-12-05,,Port Vale,Leyton Orient,ENG_20261205T1500_port-vale_vs_leyton-orient,0.7054,1.57,bet365,+0.1074,yes
+1,2026-12-05,,Grimsby,Oldham,ENG_20261205T1500_grimsby_vs_oldham,0.6509,1.67,bet365,+0.0871,yes
+1,2026-12-05,,Exeter,Stevenage,ENG_20261205T1500_exeter_vs_stevenage,0.5498,1.91,bet365,+0.0501,no
+1,2026-12-05,,Colchester,Mansfield,ENG_20261205T1500_colchester_vs_mansfield,0.5498,1.91,bet365,+0.0501,no
+1,2026-12-05,,Chesterfield,Cheltenham,ENG_20261205T1500_chesterfield_vs_cheltenham,0.7242,1.62,bet365,+0.1731,yes
 1,2026-12-04,,Wycombe,MK Dons,ENG_20261204T1945_wycombe_vs_milton-keynes-dons,0.6509,1.67,bet365,+0.0871,yes
 1,2026-12-04,,Wimborne,Bradford City,ENG_20261204T1930_wimborne_vs_bradford-city,0.4890,1.45,Betano,-0.2909,no
